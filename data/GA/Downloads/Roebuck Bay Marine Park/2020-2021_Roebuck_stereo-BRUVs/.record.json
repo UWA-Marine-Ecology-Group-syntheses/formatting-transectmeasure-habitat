@@ -1,0 +1,113 @@
+{
+  "created_at": ["2024-10-09T05:53:53.484291"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [200],
+  "description": [""],
+  "files": [
+    {
+      "id": 14240,
+      "iscompressed": true,
+      "name": "2020-2021_Roebuck_stereo-BRUVs_Count.csv",
+      "user_id": 741
+    },
+    {
+      "id": 14241,
+      "iscompressed": true,
+      "name": "2020-2021_Roebuck_stereo-BRUVs_Length.csv",
+      "user_id": 741
+    },
+    {
+      "id": 14212,
+      "iscompressed": true,
+      "name": "2020-2021_Roebuck_stereo-BRUVs_Metadata.csv",
+      "user_id": 741
+    }
+  ],
+  "id": [1212],
+  "info": [
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 36,
+      "id": 191,
+      "property": {
+        "id": 36,
+        "is_filter": false,
+        "name": "Sampling: Camera type"
+      },
+      "value": "SONY HDRA Full HD Action Cam"
+    },
+    {
+      "campaigninfoprop_id": 38,
+      "id": 196,
+      "property": {
+        "id": 38,
+        "is_filter": false,
+        "name": "Sampling: Camera separation (mm)"
+      },
+      "value": "500"
+    }
+  ],
+  "name": ["2020-2021_Roebuck_stereo-BRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [373],
+    "is_public": [false],
+    "name": ["Roebuck Bay Marine Park"]
+  },
+  "project_id": [373],
+  "user": {
+    "email": ["mike.travers@dpird.wa.gov.au"],
+    "first_name": ["Mike"],
+    "id": [741],
+    "is_admin": [false],
+    "last_name": ["Travers"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

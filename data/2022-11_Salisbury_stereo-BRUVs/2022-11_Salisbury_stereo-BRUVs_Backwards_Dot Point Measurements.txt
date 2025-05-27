@@ -1,0 +1,805 @@
+Dot Point Measurements
+
+Generated: Tuesday 16 May 2023 08:50:17
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site	Habitat	Transect	Analyst	Rugosity	Depth	Collector	Fishing status	Spare	Spare	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	Relief					Radius %
+SAL-BV-001_1_X.JPG	      0		673	458													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						28.8
+SAL-BV-001_1_X.JPG	      0		671	1683													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						100.0
+SAL-BV-001_1_X.JPG	      0		871	284													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						43.6
+SAL-BV-001_1_X.JPG	      0		994	1224													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						55.7
+SAL-BV-001_1_X.JPG	      0		821	337													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						37.7
+SAL-BV-001_1_X.JPG	      0		982	752													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						18.3
+SAL-BV-001_1_X.JPG	      0		731	1067													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						37.3
+SAL-BV-001_1_X.JPG	      0		983	381													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						37.7
+SAL-BV-001_1_X.JPG	      0		759	675													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						5.9
+SAL-BV-001_1_X.JPG	      0		856	456													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						26.1
+SAL-BV-001_1_X.JPG	      0		965	36													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						70.1
+SAL-BV-001_1_X.JPG	      0		698	442													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						29.2
+SAL-BV-001_1_X.JPG	      0		1007	903													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						28.4
+SAL-BV-001_1_X.JPG	      0		962	465													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						29.3
+SAL-BV-001_1_X.JPG	      0		822	1043													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						34.0
+SAL-BV-001_1_X.JPG	      0		655	29													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						70.7
+SAL-BV-001_1_X.JPG	      0		551	451													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						36.9
+SAL-BV-001_1_X.JPG	      0		570	930													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						33.0
+SAL-BV-001_1_X.JPG	      0		940	1270													SAL-BV-001	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						58.7
+SAL-BV-001_1_X.JPG	      0		626	1275													SAL-BV-001	1					Unscorable								60.5
+SAL-BV-013_1_X.JPG	      0		710	1273													SAL-BV-013	1					Cnidaria > Hydroids								37.9
+SAL-BV-013_1_X.JPG	      0		648	872													SAL-BV-013	1					Sponges > Erect forms	Laminar							20.4
+SAL-BV-013_1_X.JPG	      0		673	1237													SAL-BV-013	1					Sponges > Cup-likes	Cups	Cup / goblet						34.6
+SAL-BV-013_1_X.JPG	      0		557	351													SAL-BV-013	1					Unscorable								85.5
+SAL-BV-013_1_X.JPG	      0		726	789													SAL-BV-013	1					Sponges > Cup-likes	Cups	Cup / goblet						25.4
+SAL-BV-013_1_X.JPG	      0		604	469													SAL-BV-013	1					Unscorable								69.2
+SAL-BV-013_1_X.JPG	      0		880	498													SAL-BV-013	1					Cnidaria > Hydroids								64.2
+SAL-BV-013_1_X.JPG	      0		874	637													SAL-BV-013	1					Sponges > Erect forms	Branching							46.9
+SAL-BV-013_1_X.JPG	      0		634	1015													SAL-BV-013	1					Sponges > Massive forms	Simple							17.0
+SAL-BV-013_1_X.JPG	      0		676	475													SAL-BV-013	1					Sponges > Erect forms	Laminar							66.3
+SAL-BV-013_1_X.JPG	      0		1064	700													SAL-BV-013	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.2
+SAL-BV-013_1_X.JPG	      0		865	1457													SAL-BV-013	1					Bryozoa > Hard	Fenestrate							62.4
+SAL-BV-013_1_X.JPG	      0		944	1499													SAL-BV-013	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.3
+SAL-BV-013_1_X.JPG	      0		569	1736													SAL-BV-013	1					Matrix > Mixed Sessile Invertebrate								100.0
+SAL-BV-013_1_X.JPG	      0		1035	1686													SAL-BV-013	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.0
+SAL-BV-013_1_X.JPG	      0		778	1393													SAL-BV-013	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.8
+SAL-BV-013_1_X.JPG	      0		775	1208													SAL-BV-013	1					Cnidaria > Hydroids								29.0
+SAL-BV-013_1_X.JPG	      0		748	536													SAL-BV-013	1					Sponges > Erect forms	Branching							57.6
+SAL-BV-013_1_X.JPG	      0		629	762													SAL-BV-013	1					Sponges > Cup-likes	Cups	Cup / goblet						33.2
+SAL-BV-013_1_X.JPG	      0		850	1070													SAL-BV-013	1					Bryozoa > Hard	Fenestrate							16.0
+SAL-BV-022_1_X.JPG	      0		668	1021													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						23.3
+SAL-BV-022_1_X.JPG	      0		645	162													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.8
+SAL-BV-022_1_X.JPG	      0		996	1572													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.9
+SAL-BV-022_1_X.JPG	      0		672	283													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.3
+SAL-BV-022_1_X.JPG	      0		883	114													SAL-BV-022	1					Sponges > Erect forms	Laminar							87.7
+SAL-BV-022_1_X.JPG	      0		692	560													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.4
+SAL-BV-022_1_X.JPG	      0		707	1049													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.0
+SAL-BV-022_1_X.JPG	      0		743	51													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.3
+SAL-BV-022_1_X.JPG	      0		910	1524													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						79.0
+SAL-BV-022_1_X.JPG	      0		953	600													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.0
+SAL-BV-022_1_X.JPG	      0		993	351													SAL-BV-022	1					Bryozoa > Hard	Fenestrate							64.0
+SAL-BV-022_1_X.JPG	      0		596	1670													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.2
+SAL-BV-022_1_X.JPG	      0		753	1708													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						99.2
+SAL-BV-022_1_X.JPG	      0		878	1558													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.4
+SAL-BV-022_1_X.JPG	      0		929	1703													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-022_1_X.JPG	      0		725	1228													SAL-BV-022	1					Sponges > Erect forms	Branching							43.7
+SAL-BV-022_1_X.JPG	      0		665	405													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.6
+SAL-BV-022_1_X.JPG	      0		737	308													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.4
+SAL-BV-022_1_X.JPG	      0		670	699													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.8
+SAL-BV-022_1_X.JPG	      0		848	599													SAL-BV-022	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.2
+SAL-BV-026_1_X.JPG	      0		967	221													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.2
+SAL-BV-026_1_X.JPG	      0		977	918													SAL-BV-026	1					Sponges > Massive forms	Simple							15.4
+SAL-BV-026_1_X.JPG	      0		1036	823													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.7
+SAL-BV-026_1_X.JPG	      0		895	523													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.9
+SAL-BV-026_1_X.JPG	      0		852	1683													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						87.5
+SAL-BV-026_1_X.JPG	      0		579	683													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.8
+SAL-BV-026_1_X.JPG	      0		1015	500													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						40.0
+SAL-BV-026_1_X.JPG	      0		1009	615													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.3
+SAL-BV-026_1_X.JPG	      0		1000	1395													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.6
+SAL-BV-026_1_X.JPG	      0		827	285													SAL-BV-026	1					Bryozoa > Soft	Dendroid							58.4
+SAL-BV-026_1_X.JPG	      0		678	441													SAL-BV-026	1					Matrix > Mixed Sessile Invertebrate								45.7
+SAL-BV-026_1_X.JPG	      0		1069	564													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.2
+SAL-BV-026_1_X.JPG	      0		918	943													SAL-BV-026	1					Sponges > Cup-likes	Cups	Cup / goblet						12.6
+SAL-BV-026_1_X.JPG	      0		592	1768													SAL-BV-026	1					Matrix > Mixed Sessile Invertebrate								100.0
+SAL-BV-026_1_X.JPG	      0		956	734													SAL-BV-026	1					Matrix > Mixed Sessile Invertebrate								16.1
+SAL-BV-026_1_X.JPG	      0		814	623													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						23.4
+SAL-BV-026_1_X.JPG	      0		619	1706													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.1
+SAL-BV-026_1_X.JPG	      0		769	69													SAL-BV-026	1					Cnidaria > Hydroids								81.4
+SAL-BV-026_1_X.JPG	      0		814	1023													SAL-BV-026	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.0
+SAL-BV-026_1_X.JPG	      0		580	1371													SAL-BV-026	1					Matrix > Mixed Sessile Invertebrate								61.7
+SAL-BV-027_1_X.JPG	      0		767	866													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.8
+SAL-BV-027_1_X.JPG	      0		760	578													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.2
+SAL-BV-027_1_X.JPG	      0		899	1893													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						89.8
+SAL-BV-027_1_X.JPG	      0		1015	860													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						27.2
+SAL-BV-027_1_X.JPG	      0		752	68													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						100.0
+SAL-BV-027_1_X.JPG	      0		910	1594													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.2
+SAL-BV-027_1_X.JPG	      0		847	1711													SAL-BV-027	1					Matrix > Mixed Sessile Invertebrate								70.5
+SAL-BV-027_1_X.JPG	      0		747	591													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.1
+SAL-BV-027_1_X.JPG	      0		566	1911													SAL-BV-027	1					Unscorable								94.8
+SAL-BV-027_1_X.JPG	      0		730	896													SAL-BV-027	1					Matrix > Mixed Sessile Invertebrate								16.5
+SAL-BV-027_1_X.JPG	      0		927	395													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.9
+SAL-BV-027_1_X.JPG	      0		1045	1224													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.0
+SAL-BV-027_1_X.JPG	      0		617	1890													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						91.4
+SAL-BV-027_1_X.JPG	      0		926	1606													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						60.7
+SAL-BV-027_1_X.JPG	      0		553	559													SAL-BV-027	1					Sponges > Erect forms	Branching							55.9
+SAL-BV-027_1_X.JPG	      0		940	1388													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						39.2
+SAL-BV-027_1_X.JPG	      0		1070	646													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.8
+SAL-BV-027_1_X.JPG	      0		688	133													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.9
+SAL-BV-027_1_X.JPG	      0		596	292													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						79.9
+SAL-BV-027_1_X.JPG	      0		958	1513													SAL-BV-027	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						52.1
+SAL-BV-032_1_X.JPG	      0		726	212													SAL-BV-032	1					Matrix > Mixed Sessile Invertebrate								79.2
+SAL-BV-032_1_X.JPG	      0		926	154													SAL-BV-032	1					Matrix > Mixed Sessile Invertebrate								87.1
+SAL-BV-032_1_X.JPG	      0		956	510													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.0
+SAL-BV-032_1_X.JPG	      0		1045	1208													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.7
+SAL-BV-032_1_X.JPG	      0		764	1451													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						73.5
+SAL-BV-032_1_X.JPG	      0		619	1034													SAL-BV-032	1					Unscorable								31.6
+SAL-BV-032_1_X.JPG	      0		875	130													SAL-BV-032	1					Matrix > Mixed Sessile Invertebrate								89.2
+SAL-BV-032_1_X.JPG	      0		692	1661													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-032_1_X.JPG	      0		552	780													SAL-BV-032	1					Unscorable								32.0
+SAL-BV-032_1_X.JPG	      0		721	825													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						10.6
+SAL-BV-032_1_X.JPG	      0		916	74													SAL-BV-032	1					Matrix > Mixed Sessile Invertebrate								96.6
+SAL-BV-032_1_X.JPG	      0		734	1579													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						89.5
+SAL-BV-032_1_X.JPG	      0		991	1466													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						78.7
+SAL-BV-032_1_X.JPG	      0		643	450													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.2
+SAL-BV-032_1_X.JPG	      0		738	833													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						8.3
+SAL-BV-032_1_X.JPG	      0		936	70													SAL-BV-032	1					Matrix > Mixed Sessile Invertebrate								97.5
+SAL-BV-032_1_X.JPG	      0		992	1269													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.1
+SAL-BV-032_1_X.JPG	      0		690	1438													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						73.1
+SAL-BV-032_1_X.JPG	      0		674	1215													SAL-BV-032	1					Matrix > Mixed Sessile Invertebrate								47.1
+SAL-BV-032_1_X.JPG	      0		863	703													SAL-BV-032	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.8
+SAL-BV-035_1_X.JPG	      0		953	392													SAL-BV-035	1					Sponges > Cup-likes	Barrels							38.8
+SAL-BV-035_1_X.JPG	      0		814	1043													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						40.1
+SAL-BV-035_1_X.JPG	      0		707	208													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.8
+SAL-BV-035_1_X.JPG	      0		796	1490													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						92.5
+SAL-BV-035_1_X.JPG	      0		970	1072													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.2
+SAL-BV-035_1_X.JPG	      0		1045	7													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.1
+SAL-BV-035_1_X.JPG	      0		580	31													SAL-BV-035	1					Unscorable								84.1
+SAL-BV-035_1_X.JPG	      0		604	1337													SAL-BV-035	1					Sponges > Cup-likes	Barrels							79.3
+SAL-BV-035_1_X.JPG	      0		712	721													SAL-BV-035	1					Sponges > Cup-likes	Barrels							14.7
+SAL-BV-035_1_X.JPG	      0		919	61													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.7
+SAL-BV-035_1_X.JPG	      0		1042	828													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						28.4
+SAL-BV-035_1_X.JPG	      0		796	59													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.4
+SAL-BV-035_1_X.JPG	      0		968	1544													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-035_1_X.JPG	      0		567	713													SAL-BV-035	1					Unscorable								31.5
+SAL-BV-035_1_X.JPG	      0		891	376													SAL-BV-035	1					Sponges > Cup-likes	Barrels							38.7
+SAL-BV-035_1_X.JPG	      0		984	1483													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.3
+SAL-BV-035_1_X.JPG	      0		988	339													SAL-BV-035	1					Cnidaria > Hydroids								46.1
+SAL-BV-035_1_X.JPG	      0		815	1040													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.7
+SAL-BV-035_1_X.JPG	      0		1015	719													SAL-BV-035	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.2
+SAL-BV-035_1_X.JPG	      0		544	565													SAL-BV-035	1					Unscorable								37.7
+SAL-BV-043_1_X.JPG	      0		695	504													SAL-BV-043	1					Matrix > Mixed Sessile Invertebrate								24.2
+SAL-BV-043_1_X.JPG	      0		671	773													SAL-BV-043	1					Sponges > Erect forms	Laminar							16.4
+SAL-BV-043_1_X.JPG	      0		1041	714													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.0
+SAL-BV-043_1_X.JPG	      0		944	353													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.8
+SAL-BV-043_1_X.JPG	      0		829	404													SAL-BV-043	1					Sponges > Cup-likes	Tubes and chimneys							29.6
+SAL-BV-043_1_X.JPG	      0		759	666													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						9.0
+SAL-BV-043_1_X.JPG	      0		840	1235													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.2
+SAL-BV-043_1_X.JPG	      0		667	1484													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						73.3
+SAL-BV-043_1_X.JPG	      0		1021	120													SAL-BV-043	1					Sponges								58.7
+SAL-BV-043_1_X.JPG	      0		940	228													SAL-BV-043	1					Sponges > Massive forms	Simple							47.0
+SAL-BV-043_1_X.JPG	      0		1042	99													SAL-BV-043	1					Sponges								61.2
+SAL-BV-043_1_X.JPG	      0		877	522													SAL-BV-043	1					Sponges > Erect forms	Laminar							18.9
+SAL-BV-043_1_X.JPG	      0		608	1763													SAL-BV-043	1					Matrix > Mixed Sessile Invertebrate								100.0
+SAL-BV-043_1_X.JPG	      0		676	483													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.9
+SAL-BV-043_1_X.JPG	      0		941	1573													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.4
+SAL-BV-043_1_X.JPG	      0		1008	952													SAL-BV-043	1					Sponges > Massive forms	Simple							26.9
+SAL-BV-043_1_X.JPG	      0		573	1414													SAL-BV-043	1					Unscorable								69.5
+SAL-BV-043_1_X.JPG	      0		1057	272													SAL-BV-043	1					Matrix > Mixed Sessile Invertebrate								46.7
+SAL-BV-043_1_X.JPG	      0		745	318													SAL-BV-043	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.7
+SAL-BV-043_1_X.JPG	      0		828	525													SAL-BV-043	1					Sponges > Erect forms	Laminar							18.3
+SAL-BV-047_1_X.JPG	      0		757	1373													SAL-BV-047	1					Sponges > Erect forms	Laminar							71.0
+SAL-BV-047_1_X.JPG	      0		1025	1396													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.9
+SAL-BV-047_1_X.JPG	      0		683	918													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.0
+SAL-BV-047_1_X.JPG	      0		963	826													SAL-BV-047	1					Sponges > Cup-likes	Cups	Incomplete cup / curled fan						14.1
+SAL-BV-047_1_X.JPG	      0		871	678													SAL-BV-047	1					Sponges > Erect forms	Laminar							15.9
+SAL-BV-047_1_X.JPG	      0		606	1579													SAL-BV-047	1					Unscorable								100.0
+SAL-BV-047_1_X.JPG	      0		714	400													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.7
+SAL-BV-047_1_X.JPG	      0		825	825													SAL-BV-047	1					Sponges > Cup-likes	Cups	Incomplete cup / curled fan						4.0
+SAL-BV-047_1_X.JPG	      0		1036	179													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.4
+SAL-BV-047_1_X.JPG	      0		1000	87													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						90.4
+SAL-BV-047_1_X.JPG	      0		842	593													SAL-BV-047	1					Sponges > Erect forms	Laminar							26.2
+SAL-BV-047_1_X.JPG	      0		876	1191													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.7
+SAL-BV-047_1_X.JPG	      0		795	1181													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.8
+SAL-BV-047_1_X.JPG	      0		1008	723													SAL-BV-047	1					Bryozoa > Soft	Foliaceous							22.0
+SAL-BV-047_1_X.JPG	      0		954	678													SAL-BV-047	1					Bryozoa > Soft	Foliaceous							20.2
+SAL-BV-047_1_X.JPG	      0		682	232													SAL-BV-047	1					Sponges > Massive forms	Simple							73.6
+SAL-BV-047_1_X.JPG	      0		861	1443													SAL-BV-047	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						78.7
+SAL-BV-047_1_X.JPG	      0		995	724													SAL-BV-047	1					Bryozoa > Soft	Foliaceous							20.5
+SAL-BV-047_1_X.JPG	      0		735	476													SAL-BV-047	1					Sponges > Erect forms	Branching							43.0
+SAL-BV-047_1_X.JPG	      0		779	597													SAL-BV-047	1					Sponges > Erect forms	Laminar							27.1
+SAL-BV-049_1_X.JPG	      0		652	29													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-049_1_X.JPG	      0		1049	1879													SAL-BV-049	1					Bryozoa > Soft	Foliaceous							58.9
+SAL-BV-049_1_X.JPG	      0		712	1114													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						11.6
+SAL-BV-049_1_X.JPG	      0		863	1874													SAL-BV-049	1					Bryozoa > Soft	Foliaceous							55.0
+SAL-BV-049_1_X.JPG	      0		710	1431													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.5
+SAL-BV-049_1_X.JPG	      0		806	1818													SAL-BV-049	1					Bryozoa > Hard	Fenestrate							50.1
+SAL-BV-049_1_X.JPG	      0		692	1151													SAL-BV-049	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						10.9
+SAL-BV-049_1_X.JPG	      0		719	122													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						91.7
+SAL-BV-049_1_X.JPG	      0		906	1784													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.0
+SAL-BV-049_1_X.JPG	      0		949	1779													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.4
+SAL-BV-049_1_X.JPG	      0		946	1541													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.5
+SAL-BV-049_1_X.JPG	      0		682	60													SAL-BV-049	1					Bryozoa > Soft	Foliaceous							97.2
+SAL-BV-049_1_X.JPG	      0		853	1114													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						9.6
+SAL-BV-049_1_X.JPG	      0		1030	289													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						79.8
+SAL-BV-049_1_X.JPG	      0		782	326													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.4
+SAL-BV-049_1_X.JPG	      0		562	1697													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.8
+SAL-BV-049_1_X.JPG	      0		916	1498													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.1
+SAL-BV-049_1_X.JPG	      0		565	1411													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.7
+SAL-BV-049_1_X.JPG	      0		923	1899													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.7
+SAL-BV-049_1_X.JPG	      0		773	1538													SAL-BV-049	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.8
+SAL-BV-054_1_X.JPG	      0		835	640													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						15.8
+SAL-BV-054_1_X.JPG	      0		1022	210													SAL-BV-054	1					Sponges > Cup-likes	Barrels							70.3
+SAL-BV-054_1_X.JPG	      0		753	664													SAL-BV-054	1					Matrix > Mixed Sessile Invertebrate								13.7
+SAL-BV-054_1_X.JPG	      0		829	37													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.6
+SAL-BV-054_1_X.JPG	      0		556	355													SAL-BV-054	1					Sponges > Cup-likes	Cups	Incomplete cup / curled fan						56.2
+SAL-BV-054_1_X.JPG	      0		597	833													SAL-BV-054	1					Sponges > Massive forms	Cryptic							24.6
+SAL-BV-054_1_X.JPG	      0		999	1560													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.6
+SAL-BV-054_1_X.JPG	      0		747	1317													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.8
+SAL-BV-054_1_X.JPG	      0		848	40													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.4
+SAL-BV-054_1_X.JPG	      0		919	215													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.3
+SAL-BV-054_1_X.JPG	      0		731	707													SAL-BV-054	1					Matrix > Mixed Sessile Invertebrate								11.0
+SAL-BV-054_1_X.JPG	      0		614	19													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						90.2
+SAL-BV-054_1_X.JPG	      0		572	380													SAL-BV-054	1					Sponges > Cup-likes	Cups	Incomplete cup / curled fan						52.8
+SAL-BV-054_1_X.JPG	      0		779	1371													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.8
+SAL-BV-054_1_X.JPG	      0		560	721													SAL-BV-054	1					Sponges > Massive forms	Cryptic							28.6
+SAL-BV-054_1_X.JPG	      0		912	1483													SAL-BV-054	1					Sponges > Erect forms	Laminar							83.8
+SAL-BV-054_1_X.JPG	      0		935	294													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.9
+SAL-BV-054_1_X.JPG	      0		1013	1455													SAL-BV-054	1					Matrix > Mixed Sessile Invertebrate								83.4
+SAL-BV-054_1_X.JPG	      0		941	1619													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-054_1_X.JPG	      0		835	1515													SAL-BV-054	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.7
+SAL-BV-056_1_X.JPG	      0		953	1763													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						84.3
+SAL-BV-056_1_X.JPG	      0		730	1213													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						28.3
+SAL-BV-056_1_X.JPG	      0		1015	265													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						76.9
+SAL-BV-056_1_X.JPG	      0		1011	41													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-056_1_X.JPG	      0		723	1506													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.9
+SAL-BV-056_1_X.JPG	      0		1049	293													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.0
+SAL-BV-056_1_X.JPG	      0		803	743													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.7
+SAL-BV-056_1_X.JPG	      0		1000	1312													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						39.4
+SAL-BV-056_1_X.JPG	      0		704	1436													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.3
+SAL-BV-056_1_X.JPG	      0		1024	76													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						96.6
+SAL-BV-056_1_X.JPG	      0		1051	1561													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.9
+SAL-BV-056_1_X.JPG	      0		584	393													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						67.2
+SAL-BV-056_1_X.JPG	      0		721	373													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.8
+SAL-BV-056_1_X.JPG	      0		1046	1592													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.9
+SAL-BV-056_1_X.JPG	      0		616	344													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.8
+SAL-BV-056_1_X.JPG	      0		851	1187													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.7
+SAL-BV-056_1_X.JPG	      0		891	1004													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						5.8
+SAL-BV-056_1_X.JPG	      0		546	1045													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.7
+SAL-BV-056_1_X.JPG	      0		1045	1457													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						55.3
+SAL-BV-056_1_X.JPG	      0		564	1845													SAL-BV-056	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						96.9
+SAL-BV-057_1_X.JPG	      0		620	676													SAL-BV-057	1					Unscorable								38.7
+SAL-BV-057_1_X.JPG	      0		731	1255													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.0
+SAL-BV-057_1_X.JPG	      0		617	712													SAL-BV-057	1					Unscorable								35.4
+SAL-BV-057_1_X.JPG	      0		859	705													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.4
+SAL-BV-057_1_X.JPG	      0		865	245													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						83.2
+SAL-BV-057_1_X.JPG	      0		787	527													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.1
+SAL-BV-057_1_X.JPG	      0		684	565													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.5
+SAL-BV-057_1_X.JPG	      0		754	893													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						9.2
+SAL-BV-057_1_X.JPG	      0		866	1663													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						81.8
+SAL-BV-057_1_X.JPG	      0		974	1074													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						24.5
+SAL-BV-057_1_X.JPG	      0		754	709													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.5
+SAL-BV-057_1_X.JPG	      0		1043	1503													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						69.2
+SAL-BV-057_1_X.JPG	      0		1031	1537													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						72.2
+SAL-BV-057_1_X.JPG	      0		671	1707													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						87.8
+SAL-BV-057_1_X.JPG	      0		849	323													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.0
+SAL-BV-057_1_X.JPG	      0		625	1806													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-057_1_X.JPG	      0		572	1489													SAL-BV-057	1					Unscorable								66.6
+SAL-BV-057_1_X.JPG	      0		893	961													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						11.2
+SAL-BV-057_1_X.JPG	      0		891	379													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.2
+SAL-BV-057_1_X.JPG	      0		834	467													SAL-BV-057	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.3
+SAL-BV-059_1_X.JPG	      0		1050	96													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.1
+SAL-BV-059_1_X.JPG	      0		978	1039													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						16.1
+SAL-BV-059_1_X.JPG	      0		813	959													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						9.6
+SAL-BV-059_1_X.JPG	      0		572	94													SAL-BV-059	1					Unscorable								93.1
+SAL-BV-059_1_X.JPG	      0		914	1321													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						26.1
+SAL-BV-059_1_X.JPG	      0		688	1492													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.7
+SAL-BV-059_1_X.JPG	      0		736	1683													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.5
+SAL-BV-059_1_X.JPG	      0		567	1512													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.7
+SAL-BV-059_1_X.JPG	      0		783	1201													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						13.2
+SAL-BV-059_1_X.JPG	      0		766	1736													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						63.1
+SAL-BV-059_1_X.JPG	      0		679	1415													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.1
+SAL-BV-059_1_X.JPG	      0		767	1146													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						8.7
+SAL-BV-059_1_X.JPG	      0		789	579													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						45.1
+SAL-BV-059_1_X.JPG	      0		895	934													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						14.5
+SAL-BV-059_1_X.JPG	      0		872	1079													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						6.3
+SAL-BV-059_1_X.JPG	      0		999	1053													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.9
+SAL-BV-059_1_X.JPG	      0		653	1822													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						72.5
+SAL-BV-059_1_X.JPG	      0		929	997													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						12.9
+SAL-BV-059_1_X.JPG	      0		1062	22													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						100.0
+SAL-BV-059_1_X.JPG	      0		630	1055													SAL-BV-059	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						16.5
+SAL-BV-063-1_X.JPG	      0		893	1006													SAL-BV-063						Sponges > Massive forms	Simple							15.7
+SAL-BV-063-1_X.JPG	      0		583	1213													SAL-BV-063						Unscorable								35.6
+SAL-BV-063-1_X.JPG	      0		960	1221													SAL-BV-063						Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.3
+SAL-BV-063-1_X.JPG	      0		965	1609													SAL-BV-063						Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						76.9
+SAL-BV-063-1_X.JPG	      0		906	408													SAL-BV-063						Bryozoa > Soft	Foliaceous							62.5
+SAL-BV-063-1_X.JPG	      0		797	1716													SAL-BV-063						Matrix > Mixed Sessile Invertebrate								85.6
+SAL-BV-063-1_X.JPG	      0		750	475													SAL-BV-063						Matrix > Mixed Sessile Invertebrate								53.0
+SAL-BV-063-1_X.JPG	      0		768	233													SAL-BV-063						Cnidaria > Corals	Black & Octocorals	Branching (3D)						80.1
+SAL-BV-063-1_X.JPG	      0		843	1165													SAL-BV-063						Sponges > Massive forms	Simple							25.5
+SAL-BV-063-1_X.JPG	      0		891	513													SAL-BV-063						Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.7
+SAL-BV-063-1_X.JPG	      0		601	1648													SAL-BV-063						Unscorable								80.0
+SAL-BV-063-1_X.JPG	      0		925	587													SAL-BV-063						Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.3
+SAL-BV-063-1_X.JPG	      0		884	952													SAL-BV-063						Sponges > Massive forms	Simple							13.5
+SAL-BV-063-1_X.JPG	      0		598	1250													SAL-BV-063						Unscorable								38.3
+SAL-BV-063-1_X.JPG	      0		776	606													SAL-BV-063						Matrix > Mixed Sessile Invertebrate								38.4
+SAL-BV-063-1_X.JPG	      0		637	1736													SAL-BV-063						Matrix > Mixed Sessile Invertebrate								88.8
+SAL-BV-063-1_X.JPG	      0		585	504													SAL-BV-063						Unscorable								53.7
+SAL-BV-063-1_X.JPG	      0		555	1158													SAL-BV-063						Unscorable								32.9
+SAL-BV-063-1_X.JPG	      0		742	934													SAL-BV-063						Matrix > Mixed Sessile Invertebrate								3.0
+SAL-BV-063-1_X.JPG	      0		616	66													SAL-BV-063						Unscorable								100.0
+SAL-BV-068_1_X.JPG	      0		767	1301													SAL-BV-068	1					Matrix > Mixed Sessile Invertebrate								16.8
+SAL-BV-068_1_X.JPG	      0		926	485													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.0
+SAL-BV-068_1_X.JPG	      0		949	1005													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.7
+SAL-BV-068_1_X.JPG	      0		620	1450													SAL-BV-068	1					Cnidaria > Hydroids								36.6
+SAL-BV-068_1_X.JPG	      0		930	1618													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.6
+SAL-BV-068_1_X.JPG	      0		650	1709													SAL-BV-068	1					Cnidaria > Hydroids								58.3
+SAL-BV-068_1_X.JPG	      0		853	1187													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						4.9
+SAL-BV-068_1_X.JPG	      0		737	1464													SAL-BV-068	1					Sponges > Massive forms	Simple							32.9
+SAL-BV-068_1_X.JPG	      0		798	1002													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						14.2
+SAL-BV-068_1_X.JPG	      0		909	1696													SAL-BV-068	1					Echinoderms > Sea stars								54.8
+SAL-BV-068_1_X.JPG	      0		1031	284													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.3
+SAL-BV-068_1_X.JPG	      0		620	825													SAL-BV-068	1					Matrix > Mixed Sessile Invertebrate								37.4
+SAL-BV-068_1_X.JPG	      0		662	1055													SAL-BV-068	1					Sponges > Erect forms	Branching							18.7
+SAL-BV-068_1_X.JPG	      0		708	741													SAL-BV-068	1					Cnidaria > Hydroids								41.1
+SAL-BV-068_1_X.JPG	      0		943	1728													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.5
+SAL-BV-068_1_X.JPG	      0		654	1241													SAL-BV-068	1					Cnidaria > Hydroids								19.9
+SAL-BV-068_1_X.JPG	      0		1013	996													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.8
+SAL-BV-068_1_X.JPG	      0		965	1076													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						14.7
+SAL-BV-068_1_X.JPG	      0		846	122													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-068_1_X.JPG	      0		1043	1857													SAL-BV-068	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						73.1
+SAL-BV-080_1_X.JPG	      0		816	352													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.0
+SAL-BV-080_1_X.JPG	      0		734	547													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						13.7
+SAL-BV-080_1_X.JPG	      0		899	770													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						10.8
+SAL-BV-080_1_X.JPG	      0		733	1167													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						43.1
+SAL-BV-080_1_X.JPG	      0		654	937													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.4
+SAL-BV-080_1_X.JPG	      0		968	868													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.3
+SAL-BV-080_1_X.JPG	      0		877	280													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.8
+SAL-BV-080_1_X.JPG	      0		673	129													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.1
+SAL-BV-080_1_X.JPG	      0		605	470													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.1
+SAL-BV-080_1_X.JPG	      0		877	1767													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						95.5
+SAL-BV-080_1_X.JPG	      0		1016	843													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						22.8
+SAL-BV-080_1_X.JPG	      0		742	742													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						8.2
+SAL-BV-080_1_X.JPG	      0		854	763													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						8.0
+SAL-BV-080_1_X.JPG	      0		757	168													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						45.5
+SAL-BV-080_1_X.JPG	      0		785	866													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						16.3
+SAL-BV-080_1_X.JPG	      0		1010	79													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						55.8
+SAL-BV-080_1_X.JPG	      0		768	1819													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-080_1_X.JPG	      0		617	102													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.8
+SAL-BV-080_1_X.JPG	      0		934	171													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						46.2
+SAL-BV-080_1_X.JPG	      0		931	803													SAL-BV-080	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						14.9
+SAL-BV-083_1_X.JPG	      0		708	940													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						23.3
+SAL-BV-083_1_X.JPG	      0		1006	898													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.1
+SAL-BV-083_1_X.JPG	      0		804	664													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						55.3
+SAL-BV-083_1_X.JPG	      0		738	1863													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-083_1_X.JPG	      0		704	680													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.8
+SAL-BV-083_1_X.JPG	      0		705	1842													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.8
+SAL-BV-083_1_X.JPG	      0		1035	546													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						76.5
+SAL-BV-083_1_X.JPG	      0		770	1843													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.2
+SAL-BV-083_1_X.JPG	      0		801	789													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.2
+SAL-BV-083_1_X.JPG	      0		890	400													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						90.1
+SAL-BV-083_1_X.JPG	      0		1012	1193													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.7
+SAL-BV-083_1_X.JPG	      0		862	1598													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.8
+SAL-BV-083_1_X.JPG	      0		935	906													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.3
+SAL-BV-083_1_X.JPG	      0		825	1175													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						11.0
+SAL-BV-083_1_X.JPG	      0		642	1841													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						99.0
+SAL-BV-083_1_X.JPG	      0		878	437													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.2
+SAL-BV-083_1_X.JPG	      0		879	632													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						60.2
+SAL-BV-083_1_X.JPG	      0		553	1231													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.2
+SAL-BV-083_1_X.JPG	      0		597	1213													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.1
+SAL-BV-083_1_X.JPG	      0		767	1149													SAL-BV-083	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						8.9
+SAL-BV-091_1_X.JPG	      0		780	784													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						6.0
+SAL-BV-091_1_X.JPG	      0		995	1441													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						64.3
+SAL-BV-091_1_X.JPG	      0		1024	331													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						43.1
+SAL-BV-091_1_X.JPG	      0		693	936													SAL-BV-091	1					Macroalgae > Encrusting	Red							21.2
+SAL-BV-091_1_X.JPG	      0		713	125													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						59.8
+SAL-BV-091_1_X.JPG	      0		906	1844													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						100.0
+SAL-BV-091_1_X.JPG	      0		856	789													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						2.9
+SAL-BV-091_1_X.JPG	      0		692	731													SAL-BV-091	1					Macroalgae > Encrusting	Red							14.0
+SAL-BV-091_1_X.JPG	      0		815	920													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						14.8
+SAL-BV-091_1_X.JPG	      0		836	91													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						61.8
+SAL-BV-091_1_X.JPG	      0		923	405													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						33.7
+SAL-BV-091_1_X.JPG	      0		937	431													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						31.7
+SAL-BV-091_1_X.JPG	      0		968	407													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						34.7
+SAL-BV-091_1_X.JPG	      0		759	654													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						12.5
+SAL-BV-091_1_X.JPG	      0		728	1525													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						71.2
+SAL-BV-091_1_X.JPG	      0		993	1053													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						30.3
+SAL-BV-091_1_X.JPG	      0		967	382													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						36.8
+SAL-BV-091_1_X.JPG	      0		625	1421													SAL-BV-091	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						64.0
+SAL-BV-091_1_X.JPG	      0		749	444													SAL-BV-091	1					Macroalgae > Encrusting	Red							30.5
+SAL-BV-091_1_X.JPG	      0		867	512													SAL-BV-091	1					Macroalgae > Encrusting	Red							23.1
+SAL-BV-C01_1_X.JPG	      0		894	93													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-C01_1_X.JPG	      0		862	1074													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						7.4
+SAL-BV-C01_1_X.JPG	      0		876	1648													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.9
+SAL-BV-C01_1_X.JPG	      0		853	212													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						88.1
+SAL-BV-C01_1_X.JPG	      0		678	160													SAL-BV-C01	1					Sponges > Erect forms	Branching							93.8
+SAL-BV-C01_1_X.JPG	      0		692	1775													SAL-BV-C01	1					Bryozoa > Soft	Foliaceous							64.6
+SAL-BV-C01_1_X.JPG	      0		687	1446													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.6
+SAL-BV-C01_1_X.JPG	      0		660	1438													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.9
+SAL-BV-C01_1_X.JPG	      0		656	1120													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						14.1
+SAL-BV-C01_1_X.JPG	      0		750	1018													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						11.0
+SAL-BV-C01_1_X.JPG	      0		866	1114													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						6.3
+SAL-BV-C01_1_X.JPG	      0		641	942													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						23.2
+SAL-BV-C01_1_X.JPG	      0		924	1646													SAL-BV-C01	1					Bryozoa > Soft	Foliaceous							52.6
+SAL-BV-C01_1_X.JPG	      0		696	1041													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						12.7
+SAL-BV-C01_1_X.JPG	      0		927	1176													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						13.4
+SAL-BV-C01_1_X.JPG	      0		890	645													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.8
+SAL-BV-C01_1_X.JPG	      0		961	1547													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.4
+SAL-BV-C01_1_X.JPG	      0		659	1375													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						28.5
+SAL-BV-C01_1_X.JPG	      0		1006	1172													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.5
+SAL-BV-C01_1_X.JPG	      0		850	1732													SAL-BV-C01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.7
+SAL-BV-C02_1_X.JPG	      0		928	215													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						60.9
+SAL-BV-C02_1_X.JPG	      0		617	220													SAL-BV-C02	1					Unscorable								60.4
+SAL-BV-C02_1_X.JPG	      0		1060	620													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						34.3
+SAL-BV-C02_1_X.JPG	      0		591	1852													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						96.6
+SAL-BV-C02_1_X.JPG	      0		892	102													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.6
+SAL-BV-C02_1_X.JPG	      0		901	841													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						12.2
+SAL-BV-C02_1_X.JPG	      0		655	1174													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.1
+SAL-BV-C02_1_X.JPG	      0		553	1161													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.3
+SAL-BV-C02_1_X.JPG	      0		650	1828													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.5
+SAL-BV-C02_1_X.JPG	      0		644	57													SAL-BV-C02	1					Unscorable								74.8
+SAL-BV-C02_1_X.JPG	      0		963	421													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						43.6
+SAL-BV-C02_1_X.JPG	      0		824	1903													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						100.0
+SAL-BV-C02_1_X.JPG	      0		698	486													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.2
+SAL-BV-C02_1_X.JPG	      0		560	844													SAL-BV-C02	1					Bryozoa > Soft	Foliaceous							19.9
+SAL-BV-C02_1_X.JPG	      0		957	249													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.5
+SAL-BV-C02_1_X.JPG	      0		1017	1559													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						71.4
+SAL-BV-C02_1_X.JPG	      0		582	343													SAL-BV-C02	1					Unscorable								50.3
+SAL-BV-C02_1_X.JPG	      0		979	1292													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						46.7
+SAL-BV-C02_1_X.JPG	      0		600	1123													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.9
+SAL-BV-C02_1_X.JPG	      0		745	553													SAL-BV-C02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.3
+SAL-BV-C03_1_X.JPG	      0		1065	151													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.4
+SAL-BV-C03_1_X.JPG	      0		1033	55													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						77.3
+SAL-BV-C03_1_X.JPG	      0		909	1370													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.3
+SAL-BV-C03_1_X.JPG	      0		700	1603													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.3
+SAL-BV-C03_1_X.JPG	      0		1017	684													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.9
+SAL-BV-C03_1_X.JPG	      0		562	1067													SAL-BV-C03	1					Unscorable								34.0
+SAL-BV-C03_1_X.JPG	      0		881	1496													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.0
+SAL-BV-C03_1_X.JPG	      0		598	713													SAL-BV-C03	1					Unscorable								25.6
+SAL-BV-C03_1_X.JPG	      0		778	87													SAL-BV-C03	1					Unscorable								72.1
+SAL-BV-C03_1_X.JPG	      0		1025	360													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.3
+SAL-BV-C03_1_X.JPG	      0		889	122													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.8
+SAL-BV-C03_1_X.JPG	      0		920	376													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						45.1
+SAL-BV-C03_1_X.JPG	      0		783	1883													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-C03_1_X.JPG	      0		612	814													SAL-BV-C03	1					Unscorable								21.5
+SAL-BV-C03_1_X.JPG	      0		805	688													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						14.7
+SAL-BV-C03_1_X.JPG	      0		991	1042													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.5
+SAL-BV-C03_1_X.JPG	      0		791	1247													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.3
+SAL-BV-C03_1_X.JPG	      0		618	1362													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.2
+SAL-BV-C03_1_X.JPG	      0		862	230													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.3
+SAL-BV-C03_1_X.JPG	      0		855	1426													SAL-BV-C03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.2
+SAL-BV-C04_1_X.JPG	      0		776	1138													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						15.8
+SAL-BV-C04_1_X.JPG	      0		690	758													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.0
+SAL-BV-C04_1_X.JPG	      0		985	374													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.3
+SAL-BV-C04_1_X.JPG	      0		554	8													SAL-BV-C04	1					Unscorable								100.0
+SAL-BV-C04_1_X.JPG	      0		825	958													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						5.4
+SAL-BV-C04_1_X.JPG	      0		1068	626													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.1
+SAL-BV-C04_1_X.JPG	      0		711	422													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.4
+SAL-BV-C04_1_X.JPG	      0		1073	1547													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.2
+SAL-BV-C04_1_X.JPG	      0		559	1697													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.1
+SAL-BV-C04_1_X.JPG	      0		632	158													SAL-BV-C04	1					Matrix > Mixed Sessile Invertebrate								83.7
+SAL-BV-C04_1_X.JPG	      0		787	1173													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.3
+SAL-BV-C04_1_X.JPG	      0		547	1863													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						91.5
+SAL-BV-C04_1_X.JPG	      0		768	805													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.6
+SAL-BV-C04_1_X.JPG	      0		876	1553													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.4
+SAL-BV-C04_1_X.JPG	      0		566	399													SAL-BV-C04	1					Matrix > Mixed Sessile Invertebrate								62.0
+SAL-BV-C04_1_X.JPG	      0		672	563													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						43.1
+SAL-BV-C04_1_X.JPG	      0		831	1633													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.7
+SAL-BV-C04_1_X.JPG	      0		886	1368													SAL-BV-C04	1					Bryozoa > Soft	Foliaceous							40.4
+SAL-BV-C04_1_X.JPG	      0		796	973													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						2.1
+SAL-BV-C04_1_X.JPG	      0		919	1588													SAL-BV-C04	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						62.7
+SAL-BV-C05_1_X.JPG	      0		1012	1140													SAL-BV-C05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.0
+SAL-BV-C05_1_X.JPG	      0		917	253													SAL-BV-C05	1					Unscorable								100.0
+SAL-BV-C05_1_X.JPG	      0		614	1077													SAL-BV-C05	1					Unscorable								25.4
+SAL-BV-C05_1_X.JPG	      0		807	1573													SAL-BV-C05	1					Unscorable								39.2
+SAL-BV-C05_1_X.JPG	      0		555	1723													SAL-BV-C05	1					Unscorable								61.6
+SAL-BV-C05_1_X.JPG	      0		706	519													SAL-BV-C05	1					Unscorable								72.6
+SAL-BV-C05_1_X.JPG	      0		1011	908													SAL-BV-C05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.7
+SAL-BV-C05_1_X.JPG	      0		648	427													SAL-BV-C05	1					Unscorable								83.3
+SAL-BV-C05_1_X.JPG	      0		646	1315													SAL-BV-C05	1					Unscorable								22.1
+SAL-BV-C05_1_X.JPG	      0		1044	1062													SAL-BV-C05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.5
+SAL-BV-C05_1_X.JPG	      0		888	1001													SAL-BV-C05	1					Unscorable								22.1
+SAL-BV-C05_1_X.JPG	      0		759	1634													SAL-BV-C05	1					Unscorable								46.0
+SAL-BV-C05_1_X.JPG	      0		1033	1868													SAL-BV-C05	1					Sponges > Erect forms	Branching							73.5
+SAL-BV-C05_1_X.JPG	      0		624	1137													SAL-BV-C05	1					Unscorable								21.8
+SAL-BV-C05_1_X.JPG	      0		652	1771													SAL-BV-C05	1					Unscorable								62.5
+SAL-BV-C05_1_X.JPG	      0		736	385													SAL-BV-C05	1					Unscorable								86.1
+SAL-BV-C05_1_X.JPG	      0		996	1839													SAL-BV-C05	1					Sponges > Erect forms	Branching							69.5
+SAL-BV-C05_1_X.JPG	      0		951	1498													SAL-BV-C05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.0
+SAL-BV-C05_1_X.JPG	      0		935	1552													SAL-BV-C05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.8
+SAL-BV-C05_1_X.JPG	      0		899	1331													SAL-BV-C05	1					Unscorable								15.9
+SAL-BV-C06_1_X.JPG	      0		649	1003													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.0
+SAL-BV-C06_1_X.JPG	      0		622	435													SAL-BV-C06	1					Unscorable								55.5
+SAL-BV-C06_1_X.JPG	      0		812	653													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.6
+SAL-BV-C06_1_X.JPG	      0		621	788													SAL-BV-C06	1					Unscorable								22.3
+SAL-BV-C06_1_X.JPG	      0		1042	143													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						90.3
+SAL-BV-C06_1_X.JPG	      0		845	1459													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.6
+SAL-BV-C06_1_X.JPG	      0		1070	393													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.5
+SAL-BV-C06_1_X.JPG	      0		720	885													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						7.7
+SAL-BV-C06_1_X.JPG	      0		597	36													SAL-BV-C06	1					Unscorable								100.0
+SAL-BV-C06_1_X.JPG	      0		642	1551													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						76.6
+SAL-BV-C06_1_X.JPG	      0		1065	1662													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.0
+SAL-BV-C06_1_X.JPG	      0		984	1693													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						93.8
+SAL-BV-C06_1_X.JPG	      0		631	702													SAL-BV-C06	1					Unscorable								28.1
+SAL-BV-C06_1_X.JPG	      0		719	847													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						9.4
+SAL-BV-C06_1_X.JPG	      0		556	1447													SAL-BV-C06	1					Unscorable								68.3
+SAL-BV-C06_1_X.JPG	      0		667	1143													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.6
+SAL-BV-C06_1_X.JPG	      0		961	534													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						45.5
+SAL-BV-C06_1_X.JPG	      0		650	595													SAL-BV-C06	1					Unscorable								37.4
+SAL-BV-C06_1_X.JPG	      0		976	1504													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						72.7
+SAL-BV-C06_1_X.JPG	      0		911	400													SAL-BV-C06	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.9
+SAL-BV-C07_1_X.JPG	      0		942	781													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								38.5
+SAL-BV-C07_1_X.JPG	      0		804	1491													SAL-BV-C07	1					Sponges > Erect forms	Laminar							31.8
+SAL-BV-C07_1_X.JPG	      0		912	1012													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								18.8
+SAL-BV-C07_1_X.JPG	      0		843	888													SAL-BV-C07	1					Sponges > Erect forms	Branching							25.8
+SAL-BV-C07_1_X.JPG	      0		578	1677													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								52.3
+SAL-BV-C07_1_X.JPG	      0		603	1301													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								20.9
+SAL-BV-C07_1_X.JPG	      0		717	1902													SAL-BV-C07	1					Sponges > Erect forms	Laminar							70.3
+SAL-BV-C07_1_X.JPG	      0		666	596													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								53.2
+SAL-BV-C07_1_X.JPG	      0		638	1673													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								50.2
+SAL-BV-C07_1_X.JPG	      0		589	1313													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								22.7
+SAL-BV-C07_1_X.JPG	      0		783	87													SAL-BV-C07	1					Sponges > Cup-likes	Cups	Incomplete cup / curled fan						100.0
+SAL-BV-C07_1_X.JPG	      0		554	1128													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								20.4
+SAL-BV-C07_1_X.JPG	      0		693	1681													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								49.9
+SAL-BV-C07_1_X.JPG	      0		809	615													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								50.6
+SAL-BV-C07_1_X.JPG	      0		956	808													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								36.7
+SAL-BV-C07_1_X.JPG	      0		680	671													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								46.1
+SAL-BV-C07_1_X.JPG	      0		962	962													SAL-BV-C07	1					Sponges > Erect forms	Branching							25.5
+SAL-BV-C07_1_X.JPG	      0		882	1119													SAL-BV-C07	1					Matrix > Mixed Sessile Invertebrate								11.0
+SAL-BV-C07_1_X.JPG	      0		773	1518													SAL-BV-C07	1					Sponges > Erect forms	Laminar							34.1
+SAL-BV-C07_1_X.JPG	      0		1026	1852													SAL-BV-C07	1					Sponges > Erect forms	Laminar							69.7
+SAL-BV-C08_1_X.JPG	      0		658	399													SAL-BV-C08	1					Unscorable								50.2
+SAL-BV-C08_1_X.JPG	      0		1051	280													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.5
+SAL-BV-C08_1_X.JPG	      0		817	1603													SAL-BV-C08	1					Bryozoa > Soft	Foliaceous							69.5
+SAL-BV-C08_1_X.JPG	      0		732	396													SAL-BV-C08	1					Sponges > Massive forms	Simple							48.9
+SAL-BV-C08_1_X.JPG	      0		943	1018													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						18.4
+SAL-BV-C08_1_X.JPG	      0		1015	897													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.7
+SAL-BV-C08_1_X.JPG	      0		739	595													SAL-BV-C08	1					Bryozoa > Soft	Foliaceous							29.6
+SAL-BV-C08_1_X.JPG	      0		642	1100													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.7
+SAL-BV-C08_1_X.JPG	      0		560	23													SAL-BV-C08	1					Unscorable								88.1
+SAL-BV-C08_1_X.JPG	      0		988	992													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.6
+SAL-BV-C08_1_X.JPG	      0		709	1462													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.5
+SAL-BV-C08_1_X.JPG	      0		942	402													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.7
+SAL-BV-C08_1_X.JPG	      0		947	659													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.8
+SAL-BV-C08_1_X.JPG	      0		628	1653													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						76.3
+SAL-BV-C08_1_X.JPG	      0		962	1755													SAL-BV-C08	1					Bryozoa > Soft	Dendroid							85.8
+SAL-BV-C08_1_X.JPG	      0		949	1904													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-C08_1_X.JPG	      0		677	431													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.7
+SAL-BV-C08_1_X.JPG	      0		644	564													SAL-BV-C08	1					Unscorable								35.6
+SAL-BV-C08_1_X.JPG	      0		625	1382													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.0
+SAL-BV-C08_1_X.JPG	      0		827	319													SAL-BV-C08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.0
+SAL-BV-C09_1_X.JPG	      0		724	1383													SAL-BV-C09	1					Sponges > Massive forms	Balls							39.1
+SAL-BV-C09_1_X.JPG	      0		1065	438													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.8
+SAL-BV-C09_1_X.JPG	      0		883	108													SAL-BV-C09	1					Bryozoa > Soft	Foliaceous							96.6
+SAL-BV-C09_1_X.JPG	      0		694	1002													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						7.4
+SAL-BV-C09_1_X.JPG	      0		719	553													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.9
+SAL-BV-C09_1_X.JPG	      0		656	1437													SAL-BV-C09	1					Matrix > Mixed Sessile Invertebrate								46.0
+SAL-BV-C09_1_X.JPG	      0		732	68													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-C09_1_X.JPG	      0		867	551													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.2
+SAL-BV-C09_1_X.JPG	      0		617	727													SAL-BV-C09	1					Unscorable								34.0
+SAL-BV-C09_1_X.JPG	      0		664	526													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.7
+SAL-BV-C09_1_X.JPG	      0		812	1834													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.7
+SAL-BV-C09_1_X.JPG	      0		570	1088													SAL-BV-C09	1					Unscorable								21.7
+SAL-BV-C09_1_X.JPG	      0		816	1371													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.0
+SAL-BV-C09_1_X.JPG	      0		622	1567													SAL-BV-C09	1					Unscorable								60.2
+SAL-BV-C09_1_X.JPG	      0		899	1677													SAL-BV-C09	1					Sponges > Erect forms	Simple							71.4
+SAL-BV-C09_1_X.JPG	      0		983	891													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.7
+SAL-BV-C09_1_X.JPG	      0		757	309													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.6
+SAL-BV-C09_1_X.JPG	      0		630	1777													SAL-BV-C09	1					Matrix > Mixed Sessile Invertebrate								81.6
+SAL-BV-C09_1_X.JPG	      0		662	1485													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.8
+SAL-BV-C09_1_X.JPG	      0		880	1505													SAL-BV-C09	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.2
+SAL-BV-C10_1_X.JPG	      0		781	419													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								46.6
+SAL-BV-C10_1_X.JPG	      0		1031	389													SAL-BV-C10	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)						52.9
+SAL-BV-C10_1_X.JPG	      0		1029	771													SAL-BV-C10	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)						20.6
+SAL-BV-C10_1_X.JPG	      0		874	766													SAL-BV-C10	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)						9.0
+SAL-BV-C10_1_X.JPG	      0		858	329													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								55.8
+SAL-BV-C10_1_X.JPG	      0		554	873													SAL-BV-C10	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)						32.3
+SAL-BV-C10_1_X.JPG	      0		810	1336													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								52.9
+SAL-BV-C10_1_X.JPG	      0		799	389													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								49.6
+SAL-BV-C10_1_X.JPG	      0		979	1582													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								80.4
+SAL-BV-C10_1_X.JPG	      0		930	970													SAL-BV-C10	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)						15.7
+SAL-BV-C10_1_X.JPG	      0		861	1664													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								88.0
+SAL-BV-C10_1_X.JPG	      0		880	1380													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								57.6
+SAL-BV-C10_1_X.JPG	      0		552	1725													SAL-BV-C10	1					Sponges > Crusts	Encrusting							100.0
+SAL-BV-C10_1_X.JPG	      0		892	1116													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								29.3
+SAL-BV-C10_1_X.JPG	      0		838	155													SAL-BV-C10	1					Cnidaria > Hydroids								74.5
+SAL-BV-C10_1_X.JPG	      0		849	641													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								22.2
+SAL-BV-C10_1_X.JPG	      0		1059	43													SAL-BV-C10	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Fine sand (no shell fragments)						89.3
+SAL-BV-C10_1_X.JPG	      0		928	692													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								18.5
+SAL-BV-C10_1_X.JPG	      0		833	1463													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								66.4
+SAL-BV-C10_1_X.JPG	      0		718	227													SAL-BV-C10	1					Matrix > Mixed Sessile Invertebrate								68.3
+SAL-BV-C11_1_X.JPG	      0		788	676													SAL-BV-C11	1					Bryozoa > Soft	Foliaceous							27.5
+SAL-BV-C11_1_X.JPG	      0		621	1195													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.6
+SAL-BV-C11_1_X.JPG	      0		926	1092													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						24.9
+SAL-BV-C11_1_X.JPG	      0		559	613													SAL-BV-C11	1					Matrix > Mixed Sessile Invertebrate								45.2
+SAL-BV-C11_1_X.JPG	      0		821	1635													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						84.1
+SAL-BV-C11_1_X.JPG	      0		860	1049													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.0
+SAL-BV-C11_1_X.JPG	      0		818	1772													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-C11_1_X.JPG	      0		881	877													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						9.1
+SAL-BV-C11_1_X.JPG	      0		967	306													SAL-BV-C11	1					Sponges > Erect forms	Laminar							72.6
+SAL-BV-C11_1_X.JPG	      0		782	1165													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.6
+SAL-BV-C11_1_X.JPG	      0		589	444													SAL-BV-C11	1					Matrix > Mixed Sessile Invertebrate								60.1
+SAL-BV-C11_1_X.JPG	      0		936	81													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.6
+SAL-BV-C11_1_X.JPG	      0		550	146													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.0
+SAL-BV-C11_1_X.JPG	      0		651	235													SAL-BV-C11	1					Sponges > Cup-likes	Cups	Incomplete cup / curled fan						80.7
+SAL-BV-C11_1_X.JPG	      0		992	1288													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.6
+SAL-BV-C11_1_X.JPG	      0		836	1756													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						98.3
+SAL-BV-C11_1_X.JPG	      0		874	1371													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.9
+SAL-BV-C11_1_X.JPG	      0		1071	768													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.7
+SAL-BV-C11_1_X.JPG	      0		611	1278													SAL-BV-C11	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						48.5
+SAL-BV-C11_1_X.JPG	      0		1060	478													SAL-BV-C11	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.1
+SAL-BV-C12_1_X.JPG	      0		652	1742													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						83.8
+SAL-BV-C12_1_X.JPG	      0		802	550													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.9
+SAL-BV-C12_1_X.JPG	      0		681	19													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						99.2
+SAL-BV-C12_1_X.JPG	      0		619	1874													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						98.1
+SAL-BV-C12_1_X.JPG	      0		808	1782													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.9
+SAL-BV-C12_1_X.JPG	      0		557	336													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.4
+SAL-BV-C12_1_X.JPG	      0		767	499													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.2
+SAL-BV-C12_1_X.JPG	      0		824	274													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						72.0
+SAL-BV-C12_1_X.JPG	      0		901	1375													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						45.8
+SAL-BV-C12_1_X.JPG	      0		868	11													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-C12_1_X.JPG	      0		797	1725													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.9
+SAL-BV-C12_1_X.JPG	      0		1068	1067													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.4
+SAL-BV-C12_1_X.JPG	      0		728	1751													SAL-BV-C12	1					Matrix > Mixed Sessile Invertebrate								83.8
+SAL-BV-C12_1_X.JPG	      0		934	505													SAL-BV-C12	1					Bryozoa > Hard	Fenestrate							50.2
+SAL-BV-C12_1_X.JPG	      0		601	1104													SAL-BV-C12	1					Matrix > Mixed Sessile Invertebrate								24.4
+SAL-BV-C12_1_X.JPG	      0		928	630													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.8
+SAL-BV-C12_1_X.JPG	      0		940	652													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.3
+SAL-BV-C12_1_X.JPG	      0		831	504													SAL-BV-C12	1					Matrix > Mixed Sessile Invertebrate								48.0
+SAL-BV-C12_1_X.JPG	      0		609	1142													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.5
+SAL-BV-C12_1_X.JPG	      0		682	1592													SAL-BV-C12	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						67.6
+SAL-BV-C13_1_X.JPG	      0		610	969													SAL-BV-C13	1					Sponges > Massive forms	Simple							20.7
+SAL-BV-C13_1_X.JPG	      0		974	1557													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						77.3
+SAL-BV-C13_1_X.JPG	      0		647	48													SAL-BV-C13	1					Sponges > Massive forms	Simple							85.2
+SAL-BV-C13_1_X.JPG	      0		656	867													SAL-BV-C13	1					Sponges > Massive forms	Simple							11.8
+SAL-BV-C13_1_X.JPG	      0		1002	509													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						43.4
+SAL-BV-C13_1_X.JPG	      0		824	59													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						83.2
+SAL-BV-C13_1_X.JPG	      0		675	1683													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						88.0
+SAL-BV-C13_1_X.JPG	      0		913	861													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						15.3
+SAL-BV-C13_1_X.JPG	      0		606	1106													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.8
+SAL-BV-C13_1_X.JPG	      0		616	479													SAL-BV-C13	1					Matrix > Mixed Sessile Invertebrate								42.0
+SAL-BV-C13_1_X.JPG	      0		790	910													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						6.8
+SAL-BV-C13_1_X.JPG	      0		738	1802													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-C13_1_X.JPG	      0		642	780													SAL-BV-C13	1					Sponges > Massive forms	Simple							15.1
+SAL-BV-C13_1_X.JPG	      0		741	174													SAL-BV-C13	1					Sponges > Massive forms	Simple							71.0
+SAL-BV-C13_1_X.JPG	      0		1025	1662													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						89.4
+SAL-BV-C13_1_X.JPG	      0		591	52													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.8
+SAL-BV-C13_1_X.JPG	      0		758	1416													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.4
+SAL-BV-C13_1_X.JPG	      0		930	1189													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.5
+SAL-BV-C13_1_X.JPG	      0		954	858													SAL-BV-C13	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.6
+SAL-BV-C13_1_X.JPG	      0		655	18													SAL-BV-C13	1					Sponges > Massive forms	Simple							88.1
+SAL-BV-D01_1_X.JPG	      0		937	1394													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.5
+SAL-BV-D01_1_X.JPG	      0		843	1276													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.1
+SAL-BV-D01_1_X.JPG	      0		693	1217													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.3
+SAL-BV-D01_1_X.JPG	      0		793	1480													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.5
+SAL-BV-D01_1_X.JPG	      0		1062	1843													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						98.0
+SAL-BV-D01_1_X.JPG	      0		983	443													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.7
+SAL-BV-D01_1_X.JPG	      0		634	1388													SAL-BV-D01	1					Unscorable								46.0
+SAL-BV-D01_1_X.JPG	      0		831	519													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.6
+SAL-BV-D01_1_X.JPG	      0		820	1655													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						72.6
+SAL-BV-D01_1_X.JPG	      0		752	93													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.6
+SAL-BV-D01_1_X.JPG	      0		985	1595													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.8
+SAL-BV-D01_1_X.JPG	      0		643	242													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						82.7
+SAL-BV-D01_1_X.JPG	      0		1002	395													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.4
+SAL-BV-D01_1_X.JPG	      0		569	495													SAL-BV-D01	1					Unscorable								58.3
+SAL-BV-D01_1_X.JPG	      0		565	1884													SAL-BV-D01	1					Unscorable								100.0
+SAL-BV-D01_1_X.JPG	      0		572	730													SAL-BV-D01	1					Unscorable								35.7
+SAL-BV-D01_1_X.JPG	      0		877	1439													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.2
+SAL-BV-D01_1_X.JPG	      0		588	404													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						67.0
+SAL-BV-D01_1_X.JPG	      0		746	611													SAL-BV-D01	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.4
+SAL-BV-D01_1_X.JPG	      0		580	689													SAL-BV-D01	1					Unscorable								38.9
+SAL-BV-D02_1_X.JPG	      0		686	71													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-D02_1_X.JPG	      0		816	737													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.4
+SAL-BV-D02_1_X.JPG	      0		652	805													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.8
+SAL-BV-D02_1_X.JPG	      0		799	1246													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.4
+SAL-BV-D02_1_X.JPG	      0		751	476													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.3
+SAL-BV-D02_1_X.JPG	      0		1034	854													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.3
+SAL-BV-D02_1_X.JPG	      0		693	1490													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.9
+SAL-BV-D02_1_X.JPG	      0		821	433													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						62.3
+SAL-BV-D02_1_X.JPG	      0		908	497													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.5
+SAL-BV-D02_1_X.JPG	      0		1047	800													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.1
+SAL-BV-D02_1_X.JPG	      0		572	706													SAL-BV-D02	1					Unscorable								42.7
+SAL-BV-D02_1_X.JPG	      0		911	1289													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.5
+SAL-BV-D02_1_X.JPG	      0		808	1456													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.7
+SAL-BV-D02_1_X.JPG	      0		738	1885													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.6
+SAL-BV-D02_1_X.JPG	      0		815	683													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.9
+SAL-BV-D02_1_X.JPG	      0		898	1087													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						9.0
+SAL-BV-D02_1_X.JPG	      0		552	1036													SAL-BV-D02	1					Unscorable								27.1
+SAL-BV-D02_1_X.JPG	      0		983	1757													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.2
+SAL-BV-D02_1_X.JPG	      0		910	1787													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.8
+SAL-BV-D02_1_X.JPG	      0		988	1821													SAL-BV-D02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.6
+SAL-BV-D03_1_X.JPG	      0		599	1669													SAL-BV-D03	1					Unscorable								65.7
+SAL-BV-D03_1_X.JPG	      0		643	1196													SAL-BV-D03	1					Sponges > Erect forms	Laminar							24.6
+SAL-BV-D03_1_X.JPG	      0		973	526													SAL-BV-D03	1					Cnidaria > Corals	Black & Octocorals	Branching (3D)						50.6
+SAL-BV-D03_1_X.JPG	      0		789	1822													SAL-BV-D03	1					Sponges > Erect forms	Laminar							76.5
+SAL-BV-D03_1_X.JPG	      0		925	69													SAL-BV-D03	1					Matrix > Mixed Sessile Invertebrate								93.3
+SAL-BV-D03_1_X.JPG	      0		808	1576													SAL-BV-D03	1					Sponges > Cup-likes	Cups	Tables / discs						52.7
+SAL-BV-D03_1_X.JPG	      0		552	1174													SAL-BV-D03	1					Unscorable								30.7
+SAL-BV-D03_1_X.JPG	      0		790	996													SAL-BV-D03	1					Sponges > Massive forms	Simple							5.7
+SAL-BV-D03_1_X.JPG	      0		1066	1840													SAL-BV-D03	1					Sponges > Erect forms	Branching							81.2
+SAL-BV-D03_1_X.JPG	      0		856	669													SAL-BV-D03	1					Bryozoa > Soft	Dendroid							35.1
+SAL-BV-D03_1_X.JPG	      0		965	880													SAL-BV-D03	1					Bryozoa > Soft	Dendroid							19.1
+SAL-BV-D03_1_X.JPG	      0		986	557													SAL-BV-D03	1					Sponges > Massive forms	Simple							48.0
+SAL-BV-D03_1_X.JPG	      0		1019	12													SAL-BV-D03	1					Matrix > Mixed Sessile Invertebrate								100.0
+SAL-BV-D03_1_X.JPG	      0		701	141													SAL-BV-D03	1					Sponges > Massive forms	Simple							87.0
+SAL-BV-D03_1_X.JPG	      0		1027	1764													SAL-BV-D03	1					Matrix > Mixed Sessile Invertebrate								73.1
+SAL-BV-D03_1_X.JPG	      0		891	1096													SAL-BV-D03	1					Sponges > Cup-likes	Cups	Tables / discs						8.2
+SAL-BV-D03_1_X.JPG	      0		874	1595													SAL-BV-D03	1					Matrix > Mixed Sessile Invertebrate								54.6
+SAL-BV-D03_1_X.JPG	      0		715	1831													SAL-BV-D03	1					Sponges > Erect forms	Laminar							78.1
+SAL-BV-D03_1_X.JPG	      0		595	328													SAL-BV-D03	1					Sponges > Erect forms	Laminar							71.9
+SAL-BV-D03_1_X.JPG	      0		961	888													SAL-BV-D03	1					Bryozoa > Soft	Dendroid							18.3
+SAL-BV-D04_1_X.JPG	      0		784	865													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						11.4
+SAL-BV-D04_1_X.JPG	      0		909	443													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						30.9
+SAL-BV-D04_1_X.JPG	      0		698	33													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						66.4
+SAL-BV-D04_1_X.JPG	      0		611	166													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						55.6
+SAL-BV-D04_1_X.JPG	      0		739	655													SAL-BV-D04	1					Macroalgae > Erect coarse branching								8.6
+SAL-BV-D04_1_X.JPG	      0		988	1318													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						57.2
+SAL-BV-D04_1_X.JPG	      0		807	1186													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						41.3
+SAL-BV-D04_1_X.JPG	      0		833	1817													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						100.0
+SAL-BV-D04_1_X.JPG	      0		659	1409													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						62.6
+SAL-BV-D04_1_X.JPG	      0		737	226													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						48.2
+SAL-BV-D04_1_X.JPG	      0		703	615													SAL-BV-D04	1					Macroalgae > Erect coarse branching								13.3
+SAL-BV-D04_1_X.JPG	      0		751	851													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						10.1
+SAL-BV-D04_1_X.JPG	      0		837	24													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						67.2
+SAL-BV-D04_1_X.JPG	      0		739	1620													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						81.5
+SAL-BV-D04_1_X.JPG	      0		549	1148													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						42.7
+SAL-BV-D04_1_X.JPG	      0		902	858													SAL-BV-D04	1					Macroalgae > Erect coarse branching								16.5
+SAL-BV-D04_1_X.JPG	      0		570	398													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						37.0
+SAL-BV-D04_1_X.JPG	      0		758	816													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						6.8
+SAL-BV-D04_1_X.JPG	      0		752	296													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						41.7
+SAL-BV-D04_1_X.JPG	      0		993	130													SAL-BV-D04	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						60.8
+SAL-BV-D05_1_X.JPG	      0		863	1281													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						45.7
+SAL-BV-D05_1_X.JPG	      0		596	813													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						15.9
+SAL-BV-D05_1_X.JPG	      0		573	210													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.8
+SAL-BV-D05_1_X.JPG	      0		647	960													SAL-BV-D05	1					Macroalgae > Erect fine branching	Green							18.3
+SAL-BV-D05_1_X.JPG	      0		1064	1575													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						77.7
+SAL-BV-D05_1_X.JPG	      0		740	680													SAL-BV-D05	1					Macroalgae > Erect fine branching	Red							12.0
+SAL-BV-D05_1_X.JPG	      0		791	669													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						13.0
+SAL-BV-D05_1_X.JPG	      0		1030	58													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.5
+SAL-BV-D05_1_X.JPG	      0		634	126													SAL-BV-D05	1					Macroalgae > Erect fine branching	Green							65.0
+SAL-BV-D05_1_X.JPG	      0		685	1393													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						55.9
+SAL-BV-D05_1_X.JPG	      0		839	1866													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-D05_1_X.JPG	      0		928	241													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						55.2
+SAL-BV-D05_1_X.JPG	      0		713	1494													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Biologenic						65.0
+SAL-BV-D05_1_X.JPG	      0		782	435													SAL-BV-D05	1					Substrate > Consolidated (hard)	Cobbles							34.8
+SAL-BV-D05_1_X.JPG	      0		637	1324													SAL-BV-D05	1					Macroalgae > Erect fine branching	Red							50.3
+SAL-BV-D05_1_X.JPG	      0		691	949													SAL-BV-D05	1					Macroalgae > Erect fine branching	Green							15.3
+SAL-BV-D05_1_X.JPG	      0		694	13													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						74.8
+SAL-BV-D05_1_X.JPG	      0		577	923													SAL-BV-D05	1					Macroalgae > Erect fine branching	Red							20.9
+SAL-BV-D05_1_X.JPG	      0		850	823													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						8.1
+SAL-BV-D05_1_X.JPG	      0		975	264													SAL-BV-D05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.6
+SAL-BV-D06_1_X.JPG	      0		845	228													SAL-BV-D06	1					Unscorable								74.6
+SAL-BV-D06_1_X.JPG	      0		625	969													SAL-BV-D06	1					Unscorable								20.9
+SAL-BV-D06_1_X.JPG	      0		804	616													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						34.6
+SAL-BV-D06_1_X.JPG	      0		760	831													SAL-BV-D06	1					Unscorable								14.0
+SAL-BV-D06_1_X.JPG	      0		1008	131													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						86.6
+SAL-BV-D06_1_X.JPG	      0		1023	1897													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						100.0
+SAL-BV-D06_1_X.JPG	      0		1035	472													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						53.8
+SAL-BV-D06_1_X.JPG	      0		930	832													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						16.2
+SAL-BV-D06_1_X.JPG	      0		821	923													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						2.8
+SAL-BV-D06_1_X.JPG	      0		1040	670													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						36.4
+SAL-BV-D06_1_X.JPG	      0		597	1376													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						49.9
+SAL-BV-D06_1_X.JPG	      0		892	290													SAL-BV-D06	1					Unscorable								68.5
+SAL-BV-D06_1_X.JPG	      0		643	1750													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						84.8
+SAL-BV-D06_1_X.JPG	      0		682	1098													SAL-BV-D06	1					Unscorable								21.3
+SAL-BV-D06_1_X.JPG	      0		1016	1438													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						54.2
+SAL-BV-D06_1_X.JPG	      0		548	630													SAL-BV-D06	1					Unscorable								43.8
+SAL-BV-D06_1_X.JPG	      0		601	1478													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						59.3
+SAL-BV-D06_1_X.JPG	      0		688	1094													SAL-BV-D06	1					Unscorable								20.6
+SAL-BV-D06_1_X.JPG	      0		967	1615													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						70.3
+SAL-BV-D06_1_X.JPG	      0		993	654													SAL-BV-D06	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						35.1
+SAL-BV-D07_1_X.JPG	      0		1045	694													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							38.1
+SAL-BV-D07_1_X.JPG	      0		736	1196													SAL-BV-D07	1					Unscorable								26.9
+SAL-BV-D07_1_X.JPG	      0		906	182													SAL-BV-D07	1					Macroalgae > Drift Algae								83.8
+SAL-BV-D07_1_X.JPG	      0		753	403													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							59.6
+SAL-BV-D07_1_X.JPG	      0		668	138													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							89.0
+SAL-BV-D07_1_X.JPG	      0		643	1854													SAL-BV-D07	1					Unscorable								98.0
+SAL-BV-D07_1_X.JPG	      0		542	840													SAL-BV-D07	1					Unscorable								30.8
+SAL-BV-D07_1_X.JPG	      0		888	1432													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							51.9
+SAL-BV-D07_1_X.JPG	      0		823	1272													SAL-BV-D07	1					Unscorable								34.0
+SAL-BV-D07_1_X.JPG	      0		835	958													SAL-BV-D07	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						3.2
+SAL-BV-D07_1_X.JPG	      0		933	33													SAL-BV-D07	1					Macroalgae > Drift Algae								100.0
+SAL-BV-D07_1_X.JPG	      0		825	1590													SAL-BV-D07	1					Unscorable								68.1
+SAL-BV-D07_1_X.JPG	      0		574	1363													SAL-BV-D07	1					Unscorable								50.3
+SAL-BV-D07_1_X.JPG	      0		1017	1164													SAL-BV-D07	1					Unscorable								31.9
+SAL-BV-D07_1_X.JPG	      0		1031	1251													SAL-BV-D07	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						40.0
+SAL-BV-D07_1_X.JPG	      0		928	1511													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							61.0
+SAL-BV-D07_1_X.JPG	      0		617	271													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							76.2
+SAL-BV-D07_1_X.JPG	      0		770	255													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							75.3
+SAL-BV-D07_1_X.JPG	      0		971	924													SAL-BV-D07	1					Macroalgae > Erect fine branching	Red							18.2
+SAL-BV-D07_1_X.JPG	      0		598	1780													SAL-BV-D07	1					Unscorable								91.3
+SAL-BV-D08_1_X.JPG	      0		598	1734													SAL-BV-D08	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						65.1
+SAL-BV-D08_1_X.JPG	      0		1026	854													SAL-BV-D08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.3
+SAL-BV-D08_1_X.JPG	      0		890	1288													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							18.5
+SAL-BV-D08_1_X.JPG	      0		981	348													SAL-BV-D08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						76.7
+SAL-BV-D08_1_X.JPG	      0		1031	1529													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							45.9
+SAL-BV-D08_1_X.JPG	      0		1067	1263													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							28.3
+SAL-BV-D08_1_X.JPG	      0		609	579													SAL-BV-D08	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						56.5
+SAL-BV-D08_1_X.JPG	      0		1063	1642													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							57.3
+SAL-BV-D08_1_X.JPG	      0		750	701													SAL-BV-D08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.0
+SAL-BV-D08_1_X.JPG	      0		660	1833													SAL-BV-D08	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						72.7
+SAL-BV-D08_1_X.JPG	      0		722	648													SAL-BV-D08	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						46.7
+SAL-BV-D08_1_X.JPG	      0		1042	1079													SAL-BV-D08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.8
+SAL-BV-D08_1_X.JPG	      0		563	1842													SAL-BV-D08	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						76.2
+SAL-BV-D08_1_X.JPG	      0		928	101													SAL-BV-D08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+SAL-BV-D08_1_X.JPG	      0		813	1446													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							32.9
+SAL-BV-D08_1_X.JPG	      0		698	386													SAL-BV-D08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						72.4
+SAL-BV-D08_1_X.JPG	      0		836	1779													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							65.7
+SAL-BV-D08_1_X.JPG	      0		748	1460													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							35.0
+SAL-BV-D08_1_X.JPG	      0		676	1482													SAL-BV-D08	1					Macroalgae > Erect coarse branching	Brown							39.1
+SAL-BV-D08_1_X.JPG	      0		758	241													SAL-BV-D08	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						85.9

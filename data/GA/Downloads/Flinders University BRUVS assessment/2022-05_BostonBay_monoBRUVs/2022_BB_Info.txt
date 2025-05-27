@@ -1,0 +1,25 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+BB_S1_R1	TClarke	13.8	Starts at 1:30	Habitat	Silt/softcoral	Soak time	60	FOV		Bias		Vis							
+BB_S1_R2	TClarke	12.2	Starts at 1:20	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S1_R3	TClarke	13.6	Starts at 1:30	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S1_R4	TClarke	13	Starts at 3:30	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S1_R5	TClarke	10.8	Starts at 2:30	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S1_R6	TClarke	12.1	Starts at 1:30. Stirred up, poor vis	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S1_R7	TClarke	13.1	Starts at 2:30	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S1_R8	TClarke	13.7	Starts at 1:30	Habitat	Silt/kelp	Soak time	60	FOV		Bias		Vis							
+BB_S2_R1	TClarke	10	Starts at 1:25	Habitat	Silt/seagrass	Soak time	60	FOV		Bias		Vis							
+BB_S2_R2	TClarke	9.7	Starts at 1:15	Habitat	Silt/seagrass	Soak time	60	FOV		Bias		Vis							
+BB_S2_R3	TClarke	11.8	Starts at 1:30	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S2_R4	TClarke	10.4	Starts at 1:30. Poor vis	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S2_R5	TClarke	12.5	Starts at 1:00	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S2_R6	TClarke	11.5	Starts at 1:05.Stops at 47:11	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S2_R7	TClarke	10.9	Starts at 1:50	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S2_R8	TClarke	11	Starts at 1:15. Very poor vis < 2 m	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S3_R1	TClarke	16.5	Starts at 1:30	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S3_R2	TClarke	16.9	Starts at 3:30	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S3_R3	TClarke	15.9	Starts at 1:40	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S3_R4	TClarke	15.7	Starts at 2:15	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							
+BB_S3_R5	TClarke	15.3	Starts at 1:30	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S3_R6	TClarke	15.5	Starts at 2:00	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S3_R7	TClarke	16.5	Starts at 5:00	Habitat	Silt	Soak time	60	FOV		Bias		Vis							
+BB_S3_R8	TClarke	16.2	Starts at 6:30. Stirred up for first 10 min	Habitat	Silt/sponge	Soak time	60	FOV		Bias		Vis							

@@ -1,0 +1,388 @@
+Sample,Family,Genus,Species,Count,Code,Filename,Frame,Time (mins),TapeReader,Depth,Comment,Habitat,Soak Time,Bias,FOV,Vis,Has fed
+PECO01_1811,Loliginidae,Sepioteuthis,australis,1,23617005,FICO01_L.avi,56758,37.8387,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Carangidae,Pseudocaranx,sp,21,37337924,FICO01_L.avi,33220,22.1467,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Gerreidae,Parequula,melbournensis,34,37349001,FICO01_L.avi,10380,6.92,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Labridae,Austrolabrus,maculatus,2,37384025,FICO01_L.avi,28502,19.0013,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Labridae,Notolabrus,parilus,2,37384022,FICO01_L.avi,38280,25.52,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Monacanthidae,Acanthaluteres,vittiger,4,37465002,FICO01_L.avi,19254,12.836,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,Yes
+PECO01_1811,Monacanthidae,Scobinichthys,granulatus,1,37465007,FICO01_L.avi,25670,17.1133,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Mullidae,Upeneichthys,vlamingii,2,37355029,FICO01_L.avi,21747,14.498,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,FICO01_L.avi,68231,45.4873,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Platycephalidae,Platycephalus,aurimaculatus,1,37296035,FICO01_L.avi,47666,31.7773,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Platycephalidae,Platycephalus,speculator,1,37296037,FICO01_L.avi,75639,50.426,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Serranidae,Caesioperca,rasor,3,37311003,FICO01_L.avi,41748,27.832,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Sillaginidae,Sillaginodes,punctatus,3,37330001,FICO01_L.avi,44750,29.8333,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO01_1811,Labridae,Dotalabrus,aurantiacus,1,37384018,FICO01_L.avi,17860,11.9067,DEaston,24.1,,Posidonia and algae; Medium,60,1,2,1,No
+PECO02_1811,Loliginidae,Sepioteuthis,australis,3,23617005,FICO02_L.avi,23968,15.9787,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Sillaginidae,Sillaginodes,punctatus,3,37330001,FICO02_L.avi,18416,12.2773,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Serranidae,Caesioperca,rasor,10,37311003,FICO02_L.avi,24377,16.2513,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Labridae,Olisthops,cyanomelas,1,37385001,FICO02_L.avi,37680,25.12,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,FICO02_L.avi,80916,53.944,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Monacanthidae,Scobinichthys,granulatus,1,37465007,FICO02_L.avi,23270,15.5133,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Monacanthidae,Meuschenia,galii,1,37465040,FICO02_L.avi,6894,4.596,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Monacanthidae,Meuschenia,flavolineata,2,37465035,FICO02_L.avi,26643,17.762,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Tetraodontidae,Omegophora,armilla,1,37467002,FICO02_L.avi,20447,13.6313,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Monacanthidae,Acanthaluteres,brownii,2,37465001,FICO02_L.avi,32464,21.6427,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,FICO02_L.avi,5208,3.472,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Labridae,Pictilabrus,laticlavius,1,37384020,FICO02_L.avi,26199,17.466,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Labridae,Notolabrus,tetricus,3,37384003,FICO02_L.avi,78384,52.256,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,Yes
+PECO02_1811,Labridae,Notolabrus,parilus,1,37384022,FICO02_L.avi,4923,3.282,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Labridae,Eupetrichthys,angustipes,1,37384105,FICO02_L.avi,6371,4.2473,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Labridae,Austrolabrus,maculatus,1,37384025,FICO02_L.avi,4104,2.736,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Gerreidae,Parequula,melbournensis,1,37349001,FICO02_L.avi,8169,5.446,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,FICO02_L.avi,28034,18.6893,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,FICO02_L.avi,28810,19.2067,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,No
+PECO02_1811,Monacanthidae,Meuschenia,hippocrepis,4,37465004,FICO02_L.avi,78105,52.07,DEaston,18.7,,Reef; Mixed algal; Flat,60,1,2,1,Yes
+PECO03_1811,Monacanthidae,Meuschenia,galii,1,37465040,FICO03_L.avi,47911,31.9407,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Serranidae,Caesioperca,rasor,7,37311003,FICO03_L.avi,30803,20.5353,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Labridae,Olisthops,cyanomelas,1,37385001,FICO03_L.avi,8502,5.668,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Monacanthidae,Meuschenia,hippocrepis,5,37465004,FICO03_L.avi,51448,34.2987,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,Yes
+PECO03_1811,Monacanthidae,Meuschenia,freycineti,1,37465036,FICO03_L.avi,14043,9.362,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,FICO03_L.avi,9203,6.1353,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Labridae,Pictilabrus,laticlavius,1,37384020,FICO03_L.avi,20133,13.422,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Aulopidae,Latropiscis,purpurissatus,1,37117001,FICO03_L.avi,16431,10.954,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Labridae,Notolabrus,parilus,1,37384022,FICO03_L.avi,50495,33.6633,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Labridae,Austrolabrus,maculatus,2,37384025,FICO03_L.avi,40638,27.092,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Labridae,Achoerodus,gouldii,1,37384002,FICO03_L.avi,33771,22.514,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Kyphosidae,Girella,zebra,2,37361008,FICO03_L.avi,7765,5.1767,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO03_1811,Labridae,Notolabrus,tetricus,4,37384003,FICO03_L.avi,31347,20.898,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,Yes
+PECO03_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,FICO03_L.avi,90442,60.2947,DEaston,18.7,,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PECO04_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,FICO04_L.avi,12294,8.196,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,Yes
+PECO04_1811,Monacanthidae,Meuschenia,galii,1,37465040,FICO04_L.avi,9489,6.326,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Monacanthidae,Meuschenia,hippocrepis,3,37465004,FICO04_L.avi,75504,50.336,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,Yes
+PECO04_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,FICO04_L.avi,10928,7.2853,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Serranidae,Caesioperca,rasor,4,37311003,FICO04_L.avi,65703,43.802,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,Yes
+PECO04_1811,Tetraodontidae,Omegophora,armilla,1,37467002,FICO04_L.avi,12664,8.4427,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Monacanthidae,Acanthaluteres,brownii,1,37465001,FICO04_L.avi,60754,40.5027,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Berycidae,Centroberyx,gerrardi,1,37258004,FICO04_L.avi,64297,42.8647,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Sillaginidae,Sillaginodes,punctatus,2,37330001,FICO04_L.avi,31590,21.06,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Labridae,Pictilabrus,laticlavius,1,37384020,FICO04_L.avi,33447,22.298,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Labridae,Ophthalmolepis,lineolatus,2,37384040,FICO04_L.avi,66115,44.0767,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Labridae,Notolabrus,tetricus,6,37384003,FICO04_L.avi,43159,28.7727,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,Yes
+PECO04_1811,Labridae,Notolabrus,parilus,1,37384022,FICO04_L.avi,4099,2.7327,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Labridae,Austrolabrus,maculatus,1,37384025,FICO04_L.avi,10714,7.1427,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Labridae,Achoerodus,gouldii,1,37384002,FICO04_L.avi,67878,45.252,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Carangidae,Pseudocaranx,sp,1,37337924,FICO04_L.avi,32613,21.742,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PECO04_1811,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,FICO04_L.avi,28246,18.8307,DEaston,28,,Reef;Ecklonia and Fucoid;Profile,60,1,1,2,No
+PEEO01_1811,Labridae,Notolabrus,tetricus,1,37384003,FIEO01_L.avi,42800,28.5333,DEaston,26.3,,Filamentous alage on sand;Medium,45,1,2,1,Yes
+PEEO01_1811,Labridae,Notolabrus,parilus,1,37384022,FIEO01_L.avi,24332,16.2213,DEaston,26.3,,Filamentous alage on sand;Medium,45,1,2,1,No
+PEEO01_1811,Sparidae,Pagrus,auratus,7,37353001,FIEO01_L.avi,38049,25.366,DEaston,26.3,,Filamentous alage on sand;Medium,45,1,2,1,Yes
+PEEO01_1811,Monacanthidae,Meuschenia,hippocrepis,3,37465004,FIEO01_L.avi,58516,39.0107,DEaston,26.3,,Filamentous alage on sand;Medium,45,1,2,1,Yes
+PEEO01_1811,Carangidae,Pseudocaranx,sp,6,37337924,FIEO01_L.avi,57938,38.6253,DEaston,26.3,,Filamentous alage on sand;Medium,45,1,2,1,No
+PEEO01_1811,Cheilodactylidae,Dactylophora,nigricans,1,37377005,FIEO01_L.avi,49137,32.758,DEaston,26.3,,Filamentous alage on sand;Medium,45,1,2,1,No
+PEEO01_1811,Berycidae,Centroberyx,gerrardi,1,37258004,FIEO01_L.avi,47981,31.9873,DEaston,26.3,,Filamentous alage on sand;Medium,45,1,2,1,No
+PEEO02_1811,Monacanthidae,Meuschenia,flavolineata,2,37465035,FIEO02_L.avi,7988,5.3253,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Sparidae,Pagrus,auratus,2,37353001,FIEO02_L.avi,14905,9.9367,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,Yes
+PEEO02_1811,Serranidae,Caesioperca,rasor,2,37311003,FIEO02_L.avi,11491,7.6607,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Scorpididae,Tilodon,sexfasciatus,1,37361003,FIEO02_L.avi,82489,54.9927,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Labridae,Olisthops,cyanomelas,3,37385001,FIEO02_L.avi,59213,39.4753,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Monacanthidae,Meuschenia,galii,1,37465040,FIEO02_L.avi,7246,4.8307,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,Yes
+PEEO02_1811,Monacanthidae,Acanthaluteres,brownii,3,37465001,FIEO02_L.avi,14853,9.902,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Labridae,Pictilabrus,laticlavius,1,37384020,FIEO02_L.avi,18198,12.132,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Labridae,Notolabrus,tetricus,13,37384003,FIEO02_L.avi,35724,23.816,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,Yes
+PEEO02_1811,Labridae,Achoerodus,gouldii,1,37384002,FIEO02_L.avi,46624,31.0827,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Kyphosidae,Girella,zebra,17,37361008,FIEO02_L.avi,49528,33.0187,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,FIEO02_L.avi,25966,17.3107,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,No
+PEEO02_1811,Monacanthidae,Meuschenia,hippocrepis,12,37465004,FIEO02_L.avi,16863,11.242,DEaston,12.3,,Reef;Fucoid;Profile,60,1,2,1,Yes
+PEEO03_1811,Chaetodontidae,Chelmonops,curiosus,1,37365066,FIEO03_L.avi,10330,6.8867,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Monacanthidae,Meuschenia,hippocrepis,2,37465004,FIEO03_L.avi,81770,54.5133,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,Yes
+PEEO03_1811,Serranidae,Hypoplectrodes,nigroruber,1,37311037,FIEO03_L.avi,10396,6.9307,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Serranidae,Caesioperca,rasor,1,37311003,FIEO03_L.avi,33170,22.1133,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Sillaginidae,Sillaginodes,punctatus,2,37330001,FIEO03_L.avi,76851,51.234,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Labridae,Olisthops,cyanomelas,1,37385001,FIEO03_L.avi,73533,49.022,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,FIEO03_L.avi,37668,25.112,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Mullidae,Upeneichthys,vlamingii,2,37355029,FIEO03_L.avi,9385,6.2567,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Monacanthidae,Meuschenia,galii,2,37465040,FIEO03_L.avi,41222,27.4813,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,Yes
+PEEO03_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,FIEO03_L.avi,6096,4.064,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Labridae,Pictilabrus,laticlavius,2,37384020,FIEO03_L.avi,5893,3.9287,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Labridae,Notolabrus,tetricus,5,37384003,FIEO03_L.avi,30299,20.1993,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Labridae,Achoerodus,gouldii,1,37384002,FIEO03_L.avi,44277,29.518,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO03_1811,Labridae,Notolabrus,parilus,2,37384022,FIEO03_L.avi,11130,7.42,DEaston,16.2,,Reef;Fucoid and Amphibolis;Flat,60,1,2,1,No
+PEEO04_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,FIEO04_L.avi,71078,47.3853,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEEO04_1811,Sillaginidae,Sillaginodes,punctatus,2,37330001,FIEO04_L.avi,32880,21.92,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEEO04_1811,Arripidae,Arripis,georgianus,3,37344001,FIEO04_L.avi,68938,45.9587,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEEO04_1811,Gerreidae,Parequula,melbournensis,3,37349001,FIEO04_L.avi,74019,49.346,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEEO04_1811,Labridae,Notolabrus,parilus,2,37384022,FIEO04_L.avi,28661,19.1073,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEEO04_1811,Labridae,Notolabrus,tetricus,2,37384003,FIEO04_L.avi,28663,19.1087,DEaston,17.7,,Posidonia;Dense,60,2,2,1,Yes
+PEEO04_1811,Monacanthidae,Acanthaluteres,vittiger,3,37465002,FIEO04_L.avi,9771,6.514,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEEO04_1811,Monacanthidae,Meuschenia,galii,1,37465040,FIEO04_L.avi,71009,47.3393,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEEO04_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,FIEO04_L.avi,11484,7.656,DEaston,17.7,,Posidonia;Dense,60,2,2,1,No
+PEWO01_1811,Ophiacanthidae,Ophiotreta,valenciennesi,1,25185044,FIWO01_L.avi,4301,2.8673,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,FIWO01_L.avi,4669,3.1127,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Sillaginidae,Sillaginodes,punctatus,1,37330001,FIWO01_L.avi,6765,4.51,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Scorpididae,Tilodon,sexfasciatus,1,37361003,FIWO01_L.avi,72678,48.452,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Myliobatidae,Myliobatis,tenuicaudatus,2,37039001,FIWO01_L.avi,52519,35.0127,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,Yes
+PEWO01_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,FIWO01_L.avi,8774,5.8493,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Monacanthidae,Meuschenia,hippocrepis,2,37465004,FIWO01_L.avi,16182,10.788,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,Yes
+PEWO01_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,FIWO01_L.avi,79575,53.05,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Labridae,Pictilabrus,laticlavius,1,37384020,FIWO01_L.avi,7215,4.81,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Carangidae,Pseudocaranx,sp,1,37337924,FIWO01_L.avi,65088,43.392,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Serranidae,Caesioperca,rasor,6,37311003,FIWO01_L.avi,10211,6.8073,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Carangidae,Seriola,hippos,1,37337007,FIWO01_L.avi,45784,30.5227,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Labridae,Notolabrus,tetricus,3,37384003,FIWO01_L.avi,31891,21.2607,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,Yes
+PEWO01_1811,Aulopidae,Latropiscis,purpurissatus,1,37117001,FIWO01_L.avi,60271,40.1807,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Labridae,Notolabrus,parilus,2,37384022,FIWO01_L.avi,25893,17.262,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Kyphosidae,Girella,zebra,3,37361008,FIWO01_L.avi,8114,5.4093,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO01_1811,Labridae,Austrolabrus,maculatus,1,37384025,FIWO01_L.avi,13129,8.7527,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO02_1811,Labridae,Notolabrus,tetricus,4,37384003,FIWO02_L.avi,92180,61.4533,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Labridae,Ophthalmolepis,lineolatus,1,37384040,FIWO02_L.avi,4298,2.8653,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Monacanthidae,Meuschenia,flavolineata,2,37465035,FIWO02_L.avi,6640,4.4267,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Monacanthidae,Meuschenia,hippocrepis,2,37465004,FIWO02_L.avi,5190,3.46,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Labridae,Olisthops,cyanomelas,2,37385001,FIWO02_L.avi,96886,64.5907,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Pempherididae,Pempheris,sp,1,37357903,FIWO02_L.avi,15031,10.0207,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Serranidae,Caesioperca,rasor,3,37311003,FIWO02_L.avi,77896,51.9307,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Scorpididae,Scorpis,aequipinnis,3,37361004,FIWO02_L.avi,4666,3.1107,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Scorpididae,Tilodon,sexfasciatus,1,37361003,FIWO02_L.avi,4934,3.2893,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Sphaeromatidae,Cilicaea,tenuicaudata,1,28226040,FIWO02_L.avi,91827,61.218,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Sillaginidae,Sillaginodes,punctatus,3,37330001,FIWO02_L.avi,53606,35.7373,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Labridae,Notolabrus,parilus,1,37384022,FIWO02_L.avi,4667,3.1113,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Triakidae,Mustelus,antarcticus,1,37017001,FIWO02_L.avi,48000,32,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,Yes
+PEWO02_1811,Plesiopidae,Trachinops,noarlungae,1,37316017,FIWO02_L.avi,95528,63.6853,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Carangidae,Pseudocaranx,sp,2,37337924,FIWO02_L.avi,78531,52.354,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Labridae,Bodianus,frenchii,1,37384057,FIWO02_L.avi,18091,12.0607,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Serranidae,Othos,dentex,1,37311005,FIWO02_L.avi,74320,49.5467,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Aulopidae,Latropiscis,purpurissatus,1,37117001,FIWO02_L.avi,15273,10.182,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Berycidae,Centroberyx,lineatus,13,37258005,FIWO02_L.avi,6274,4.1827,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Carangidae,Seriola,hippos,2,37337007,FIWO02_L.avi,3820,2.5467,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Chaetodontidae,Chelmonops,curiosus,2,37365066,FIWO02_L.avi,80769,53.846,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,FIWO02_L.avi,4071,2.714,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Cheilodactylidae,Dactylophora,nigricans,1,37377005,FIWO02_L.avi,30345,20.23,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Enoplosidae,Enoplosus,armatus,1,37366001,FIWO02_L.avi,44517,29.678,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Kyphosidae,Girella,zebra,3,37361008,FIWO02_L.avi,4950,3.3,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Kyphosidae,Kyphosus,sydneyanus,1,37361001,FIWO02_L.avi,15993,10.662,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Labridae,Achoerodus,gouldii,2,37384002,FIWO02_L.avi,4404,2.936,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO02_1811,Berycidae,Centroberyx,gerrardi,15,37258004,FIWO02_L.avi,28516,19.0107,DEaston,20.1,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PEWO03_1811,Labridae,Olisthops,cyanomelas,1,37385001,FIWO03_L.avi,4625,3.0833,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Monacanthidae,Meuschenia,hippocrepis,1,37465004,FIWO03_L.avi,75154,50.1027,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Triakidae,Mustelus,antarcticus,1,37017001,FIWO03_L.avi,61083,40.722,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Sillaginidae,Sillaginodes,punctatus,1,37330001,FIWO03_L.avi,73108,48.7387,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Labridae,Siphonognathus,beddomei,1,37385006,FIWO03_L.avi,14675,9.7833,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,FIWO03_L.avi,41963,27.9753,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,FIWO03_L.avi,3969,2.646,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Monacanthidae,Acanthaluteres,brownii,1,37465001,FIWO03_L.avi,36667,24.4447,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Loliginidae,Sepioteuthis,australis,1,23617005,FIWO03_L.avi,47209,31.4727,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Labridae,Pictilabrus,laticlavius,2,37384020,FIWO03_L.avi,28594,19.0627,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Labridae,Notolabrus,tetricus,5,37384003,FIWO03_L.avi,44194,29.4627,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,Yes
+PEWO03_1811,Labridae,Notolabrus,parilus,2,37384022,FIWO03_L.avi,20408,13.6053,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Labridae,Achoerodus,gouldii,1,37384002,FIWO03_L.avi,29380,19.5867,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Serranidae,Caesioperca,rasor,11,37311003,FIWO03_L.avi,74064,49.376,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO03_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,FIWO03_L.avi,41834,27.8893,DEaston,20.2,,Reef; Mixed algal; Flat,60,1,2,1,No
+PEWO04_1811,Mullidae,Upeneichthys,vlamingii,2,37355029,FIWO04_R.avi,78013,52.0087,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Sillaginidae,Sillaginodes,punctatus,1,37330001,FIWO04_R.avi,56142,37.428,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,FIWO04_R.avi,45099,30.066,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Labridae,Notolabrus,parilus,1,37384022,FIWO04_R.avi,17796,11.864,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Labridae,Dotalabrus,aurantiacus,1,37384018,FIWO04_R.avi,8251,5.5007,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Labridae,Achoerodus,gouldii,1,37384002,FIWO04_R.avi,69663,46.442,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Gerreidae,Parequula,melbournensis,2,37349001,FIWO04_R.avi,11779,7.8527,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Labridae,Eupetrichthys,angustipes,1,37384105,FIWO04_R.avi,8575,5.7167,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEWO04_1811,Serranidae,Caesioperca,rasor,11,37311003,FIWO04_R.avi,9774,6.516,DEaston,20.6,,Posidonia and algae; Medium,60,1,2,1,No
+PEEI01_1811,Labridae,Achoerodus,gouldii,1,37384002,PEEI01_L.avi,26430,17.62,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Mullidae,Upeneichthys,vlamingii,2,37355029,PEEI01_L.avi,53355,35.57,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Monacanthidae,Meuschenia,hippocrepis,6,37465004,PEEI01_L.avi,15360,10.24,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Monacanthidae,Meuschenia,galii,2,37465040,PEEI01_L.avi,61891,41.2607,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Monacanthidae,Meuschenia,freycineti,1,37465036,PEEI01_L.avi,24034,16.0227,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,PEEI01_L.avi,13403,8.9353,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Berycidae,Centroberyx,gerrardi,1,37258004,PEEI01_L.avi,43062,28.708,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Aulopidae,Latropiscis,purpurissatus,1,37117001,PEEI01_L.avi,7982,5.3213,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PEEI01_L.avi,16563,11.042,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Labridae,Notolabrus,tetricus,4,37384003,PEEI01_L.avi,16810,11.2067,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,Yes
+PEEI01_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PEEI01_L.avi,7391,4.9273,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Labridae,Notolabrus,parilus,2,37384022,PEEI01_L.avi,7124,4.7493,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,Yes
+PEEI01_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,PEEI01_L.avi,86179,57.4527,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Carangidae,Pseudocaranx,sp,5,37337924,PEEI01_L.avi,33752,22.5013,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PEEI01_L.avi,24034,16.0227,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Scorpididae,Tilodon,sexfasciatus,1,37361003,PEEI01_L.avi,5851,3.9007,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Sillaginidae,Sillaginodes,punctatus,1,37330001,PEEI01_L.avi,87922,58.6147,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI01_1811,Tetraodontidae,Omegophora,armilla,1,37467002,PEEI01_L.avi,89660,59.7733,JHicks,21.9,,Algae;Dense;Sand,60,1,1,1,No
+PEEI02_1811,Labridae,Austrolabrus,maculatus,1,37384025,PEEI02_L.avi,15103,10.0687,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Kyphosidae,Girella,zebra,1,37361008,PEEI02_L.avi,38297,25.5313,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Tetraodontidae,Omegophora,cyanopunctata,1,37467048,PEEI02_L.avi,57352,38.2347,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Serranidae,Caesioperca,rasor,8,37311003,PEEI02_L.avi,47293,31.5287,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,PEEI02_L.avi,47986,31.9907,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Monacanthidae,Meuschenia,hippocrepis,3,37465004,PEEI02_L.avi,40546,27.0307,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,Yes
+PEEI02_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,PEEI02_L.avi,33676,22.4507,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PEEI02_L.avi,89958,59.972,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Carangidae,Pseudocaranx,sp,2,37337924,PEEI02_L.avi,35745,23.83,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Labridae,Notolabrus,tetricus,7,37384003,PEEI02_L.avi,84513,56.342,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Labridae,Pictilabrus,laticlavius,2,37384020,PEEI02_L.avi,39355,26.2367,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Carangidae,Seriola,hippos,1,37337007,PEEI02_L.avi,78733,52.4887,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Monacanthidae,Acanthaluteres,brownii,1,37465001,PEEI02_L.avi,31957,21.3047,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PEEI02_L.avi,15421,10.2807,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,Yes
+PEEI02_1811,Labridae,Notolabrus,parilus,3,37384022,PEEI02_L.avi,22004,14.6693,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Monacanthidae,Meuschenia,galii,1,37465040,PEEI02_L.avi,18033,12.022,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI02_1811,Berycidae,Centroberyx,lineatus,29,37258005,PEEI02_L.avi,88834,59.2227,JHicks,25.3,,Reef; Mixed Ecklonia and Algae; Profile,60,2,2,1,No
+PEEI03_1811,Monacanthidae,Meuschenia,hippocrepis,12,37465004,PEEI03_L.avi,10266,6.844,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,Yes
+PEEI03_1811,Labridae,Heteroscarus,acroptilus,1,37385010,PEEI03_L.avi,32027,21.3513,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Scyliorhinidae,Asymbolus,vincenti,1,37015003,PEEI03_L.avi,94166,62.7773,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Serranidae,Caesioperca,rasor,1,37311003,PEEI03_L.avi,84544,56.3627,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Tetraodontidae,Omegophora,cyanopunctata,1,37467048,PEEI03_L.avi,71898,47.932,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Monacanthidae,Meuschenia,galii,1,37465040,PEEI03_L.avi,9453,6.302,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Sillaginidae,Sillaginodes,punctatus,1,37330001,PEEI03_L.avi,80898,53.932,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Labridae,Achoerodus,gouldii,1,37384002,PEEI03_L.avi,9597,6.398,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,PEEI03_L.avi,10248,6.832,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Mullidae,Upeneichthys,vlamingii,5,37355029,PEEI03_L.avi,8372,5.5813,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Carangidae,Pseudocaranx,sp,1,37337924,PEEI03_L.avi,90361,60.2407,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Labridae,Austrolabrus,maculatus,2,37384025,PEEI03_L.avi,19441,12.9607,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Labridae,Notolabrus,parilus,1,37384022,PEEI03_L.avi,27498,18.332,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Labridae,Notolabrus,tetricus,3,37384003,PEEI03_L.avi,17723,11.8153,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Labridae,Pictilabrus,laticlavius,2,37384020,PEEI03_L.avi,16294,10.8627,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI03_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PEEI03_L.avi,29145,19.43,JHicks,22.2,,Reef; Foliaceous;Profile,60,1,1,1,No
+PEEI04_1811,Tetraodontidae,Omegophora,armilla,1,37467002,PEEI04_L.avi,53043,35.362,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Labridae,Notolabrus,parilus,1,37384022,PEEI04_L.avi,12237,8.158,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Monacanthidae,Meuschenia,galii,2,37465040,PEEI04_L.avi,8534,5.6893,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,Yes
+PEEI04_1811,Parascylliidae,Parascyllium,variolatum,1,37013004,PEEI04_L.avi,15570,10.38,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Labridae,Olisthops,cyanomelas,1,37385001,PEEI04_L.avi,61932,41.288,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Labridae,Heteroscarus,acroptilus,1,37385010,PEEI04_L.avi,5254,3.5027,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,PEEI04_L.avi,28934,19.2893,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Monacanthidae,Meuschenia,hippocrepis,13,37465004,PEEI04_L.avi,24191,16.1273,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Serranidae,Caesioperca,rasor,2,37311003,PEEI04_L.avi,21268,14.1787,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Heterodontidae,Heterodontus,portusjacksoni,1,37007001,PEEI04_L.avi,66441,44.294,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Gerreidae,Parequula,melbournensis,1,37349001,PEEI04_L.avi,20582,13.7213,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Enoplosidae,Enoplosus,armatus,1,37366001,PEEI04_L.avi,25823,17.2153,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PEEI04_L.avi,59304,39.536,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Carangidae,Pseudocaranx,sp,27,37337924,PEEI04_L.avi,26313,17.542,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Berycidae,Centroberyx,lineatus,1,37258005,PEEI04_L.avi,22696,15.1307,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Labridae,Notolabrus,tetricus,4,37384003,PEEI04_L.avi,58500,39,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PEEI04_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PEEI04_L.avi,18085,12.0567,JHicks,22.3,,Reef;Ecklonia;Profile,60,2,3,1,No
+PENI01_1811,Labridae,Pictilabrus,laticlavius,3,37384020,PENI01_L.avi,47803,31.8687,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,PENI01_L.avi,11055,7.37,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Monacanthidae,Meuschenia,hippocrepis,22,37465004,PENI01_L.avi,26092,17.3947,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,Yes
+PENI01_1811,Mullidae,Upeneichthys,vlamingii,2,37355029,PENI01_L.avi,92744,61.8293,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Labridae,Olisthops,cyanomelas,2,37385001,PENI01_L.avi,63919,42.6127,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Plesiopidae,Paraplesiops,meleagris,1,37316009,PENI01_L.avi,19291,12.8607,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Pycnogonidae,Unknown,sp,1,33017000,PENI01_L.avi,48848,32.5653,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Labridae,Coris,auricularis,1,37384088,PENI01_L.avi,40229,26.8193,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Serranidae,Caesioperca,rasor,3,37311003,PENI01_L.avi,59425,39.6167,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Labridae,Ophthalmolepis,lineolatus,2,37384040,PENI01_L.avi,40694,27.1293,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Labridae,Notolabrus,tetricus,6,37384003,PENI01_L.avi,89200,59.4667,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Labridae,Notolabrus,parilus,1,37384022,PENI01_L.avi,60134,40.0893,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Labridae,Achoerodus,gouldii,2,37384002,PENI01_L.avi,33181,22.1207,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Gerreidae,Parequula,melbournensis,2,37349001,PENI01_L.avi,58184,38.7893,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,PENI01_L.avi,85608,57.072,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Chaetodontidae,Chelmonops,curiosus,1,37365066,PENI01_L.avi,11045,7.3633,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI01_1811,Carangidae,Pseudocaranx,sp,4,37337924,PENI01_L.avi,34990,23.3267,JHicks,22.9,,Reef;Mixed Algal;Profile,60,1,1,1,No
+PENI02_1811,Monacanthidae,Acanthaluteres,brownii,1,37465001,PENI02_L.avi,33886,22.5907,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,PENI02_L.avi,13337,8.8913,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Monacanthidae,Meuschenia,galii,1,37465040,PENI02_L.avi,17036,11.3573,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Monacanthidae,Meuschenia,hippocrepis,10,37465004,PENI02_L.avi,26881,17.9207,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,Yes
+PENI02_1811,Mullidae,Upeneichthys,vlamingii,4,37355029,PENI02_L.avi,46654,31.1027,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,PENI02_L.avi,78960,52.64,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PENI02_L.avi,23415,15.61,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Serranidae,Caesioperca,rasor,4,37311003,PENI02_L.avi,24030,16.02,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Tetraodontidae,Omegophora,armilla,1,37467002,PENI02_L.avi,84096,56.064,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Labridae,Olisthops,cyanomelas,1,37385001,PENI02_L.avi,30247,20.1647,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Berycidae,Centroberyx,lineatus,2,37258005,PENI02_L.avi,74444,49.6293,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Labridae,Ophthalmolepis,lineolatus,1,37384040,PENI02_L.avi,27137,18.0913,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Berycidae,Centroberyx,gerrardi,1,37258004,PENI02_L.avi,33709,22.4727,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Carangidae,Pseudocaranx,sp,2,37337924,PENI02_L.avi,54106,36.0707,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,PENI02_L.avi,37503,25.002,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PENI02_L.avi,28261,18.8407,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Gerreidae,Parequula,melbournensis,1,37349001,PENI02_L.avi,53783,35.8553,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Labridae,Achoerodus,gouldii,2,37384002,PENI02_L.avi,97779,65.186,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Labridae,Notolabrus,parilus,1,37384022,PENI02_L.avi,49091,32.7273,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,No
+PENI02_1811,Labridae,Notolabrus,tetricus,6,37384003,PENI02_L.avi,41912,27.9413,JHicks,25.2,,Reef; Mixed Ecklonia and Algae; Profile,60,1,1,1,Yes
+PENI03_1811,Labridae,Notolabrus,tetricus,4,37384003,PENI03_L.avi,10307,6.8713,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Scorpididae,Neatypus,obliquus,1,37361002,PENI03_L.avi,52022,34.6813,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Scorpididae,Tilodon,sexfasciatus,2,37361003,PENI03_L.avi,7736,5.1573,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Serranidae,Caesioperca,rasor,4,37311003,PENI03_L.avi,11922,7.948,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Monacanthidae,Meuschenia,hippocrepis,5,37465004,PENI03_L.avi,15750,10.5,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Monacanthidae,Meuschenia,galii,1,37465040,PENI03_L.avi,15475,10.3167,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,PENI03_L.avi,11965,7.9767,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Carangidae,Pseudocaranx,sp,9,37337924,PENI03_L.avi,28632,19.088,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Labridae,Olisthops,cyanomelas,1,37385001,PENI03_L.avi,47959,31.9727,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Labridae,Notolabrus,parilus,1,37384022,PENI03_L.avi,11401,7.6007,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Labridae,Coris,auricularis,1,37384088,PENI03_L.avi,38935,25.9567,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Labridae,Achoerodus,gouldii,1,37384002,PENI03_L.avi,23231,15.4873,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Enoplosidae,Enoplosus,armatus,1,37366001,PENI03_L.avi,69075,46.05,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,PENI03_L.avi,64082,42.7213,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Carangidae,Seriola,hippos,1,37337007,PENI03_L.avi,7489,4.9927,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PENI03_L.avi,40033,26.6887,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PENI03_L.avi,12340,8.2267,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI03_1811,Monacanthidae,Acanthaluteres,spilomelanurus,1,37465043,PENI03_L.avi,80186,53.4573,JHicks,27.7,,Reef;Ecklonia;Profile,60,2,2,1,No
+PENI04_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PENI04_R.avi,64993,43.3287,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Carangidae,Pseudocaranx,sp,17,37337924,PENI04_R.avi,77542,51.6947,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PENI04_R.avi,50037,33.358,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Enoplosidae,Enoplosus,armatus,1,37366001,PENI04_R.avi,91324,60.8827,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Labridae,Notolabrus,parilus,3,37384022,PENI04_R.avi,66562,44.3747,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Monacanthidae,Meuschenia,hippocrepis,1,37465004,PENI04_R.avi,82130,54.7533,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Myliobatidae,Myliobatis,tenuicaudatus,2,37039001,PENI04_R.avi,44269,29.5127,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Platycephalidae,Platycephalus,bassensis,2,37296003,PENI04_R.avi,46189,30.7927,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Sillaginidae,Sillaginodes,punctatus,8,37330001,PENI04_R.avi,21317,14.2113,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PENI04_1811,Labridae,Achoerodus,gouldii,1,37384002,PENI04_R.avi,31024,20.6827,JHicks,26,,Heterozostera;Medium,60,1,1,1,No
+PESI01_1811,Monacanthidae,Meuschenia,flavolineata,2,37465035,PESI01_L.avi,15191,10.1273,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Monacanthidae,Meuschenia,galii,2,37465040,PESI01_L.avi,42900,28.6,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PESI01_L.avi,8453,5.6353,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Berycidae,Centroberyx,gerrardi,5,37258004,PESI01_L.avi,37015,24.6767,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Serranidae,Caesioperca,rasor,1,37311003,PESI01_L.avi,16521,11.014,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Scorpididae,Scorpis,aequipinnis,4,37361004,PESI01_L.avi,7053,4.702,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Rhinobatidae,Trygonorrhina,dumerilii,1,37027011,PESI01_L.avi,71128,47.4187,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Labridae,Olisthops,cyanomelas,1,37385001,PESI01_L.avi,9787,6.5247,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,PESI01_L.avi,21199,14.1327,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Monacanthidae,Meuschenia,hippocrepis,4,37465004,PESI01_L.avi,64857,43.238,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PESI01_L.avi,29177,19.4513,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Labridae,Notolabrus,tetricus,6,37384003,PESI01_L.avi,18664,12.4427,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,Yes
+PESI01_1811,Labridae,Notolabrus,parilus,1,37384022,PESI01_L.avi,25676,17.1173,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Chaetodontidae,Chelmonops,curiosus,1,37365066,PESI01_L.avi,63999,42.666,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Berycidae,Centroberyx,lineatus,30,37258005,PESI01_L.avi,37015,24.6767,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Carangidae,Pseudocaranx,sp,2,37337924,PESI01_L.avi,90091,60.0607,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Monacanthidae,Meuschenia,scaber,2,37465005,PESI01_L.avi,69942,46.628,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Carangidae,Seriola,hippos,1,37337007,PESI01_L.avi,13817,9.2113,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Labridae,Coris,auricularis,1,37384088,PESI01_L.avi,7939,5.2927,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PESI01_L.avi,6904,4.6027,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PESI01_L.avi,6637,4.4247,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Dinolestidae,Dinolestes,lewini,24,37327002,PESI01_L.avi,27227,18.1513,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Kyphosidae,Girella,zebra,1,37361008,PESI01_L.avi,26292,17.528,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Labridae,Pseudolabrus,sp,1,37384940,PESI01_L.avi,6771,4.514,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI01_1811,Labridae,Achoerodus,gouldii,3,37384002,PESI01_L.avi,7296,4.864,JHicks,38,,Reef;Mixed Algal;Profile,60,1,2,1,No
+PESI02_1811,Monacanthidae,Meuschenia,flavolineata,1,37465035,PESI02_L.avi,19114,12.7427,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Labridae,Achoerodus,gouldii,2,37384002,PESI02_L.avi,14682,9.788,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Serranidae,Caesioperca,rasor,2,37311003,PESI02_L.avi,19792,13.1947,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Labridae,Olisthops,cyanomelas,3,37385001,PESI02_L.avi,96994,64.6627,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,PESI02_L.avi,78233,52.1553,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Monacanthidae,Meuschenia,venusta,1,37465060,PESI02_L.avi,15328,10.2187,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Monacanthidae,Meuschenia,scaber,1,37465005,PESI02_L.avi,35062,23.3747,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Monacanthidae,Meuschenia,hippocrepis,7,37465004,PESI02_L.avi,47316,31.544,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,Yes
+PESI02_1811,Monacanthidae,Meuschenia,galii,1,37465040,PESI02_L.avi,55361,36.9073,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Scorpididae,Scorpis,aequipinnis,2,37361004,PESI02_L.avi,23926,15.9507,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Berycidae,Centroberyx,lineatus,16,37258005,PESI02_L.avi,81296,54.1973,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Labridae,Notolabrus,tetricus,3,37384003,PESI02_L.avi,25350,16.9,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,Yes
+PESI02_1811,Monacanthidae,Eubalichthys,bucephalus,1,37465039,PESI02_L.avi,19824,13.216,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Berycidae,Centroberyx,gerrardi,1,37258004,PESI02_L.avi,82186,54.7907,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Cheilodactylidae,Cheilodactylus,nigripes,3,37377001,PESI02_L.avi,74533,49.6887,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Kyphosidae,Girella,zebra,2,37361008,PESI02_L.avi,14682,9.788,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Labridae,Notolabrus,parilus,3,37384022,PESI02_L.avi,86139,57.426,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,Yes
+PESI02_1811,Labridae,Ophthalmolepis,lineolatus,2,37384040,PESI02_L.avi,54972,36.648,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PESI02_L.avi,16198,10.7987,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI02_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PESI02_L.avi,26851,17.9007,JHicks,38.5,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,2,1,No
+PESI03_1811,Carangidae,Pseudocaranx,sp,1,37337924,PESI03_L.avi,70311,46.874,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Monacanthidae,Meuschenia,hippocrepis,7,37465004,PESI03_L.avi,18208,12.1387,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,Yes
+PESI03_1811,Serranidae,Caesioperca,rasor,4,37311003,PESI03_L.avi,30037,20.0247,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Scorpididae,Tilodon,sexfasciatus,1,37361003,PESI03_L.avi,30341,20.2273,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Labridae,Olisthops,cyanomelas,1,37385001,PESI03_L.avi,44950,29.9667,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Mullidae,Upeneichthys,vlamingii,3,37355029,PESI03_L.avi,53701,35.8007,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Tetraodontidae,Omegophora,armilla,2,37467002,PESI03_L.avi,90945,60.63,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Monacanthidae,Meuschenia,galii,1,37465040,PESI03_L.avi,8374,5.5827,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PESI03_L.avi,30684,20.456,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PESI03_L.avi,6662,4.4413,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Labridae,Notolabrus,parilus,2,37384022,PESI03_L.avi,47133,31.422,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Berycidae,Centroberyx,lineatus,1,37258005,PESI03_L.avi,18997,12.6647,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI03_1811,Labridae,Notolabrus,tetricus,4,37384003,PESI03_L.avi,53014,35.3427,JHicks,28.2,,Reef; Mixed Ecklonia and Seirococceae; Profile,60,1,1,1,No
+PESI04_1811,Scorpididae,Tilodon,sexfasciatus,1,37361003,PESI04_L.avi,59120,39.4133,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Mullidae,Upeneichthys,vlamingii,1,37355029,PESI04_L.avi,26929,17.9527,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Labridae,Heteroscarus,acroptilus,1,37385010,PESI04_L.avi,80663,53.7753,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Sillaginidae,Sillaginodes,punctatus,1,37330001,PESI04_L.avi,22174,14.7827,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Aulopidae,Latropiscis,purpurissatus,1,37117001,PESI04_L.avi,91532,61.0213,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Platycephalidae,Platycephalus,speculator,1,37296037,PESI04_L.avi,45787,30.5247,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Monacanthidae,Meuschenia,hippocrepis,3,37465004,PESI04_L.avi,45936,30.624,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Monacanthidae,Meuschenia,galii,1,37465040,PESI04_L.avi,82454,54.9693,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Monacanthidae,Meuschenia,flavolineata,2,37465035,PESI04_L.avi,6849,4.566,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Monacanthidae,Acanthaluteres,vittiger,2,37465002,PESI04_L.avi,22817,15.2113,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Labridae,Pictilabrus,laticlavius,1,37384020,PESI04_L.avi,16413,10.942,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Labridae,Notolabrus,tetricus,2,37384003,PESI04_L.avi,41044,27.3627,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Labridae,Notolabrus,parilus,3,37384022,PESI04_L.avi,35980,23.9867,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Labridae,Eupetrichthys,angustipes,1,37384105,PESI04_L.avi,6275,4.1833,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Berycidae,Centroberyx,gerrardi,1,37258004,PESI04_L.avi,93224,62.1493,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Enoplosidae,Enoplosus,armatus,8,37366001,PESI04_L.avi,61134,40.756,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Cheilodactylidae,Dactylophora,nigricans,1,37377005,PESI04_L.avi,8697,5.798,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Carangidae,Pseudocaranx,sp,5,37337924,PESI04_L.avi,88324,58.8827,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No
+PESI04_1811,Labridae,Suezichthys,cyanolaemus,1,37384161,PESI04_L.avi,11255,7.5033,JHicks,21.2,,Posidonia;Dense,60,3,3,1,No

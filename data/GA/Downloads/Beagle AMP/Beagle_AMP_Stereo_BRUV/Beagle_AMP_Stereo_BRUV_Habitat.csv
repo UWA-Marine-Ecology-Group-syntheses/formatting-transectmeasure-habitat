@@ -1,0 +1,126 @@
+Sample,Longitude,Latitude,inclusion.probabilities,domain,FoV,Relief,Soft substata,Hard substrata,Biota,Habitat
+1,147.099,-39.0782,0.01515253,3,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Bare,Coarse sand
+2,147.116,-39.3455,0.28683751,4,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Dense Short Invert complex,Shellhash
+3,146.971,-39.411,0.000410197,1,Open,1,50-75% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Shellhash
+4,147.129,-39.3517,0.286325669,4,Open,1,25-50% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+6,147.503,-39.5697,0.013960292,2,Open,1,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+7,147.154,-39.3711,0.282604481,4,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Tall Invert complex,Reef
+8,147.162,-39.0838,0.01515253,3,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Tall Invert complex,Reef
+9,147.483,-39.5266,0.015336168,2,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+10,147.083,-39.4073,0.202572149,4,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+11,147.002,-39.3172,0.000236837,1,Open,1,50-75% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Shellhash
+12,147.514,-39.4864,0.015910152,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+13,147.127,-39.049,0.01515253,3,Open,1,0-25% Unconsolidated Pebble / gravel (screwshells) ,,Sparse Short Invert complex,Screwshells
+14,147.143,-39.44,0.275030221,4,Open,0,75-100% Unconsolidated Pebble / gravel (screwshells) ,,Bare,Screwshells
+15,146.663,-39.3352,0.000423935,1,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Tall Invert complex,Shellhash
+16,147.518,-39.597,0.015867859,2,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Bare,Coarse sand
+18,147.533,-39.5403,0.015898785,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+21,147.503,-39.5196,0.015867739,2,Open,2,50-75% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+22,147.118,-39.3095,0.287053323,1,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+23,147.118,-39.1,0.01515253,3,Open,1,50-75% Unconsolidated Pebble / gravel (screwshells) ,0-25% Consolidated Rock Veneer,Medium Short Invert complex,Screwshells
+24,146.879,-39.3826,0.000377812,1,Open,0,25-50% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+25,147.149,-39.3661,0.283652154,4,Limited,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Tall Invert complex,Reef
+26,147.499,-39.595,0.015466793,2,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Bare,Coarse sand
+28,147.127,-39.3375,0.287032312,4,Open,1,25-50% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Short Invert complex,Shellhash
+29,147.534,-39.5098,0.015910056,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+30,147.107,-39.2961,0.287066808,4,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+31,147.11,-39.3479,0.286674565,4,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand
+32,147.145,-39.0637,0.01515253,3,Open,1,0-25% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Shellhash
+34,147.081,-39.0492,0.01515253,3,Open,0,75-100% Unconsolidated Pebble / gravel (screwshells) ,,Bare,Screwshells
+35,147.526,-39.557,0.015814248,2,Open,1,50-75% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Coarse sand
+36,147.074,-39.4101,0.239518415,1,Open,0,25-50% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand
+37,147.125,-39.343,0.286955522,4,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+38,147.32,-39.3163,0.000299233,1,Open,1,25-50% Unconsolidated Pebble / gravel (biogenic) ,,Medium Tall Invert complex,Shellhash
+39,147.153,-39.0917,0.01515253,3,Open,2,25-50% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Coarse sand
+40,146.616,-39.1133,0.000422362,1,Open,1,25-50% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Shellhash
+41,147.105,-39.058,0.01515253,3,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Shellhash
+42,147.14,-39.4349,0.259829859,4,Open,1,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Tall Invert complex,Coarse sand
+43,147.15,-39.375,0.276536925,4,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Short Invert complex,Reef
+44,147.134,-39.3244,0.286862003,4,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+46,147.185,-39.4438,0.287016363,4,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Sparse Short Invert complex,Coarse sand
+47,147.155,-39.3782,0.277359762,4,Open,0,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+48,147.507,-39.5514,0.014952987,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+49,147.152,-39.3677,0.283535275,4,Open,4,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Tall Invert complex,Reef
+50,147.166,-39.4435,0.286235058,4,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Sparse Short Invert complex,Coarse sand
+51,147.487,-39.5101,0.015887206,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+52,147.516,-39.5292,0.015865685,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+53,147.148,-39.086,0.01515253,3,Open,0,50-75% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+55,147.144,-39.3612,0.284842335,4,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Dense Tall Invert complex,Shellhash
+56,147.078,-39.0746,0.01515253,3,Open,0,0-25% Unconsolidated Pebble / gravel (screwshells) ,,Sparse Short Invert complex,Screwshells
+57,147.128,-39.3401,0.287019057,4,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Medium Short Invert complex,Shellhash
+59,147.136,-39.3564,0.285629402,4,Open,1,50-75% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+60,147.105,-39.2981,0.287064015,4,Open,2,75-100% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Shellhash
+61,147.496,-39.504,0.015906925,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+62,147.131,-39.3497,0.286612374,4,Open,3,25-50% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+64,147.152,-39.373,0.280126732,4,Open,2,25-50% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+65,147.53,-39.5513,0.015868256,2,Open,2,25-50% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+66,147.061,-39.0688,0.01515253,3,Open,1,50-75% Unconsolidated Pebble / gravel (biogenic) ,,Medium Short Invert complex,Shellhash
+67,147.131,-39.3318,0.287010736,4,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+68,147.487,-39.5763,0.010662789,2,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+71,147.145,-39.4381,0.273551178,4,Open,0,50-75% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+72,147.146,-39.361,0.285227837,4,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Short Invert complex,Shellhash
+73,147.493,-39.5866,0.01417865,2,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Shellhash
+75,147.093,-39.0894,0.01515253,3,Open,1,50-75% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+76,147.516,-39.5471,0.015642217,2,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Shellhash
+77,146.604,-39.3076,0.000419236,1,Open,1,25-50% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Medium Short Invert complex,Coarse sand
+78,147.123,-39.3311,0.287052239,4,Open,4,25-50% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock ,Medium Tall Invert complex,Reef
+79,147.136,-39.3529,0.286340958,4,Open,0,50-75% Unconsolidated Pebble / gravel (screwshells) ,,Sparse Short Invert complex,Screwshells
+80,147.492,-39.5294,0.015444518,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+82,147.147,-39.0814,0.01515253,3,Open,2,50-75% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Short Invert complex,Shellhash
+84,147.11,-39.3496,0.286489703,4,Open,1,50-75% Unconsolidated Pebble / gravel (screwshells) ,,Sparse Short Invert complex,Screwshells
+85,146.724,-39.1871,0.000415792,1,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Shellhash
+87,147.139,-39.324,0.2866003,4,Open,1,50-75% Unconsolidated Pebble / gravel (screwshells) ,,Sparse Short Invert complex,Screwshells
+88,146.988,-39.3523,0.000376873,1,Open,1,50-75% Unconsolidated Sand / mud (coarse sand) ,,Sparse Short Invert complex,Coarse sand
+89,147.129,-39.3338,0.287032346,4,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Medium Short Invert complex,Shellhash
+90,147.141,-39.3578,0.28562201,4,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Tall Invert complex,Reef
+91,147.145,-39.4363,0.270002509,4,Open,1,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand
+92,147.112,-39.3459,0.286812547,4,Limited,2,25-50% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+93,147.52,-39.4931,0.015910142,2,Open,1,50-75% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Shellhash
+94,147.086,-39.4142,0.193468439,4,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Sparse Short Invert complex,Coarse sand
+95,147.107,-39.0524,0.01515253,3,Open,2,25-50% Unconsolidated Pebble / gravel (biogenic) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+96,147.118,-39.3297,0.287060464,4,Open,1,50-75% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+97,147.132,-39.0719,0.01515253,3,Open,1,25-50% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+98,146.762,-39.2665,0.000420361,1,Open,1,50-75% Unconsolidated Pebble / gravel (screwshells) ,,Bare,Screwshells
+100,147.064,-39.0577,0.01515253,3,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+101,147.533,-39.5627,0.015880475,2,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Bare,Coarse sand
+102,147.51,-39.5225,0.015878125,2,Open,2,25-50% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+103,147.106,-39.3052,0.287056754,4,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+104,147.503,-39.4873,0.015910137,2,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+105,147.174,-39.4483,0.286924136,4,Open,0,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+107,147.136,-39.3206,0.286706694,4,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,25-50% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+108,147.153,-39.3801,0.272699549,4,Open,1,0-25% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Shellhash
+109,147.074,-39.0856,0.01515253,3,Open,1,50-75% Unconsolidated Pebble / gravel (screwshells) ,,Bare,Screwshells
+110,147.132,-39.3389,0.287010127,1,Open,2,25-50% Unconsolidated Sand / mud (coarse sand) ,25-50% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+111,146.537,-39.1069,0.000424322,1,Open,1,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Sparse Tall Invert complex,Reef
+112,147.168,-39.4398,0.285942124,4,Open,0,50-75% Unconsolidated Sand / mud (coarse sand) ,,Sparse Short Invert complex,Coarse sand
+113,147.489,-39.5404,0.013869705,2,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,25-50% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+114,147.493,-39.4971,0.015909404,2,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Bare,Coarse sand
+115,147.13,-39.3086,0.286885755,4,Open,3,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Tall Invert complex,Reef
+116,147.179,-39.4479,0.286991468,4,Open,0,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+117,147.154,-39.0952,0.01515253,3,Open,1,25-50% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+120,147.083,-39.0795,0.01515253,3,Open,0,0-25% Unconsolidated Pebble / gravel (screwshells) ,,Bare,Screwshells
+121,147.125,-39.3395,0.287019057,4,Open,2,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Dense Short Invert complex,Shellhash
+122,147.528,-39.589,0.015887383,2,Open,2,0-25% Unconsolidated Pebble / gravel (biogenic) ,50-75% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+123,147.076,-39.4096,0.239518415,4,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock ,Dense Tall Invert complex,Reef
+124,147.178,-39.4461,0.286960165,4,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Tall Invert complex,Coarse sand
+125,146.98,-39.1022,0.000410847,1,Open,1,50-75% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand
+127,147.155,-39.3729,0.281546087,4,Open,2,0-25% Unconsolidated Sand / mud (coarse sand) ,75-100% Consolidated Rock Veneer,Dense Tall Invert complex,Reef
+128,147.112,-39.0718,0.01515253,3,Open,0,25-50% Unconsolidated Pebble / gravel (biogenic) ,,Bare,Shellhash
+129,147.267,-39.2652,0.000407233,1,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Medium Short Invert complex,Shellhash
+130,147.083,-39.4091,0.20238171,4,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Sparse Short Invert complex,Coarse sand
+131,147.195,-39.2578,0,1,Open,2,75-100% Unconsolidated Pebble / gravel (biogenic) ,0-25% Consolidated Rock Veneer,Medium Tall Invert complex,Shellhash
+132,146.944,-39.5341,0,1,Open,1,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand
+134,146.99,-39.4789,0,1,Open,1,50-75% Unconsolidated Pebble / gravel (screwshells) ,,Sparse Short Invert complex,Screwshells
+135,146.743,-39.3129,0,1,Open,1,50-75% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Medium Short Invert complex,Coarse sand
+136,146.616,-39.5711,0,1,Open,1,50-75% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand
+137,147.115,-39.406,0,1,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Medium Short Invert complex,Shellhash
+138,146.868,-39.238,0,1,Open,1,75-100% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Tall Invert complex,Shellhash
+139,146.805,-39.4611,0,1,Open,1,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand
+140,147.303,-39.2951,0,1,Open,2,50-75% Unconsolidated Sand / mud (coarse sand) ,50-75% Consolidated Rock Veneer,Medium Tall Invert complex,Reef
+141,146.681,-39.1272,0,1,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Bare,Coarse sand
+142,146.927,-39.3861,0,1,Open,0,75-100% Unconsolidated Sand / mud (coarse sand) ,,Sparse Short Invert complex,Coarse sand
+143,147.021,-39.3309,0,1,Open,1,50-75% Unconsolidated Pebble / gravel (biogenic) ,,Sparse Short Invert complex,Shellhash
+144,146.774,-39.165,0,1,Open,1,75-100% Unconsolidated Pebble / gravel (screwshells) ,,Bare,Screwshells
+145,146.649,-39.2751,0,1,Open,1,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Tall Invert complex,Coarse sand
+147,146.836,-39.3617,0,1,Open,1,25-50% Unconsolidated Pebble / gravel (screwshells) ,,Sparse Short Invert complex,Screwshells
+149,146.959,-39.1409,0,1,Open,1,75-100% Unconsolidated Sand / mud (coarse sand) ,0-25% Consolidated Rock Veneer,Sparse Short Invert complex,Coarse sand

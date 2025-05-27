@@ -1,0 +1,43 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+NF_012	Scott Gray	18.5		Latitude	-29.02187462	Longitude	167.9914701	Date	22/07/2021	Time	10:22	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_021	Scott Gray	27.9400005		Latitude	-29.02502827	Longitude	168.0054615	Date	22/07/2021	Time	9:13	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_030	Scott Gray	24.0699997		Latitude	-29.04301506	Longitude	167.997305	Date	21/07/2021	Time	14:55	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_031	Scott Gray	18.5499992		Latitude	-29.06692896	Longitude	167.9538577	Date	23/07/2021	Time	15:18	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand, algae
+NF_047	Scott Gray	36.3899994		Latitude	-29.11103063	Longitude	167.9388332	Date	23/07/2021	Time	13:18	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_057	Scott Gray	22.3899994		Latitude	-29.11611574	Longitude	167.9395172	Date	23/07/2021	Time	13:25	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_058	Scott Gray	24.6900005		Latitude	-29.0242426	Longitude	168.000795	Date	22/07/2021	Time	8:39	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_067	Scott Gray	39.25		Latitude	-29.12297337	Longitude	167.9350899	Date	23/07/2021	Time	13:55	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_073	Scott Gray	27.0900002		Latitude	-29.06802416	Longitude	167.9503932	Date	23/07/2021	Time	15:06	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_074	Scott Gray	12.0900002		Latitude	-29.02780838	Longitude	168.0007393	Date	22/07/2021	Time	8:20	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_085	Scott Gray	12.0500002		Latitude	-29.03695825	Longitude	167.9979252	Date	21/07/2021	Time	15:39	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_086	Scott Gray	12.9700003		Latitude	-29.02093866	Longitude	167.9830058	Date	22/07/2021	Time	10:34	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_087	Scott Gray	23.8600006		Latitude	-29.0210667	Longitude	167.9984494	Date	22/07/2021	Time	8:45	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_107	Scott Gray	38.0600014		Latitude	-29.10567191	Longitude	167.9540398	Date	23/07/2021	Time	13:01	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_117	Scott Gray	35.3400002		Latitude	-29.04290442	Longitude	168.0022541	Date	21/07/2021	Time	15:26	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_119	Scott Gray	28.6200008		Latitude	-29.0282481	Longitude	168.0035206	Date	21/07/2021	Time	16:07	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_120	Scott Gray	40.6899986		Latitude	-29.11535415	Longitude	167.9352242	Date	23/07/2021	Time	12:14	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_135	Scott Gray	15.2700005		Latitude	-29.02165904	Longitude	167.986883	Date	22/07/2021	Time	10:29	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_153	Scott Gray	14.3599997		Latitude	-29.02582155	Longitude	167.9977708	Date	22/07/2021	Time	8:31	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_154	Scott Gray	39.5499992		Latitude	-29.10898046	Longitude	167.9366951	Date	23/07/2021	Time	12:08	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand, Macroalgae
+NF_157	Scott Gray	37.5499992		Latitude	-29.04166207	Longitude	168.0053741	Date	22/07/2021	Time	8:14	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_162	Scott Gray	28.3400002		Latitude	-29.0158439	Longitude	167.9843996	Date	22/07/2021	Time	14:53	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_163	Scott Gray	24.8999996		Latitude	-29.0218912	Longitude	168.0130891	Date	22/07/2021	Time	11:40	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_164	Scott Gray	36.4799995		Latitude	-29.0240851	Longitude	168.0175331	Date	22/07/2021	Time	12:20	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_166	Scott Gray	37.3800011		Latitude	-29.03001989	Longitude	168.0114296	Date	22/07/2021	Time	9:54	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_167	Scott Gray	33.1100006		Latitude	-29.02478827	Longitude	168.0114859	Date	22/07/2021	Time	11:57	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_175	Scott Gray	24.3700008		Latitude	-29.06942047	Longitude	167.9557629	Date	23/07/2021	Time	15:25	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_186	Scott Gray	26.7600002		Latitude	-29.01866012	Longitude	167.9870541	Date	22/07/2021	Time	14:43	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_187	Scott Gray	29.1100006		Latitude	-29.03984322	Longitude	168.0000188	Date	21/07/2021	Time	15:10	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_188	Scott Gray	39.5		Latitude	-29.04665522	Longitude	168.0057761	Date	22/07/2021	Time	8:04	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_198	Scott Gray	41.3067017		Latitude	-29.09436434	Longitude	167.9512413	Date	23/07/2021	Time	9:52	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand, Reef
+NF_207	Scott Gray	46.3764		Latitude	-29.09528576	Longitude	167.9470735	Date	23/07/2021	Time	10:35	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand, Rubble
+NF_211	Scott Gray	36.144001		Latitude	-29.10235935	Longitude	167.9507399	Date	23/07/2021	Time	9:22	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef, Sand
+NF_226	Scott Gray	39.4389992		Latitude	-29.01701786	Longitude	168.0201645	Date	22/07/2021	Time	12:51	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_227	Scott Gray	45.1761017		Latitude	-29.0997252	Longitude	167.9474285	Date	23/07/2021	Time	10:58	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_232	Scott Gray	34.4193001		Latitude	-29.09238649	Longitude	167.9660652	Date	23/07/2021	Time	8:25	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Reef
+NF_237	Scott Gray	44.9672012		Latitude	-29.1004057	Longitude	167.9429062	Date	23/07/2021	Time	11:17	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand, Rubble
+NF_246	Scott Gray	31.8264999		Latitude	-29.08052313	Longitude	167.9303015	Date	23/07/2021	Time	14:47	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_247	Scott Gray	30.7180996		Latitude	-29.08484602	Longitude	167.965464	Date	23/07/2021	Time	7:50	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand, Rubble
+NF_253	Scott Gray	39.4743996		Latitude	-29.09375815	Longitude	167.959096	Date	23/07/2021	Time	8:49	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand, Reef, Macroalgae
+NF_256	Scott Gray	47.7000008		Latitude	-29.09351877	Longitude	167.9429561	Date	23/07/2021	Time	9:55	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand
+NF_262	Scott Gray	30.4370995		Latitude	-29.08005669	Longitude	167.9371541	Date	23/07/2021	Time	14:42	MPAStatus	Fished	Site	Norfolk Island	Year	2021	Spare	Sand

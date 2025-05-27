@@ -1,0 +1,1179 @@
+OpCode	PointIndex	Filename	Frame	Time	Period	PeriodTime	ImageCol	ImageRow	RectWidth	RectHeight	Family	Genus	Species	Code	Number	Stage	Activity	Comment	Attribute9	Attribute10
+WE01	2	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	10733	5.96874	Analysis	0.17184	424.4898	452.90323	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	3	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	10740	5.97263	Analysis	0.17573	1687.07483	19.59677	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	4	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	10740	5.97263	Analysis	0.17573	1371.42857	261.29032	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	5	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	10740	5.97263	Analysis	0.17573	613.87755	52.25806	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	6	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	10947	6.08775	Analysis	0.29085	883.80952	394.1129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	7	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	10947	6.08775	Analysis	0.29085	32.65306	927.58065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	8	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	11208	6.23289	Analysis	0.43599	494.14966	476.85484	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Passing			
+WE01	9	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	11397	6.338	Analysis	0.5411	1674.01361	751.20968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	10	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	11397	6.338	Analysis	0.5411	546.39456	452.90323	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	11	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	11886	6.60994	Analysis	0.81303	1077.55102	97.98387	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	12	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	11886	6.60994	Analysis	0.81303	827.21088	590.08065	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	13	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	11886	6.60994	Analysis	0.81303	1458.5034	590.08065	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	14	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	11886	6.60994	Analysis	0.81303	1425.85034	483.3871	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	15	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12066	6.71004	Analysis	0.91313	555.10204	307.01613	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	16	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12213	6.79178	Analysis	0.99488	1295.2381	476.85484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	17	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12213	6.79178	Analysis	0.99488	1423.67347	596.6129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	18	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12537	6.97196	Analysis	1.17506	624.7619	698.95161	0	0	Girellidae	Girella	zebra		1	AD	Passing			
+WE01	19	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12576	6.99365	Analysis	1.19675	1382.31293	738.14516	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	20	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12576	6.99365	Analysis	1.19675	1317.0068	672.82258	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	21	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12576	6.99365	Analysis	1.19675	1203.80952	651.04839	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	22	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12745	7.08764	Analysis	1.29073	1704.4898	448.54839	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	23	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12745	7.08764	Analysis	1.29073	748.84354	677.17742	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	24	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	12745	7.08764	Analysis	1.29073	357.0068	792.58065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	25	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	801.08844	535.64516	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	26	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	827.21088	696.77419	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	27	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	265.57823	677.17742	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	28	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	1486.80272	457.25806	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	29	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	1541.22449	670.64516	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	30	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	1101.4966	274.35484	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	31	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	1040.54422	426.77419	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	32	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	1571.70068	185.08065	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	33	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13131	7.30229	Analysis	1.50539	1301.76871	413.70968	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	34	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13143	7.30897	Analysis	1.51207	111.02041	794.75806	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	35	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13143	7.30897	Analysis	1.51207	259.04762	657.58065	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	36	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13143	7.30897	Analysis	1.51207	864.21769	544.35484	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	37	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13143	7.30897	Analysis	1.51207	842.44898	661.93548	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	38	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13355	7.42686	Analysis	1.62996	1029.65986	779.51613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	39	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13355	7.42686	Analysis	1.62996	56.59864	259.1129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	40	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13355	7.42686	Analysis	1.62996	1495.5102	914.51613	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Passing			
+WE01	41	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13355	7.42686	Analysis	1.62996	1562.9932	794.75806	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	42	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	870.7483	581.37097	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	43	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	890.34014	661.93548	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	44	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	694.42177	644.51613	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	45	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	703.12925	801.29032	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	46	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	1460.68027	505.16129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	47	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	1404.08163	668.46774	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	48	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	1364.89796	786.04839	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	49	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	1680.54422	977.66129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	50	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	1558.63946	28.30645	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	51	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	13402	7.453	Analysis	1.6561	592.10884	344.03226	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	52	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14217	7.90623	Analysis	2.10933	811.97279	418.06452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	53	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14217	7.90623	Analysis	2.10933	1301.76871	596.6129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	54	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14217	7.90623	Analysis	2.10933	1310.47619	535.64516	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	55	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14217	7.90623	Analysis	2.10933	1445.44218	557.41935	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	56	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14217	7.90623	Analysis	2.10933	1695.78231	618.3871	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	57	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14337	7.97297	Analysis	2.17606	426.66667	311.37097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	58	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14337	7.97297	Analysis	2.17606	407.07483	492.09677	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	59	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14337	7.97297	Analysis	2.17606	422.31293	786.04839	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	60	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14337	7.97297	Analysis	2.17606	1525.98639	755.56452	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	61	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14337	7.97297	Analysis	2.17606	1728.43537	942.82258	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	62	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14378	7.99577	Analysis	2.19886	1364.89796	844.83871	0	0	Aplodactylidae	Aplodactylus	arctidens	37376001	1	AD	Passing			
+WE01	63	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14411	8.01412	Analysis	2.21721	431.02041	339.67742	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	64	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14411	8.01412	Analysis	2.21721	1819.86395	148.06452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	65	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14411	8.01412	Analysis	2.21721	1761.08844	546.53226	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	66	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14411	8.01412	Analysis	2.21721	1841.63265	786.04839	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	67	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14411	8.01412	Analysis	2.21721	1591.29252	744.67742	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	68	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14411	8.01412	Analysis	2.21721	1767.61905	703.30645	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	69	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	14998	8.34055	Analysis	2.54365	1580.40816	418.06452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	70	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	15417	8.57357	Analysis	2.77666	448.43537	520.40323	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	71	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	15417	8.57357	Analysis	2.77666	383.12925	666.29032	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	72	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	15417	8.57357	Analysis	2.77666	709.65986	857.90323	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	73	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	15417	8.57357	Analysis	2.77666	835.91837	581.37097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	74	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	16342	9.08797	Analysis	3.29107	413.60544	224.27419	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	75	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	16342	9.08797	Analysis	3.29107	896.87075	239.51613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	76	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	16342	9.08797	Analysis	3.29107	1303.94558	209.03226	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	77	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	16342	9.08797	Analysis	3.29107	746.66667	533.46774	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	78	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	16342	9.08797	Analysis	3.29107	583.40136	714.19355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	79	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	16342	9.08797	Analysis	3.29107	1619.59184	781.69355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	80	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	17828	9.91435	Analysis	4.11745	1103.67347	659.75806	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	81	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	18037	10.03058	Analysis	4.23367	1081.90476	202.5	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	82	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	18164	10.1012	Analysis	4.3043	1475.91837	945	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	83	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	18164	10.1012	Analysis	4.3043	433.19728	746.85484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	84	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	18164	10.1012	Analysis	4.3043	350.47619	916.69355	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	85	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	18164	10.1012	Analysis	4.3043	178.5034	644.51613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	86	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	18164	10.1012	Analysis	4.3043	1695.78231	1034.27419	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Passing			
+WE01	87	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	18191	10.11622	Analysis	4.31931	764.08163	685.8871	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	88	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	19999	11.12167	Analysis	5.32476	1819.86395	894.91935	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	89	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	19999	11.12167	Analysis	5.32476	1654.42177	783.87097	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	90	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	19999	11.12167	Analysis	5.32476	1684.89796	411.53226	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	91	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	19999	11.12167	Analysis	5.32476	1145.03401	161.12903	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	92	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	19999	11.12167	Analysis	5.32476	748.84354	241.69355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	93	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	19999	11.12167	Analysis	5.32476	807.61905	424.59677	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	94	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	19999	11.12167	Analysis	5.32476	737.95918	496.45161	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	95	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	20212	11.24012	Analysis	5.44322	1558.63946	548.70968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	96	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	20212	11.24012	Analysis	5.44322	1430.20408	463.79032	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	97	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	20212	11.24012	Analysis	5.44322	1580.40816	701.12903	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	98	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	20212	11.24012	Analysis	5.44322	903.40136	725.08065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	99	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	20212	11.24012	Analysis	5.44322	326.53061	577.01613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	100	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	20212	11.24012	Analysis	5.44322	1417.14286	842.66129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	101	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	20509	11.40528	Analysis	5.60838	1068.84354	982.01613	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	102	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	21478	11.94415	Analysis	6.14725	679.18367	644.51613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	103	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	24251	13.48625	Analysis	7.68935	888.16327	256.93548	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	104	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	24251	13.48625	Analysis	7.68935	903.40136	442.01613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	105	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	24251	13.48625	Analysis	7.68935	1386.66667	241.69355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	106	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	24251	13.48625	Analysis	7.68935	1721.90476	215.56452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	107	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	24251	13.48625	Analysis	7.68935	1586.93878	472.5	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	108	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	24251	13.48625	Analysis	7.68935	1758.91156	363.62903	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	109	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	24251	13.48625	Analysis	7.68935	1734.96599	596.6129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	110	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	193.7415	587.90323	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	111	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	505.03401	333.14516	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	112	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1262.58503	437.66129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	113	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1721.90476	446.37097	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	114	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1637.0068	733.79032	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	115	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1288.70748	707.66129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	116	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1308.29932	648.87097	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	117	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1375.78231	670.64516	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	118	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1088.43537	579.19355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	119	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	25991	14.45388	Analysis	8.65698	1160.27211	553.06452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	120	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	27513	15.30029	Analysis	9.50338	1523.80952	511.69355	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	121	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	27513	15.30029	Analysis	9.50338	905.57823	533.46774	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	122	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	27513	15.30029	Analysis	9.50338	785.85034	511.69355	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	123	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	27513	15.30029	Analysis	9.50338	903.40136	624.91935	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	124	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	27513	15.30029	Analysis	9.50338	735.78231	707.66129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	125	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	27513	15.30029	Analysis	9.50338	470.20408	720.72581	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	126	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	27513	15.30029	Analysis	9.50338	433.19728	886.20968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	127	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	29007	16.13112	Analysis	10.33421	798.91156	548.70968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	128	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	29007	16.13112	Analysis	10.33421	890.34014	581.37097	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	129	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	29007	16.13112	Analysis	10.33421	957.82313	677.17742	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	130	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	29007	16.13112	Analysis	10.33421	744.4898	683.70968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	131	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	29007	16.13112	Analysis	10.33421	568.16327	755.56452	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	132	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	30857	17.15992	Analysis	11.36302	1404.08163	727.25806	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	133	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	30857	17.15992	Analysis	11.36302	946.93878	668.46774	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	134	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	30857	17.15992	Analysis	11.36302	563.80952	614.03226	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	135	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	30857	17.15992	Analysis	11.36302	378.77551	701.12903	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	136	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	30857	17.15992	Analysis	11.36302	672.65306	788.22581	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	137	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	30857	17.15992	Analysis	11.36302	903.40136	757.74194	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	138	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	30857	17.15992	Analysis	11.36302	733.60544	814.35484	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	139	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	31002	17.24056	Analysis	11.44365	315.64626	618.3871	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	140	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1190.7483	270	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	141	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1310.47619	267.82258	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	142	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1434.55782	385.40323	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	143	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1391.02041	424.59677	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	144	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1532.51701	577.01613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	145	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1491.15646	648.87097	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	146	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1674.01361	722.90323	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	147	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1297.41497	709.83871	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	148	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1210.34014	664.1129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	149	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1025.30612	607.5	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	150	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1068.84354	542.17742	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	151	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	866.39456	378.87097	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	152	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	91.42857	259.1129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	153	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	65.30612	661.93548	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	154	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	748.0068	518.47984	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	155	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1380.34014	765.28226	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	156	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1005	18.19318	Analysis	12.39627	1366.19048	844.75806	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	157	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	650.88435	178.54839	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	158	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	685.71429	202.5	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	159	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1103.67347	418.06452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	160	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1299.59184	407.17742	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	161	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1356.19048	470.32258	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	162	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1471.56463	505.16129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	163	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1475.91837	313.54839	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	164	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1669.65986	41.37097	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	165	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1882.9932	526.93548	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	166	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1600	620.56452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	167	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1569.52381	672.82258	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	168	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1451.97279	696.77419	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	169	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1443.26531	751.20968	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	170	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1502.43537	912.72177	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	171	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	977.36054	189.7379	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	172	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1172	18.28605	Analysis	12.48914	1130.28571	184.29435	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE01	173	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	1182.04082	550.8871	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	174	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	426.66667	746.85484	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	175	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	550.7483	688.06452	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	176	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	729.2517	594.43548	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	177	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	505.03401	857.90323	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	178	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	616.05442	927.58065	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	179	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	959.2449	715.58065	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	180	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	938.02041	765.66129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	181	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	1289	18.35111	Analysis	12.55421	897.7483	818.46371	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	182	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	3438	19.54619	Analysis	13.74929	983.94558	624.91935	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	183	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	5727	20.81913	Analysis	15.02223	522.44898	370.16129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	184	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	5727	20.81913	Analysis	15.02223	1044.89796	359.27419	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	185	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	5727	20.81913	Analysis	15.02223	1275.64626	540	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	186	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	5727	20.81913	Analysis	15.02223	1134.14966	529.1129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	187	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	5727	20.81913	Analysis	15.02223	548.57143	814.35484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	188	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	5727	20.81913	Analysis	15.02223	470.20408	923.22581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	189	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	5727	20.81913	Analysis	15.02223	299.57823	751.875	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE01	190	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	831.56463	204.67742	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	191	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	840.27211	494.27419	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	192	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	870.7483	574.83871	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	193	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	949.11565	631.45161	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	194	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	942.58503	690.24194	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	195	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	859.86395	738.14516	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	196	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	705.30612	792.58065	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	197	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	653.06122	720.72581	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	198	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	468.02721	603.14516	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	199	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	394.01361	749.03226	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	200	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	19892	28.69645	Analysis	22.89954	39.18367	108.87097	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	201	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	1034.01361	524.75806	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	202	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	1175.5102	753.3871	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	203	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	992.65306	640.16129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	204	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	951.29252	783.87097	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	205	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	1105.85034	977.66129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	206	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	855.5102	783.87097	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	207	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	914.28571	600.96774	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	208	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	811.97279	540	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	209	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	772.78912	481.20968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	210	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	646.53061	472.5	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	211	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	124.08163	648.87097	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	212	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29475	34.02566	Analysis	28.22876	108.84354	868.79032	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE01	213	20210603_Port_Fairy_Wave_WE01_Rig6_6L (2).MP4	29680	34.13966	Analysis	28.34276	1456.32653	394.1129	0	0	Girellidae	Girella	zebra		1	AD	Passing			
+WE02	2	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	3657	2.0337	Analysis	0.14459	1232.10884	485.56452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	3	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	3989	2.21833	Analysis	0.32922	1145.03401	285.24194	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	4	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	3989	2.21833	Analysis	0.32922	931.70068	481.20968	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	5	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4332	2.40907	Analysis	0.51996	970.88435	655.40323	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	6	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4332	2.40907	Analysis	0.51996	1700.13605	772.98387	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	7	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4398	2.44578	Analysis	0.55667	1029.65986	594.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	8	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4398	2.44578	Analysis	0.55667	1125.44218	683.70968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	9	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4398	2.44578	Analysis	0.55667	1497.68707	857.90323	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	10	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4398	2.44578	Analysis	0.55667	655.2381	344.03226	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	11	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4398	2.44578	Analysis	0.55667	714.01361	614.03226	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	12	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	4398	2.44578	Analysis	0.55667	435.37415	862.25806	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	13	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5010	2.78612	Analysis	0.89701	1689.2517	740.32258	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	14	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5010	2.78612	Analysis	0.89701	1752.38095	923.22581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	15	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5010	2.78612	Analysis	0.89701	1480.27211	812.17742	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	16	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5585	3.10588	Analysis	1.21677	261.22449	616.20968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	17	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5585	3.10588	Analysis	1.21677	485.44218	672.82258	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	18	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5585	3.10588	Analysis	1.21677	520.27211	770.80645	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	19	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5585	3.10588	Analysis	1.21677	1042.72109	557.41935	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	20	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	5813	3.23267	Analysis	1.34356	1728.43537	703.30645	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	21	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	7126	3.96285	Analysis	2.07374	1663.12925	420.24194	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	22	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	7126	3.96285	Analysis	2.07374	1234.28571	600.96774	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	23	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	7126	3.96285	Analysis	2.07374	1177.68707	725.08065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	24	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	7126	3.96285	Analysis	2.07374	807.61905	934.1129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	25	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	8677	4.82538	Analysis	2.93627	1262.58503	594.43548	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	26	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	8721	4.84985	Analysis	2.96074	770.61224	383.22581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	27	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	8721	4.84985	Analysis	2.96074	1101.4966	472.5	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	28	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	8721	4.84985	Analysis	2.96074	1057.95918	568.30645	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	29	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	8721	4.84985	Analysis	2.96074	1593.46939	544.35484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	30	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	9178	5.10399	Analysis	3.21488	1802.44898	596.6129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	31	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	9178	5.10399	Analysis	3.21488	1131.97279	683.70968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	32	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	9178	5.10399	Analysis	3.21488	1057.95918	766.45161	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	33	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	9178	5.10399	Analysis	3.21488	798.91156	873.14516	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	34	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	9178	5.10399	Analysis	3.21488	940.40816	949.35484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	35	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10766	5.98709	Analysis	4.09798	1828.57143	603.14516	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	36	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10766	5.98709	Analysis	4.09798	1151.56463	605.32258	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	37	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10766	5.98709	Analysis	4.09798	901.22449	605.32258	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	38	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10766	5.98709	Analysis	4.09798	888.16327	731.6129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	39	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10766	5.98709	Analysis	4.09798	901.22449	442.01613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	40	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10781	5.99543	Analysis	4.10632	1647.89116	544.35484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	41	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10781	5.99543	Analysis	4.10632	1134.14966	616.20968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	42	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10781	5.99543	Analysis	4.10632	914.28571	428.95161	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	43	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10781	5.99543	Analysis	4.10632	796.73469	707.66129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	44	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10781	5.99543	Analysis	4.10632	835.91837	729.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	45	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10781	5.99543	Analysis	4.10632	918.63946	781.69355	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	46	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10795	6.00322	Analysis	4.11411	1502.04082	448.54839	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	47	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10795	6.00322	Analysis	4.11411	1134.14966	635.80645	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	48	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10795	6.00322	Analysis	4.11411	890.34014	444.19355	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	49	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10795	6.00322	Analysis	4.11411	744.4898	766.45161	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	50	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10795	6.00322	Analysis	4.11411	768.43537	805.64516	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	51	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10795	6.00322	Analysis	4.11411	883.80952	844.83871	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	52	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	10795	6.00322	Analysis	4.11411	174.14966	459.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	53	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	14641	8.14202	Analysis	6.25291	306.93878	121.93548	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	54	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	14641	8.14202	Analysis	6.25291	1354.01361	328.79032	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	55	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	14641	8.14202	Analysis	6.25291	317.82313	381.04839	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	56	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	14641	8.14202	Analysis	6.25291	1323.53741	1045.16129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	57	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	17482	9.72193	Analysis	7.83283	979.59184	394.1129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	58	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18048	10.03669	Analysis	8.14758	1434.55782	918.87097	0	0	Palinuridae	Jasus	edwardsii	28820001	1	AD	Passing			
+WE02	59	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18183	10.11177	Analysis	8.22266	831.56463	698.95161	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	60	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18183	10.11177	Analysis	8.22266	1005.71429	851.37097	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	61	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18585	10.33533	Analysis	8.44622	990.47619	607.5	0	0	Moridae	Pseudophycis	spp.		1	AD	Passing			
+WE02	62	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1650.06803	927.58065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	63	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1824.21769	868.79032	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	64	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1835.10204	574.83871	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	65	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1532.51701	487.74194	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	66	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	927.34694	296.12903	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	67	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	931.70068	341.85484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	68	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	949.11565	1045.16129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	69	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1878.63946	707.66129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	70	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1229.93197	357.09677	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	71	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1277.82313	716.37097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	72	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	18935	10.52996	Analysis	8.64085	1121.08844	450.72581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	73	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	1654.42177	709.83871	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	74	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	1386.66667	742.5	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	75	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	1094.96599	529.1129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	76	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	1049.2517	431.12903	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	77	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	1094.96599	381.04839	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	78	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	1184.21769	385.40323	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	79	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	1297.41497	348.3871	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	80	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	896.87075	446.37097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	81	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	714.01361	330.96774	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	82	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	21514	11.96417	Analysis	10.07506	940.40816	855.72581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE02	83	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	26534	14.75585	Analysis	12.86674	679.18367	119.75806	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	84	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	26534	14.75585	Analysis	12.86674	705.30612	217.74194	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	85	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	26534	14.75585	Analysis	12.86674	807.61905	354.91935	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	86	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	26534	14.75585	Analysis	12.86674	944.7619	363.62903	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	87	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	26534	14.75585	Analysis	12.86674	448.43537	307.01613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	88	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	1379	18.40116	Analysis	16.51205	975.2381	831.77419	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	89	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	1379	18.40116	Analysis	16.51205	1101.4966	518.22581	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	90	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	1379	18.40116	Analysis	16.51205	1367.07483	213.3871	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	91	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	1379	18.40116	Analysis	16.51205	1641.36054	492.09677	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	92	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	1379	18.40116	Analysis	16.51205	994.82993	267.82258	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	93	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	3332	19.48725	Analysis	17.59814	668.29932	744.67742	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	94	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	3332	19.48725	Analysis	17.59814	1066.66667	801.29032	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	95	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	3332	19.48725	Analysis	17.59814	853.33333	616.20968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	96	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	4801	20.30417	Analysis	18.41506	1203.80952	95.80645	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	97	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	4801	20.30417	Analysis	18.41506	1264.7619	496.45161	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	98	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	4801	20.30417	Analysis	18.41506	1367.07483	751.20968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	99	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	4801	20.30417	Analysis	18.41506	997.0068	537.82258	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	100	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	4801	20.30417	Analysis	18.41506	1412.78912	511.69355	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	101	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	1554.28571	461.6129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	102	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	1040.54422	63.14516	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	103	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	692.2449	195.96774	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	104	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	576.87075	178.54839	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	105	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	544.21769	239.51613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	106	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	39.18367	287.41935	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	107	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	1893.87755	246.04839	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	108	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5183	20.51661	Analysis	18.6275	1885.17007	590.08065	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	109	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5560	20.72626	Analysis	18.83715	1425.85034	502.98387	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	110	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5560	20.72626	Analysis	18.83715	1567.34694	526.93548	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	111	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5560	20.72626	Analysis	18.83715	1284.35374	492.09677	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	112	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5560	20.72626	Analysis	18.83715	1155.91837	585.72581	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	113	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5560	20.72626	Analysis	18.83715	1364.89796	627.09677	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	114	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	5560	20.72626	Analysis	18.83715	1469.38776	670.64516	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	115	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	15057	26.00765	Analysis	24.11854	1650.06803	568.30645	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	116	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	15057	26.00765	Analysis	24.11854	1449.79592	535.64516	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	117	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	15057	26.00765	Analysis	24.11854	1465.03401	587.90323	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	118	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	15057	26.00765	Analysis	24.11854	1545.57823	698.95161	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	119	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	15057	26.00765	Analysis	24.11854	1192.92517	701.12903	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	120	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	15057	26.00765	Analysis	24.11854	1406.68707	813.93548	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	121	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	15057	26.00765	Analysis	24.11854	1540.56463	744.25806	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE02	122	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	16126	26.60213	Analysis	24.71302	1271.29252	672.82258	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WE02	123	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	16126	26.60213	Analysis	24.71302	1414.96599	685.8871	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	124	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	16126	26.60213	Analysis	24.71302	1280	435.48387	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Feeding			
+WE02	125	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	511.56463	374.51613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	126	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	642.17687	313.54839	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	127	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1097.14286	324.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	128	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1142.85714	372.33871	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	129	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1086.2585	402.82258	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	130	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1290.88435	219.91935	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	131	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1641.36054	550.8871	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	132	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1678.36735	611.85484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	133	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1541.22449	544.35484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	134	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1502.04082	594.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	135	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	17801	27.53362	Analysis	25.64451	1138.5034	609.67742	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	136	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	22408	30.09562	Analysis	28.20651	1219.04762	633.62903	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE02	137	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28266	33.35332	Analysis	31.46421	1632.65306	93.62903	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	138	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28266	33.35332	Analysis	31.46421	1758.91156	270	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	139	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28266	33.35332	Analysis	31.46421	1425.85034	228.62903	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	140	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28266	33.35332	Analysis	31.46421	1301.76871	391.93548	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	141	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28266	33.35332	Analysis	31.46421	657.41497	172.01613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	142	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28326	33.38669	Analysis	31.49758	1275.64626	298.30645	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	143	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28326	33.38669	Analysis	31.49758	1299.59184	376.69355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	144	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28326	33.38669	Analysis	31.49758	1756.73469	372.33871	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	145	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28326	33.38669	Analysis	31.49758	1084.08163	350.56452	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	146	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	28326	33.38669	Analysis	31.49758	942.58503	198.14516	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE02	147	20210603_Port_Fairy_Wave_WE02_Rig3_3L (2).MP4	30210	34.4344	Analysis	32.54529	1774.14966	583.54839	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Passing			
+WE02	148	20210603_Port_Fairy_Wave_WE02_Rig3_3L (3).MP4	31035	52.52748	Analysis	50.63837	1103.67347	492.09677	0	0	Girellidae	Girella	zebra		1	AD	Passing			
+WE02	149	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	539.86395	272.17742	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	150	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	990.47619	211.20968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	151	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	942.58503	546.53226	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	152	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	1236.46259	631.45161	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	153	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	1467.21088	276.53226	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	154	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	1756.73469	431.12903	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	155	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	1880.81633	666.29032	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	156	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4519	55.41592	Analysis	53.52681	1293.06122	459.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	157	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	572.51701	270	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	158	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	1094.96599	222.09677	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	159	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	1656.59864	265.64516	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	160	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	1780.68027	389.75806	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	161	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	1306.12245	455.08065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	162	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	1885.17007	631.45161	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	163	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	964.35374	435.48387	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	164	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	929.52381	568.30645	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	165	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	4533	55.4237	Analysis	53.53459	1188.57143	646.69355	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE02	166	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	12709	59.97047	Analysis	58.08136	1839.45578	248.22581	0	0	Girellidae	Girella	zebra		1	AD	Passing			
+WE02	167	20210603_Port_Fairy_Wave_WE02_Rig3_3L (4).MP4	16157	61.88794	Analysis	59.99883	1606.53061	990.72581	0	0	Palinuridae	Jasus	edwardsii	28820001	1	AD	Passing			
+WE05	2	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	4327	2.40629	Analysis	0.14793	1360.54422	239.51613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	3	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	5585	3.10588	Analysis	0.84751	1732.78912	624.91935	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	4	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	5585	3.10588	Analysis	0.84751	1608.70748	914.51613	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Passing			
+WE05	5	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	11505	6.39806	Analysis	4.13969	1617.41497	672.82258	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	6	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	11505	6.39806	Analysis	4.13969	552.92517	494.27419	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	7	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	11505	6.39806	Analysis	4.13969	751.02041	720.72581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	8	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	12013	6.68056	Analysis	4.4222	964.35374	624.91935	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	9	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	12184	6.77566	Analysis	4.51729	1388.84354	302.66129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE05	10	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	12380	6.88466	Analysis	4.62629	877.27891	729.43548	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	11	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	12519	6.96196	Analysis	4.70359	565.98639	814.35484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	12	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	12519	6.96196	Analysis	4.70359	705.30612	792.58065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	13	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	12519	6.96196	Analysis	4.70359	801.08844	378.87097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	14	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	12519	6.96196	Analysis	4.70359	892.51701	740.32258	0	0	Moridae	Pseudophycis	spp.		1	AD	Passing			
+WE05	15	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	14541	8.08641	Analysis	5.82804	1591.29252	285.24194	0	0	Monacanthidae	Meuschenia	australis	37465008	1	AD	Passing			
+WE05	16	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	17397	9.67467	Analysis	7.4163	949.11565	135	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	17	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	17397	9.67467	Analysis	7.4163	768.43537	492.09677	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	18	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	17397	9.67467	Analysis	7.4163	428.84354	731.6129	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Passing			
+WE05	19	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	17606	9.79089	Analysis	7.53252	602.9932	518.22581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	20	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	17606	9.79089	Analysis	7.53252	1179.86395	341.85484	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	21	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	17606	9.79089	Analysis	7.53252	222.04082	914.51613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	22	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	17606	9.79089	Analysis	7.53252	683.53741	729.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Passing			
+WE05	23	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	20434	11.36357	Analysis	9.10521	783.67347	664.1129	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	24	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	21121	11.74562	Analysis	9.48726	1680.54422	459.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	25	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	21121	11.74562	Analysis	9.48726	1480.27211	137.17742	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	26	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	21121	11.74562	Analysis	9.48726	1027.48299	770.80645	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	27	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	21121	11.74562	Analysis	9.48726	829.38776	492.09677	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	28	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	21121	11.74562	Analysis	9.48726	1027.48299	616.20968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE05	29	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	23489	13.06249	Analysis	10.80413	505.03401	962.41935	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	30	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	26380	14.67021	Analysis	12.41184	282.9932	775.16129	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	31	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	26911	14.96551	Analysis	12.70714	864.21769	916.69355	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	32	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	30676	17.05926	Analysis	14.8009	879.45578	450.72581	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE05	33	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	2305	18.91612	Analysis	16.65775	862.04082	309.19355	0	0	Monacanthidae	Meuschenia	australis	37465008	1	AD	Passing			
+WE05	34	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	11320	23.92946	Analysis	21.67109	1584.7619	145.8871	0	0	Monacanthidae	Meuschenia	australis	37465008	1	AD	Passing			
+WE05	35	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	11355	23.94892	Analysis	21.69056	380.95238	916.69355	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE05	36	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	11417	23.9834	Analysis	21.72504	696.59864	866.6129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE05	37	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	12105	24.36601	Analysis	22.10764	761.90476	407.17742	0	0	Monacanthidae	Meuschenia	australis	37465008	1	AD	Passing			
+WE05	38	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	12192	24.41439	Analysis	22.15602	927.34694	751.20968	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WE05	39	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	20881	29.24644	Analysis	26.98807	1066.66667	701.12903	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE05	40	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	21182	29.41383	Analysis	27.15546	668.29932	657.58065	0	0	Monacanthidae	Meuschenia	galii	37465040	1	AD	Passing			
+WE05	41	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	25337	31.72447	Analysis	29.4661	781.4966	940.64516	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	42	20210603_Port_Fairy_Wave_WE05_Rig6_6L (2).MP4	29821	34.21807	Analysis	31.95971	1327.89116	735.96774	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	43	20210603_Port_Fairy_Wave_WE05_Rig6_6L (3).MP4	8123	39.78586	Analysis	37.52749	1447.61905	648.87097	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	44	20210603_Port_Fairy_Wave_WE05_Rig6_6L (3).MP4	12559	42.25277	Analysis	39.9944	1273.46939	254.75806	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	45	20210603_Port_Fairy_Wave_WE05_Rig6_6L (3).MP4	12559	42.25277	Analysis	39.9944	1475.91837	232.98387	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE05	46	20210603_Port_Fairy_Wave_WE05_Rig6_6L (3).MP4	15019	43.6208	Analysis	41.36243	63.12925	531.29032	0	0	Cheilodactylidae	Cheilodactylus	spectabilis		1	AD	Passing			
+WE05	47	20210603_Port_Fairy_Wave_WE05_Rig6_6L (3).MP4	18816	45.73235	Analysis	43.47399	598.63946	903.62903	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE06	2	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3237	1.80013	Analysis	0.07174	1539.04762	352.74194	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	3	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3271	1.81904	Analysis	0.09065	1841.63265	239.51613	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE06	4	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3388	1.8841	Analysis	0.15571	1430.20408	322.25806	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	5	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3388	1.8841	Analysis	0.15571	1408.43537	396.29032	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	6	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3388	1.8841	Analysis	0.15571	1177.68707	413.70968	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	7	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3388	1.8841	Analysis	0.15571	1090.61224	581.37097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	8	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3388	1.8841	Analysis	0.15571	1512.92517	174.19355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	9	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	4684	2.60482	Analysis	0.87643	1517.27891	222.09677	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	10	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	4684	2.60482	Analysis	0.87643	1179.86395	256.93548	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	11	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	4684	2.60482	Analysis	0.87643	922.9932	315.72581	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	12	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	4868	2.70715	Analysis	0.97876	1086.2585	350.56452	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE06	13	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	4868	2.70715	Analysis	0.97876	1147.21088	611.85484	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE06	14	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	7008	3.89723	Analysis	2.16883	254.69388	172.01613	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	15	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	7008	3.89723	Analysis	2.16883	737.95918	317.90323	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	16	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	7008	3.89723	Analysis	2.16883	862.04082	505.16129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	17	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	7008	3.89723	Analysis	2.16883	970.88435	548.70968	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	18	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	7008	3.89723	Analysis	2.16883	1761.08844	23.95161	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	19	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	7263	4.03904	Analysis	2.31064	1053.60544	655.40323	0	0	Labridae	Achoerodus	spp.		1	AD	Passing			
+WE06	20	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8567	4.7642	Analysis	3.03581	1771.97279	418.06452	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	21	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8567	4.7642	Analysis	3.03581	1401.90476	124.1129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	22	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8567	4.7642	Analysis	3.03581	1713.19728	775.16129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	23	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8567	4.7642	Analysis	3.03581	901.22449	581.37097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	24	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8567	4.7642	Analysis	3.03581	779.31973	535.64516	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	25	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8567	4.7642	Analysis	3.03581	400.54422	326.6129	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	26	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8567	4.7642	Analysis	3.03581	465.85034	446.37097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	27	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8694	4.83483	Analysis	3.10644	113.19728	335.32258	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	28	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8694	4.83483	Analysis	3.10644	1188.57143	174.19355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	29	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8694	4.83483	Analysis	3.10644	1164.62585	309.19355	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	30	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8694	4.83483	Analysis	3.10644	1249.52381	455.08065	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	31	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	8694	4.83483	Analysis	3.10644	1682.72109	191.6129	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Passing			
+WE06	32	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	9398	5.22633	Analysis	3.49794	1104.89116	602.33871	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE06	33	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	9398	5.22633	Analysis	3.49794	914.41497	590.3629	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Passing			
+WE06	34	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	10894	6.05827	Analysis	4.32988	1386.66667	180.72581	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	35	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	10894	6.05827	Analysis	4.32988	1408.43537	433.30645	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	36	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	10894	6.05827	Analysis	4.32988	1597.82313	540	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	37	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	10894	6.05827	Analysis	4.32988	835.91837	598.79032	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	38	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	10894	6.05827	Analysis	4.32988	835.91837	354.91935	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	39	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	13240	7.36291	Analysis	5.63452	872.92517	648.87097	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WE06	40	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	14743	8.19875	Analysis	6.47035	1299.59184	500.80645	0	0	Labridae	Achoerodus	spp.		1	AD	Passing			
+WE06	41	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	14926	8.30051	Analysis	6.57212	1053.60544	646.69355	0	0	Labridae	Achoerodus	spp.		1	AD	Passing			
+WE06	42	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1632.65306	378.87097	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	43	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1454.14966	185.08065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	44	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1306.12245	387.58065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	45	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1010.06803	376.69355	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	46	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	746.66667	442.01613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	47	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	740.13605	577.01613	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	48	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	465.85034	459.43548	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	49	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	252.51701	376.69355	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	50	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1040.54422	701.12903	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	51	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1020.95238	609.67742	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	52	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1075.37415	522.58065	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	53	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	161.08844	97.98387	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	54	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1215.73469	757.29032	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	55	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	20512	11.40695	Analysis	9.67856	1151.51701	736.06048	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Passing			
+WE06	56	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	21379	11.8891	Analysis	10.16071	568.16327	574.83871	0	0	Moridae	Pseudophycis	spp.		1	AD	Passing			
+WE06	57	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	30606	17.02034	Analysis	15.29194	720.54422	400.64516	0	0	Labridae	Achoerodus	spp.		1	AD	Passing			
+WE06	58	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	31009	17.24445	Analysis	15.51606	1303.94558	812.17742	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Passing			
+WE06	59	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	31303	17.40795	Analysis	15.67955	994.82993	557.41935	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Passing			
+WE06	60	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	31622	17.58535	Analysis	15.85695	468.02721	313.54839	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Passing			
+WE06	61	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	5429	20.65341	Analysis	18.92502	1112.38095	833.95161	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Passing			
+WE06	62	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	5922	20.92757	Analysis	19.19918	973.06122	579.19355	0	0	Cheilodactylidae	Cheilodactylus	spectabilis		1	AD	Passing			
+WE06	63	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	6393	21.1895	Analysis	19.46111	1369.2517	712.01613	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Feeding			
+WE06	64	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	7415	21.75785	Analysis	20.02945	1219.04762	775.16129	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WE06	65	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	9001	22.63984	Analysis	20.91145	1739.31973	333.14516	0	0	Otariidae	Arctocephalus	spp.		1	AD	Passing			
+WE06	66	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	9096	22.69267	Analysis	20.96428	1271.29252	302.66129	0	0	Otariidae	Arctocephalus	spp.		1	AD	Passing			
+WE06	67	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	9393	22.85784	Analysis	21.12944	1706.66667	296.12903	0	0	Otariidae	Arctocephalus	spp.		1	AD	Passing			
+WE06	68	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	17538	27.38736	Analysis	25.65897	1238.63946	637.98387	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Feeding			
+WE06	69	20210603_Port_Fairy_Wave_WE06_Rig7_7L (2).MP4	24406	31.20673	Analysis	29.47834	816.32653	280.8871	0	0	Cheilodactylidae	Cheilodactylus	spectabilis		1	AD	Passing			
+WE06	70	20210603_Port_Fairy_Wave_WE06_Rig7_7L (4).MP4	5502	55.97926	Analysis	54.25086	1630.47619	193.79032	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Passing			
+WE07	2	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	20468	11.38248	Analysis	5.81192	555.10204	592.25806	0	0	Sillaginidae	Sillago	spp.		14	AD	Passing			
+WE07	3	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	22126	12.30451	Analysis	6.73395	1530.34014	698.95161	0	0	Sillaginidae	Sillago	spp.		11	AD	Passing			
+WE07	4	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	26334	14.64463	Analysis	9.07407	751.02041	727.25806	0	0	Sillaginidae	Sillago	spp.		15	AD	Passing			
+WE07	5	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	27673	15.38926	Analysis	9.8187	1049.2517	609.67742	0	0	Sillaginidae	Sillago	spp.		20	AD	Passing			
+WE07	6	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	27775	15.44599	Analysis	9.87542	953.46939	611.85484	0	0	Sillaginidae	Sillago	spp.		22	AD	Passing			
+WE07	7	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	30084	16.73005	Analysis	11.15948	1327.89116	635.80645	0	0	Sillaginidae	Sillago	spp.		17	AD	Passing			
+WE07	8	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	30535	16.98085	Analysis	11.41029	1140.68027	596.6129	0	0	Sillaginidae	Sillago	spp.		25	AD	Passing			
+WE07	9	20210603_Port_Fairy_Wave_WE07_Rig9_9L (2).MP4	601	17.96851	Analysis	12.39794	997.0068	620.56452	0	0	Sillaginidae	Sillago	spp.		26	AD	Passing			
+WE07	10	20210603_Port_Fairy_Wave_WE07_Rig9_9L (2).MP4	1367	18.39449	Analysis	12.82392	761.90476	679.35484	0	0	Sillaginidae	Sillago	spp.		26	AD	Passing			
+WE07	11	20210603_Port_Fairy_Wave_WE07_Rig9_9L (2).MP4	2176	18.84438	Analysis	13.27382	1086.2585	481.20968	0	0	Sillaginidae	Sillago	spp.		21	AD	Passing			
+WE07	12	20210603_Port_Fairy_Wave_WE07_Rig9_9L (2).MP4	5645	20.77353	Analysis	15.20297	977.41497	585.72581	0	0	Sillaginidae	Sillago	spp.		30	AD	Passing			
+WE07	13	20210603_Port_Fairy_Wave_WE07_Rig9_9L (2).MP4	8598	22.41573	Analysis	16.84516	1007.89116	526.93548	0	0	Sillaginidae	Sillago	spp.		31	AD	Passing			
+WE07	14	20210603_Port_Fairy_Wave_WE07_Rig9_9L (2).MP4	23725	30.82802	Analysis	25.25745	330.88435	931.93548	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Passing			
+WE07	15	20210603_Port_Fairy_Wave_WE07_Rig9_9L (2).MP4	28234	33.33552	Analysis	27.76496	674.82993	949.35484	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Passing			
+WE09	4	20210603_Port_Fairy_Wave_WE09_Rig7_7L (1).MP4	31319	17.41684	Analysis	14.41607	187.21088	735.96774	0	0	Sillaginidae	Sillago	spp.		2	AD	Passing			
+WE09	5	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	3449	19.55231	Analysis	16.55153	563.80952	533.46774	0	0	Sillaginidae	Sillago	spp.		5	AD	Passing			
+WE09	6	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	5758	20.83637	Analysis	17.8356	585.57823	646.69355	0	0	Sillaginidae	Sillago	spp.		12	AD	Passing			
+WE09	7	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	18305	27.8139	Analysis	24.81312	997.0068	505.16129	0	0	Sillaginidae	Sillago	spp.		15	AD	Passing			
+WE09	8	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	19646	28.55964	Analysis	25.55887	670.47619	535.64516	0	0	Sillaginidae	Sillago	spp.		20	AD	Passing			
+WE09	9	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	20503	29.03623	Analysis	26.03545	805.44218	831.77419	0	0	Sillaginidae	Sillago	spp.		28	AD	Passing			
+WE09	10	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	21675	29.68799	Analysis	26.68722	670.47619	857.90323	0	0	Sillaginidae	Sillago	spp.		32	AD	Passing			
+WE09	11	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	22425	30.10507	Analysis	27.1043	537.68707	513.87097	0	0	Heterodontidae	Heterodontus	portusjacksoni	37007001	1	AD	Passing			
+WE09	12	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	24031	30.99819	Analysis	27.99741	620.40816	348.3871	0	0	Sillaginidae	Sillago	spp.		30	AD	Passing			
+WE09	13	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	25238	31.66942	Analysis	28.66864	809.79592	847.01613	0	0	Heterodontidae	Heterodontus	portusjacksoni	37007001	1	AD	Passing			
+WE09	14	20210603_Port_Fairy_Wave_WE09_Rig7_7L (2).MP4	25453	31.78898	Analysis	28.7882	1123.26531	768.62903	0	0	Heterodontidae	Heterodontus	portusjacksoni	37007001	1	AD	Feeding			
+WE09	15	20210603_Port_Fairy_Wave_WE09_Rig7_7L (3).MP4	8534	40.01442	Analysis	37.01364	644.35374	546.53226	0	0	Sillaginidae	Sillago	spp.		35	AD	Passing			
+WE09	16	20210603_Port_Fairy_Wave_WE09_Rig7_7L (4).MP4	6907	56.74391	Analysis	53.74313	306.93878	387.58065	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Passing			
+WE09	17	20210603_Port_Fairy_Wave_WE09_Rig7_7L (4).MP4	6907	56.74391	Analysis	53.74313	176.32653	463.79032	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Passing			
+WE09	18	20210603_Port_Fairy_Wave_WE09_Rig7_7L (4).MP4	9126	57.97792	Analysis	54.97714	1110.20408	522.58065	0	0	Sillaginidae	Sillago	spp.		40	AD	Passing			
+WE10	2	20210603_Port_Fairy_Wave_WE10_Rig6_6L (1).MP4	7981	4.43832	Analysis	1.83906	748.78187	677.04202	0	0	Sillaginidae	Sillago	spp.		16	AD	Attracted			
+WE10	3	20210603_Port_Fairy_Wave_WE10_Rig6_6L (1).MP4	9079	5.04893	Analysis	2.44967	1532.01133	684.30252	0	0	Sillaginidae	Sillago	spp.		22	AD	Attracted			
+WE10	4	20210603_Port_Fairy_Wave_WE10_Rig6_6L (1).MP4	9302	5.17295	Analysis	2.57368	1163.96601	747.83193	0	0	Sillaginidae	Sillago	spp.		31	AD	Attracted			
+WE10	5	20210603_Port_Fairy_Wave_WE10_Rig6_6L (1).MP4	13861	7.70826	Analysis	5.10899	950.02833	707.89916	0	0	Sillaginidae	Sillago	spp.		36	AD	Attracted			
+WE10	6	20210603_Port_Fairy_Wave_WE10_Rig6_6L (1).MP4	17621	9.79923	Analysis	7.19997	1211.10482	787.76471	0	0	Sillaginidae	Sillago	spp.		60	AD	Attracted			
+WE10	7	20210603_Port_Fairy_Wave_WE10_Rig6_6L (2).MP4	6059	21.00376	Analysis	18.4045	1232.86119	784.13445	0	0	Sillaginidae	Sillago	spp.		73	AD	Attracted			
+WE11	2	20210603_Port_Fairy_Wave_WE11_Rig4_4L (1).MP4	6874	3.82271	Analysis	1.77288	1537.45042	903.93277	0	0	Sillaginidae	Sillago	spp.		13	AD	Attracted			
+WE11	3	20210603_Port_Fairy_Wave_WE11_Rig4_4L (1).MP4	8272	4.60015	Analysis	2.55033	638.18697	902.11765	0	0	Sillaginidae	Sillago	spp.		26	AD	Attracted			
+WE11	4	20210603_Port_Fairy_Wave_WE11_Rig4_4L (1).MP4	17702	9.84428	Analysis	7.79445	926.45892	958.38655	0	0	Sillaginidae	Sillago	spp.		26	AD	Attracted			
+WE11	5	20210603_Port_Fairy_Wave_WE11_Rig4_4L (1).MP4	22124	12.3034	Analysis	10.25358	1241.92635	795.02521	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Attracted			
+WE11	6	20210603_Port_Fairy_Wave_WE11_Rig4_4L (2).MP4	18922	28.15702	Analysis	26.10719	1459.49008	704.26891	0	0	Sillaginidae	Sillago	spp.		31	AD	Attracted			
+WE11	7	20210603_Port_Fairy_Wave_WE11_Rig4_4L (2).MP4	21431	29.5523	Analysis	27.50248	1165.77904	985.61345	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Feeding			
+WE11	8	20210603_Port_Fairy_Wave_WE11_Rig4_4L (2).MP4	31656	35.23854	Analysis	33.18871	226.6289	971.09244	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Feeding			
+WE11	9	20210603_Port_Fairy_Wave_WE11_Rig4_4L (2).MP4	31656	35.23854	Analysis	33.18871	707.08215	905.7479	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Feeding			
+WE12	2	20210603_Port_Fairy_Wave_WE12_Rig5_5L (1).MP4	8805	4.89656	Analysis	1.51485	1477.6204	671.59664	0	0	Sillaginidae	Sillago	spp.		12	AD	Passing			
+WE12	3	20210603_Port_Fairy_Wave_WE12_Rig5_5L (1).MP4	11691	6.5015	Analysis	3.11978	1550.14164	829.51261	0	0	Sillaginidae	Sillago	spp.		17	AD	Passing			
+WE12	4	20210603_Port_Fairy_Wave_WE12_Rig5_5L (1).MP4	14087	7.83394	Analysis	4.45223	855.75071	969.27731	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE12	5	20210603_Port_Fairy_Wave_WE12_Rig5_5L (1).MP4	15642	8.69869	Analysis	5.31698	1709.68839	844.03361	0	0	Sillaginidae	Sillago	spp.		27	AD	Passing			
+WE12	6	20210603_Port_Fairy_Wave_WE12_Rig5_5L (1).MP4	21171	11.77343	Analysis	8.39172	1399.66006	814.9916	0	0	Sillaginidae	Sillago	spp.		32	AD	Passing			
+WE12	7	20210603_Port_Fairy_Wave_WE12_Rig5_5L (1).MP4	22726	12.63818	Analysis	9.25647	1510.25496	825.88235	0	0	Sillaginidae	Sillago	spp.		38	AD	Passing			
+WE12	9	20210603_Port_Fairy_Wave_WE12_Rig5_5L (2).MP4	6404	21.19562	Analysis	17.81391	382.54958	412.03361	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE12	10	20210603_Port_Fairy_Wave_WE12_Rig5_5L (2).MP4	19996	28.75428	Analysis	25.37257	734.27762	814.9916	0	0	Sillaginidae	Sillago	spp.		50	AD	Passing			
+WE12	11	20210603_Port_Fairy_Wave_WE12_Rig5_5L (2).MP4	29905	34.26479	Analysis	30.88307	1044.30595	771.42857	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE12	12	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	6326	38.78653	Analysis	35.40481	761.47309	493.71429	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE12	13	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	6326	38.78653	Analysis	35.40481	730.65156	520.94118	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE12	14	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	6326	38.78653	Analysis	35.40481	705.26912	441.07563	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE12	15	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	6326	38.78653	Analysis	35.40481	661.75637	437.44538	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE12	16	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	14711	43.44952	Analysis	40.06781	1463.11615	847.66387	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Attracted			
+WE12	17	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	15753	44.02899	Analysis	40.64727	351.72805	593.54622	0	0	Heterodontidae	Heterodontus	portusjacksoni	37007001	1	AD	Attracted			
+WE12	18	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	17357	44.92099	Analysis	41.53928	991.72805	693.37815	0	0	Heterodontidae	Heterodontus	portusjacksoni	37007001	1	AD	Feeding			
+WE12	19	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	23028	48.07469	Analysis	44.69298	1515.69405	851.29412	0	0	Sillaginidae	Sillago	spp.		67	AD	Passing			
+WE12	20	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	25554	49.47943	Analysis	46.09772	164.98584	931.15966	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Attracted			
+WE12	21	20210603_Port_Fairy_Wave_WE12_Rig5_5L (3).MP4	25554	49.47943	Analysis	46.09772	181.30312	867.63025	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Attracted			
+WE13	2	20210603_Port_Fairy_Wave_WE13_Rig3_3L (1).MP4	13468	7.4897	Analysis	5.05727	1629.91501	1005.57983	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE13	3	20210603_Port_Fairy_Wave_WE13_Rig3_3L (1).MP4	13468	7.4897	Analysis	5.05727	1811.21813	920.26891	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE13	4	20210603_Port_Fairy_Wave_WE13_Rig3_3L (1).MP4	13468	7.4897	Analysis	5.05727	1631.72805	925.71429	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE13	5	20210603_Port_Fairy_Wave_WE13_Rig3_3L (1).MP4	13468	7.4897	Analysis	5.05727	1539.26346	854.92437	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE13	6	20210603_Port_Fairy_Wave_WE13_Rig3_3L (1).MP4	13468	7.4897	Analysis	5.05727	1396.03399	882.15126	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE13	7	20210603_Port_Fairy_Wave_WE13_Rig3_3L (1).MP4	30473	16.94637	Analysis	14.51394	1470.36827	934.78992	0	0	Sillaginidae	Sillago	spp.		9	AD	Attracted			
+WE13	8	20210603_Port_Fairy_Wave_WE13_Rig3_3L (2).MP4	8079	22.12711	Analysis	19.69468	678.07365	798.65546	0	0	Sillaginidae	Sillago	spp.		13	AD	Attracted			
+WE13	9	20210603_Port_Fairy_Wave_WE13_Rig3_3L (2).MP4	15690	26.35967	Analysis	23.92724	1740.50992	981.98319	0	0	Sillaginidae	Sillago	spp.		16	AD	Attracted			
+WE13	10	20210603_Port_Fairy_Wave_WE13_Rig3_3L (2).MP4	25462	31.79398	Analysis	29.36155	1562.83286	885.78151	0	0	Sillaginidae	Sillago	spp.		21	AD	Attracted			
+WE13	11	20210603_Port_Fairy_Wave_WE13_Rig3_3L (3).MP4	23494	48.33384	Analysis	45.90141	184.92918	651.63025	0	0	Heterodontidae	Heterodontus	portusjacksoni	37007001	1	AD	Attracted			
+WE13	12	20210603_Port_Fairy_Wave_WE13_Rig3_3L (3).MP4	28354	51.03654	Analysis	48.60411	1202.03966	814.9916	0	0	Heterodontidae	Heterodontus	portusjacksoni	37007001	1	AD	Feeding			
+WE13	13	20210603_Port_Fairy_Wave_WE13_Rig3_3L (4).MP4	6555	56.54816	Analysis	54.11573	1334.39093	818.62185	0	0	Sillaginidae	Sillago	spp.		25	AD	Attracted			
+WE13	14	20210603_Port_Fairy_Wave_WE13_Rig3_3L (4).MP4	15854	61.71944	Analysis	59.28701	1069.68839	998.31933	0	0	Sillaginidae	Sillago	spp.		31	AD	Attracted			
+WE14	2	20210603_Port_Fairy_Wave_WE14_Rig2_2L (1).MP4	27424	15.25079	Analysis	12.52751	1254.61756	666.15126	0	0	Asteriidae		spp.		1	AD	Passing	Seastar		
+WE15	2	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	10083	5.60727	Analysis	2.78	188.55524	903.93277	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE15	3	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	11035	6.13669	Analysis	3.30942	558.4136	746.01681	0	0	Sillaginidae	Sillago	spp.		25	J	Passing	?		
+WE15	4	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	17735	9.86263	Analysis	7.03536	859.37677	800.47059	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE15	5	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	17735	9.86263	Analysis	7.03536	708.89518	874.89076	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE15	6	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	17735	9.86263	Analysis	7.03536	741.3881	623.7479	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE15	7	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	17735	9.86263	Analysis	7.03536	398.72521	656.42017	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE15	8	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	17735	9.86263	Analysis	7.03536	992.2238	649.33613	0	0	Sillaginidae	Sillago	spp.		1	AD	Attracted			
+WE15	9	20210603_Port_Fairy_Wave_WE15_Rig1_1L (2).MP4	12515	24.59401	Analysis	21.76675	576.54391	844.03361	0	0	Sillaginidae	Sillago	spp.		25	J	Passing	?		
+WE15	10	20210603_Port_Fairy_Wave_WE15_Rig1_1L (2).MP4	14861	25.89865	Analysis	23.07138	1027.98867	947.4958	0	0	Sillaginidae	Sillago	spp.		28	AD	Attracted			
+WE16	2	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	8941	4.97219	Analysis	0.7413	1646.23229	426.55462	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE16	3	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	9465	5.26359	Analysis	1.0327	1816.65722	352.13445	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE16	4	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	9578	5.32643	Analysis	1.09554	1008.04533	166.9916	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE16	5	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	9973	5.5461	Analysis	1.3152	1468.55524	384.80672	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE16	6	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	9973	5.5461	Analysis	1.3152	1241.92635	459.22689	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE16	7	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	10063	5.59615	Analysis	1.36525	1702.43626	413.84874	0	0	Sparidae	Chrysophrys	auratus	37353001	4	AD	Attracted			
+WE16	8	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	10807	6.00989	Analysis	1.779	610.9915	716.97479	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE16	9	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	10807	6.00989	Analysis	1.779	485.89235	439.2605	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE16	10	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	11157	6.20453	Analysis	1.97364	775.97734	444.70588	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE16	11	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	11157	6.20453	Analysis	1.97364	919.2068	185.14286	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE16	12	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	11157	6.20453	Analysis	1.97364	1348.89518	586.28571	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE16	13	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	11244	6.25291	Analysis	2.02202	175.86402	353.94958	0	0	Sparidae	Chrysophrys	auratus	37353001	7	AD	Attracted			
+WE16	14	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	12154	6.75897	Analysis	2.52808	1381.52975	648	0	0	Serranidae	Caesioperca	spp.		4	AD	Attracted			
+WE16	15	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	13286	7.38849	Analysis	3.1576	1499.37677	468.30252	0	0	Serranidae	Caesioperca	spp.		6	AD	Attracted			
+WE16	16	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	13433	7.47024	Analysis	3.23935	1619.03683	481.0084	0	0	Serranidae	Caesioperca	spp.		12	AD	Attracted			
+WE16	17	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	14134	7.86007	Analysis	3.62918	1385.15581	638.92437	0	0	Serranidae	Caesioperca	spp.		16	AD	Attracted			
+WE16	18	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	14944	8.31052	Analysis	4.07963	1060.62323	315.83193	0	0	Serranidae	Caesioperca	spp.		19	AD	Attracted			
+WE16	19	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	15157	8.42898	Analysis	4.19808	1162.15297	653.44538	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE16	20	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	15950	8.86997	Analysis	4.63908	1849.29178	764.16807	0	0	Mullidae	Upeneichthys	vlamingii	37355029	1	AD	Attracted			
+WE16	21	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	16654	9.26147	Analysis	5.03058	1029.8017	477.37815	0	0	Sparidae	Chrysophrys	auratus	37353001	12	AD	Feeding			
+WE16	22	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	17770	9.88209	Analysis	5.6512	1173.03116	646.18487	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE16	23	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	23792	13.231	Analysis	9.0001	971.7847	615.32773	0	0	Sparidae	Chrysophrys	auratus	37353001	13	AD	Attracted			
+WE16	24	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	27833	15.47824	Analysis	11.24735	1069.68839	515.4958	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	25	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	27878	15.50327	Analysis	11.27237	1254.61756	608.06723	0	0	Sparidae	Chrysophrys	auratus	37353001	18	AD	Attracted			
+WE16	26	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	1008	18.22877	Analysis	13.99787	1519.32011	604.43697	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE16	27	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	1008	18.22877	Analysis	13.99787	1098.69688	528.20168	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE16	28	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	2211	18.89777	Analysis	14.66687	1341.64306	795.02521	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	29	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	2211	18.89777	Analysis	14.66687	761.47309	542.72269	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	30	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	9743	23.0864	Analysis	18.8555	1017.11048	566.31933	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	31	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	9743	23.0864	Analysis	18.8555	1133.14448	437.44538	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	32	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	9743	23.0864	Analysis	18.8555	1497.56374	377.54622	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	33	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	13932	25.41595	Analysis	21.18505	688.95184	486.45378	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE16	34	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	16924	27.07983	Analysis	22.84894	449.63173	691.56303	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	35	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	16924	27.07983	Analysis	22.84894	487.70538	462.85714	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	36	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	16924	27.07983	Analysis	22.84894	1064.24929	807.73109	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	37	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	16924	27.07983	Analysis	22.84894	1343.45609	528.20168	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE16	38	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	24574	31.33408	Analysis	27.10319	1272.74788	885.78151	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Attracted			
+WE16	39	20210603_Port_Fairy_Wave_WE16_Rig3_3L (3).MP4	25213	31.68944	Analysis	27.45854	1009.85836	653.44538	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Feeding			
+WE16	40	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	11348	41.61324	Analysis	37.38235	1374.27762	720.60504	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE16	41	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	12720	42.37622	Analysis	38.14533	1062.43626	695.19328	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	42	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	25461	49.46163	Analysis	45.23074	944.58924	849.47899	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	43	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	25461	49.46163	Analysis	45.23074	610.9915	689.7479	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	44	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	25461	49.46163	Analysis	45.23074	710.70822	127.05882	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	45	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	25461	49.46163	Analysis	45.23074	261.07649	401.14286	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE16	46	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	30291	52.14765	Analysis	47.91676	1704.24929	662.52101	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	47	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	30291	52.14765	Analysis	47.91676	1058.8102	686.11765	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	48	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	30559	52.29669	Analysis	48.0658	1542.88952	686.11765	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	49	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	30559	52.29669	Analysis	48.0658	1490.31161	840.40336	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	50	20210603_Port_Fairy_Wave_WE16_Rig3_3L (4).MP4	30559	52.29669	Analysis	48.0658	812.23796	657.07563	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	51	20210603_Port_Fairy_Wave_WE16_Rig3_3L (5).MP4	12274	59.76248	Analysis	55.53159	1588.2153	940.23529	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	52	20210603_Port_Fairy_Wave_WE16_Rig3_3L (5).MP4	12274	59.76248	Analysis	55.53159	1332.5779	706.08403	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	53	20210603_Port_Fairy_Wave_WE16_Rig3_3L (5).MP4	12274	59.76248	Analysis	55.53159	986.28895	760.53782	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE16	54	20210603_Port_Fairy_Wave_WE16_Rig3_3L (5).MP4	12274	59.76248	Analysis	55.53159	841.24646	753.27731	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE17	2	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	5038	2.80169	Analysis	0.22578	964.53258	254.11765	0	0	Serranidae	Caesioperca	spp.		4	AD	Attracted			
+WE17	3	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	5417	3.01245	Analysis	0.43655	446.00567	277.71429	0	0	Serranidae	Caesioperca	spp.		6	AD	Attracted			
+WE17	4	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	6035	3.35613	Analysis	0.78022	1802.15297	624.40336	0	0	Pempherididae	Pempheris	multiradiata	37357001	1	AD	Attracted			
+WE17	5	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	6154	3.42231	Analysis	0.8464	661.75637	764.16807	0	0	Serranidae	Caesioperca	spp.		10	AD	Attracted			
+WE17	6	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	7194	4.00066	Analysis	1.42476	438.75354	898.48739	0	0	Microcanthidae	Tilodon	sexfasciatus		1	AD	Attracted			
+WE17	7	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	7296	4.05739	Analysis	1.48148	1773.14448	831.32773	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	8	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	7875	4.37937	Analysis	1.80347	197.6204	1056.40336	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE17	9	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	8062	4.48337	Analysis	1.90746	1809.4051	588.10084	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	10	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	8062	4.48337	Analysis	1.90746	1562.83286	918.45378	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	11	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	11521	6.40696	Analysis	3.83105	1736.88385	177.88235	0	0	Serranidae	Caesioperca	spp.		13	AD	Attracted			
+WE17	12	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	11715	6.51484	Analysis	3.93894	1160.33994	1025.54622	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE17	13	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	13699	7.61817	Analysis	5.04226	1564.64589	974.72269	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE17	14	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	13699	7.61817	Analysis	5.04226	1789.46176	1029.17647	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE17	15	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	16271	9.04848	Analysis	6.47258	1847.47875	404.77311	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	16	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	16271	9.04848	Analysis	6.47258	1720.56657	475.56303	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	17	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	16462	9.1547	Analysis	6.57879	525.77904	978.35294	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Attracted			
+WE17	18	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	16462	9.1547	Analysis	6.57879	558.4136	388.43697	0	0	Berycidae	Centroberyx	gerrardi	37258004	1	AD	Attracted			
+WE17	19	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	19292	10.7285	Analysis	8.15259	248.38527	775.05882	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE17	20	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	21266	11.82626	Analysis	9.25035	730.65156	1036.43697	0	0	Monacanthidae	Meuschenia	flavolineata	37465035	1	AD	Attracted			
+WE17	21	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	22358	12.43353	Analysis	9.85763	1341.64306	722.42017	0	0	Serranidae	Caesioperca	spp.		16	AD	Attracted			
+WE17	22	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	23805	13.23822	Analysis	10.66232	1553.76771	598.9916	0	0	Myliobatidae	Myliobatis	tenuicaudatus	37039001	1	AD	Attracted			
+WE17	23	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	25466	14.16193	Analysis	11.58602	1807.59207	800.47059	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	24	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	25466	14.16193	Analysis	11.58602	1519.32011	499.15966	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	25	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	25466	14.16193	Analysis	11.58602	797.73371	664.33613	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	26	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	25637	14.25702	Analysis	11.68111	1611.7847	773.2437	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	27	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	25637	14.25702	Analysis	11.68111	1294.50425	686.11765	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	28	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	25637	14.25702	Analysis	11.68111	939.15014	923.89916	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	29	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	25637	14.25702	Analysis	11.68111	832.1813	795.02521	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE17	30	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	30610	17.02256	Analysis	14.44665	1211.10482	597.17647	0	0	Serranidae	Caesioperca	spp.		35	AD	Attracted			
+WE17	31	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	30974	17.22499	Analysis	14.64908	1874.67422	559.05882	0	0	Sparidae	Chrysophrys	auratus	37353001	7	AD	Attracted			
+WE17	32	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	31134	17.31396	Analysis	14.73806	892.01133	1014.65546	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	33	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	65	17.67043	Analysis	15.09452	710.70822	945.68067	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	34	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	65	17.67043	Analysis	15.09452	703.45609	711.52941	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	35	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	887	18.12755	Analysis	15.55165	799.54674	983.79832	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	36	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	887	18.12755	Analysis	15.55165	814.05099	845.84874	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	37	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	887	18.12755	Analysis	15.55165	1314.44759	1036.43697	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE17	38	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	1522	18.48068	Analysis	15.90478	1323.51275	753.27731	0	0	Hexanchidae	Notorynchus	cepedianus	37005002	1	AD	Attracted			
+WE17	39	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	1741	18.60247	Analysis	16.02657	683.51275	372.10084	0	0	Carangidae	Pseudocaranx	spp.		4	AD	Attracted			
+WE17	40	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	4602	20.19351	Analysis	17.6176	1408.72521	822.2521	0	0	Monacanthidae	Meuschenia	hippocrepis	37465004	1	AD	Attracted			
+WE17	41	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	6621	21.3163	Analysis	18.74039	1258.24363	936.60504	0	0	Monacanthidae	Meuschenia	hippocrepis	37465004	1	AD	Feeding			
+WE17	42	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	7476	21.79177	Analysis	19.21586	1336.20397	451.96639	0	0	Hexanchidae	Notorynchus	cepedianus	37005002	1	AD	Attracted			
+WE17	43	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	12328	24.49002	Analysis	21.91411	895.63739	600.80672	0	0	Sparidae	Chrysophrys	auratus	37353001	7	AD	Attracted			
+WE17	44	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	21115	29.37657	Analysis	26.80066	556.60057	813.17647	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE17	45	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	26136	32.1688	Analysis	29.5929	859.37677	871.2605	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	46	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	26136	32.1688	Analysis	29.5929	745.15581	805.91597	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	47	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	26136	32.1688	Analysis	29.5929	469.57507	773.2437	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE17	48	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	26136	32.1688	Analysis	29.5929	1095.07082	1060.03361	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE17	49	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	27649	33.0102	Analysis	30.43429	578.35694	824.06723	0	0	Monacanthidae	Meuschenia	galii	37465040	1	AD	Attracted			
+WE17	50	20210603_Port_Fairy_Wave_WE17_Rig5_5L (2).MP4	30646	34.67686	Analysis	32.10096	971.7847	392.06723	0	0	Sparidae	Chrysophrys	auratus	37353001	8	AD	Attracted			
+WE17	51	20210603_Port_Fairy_Wave_WE17_Rig5_5L (3).MP4	747	35.68398	Analysis	33.10807	494.95751	849.47899	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE17	52	20210603_Port_Fairy_Wave_WE17_Rig5_5L (3).MP4	747	35.68398	Analysis	33.10807	616.43059	833.14286	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE17	53	20210603_Port_Fairy_Wave_WE17_Rig5_5L (3).MP4	4759	37.9151	Analysis	35.33919	1698.8102	580.84034	0	0	Monacanthidae	Meuschenia	australis	37465008	1	AD	Attracted			
+WE17	54	20210603_Port_Fairy_Wave_WE17_Rig5_5L (3).MP4	6968	39.14355	Analysis	36.56764	1281.81303	408.40336	0	0	Monacanthidae	Meuschenia	freycineti	37465036	1	M	Attracted			
+WE17	55	20210603_Port_Fairy_Wave_WE17_Rig5_5L (3).MP4	20155	46.47699	Analysis	43.90108	1435.92068	606.2521	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE17	56	20210603_Port_Fairy_Wave_WE17_Rig5_5L (3).MP4	20155	46.47699	Analysis	43.90108	1762.26629	657.07563	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE17	57	20210603_Port_Fairy_Wave_WE17_Rig5_5L (3).MP4	27911	50.79018	Analysis	48.21428	29.0085	960.20168	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Passing			
+WE17	58	20210603_Port_Fairy_Wave_WE17_Rig5_5L (4).MP4	4952	55.65671	Analysis	53.08081	1258.24363	715.15966	0	0	Monacanthidae	Eubalichthys	gunnii	37465034	1	AD	Passing	?		
+WE17	59	20210603_Port_Fairy_Wave_WE17_Rig5_5L (4).MP4	5333	55.86859	Analysis	53.29268	1383.34278	713.34454	0	0	Monacanthidae	Eubalichthys	gunnii	37465034	1	AD	Passing	?		
+WE17	60	20210603_Port_Fairy_Wave_WE17_Rig5_5L (4).MP4	5333	55.86859	Analysis	53.29268	498.58357	842.21849	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE17	61	20210603_Port_Fairy_Wave_WE17_Rig5_5L (4).MP4	8607	57.6893	Analysis	55.11339	1017.11048	341.2437	0	0	Dinolestidae	Dinolestes	lewini	37327002	1	AD	Attracted			
+WE17	62	20210603_Port_Fairy_Wave_WE17_Rig5_5L (4).MP4	11248	59.15799	Analysis	56.58208	746.96884	695.19328	0	0	Berycidae	Centroberyx	gerrardi	37258004	1	AD	Attracted			
+WE18	3	20210603_Port_Fairy_Wave_WE18_Rig4_4L (3).MP4	22883	48.01074	Analysis	45.66117	1606.34561	778.68908	0	0	Platycephalidae	Platycephalus	bassensis	37296003	1	AD	Attracted			
+WE19	2	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	6605	3.67311	Analysis	1.36859	1613.59773	328.53782	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE19	3	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	7226	4.01846	Analysis	1.71393	708.89518	459.22689	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE19	4	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	7715	4.2904	Analysis	1.98587	957.28045	317.64706	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	5	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	8070	4.48782	Analysis	2.18329	868.44193	965.64706	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WE19	6	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	8613	4.78979	Analysis	2.48526	643.62606	116.16807	0	0	Monacanthidae	Meuschenia	flavolineata	37465035	1	AD	Attracted			
+WE19	7	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	9001	5.00556	Analysis	2.70103	1359.77337	891.22689	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	M	Attracted			
+WE19	8	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	9001	5.00556	Analysis	2.70103	1011.67139	814.9916	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WE19	9	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	9465	5.26359	Analysis	2.95907	690.76487	686.11765	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WE19	10	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	9465	5.26359	Analysis	2.95907	781.41643	419.29412	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WE19	11	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	9465	5.26359	Analysis	2.95907	1280	867.63025	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	M	Attracted			
+WE19	12	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	9979	5.54943	Analysis	3.24491	1501.1898	640.7395	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	13	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	9979	5.54943	Analysis	3.24491	694.39093	59.89916	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	14	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	10305	5.73073	Analysis	3.4262	1051.55807	551.79832	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE19	15	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	10527	5.85418	Analysis	3.54966	1655.29745	544.53782	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	16	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	10527	5.85418	Analysis	3.54966	1009.85836	333.98319	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	17	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	10527	5.85418	Analysis	3.54966	1131.33144	658.89076	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE19	18	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	11494	6.39194	Analysis	4.08742	1111.3881	980.16807	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE19	19	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	11494	6.39194	Analysis	4.08742	299.15014	366.65546	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE19	20	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	11494	6.39194	Analysis	4.08742	884.75921	504.60504	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	21	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	11494	6.39194	Analysis	4.08742	1154.90085	259.56303	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	22	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	12150	6.75675	Analysis	4.45223	1075.12748	1001.94958	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE19	23	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	12150	6.75675	Analysis	4.45223	1200.22663	1049.14286	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE19	24	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	12150	6.75675	Analysis	4.45223	1385.15581	885.78151	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE19	25	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	12150	6.75675	Analysis	4.45223	1323.51275	1056.40336	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	26	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	12150	6.75675	Analysis	4.45223	922.83286	56.26891	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	27	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	12404	6.898	Analysis	4.59348	1756.8272	731.4958	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE19	28	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	12404	6.898	Analysis	4.59348	1100.50992	785.94958	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE19	29	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	13680	7.6076	Analysis	5.30308	1056.99717	784.13445	0	0	Serranidae	Caesioperca	spp.		6	AD	Attracted			
+WE19	30	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	15874	8.82771	Analysis	6.52318	1078.75354	292.23529	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Attracted			
+WE19	31	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	16246	9.03458	Analysis	6.73006	703.45609	410.21849	0	0	Serranidae	Caesioperca	spp.		8	AD	Attracted			
+WE19	32	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	16421	9.1319	Analysis	6.82738	592.86119	348.5042	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	M	Attracted			
+WE19	33	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	16421	9.1319	Analysis	6.82738	799.54674	441.07563	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	M	Attracted			
+WE19	34	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	16421	9.1319	Analysis	6.82738	1082.3796	903.93277	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WE19	35	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	16847	9.3688	Analysis	7.06428	857.56374	484.63866	0	0	Serranidae	Caesioperca	spp.		11	AD	Attracted			
+WE19	36	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	17151	9.53786	Analysis	7.23334	369.85836	824.06723	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE19	37	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	17151	9.53786	Analysis	7.23334	1000.50992	335.7479	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE19	38	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	17151	9.53786	Analysis	7.23334	1096.88385	608.06723	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	39	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	17151	9.53786	Analysis	7.23334	841.24646	359.39496	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	40	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	17151	9.53786	Analysis	7.23334	1263.68272	337.61345	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	41	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	18603	10.34534	Analysis	8.04081	1127.70538	638.92437	0	0	Serranidae	Caesioperca	spp.		13	AD	Attracted			
+WE19	42	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	20666	11.49259	Analysis	9.18807	1599.09348	586.28571	0	0	Dinolestidae	Dinolestes	lewini	37327002	1	AD	Attracted			
+WE19	43	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	22171	12.32954	Analysis	10.02501	1142.20963	582.65546	0	0	Serranidae	Caesioperca	spp.		18	AD	Attracted			
+WE19	44	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	22438	12.47802	Analysis	10.1735	1341.64306	682.48739	0	0	Serranidae	Caesioperca	spp.		27	AD	Attracted			
+WE19	45	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	23127	12.86118	Analysis	10.55666	982.66289	557.2437	0	0	Serranidae	Caesioperca	spp.		31	AD	Attracted			
+WE19	46	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	25037	13.92335	Analysis	11.61883	872.06799	468.30252	0	0	Serranidae	Caesioperca	spp.		36	AD	Attracted			
+WE19	47	20210603_Port_Fairy_Wave_WE19_Rig10_10L (2).MP4	9939	23.16147	Analysis	20.85695	1477.6204	662.52101	0	0	Monacanthidae	Meuschenia	galii	37465040	1	AD	Attracted			
+WE19	48	20210603_Port_Fairy_Wave_WE19_Rig10_10L (2).MP4	10168	23.28882	Analysis	20.9843	1343.45609	192.40336	0	0	Monacanthidae	Meuschenia	galii	37465040	1	AD	Passing			
+WE19	49	20210603_Port_Fairy_Wave_WE19_Rig10_10L (2).MP4	13977	25.40705	Analysis	23.10252	1207.47875	640.7395	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE19	50	20210603_Port_Fairy_Wave_WE19_Rig10_10L (2).MP4	16828	26.99252	Analysis	24.688	1042.49292	437.44538	0	0	Serranidae	Caesioperca	spp.		40	AD	Attracted			
+WE19	51	20210603_Port_Fairy_Wave_WE19_Rig10_10L (2).MP4	29093	33.81322	Analysis	31.5087	799.54674	724.23529	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE19	52	20210603_Port_Fairy_Wave_WE19_Rig10_10L (2).MP4	31249	35.0122	Analysis	32.70768	1105.94901	662.52101	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE19	53	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	7206	39.2759	Analysis	36.97138	1617.2238	535.46218	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE19	54	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	23588	48.38612	Analysis	46.08159	1037.05382	646.18487	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE19	55	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	23588	48.38612	Analysis	46.08159	1131.33144	388.43697	0	0	Labridae	Notolabrus	tetricus	37384003	5	F	Feeding			
+WE19	56	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	23588	48.38612	Analysis	46.08159	1294.50425	689.7479	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE19	57	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	24312	48.78874	Analysis	46.48422	1167.59207	393.88235	0	0	Serranidae	Caesioperca	spp.		45	AD	Attracted			
+WE19	58	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	24469	48.87605	Analysis	46.57153	473.20113	134.31933	0	0	Pempherididae	Pempheris	multiradiata	37357001	1	AD	Attracted			
+WE19	59	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	24495	48.89051	Analysis	46.58598	579.23796	162.45378	0	0	Pempherididae	Pempheris	multiradiata	37357001	1	AD	Passing			
+WE19	60	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	24495	48.89051	Analysis	46.58598	701.61756	88.94118	0	0	Pempherididae	Pempheris	multiradiata	37357001	1	AD	Passing			
+WE19	61	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	24849	49.08737	Analysis	46.78285	1381.52975	784.13445	0	0	Serranidae	Caesioperca	spp.		52	AD	Attracted			
+WE19	62	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	30651	52.31393	Analysis	50.0094	1836.60057	983.79832	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE19	63	20210603_Port_Fairy_Wave_WE19_Rig10_10L (3).MP4	30651	52.31393	Analysis	50.0094	1439.54674	79.86555	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE19	64	20210603_Port_Fairy_Wave_WE19_Rig10_10L (4).MP4	3060	54.60455	Analysis	52.30003	1100.50992	500.97479	0	0	Labridae	Notolabrus	tetricus	37384003	6	F	Feeding			
+WE19	65	20210603_Port_Fairy_Wave_WE19_Rig10_10L (4).MP4	3060	54.60455	Analysis	52.30003	1299.94334	885.78151	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE20	2	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	4547	2.52864	Analysis	0.33645	536.65722	820.43697	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE20	3	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	5546	3.08419	Analysis	0.892	1002.60623	314.01681	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE20	4	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	5546	3.08419	Analysis	0.892	1483.05949	268.63866	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE20	5	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	5864	3.26104	Analysis	1.06885	971.7847	504.60504	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE20	6	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	5864	3.26104	Analysis	1.06885	833.99433	395.69748	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE20	7	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	5864	3.26104	Analysis	1.06885	163.1728	259.56303	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE20	8	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	6048	3.36336	Analysis	1.17117	649.06516	591.73109	0	0	Serranidae	Caesioperca	spp.		5	AD	Attracted			
+WE20	9	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	6295	3.50072	Analysis	1.30853	1365.21246	593.54622	0	0	Serranidae	Caesioperca	spp.		7	AD	Attracted			
+WE20	10	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	6569	3.65309	Analysis	1.4609	1444.98584	390.2521	0	0	Serranidae	Caesioperca	spp.		9	AD	Attracted			
+WE20	11	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	6925	3.85107	Analysis	1.65888	1470.36827	517.31092	0	0	Serranidae	Caesioperca	spp.		13	AD	Attracted			
+WE20	12	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	7177	3.99121	Analysis	1.79902	1274.56091	586.28571	0	0	Serranidae	Caesioperca	spp.		20	AD	Attracted			
+WE20	13	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	7412	4.1219	Analysis	1.92971	1484.87252	874.89076	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE20	14	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	7745	4.30708	Analysis	2.11489	1644.41926	524.57143	0	0	Serranidae	Caesioperca	spp.		24	AD	Attracted			
+WE20	15	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	9366	5.20854	Analysis	3.01635	1367.0255	439.2605	0	0	Serranidae	Caesioperca	spp.		28	AD	Attracted			
+WE20	16	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	14006	7.78889	Analysis	5.5967	1579.15014	938.42017	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WE20	17	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	15352	8.53742	Analysis	6.34523	1292.69122	813.17647	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Feeding			
+WE20	18	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	16081	8.94282	Analysis	6.75063	621.86969	686.11765	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE20	19	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	16081	8.94282	Analysis	6.75063	819.49008	615.32773	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE20	20	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	18387	10.22522	Analysis	8.03303	580.16997	466.48739	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE20	21	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	18387	10.22522	Analysis	8.03303	1278.18697	666.15126	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE20	22	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	18387	10.22522	Analysis	8.03303	1115.01416	667.96639	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE20	23	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	18807	10.45878	Analysis	8.26659	1655.29745	470.11765	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE20	24	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	19307	10.73684	Analysis	8.54465	1600.90652	568.13445	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE20	25	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	19307	10.73684	Analysis	8.54465	1269.12181	520.94118	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE20	26	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	19964	11.1022	Analysis	8.91001	1017.11048	328.53782	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE20	27	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	21536	11.97641	Analysis	9.78422	1506.6289	275.89916	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE20	28	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	21536	11.97641	Analysis	9.78422	1125.89235	323.09244	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE20	29	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28137	15.6473	Analysis	13.45511	659.94334	687.93277	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE20	30	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28137	15.6473	Analysis	13.45511	1160.33994	624.40336	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	31	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28137	15.6473	Analysis	13.45511	1415.97734	555.42857	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE20	32	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28267	15.71959	Analysis	13.5274	1394.22096	617.14286	0	0	Serranidae	Caesioperca	spp.		38	AD	Attracted			
+WE20	33	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28797	16.01433	Analysis	13.82214	1430.48159	718.78992	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	34	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28797	16.01433	Analysis	13.82214	1609.97167	559.05882	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	35	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28797	16.01433	Analysis	13.82214	1305.38244	491.89916	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	36	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	28797	16.01433	Analysis	13.82214	1185.72238	593.54622	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	37	20210603_Port_Fairy_Wave_WE20_Rig9_9L (2).MP4	11817	24.20585	Analysis	22.01366	678.07365	620.77311	0	0	Mullidae	Upeneichthys	vlamingii	37355029	1	AD	Attracted			
+WE20	38	20210603_Port_Fairy_Wave_WE20_Rig9_9L (2).MP4	15929	26.49258	Analysis	24.30039	328.15864	608.06723	0	0	Monacanthidae	Eubalichthys	gunnii	37465034	1	M	Attracted			
+WE20	39	20210603_Port_Fairy_Wave_WE20_Rig9_9L (2).MP4	16450	26.78231	Analysis	24.59012	456.88385	635.29412	0	0	Monacanthidae	Eubalichthys	gunnii	37465034	1	M	Attracted			
+WE20	40	20210603_Port_Fairy_Wave_WE20_Rig9_9L (2).MP4	19603	28.53573	Analysis	26.34354	1089.63173	618.95798	0	0	Monacanthidae	Eubalichthys	gunnii	37465034	1	M	Feeding			
+WE20	41	20210603_Port_Fairy_Wave_WE20_Rig9_9L (2).MP4	27441	32.89453	Analysis	30.70234	765.09915	664.33613	0	0	Mullidae	Upeneichthys	vlamingii	37355029	1	AD	Attracted			
+WE20	42	20210603_Port_Fairy_Wave_WE20_Rig9_9L (2).MP4	27441	32.89453	Analysis	30.70234	447.8187	520.94118	0	0	Mullidae	Upeneichthys	vlamingii	37355029	1	AD	Attracted			
+WE20	43	20210603_Port_Fairy_Wave_WE20_Rig9_9L (3).MP4	16669	44.53838	Analysis	42.34619	1124.07932	620.77311	0	0	Serranidae	Caesioperca	spp.		39	AD	Attracted			
+WE20	44	20210603_Port_Fairy_Wave_WE20_Rig9_9L (3).MP4	21564	47.26055	Analysis	45.06836	1018.92351	840.40336	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE20	45	20210603_Port_Fairy_Wave_WE20_Rig9_9L (3).MP4	21564	47.26055	Analysis	45.06836	132.35127	695.19328	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE20	46	20210603_Port_Fairy_Wave_WE20_Rig9_9L (3).MP4	23370	48.26488	Analysis	46.07269	1506.6289	404.77311	0	0	Serranidae	Caesioperca	spp.		44	AD	Attracted			
+WE20	47	20210603_Port_Fairy_Wave_WE20_Rig9_9L (4).MP4	1820	53.91497	Analysis	51.72278	1715.12748	640.7395	0	0	Sparidae	Chrysophrys	auratus	37353001	6	AD	Attracted			
+WE20	48	20210603_Port_Fairy_Wave_WE20_Rig9_9L (4).MP4	1824	53.9172	Analysis	51.72501	1713.31445	673.41176	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	49	20210603_Port_Fairy_Wave_WE20_Rig9_9L (4).MP4	1824	53.9172	Analysis	51.72501	1314.44759	473.7479	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	50	20210603_Port_Fairy_Wave_WE20_Rig9_9L (4).MP4	1824	53.9172	Analysis	51.72501	1105.94901	557.2437	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	51	20210603_Port_Fairy_Wave_WE20_Rig9_9L (4).MP4	1824	53.9172	Analysis	51.72501	892.01133	330.35294	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE20	52	20210603_Port_Fairy_Wave_WE20_Rig9_9L (4).MP4	1824	53.9172	Analysis	51.72501	940.96317	617.14286	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	2	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7259	4.03681	Analysis	0.1824	676.26062	557.2437	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE21	3	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7325	4.07351	Analysis	0.21911	509.46176	177.88235	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE21	4	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7325	4.07351	Analysis	0.21911	308.2153	130.68908	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE21	5	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7479	4.15916	Analysis	0.30475	1638.98017	372.10084	0	0	Microcanthidae	Tilodon	sexfasciatus		1	AD	Attracted			
+WE21	6	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7567	4.20809	Analysis	0.35369	910.14164	315.83193	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE21	7	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7567	4.20809	Analysis	0.35369	603.73938	163.36134	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE21	8	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7567	4.20809	Analysis	0.35369	902.88952	38.11765	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE21	9	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7567	4.20809	Analysis	0.35369	848.49858	678.85714	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE21	10	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7567	4.20809	Analysis	0.35369	1764.07932	417.47899	0	0	Serranidae	Caesioperca	spp.		1	AD	Attracted			
+WE21	11	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7684	4.27316	Analysis	0.41875	576.54391	506.42017	0	0	Serranidae	Caesioperca	spp.		7	AD	Attracted			
+WE21	12	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7813	4.3449	Analysis	0.49049	1260.05666	428.36975	0	0	Serranidae	Caesioperca	spp.		10	AD	Attracted			
+WE21	13	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7901	4.39383	Analysis	0.53943	1357.96034	462.85714	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE21	14	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	7901	4.39383	Analysis	0.53943	1629.91501	451.96639	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	15	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	8097	4.50283	Analysis	0.64843	636.37394	544.53782	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	M	Attracted			
+WE21	16	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	8261	4.59403	Analysis	0.73963	259.26346	513.68067	0	0	Mullidae	Upeneichthys	vlamingii	37355029	1	AD	Attracted			
+WE21	17	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	8441	4.69413	Analysis	0.83973	1323.51275	314.01681	0	0	Serranidae	Caesioperca	spp.		14	AD	Attracted			
+WE21	18	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	8560	4.76031	Analysis	0.90591	1417.79037	611.69748	0	0	Serranidae	Caesioperca	spp.		17	AD	Attracted			
+WE21	19	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	9457	5.25914	Analysis	1.40474	1207.47875	562.68908	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	20	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	9712	5.40095	Analysis	1.54655	1160.33994	192.40336	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE21	21	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	9867	5.48715	Analysis	1.63274	594.67422	686.11765	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	22	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	10502	5.84028	Analysis	1.98587	859.37677	246.85714	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Attracted			
+WE21	23	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	10578	5.88254	Analysis	2.02814	1726.00567	735.12605	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	24	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	10578	5.88254	Analysis	2.02814	1629.91501	422.92437	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	25	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	11377	6.32688	Analysis	2.47247	1258.24363	644.36975	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE21	26	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	12173	6.76954	Analysis	2.91513	1372.46459	479.19328	0	0	Serranidae	Caesioperca	spp.		23	AD	Attracted			
+WE21	27	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	13998	7.78444	Analysis	3.93004	1756.8272	853.10924	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	28	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	13998	7.78444	Analysis	3.93004	1566.45892	845.84874	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	29	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	13998	7.78444	Analysis	3.93004	1551.95467	747.83193	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	30	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	18292	10.17238	Analysis	6.31798	1354.33428	726.05042	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	31	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	18292	10.17238	Analysis	6.31798	1602.71955	526.38655	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	32	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	18292	10.17238	Analysis	6.31798	937.33711	297.68067	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	33	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	18292	10.17238	Analysis	6.31798	1049.74504	188.77311	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE21	34	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	24253	13.48736	Analysis	9.63296	1691.55807	633.47899	0	0	Serranidae	Caesioperca	spp.		24	AD	Attracted			
+WE21	35	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	31376	17.44854	Analysis	13.59414	1784.02266	629.84874	0	0	Hexanchidae	Notorynchus	cepedianus	37005002	1	AD	Attracted			
+WE21	36	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	28	17.64985	Analysis	13.79545	1115.01416	811.36134	0	0	Hexanchidae	Notorynchus	cepedianus	37005002	1	AD	Attracted			
+WE21	37	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	332	17.81891	Analysis	13.96451	703.45609	595.36134	0	0	Carangidae	Trachurus	spp.		5	AD	Passing			
+WE21	38	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	731	18.0408	Analysis	14.18639	926.45892	450.15126	0	0	Serranidae	Caesioperca	spp.		31	AD	Attracted			
+WE21	39	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	1027	18.20541	Analysis	14.351	1454.05099	553.61345	0	0	Hexanchidae	Notorynchus	cepedianus	37005002	1	AD	Feeding			
+WE21	40	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	2954	19.27704	Analysis	15.42263	1814.84419	597.17647	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	41	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	2954	19.27704	Analysis	15.42263	1684.30595	557.2437	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	42	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	2954	19.27704	Analysis	15.42263	1403.28612	706.08403	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	43	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	4133	19.93269	Analysis	16.07828	721.5864	500.97479	0	0	Cheilodactylidae	Nemadactylus	valenciennesi		1	AD	Attracted			
+WE21	44	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	4584	20.1835	Analysis	16.32909	1889.17847	555.42857	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	45	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	4584	20.1835	Analysis	16.32909	1718.75354	660.70588	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	46	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	4584	20.1835	Analysis	16.32909	1339.83003	622.58824	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	47	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	4584	20.1835	Analysis	16.32909	1162.15297	468.30252	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	48	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	5009	20.41984	Analysis	16.56544	1234.67422	528.20168	0	0	Hexanchidae	Notorynchus	cepedianus	37005002	1	AD	Attracted			
+WE21	49	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	5397	20.63561	Analysis	16.78121	1386.96884	530.01681	0	0	Hexanchidae	Notorynchus	cepedianus	37005002	1	AD	Attracted			
+WE21	50	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	5685	20.79577	Analysis	16.94137	890.1983	686.11765	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	51	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	5685	20.79577	Analysis	16.94137	1162.15297	689.7479	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	52	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	6892	21.467	Analysis	17.6126	1417.79037	530.01681	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE21	53	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	6892	21.467	Analysis	17.6126	1203.85269	108.90756	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Attracted			
+WE21	54	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	25394	31.75617	Analysis	27.90176	264.70255	729.68067	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Attracted			
+WE21	55	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	27759	33.07137	Analysis	29.21697	1173.03116	677.04202	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE21	56	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	27759	33.07137	Analysis	29.21697	852.12465	629.84874	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	57	20210603_Port_Fairy_Wave_WE21_Rig8_8L (2).MP4	27759	33.07137	Analysis	29.21697	397.05382	608.06723	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	58	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	817	35.72291	Analysis	31.8685	1573.71105	615.32773	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	59	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	817	35.72291	Analysis	31.8685	1368.83853	646.18487	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	60	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	817	35.72291	Analysis	31.8685	1245.55241	622.58824	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	61	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	817	35.72291	Analysis	31.8685	886.57224	811.36134	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	62	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	817	35.72291	Analysis	31.8685	369.85836	864	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE21	63	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	1793	36.26567	Analysis	32.41127	1332.5779	746.01681	0	0	Sparidae	Chrysophrys	auratus	37353001	7	AD	Feeding			
+WE21	64	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	9755	40.69343	Analysis	36.83902	1397.84703	724.23529	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	65	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	9755	40.69343	Analysis	36.83902	995.35411	412.03361	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	66	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	9755	40.69343	Analysis	36.83902	814.05099	693.37815	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	67	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	11366	41.58933	Analysis	37.73492	1236.48725	617.14286	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	68	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	11366	41.58933	Analysis	37.73492	919.2068	597.17647	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	69	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	11366	41.58933	Analysis	37.73492	658.13031	687.93277	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE21	70	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	11366	41.58933	Analysis	37.73492	1479.43343	637.10924	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Feeding			
+WE21	71	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	23260	48.20371	Analysis	44.34931	1405.09915	795.02521	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Feeding			
+WE21	72	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	24357	48.81377	Analysis	44.95936	1269.12181	517.31092	0	0	Sparidae	Chrysophrys	auratus	37353001	7	AD	Feeding			
+WE21	73	20210603_Port_Fairy_Wave_WE21_Rig8_8L (3).MP4	29741	51.80787	Analysis	47.95346	998.98017	482.82353	0	0	Sparidae	Chrysophrys	auratus	37353001	9	AD	Feeding			
+WE21	74	20210603_Port_Fairy_Wave_WE21_Rig8_8L (4).MP4	15314	61.41914	Analysis	57.56473	960.90652	593.54622	0	0	Sparidae	Chrysophrys	auratus	37353001	12	AD	Feeding			
+WE21	75	20210603_Port_Fairy_Wave_WE21_Rig8_8L (4).MP4	16618	62.1443	Analysis	58.2899	1352.52125	678.85714	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Feeding			
+WE21	76	20210603_Port_Fairy_Wave_WE21_Rig8_8L (4).MP4	16618	62.1443	Analysis	58.2899	1046.11898	713.34454	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Feeding			
+WE21	77	20210603_Port_Fairy_Wave_WE21_Rig8_8L (4).MP4	16618	62.1443	Analysis	58.2899	689.77337	716.39496	0	0	Monacanthidae	Meuschenia	scaber	37465005	1	AD	Feeding			
+WE22	2	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	11611	6.45701	Analysis	3.02858	1838.4136	689.7479	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	3	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	12098	6.72783	Analysis	3.29941	1165.77904	586.28571	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	4	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	12098	6.72783	Analysis	3.29941	1488.49858	203.29412	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	5	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	17643	9.81147	Analysis	6.38304	861.1898	824.06723	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE22	6	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	19693	10.9515	Analysis	7.52307	451.44476	691.56303	0	0	Moridae	Pseudophycis	spp.		1	AD	Passing			
+WE22	7	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	20430	11.36135	Analysis	7.93293	734.27762	1020.10084	0	0	Moridae	Pseudophycis	spp.		1	AD	Passing			
+WE22	8	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	20512	11.40695	Analysis	7.97853	219.37677	927.52941	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	9	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	20512	11.40695	Analysis	7.97853	759.66006	958.38655	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	10	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	20786	11.55933	Analysis	8.1309	812.23796	749.64706	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	11	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	20786	11.55933	Analysis	8.1309	533.03116	983.79832	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	12	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	20786	11.55933	Analysis	8.1309	223.00283	1009.21008	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	13	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	21152	11.76286	Analysis	8.33444	924.64589	691.56303	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	14	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	22102	12.29117	Analysis	8.86274	1044.30595	577.21008	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE22	15	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	25003	13.90445	Analysis	10.47602	1060.62323	758.72269	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WE22	16	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	26141	14.5373	Analysis	11.10888	1586.40227	531.83193	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	17	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	26141	14.5373	Analysis	11.10888	1002.60623	353.94958	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	18	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	26141	14.5373	Analysis	11.10888	1858.35694	657.07563	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE22	19	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28605	15.90756	Analysis	12.47913	54.39093	324.90756	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	20	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28605	15.90756	Analysis	12.47913	105.15581	272.26891	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	21	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28929	16.08774	Analysis	12.65931	1252.80453	290.42017	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	22	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28929	16.08774	Analysis	12.65931	1196.60057	357.57983	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	23	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28929	16.08774	Analysis	12.65931	904.70255	404.77311	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	24	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28929	16.08774	Analysis	12.65931	743.34278	314.01681	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	25	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28929	16.08774	Analysis	12.65931	774.16431	199.66387	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE22	26	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28979	16.11554	Analysis	12.68712	979.03683	482.82353	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE22	27	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	28979	16.11554	Analysis	12.68712	340.84986	807.73109	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE22	28	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	31564	17.55309	Analysis	14.12467	1176.65722	793.21008	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Attracted			
+WE22	29	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	0	17.63428	Analysis	14.20586	928.27195	784.13445	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Feeding			
+WE22	30	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	9121	22.70657	Analysis	19.27815	1450.42493	709.71429	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE22	31	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	9121	22.70657	Analysis	19.27815	1027.98867	658.89076	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE22	32	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	9936	23.1598	Analysis	19.73138	1519.32011	417.47899	0	0	Cheilodactylidae	Nemadactylus	macropterus		6	AD	Attracted			
+WE22	33	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	10166	23.28771	Analysis	19.85928	815.86402	475.56303	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	34	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	13631	25.21463	Analysis	21.78621	1056.99717	216	0	0	Cheilodactylidae	Nemadactylus	macropterus		7	AD	Attracted			
+WE22	35	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	14445	25.66731	Analysis	22.23888	844.87252	713.34454	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	36	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	14445	25.66731	Analysis	22.23888	170.42493	611.69748	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	37	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	14445	25.66731	Analysis	22.23888	108.78187	978.35294	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE22	38	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	18218	27.76552	Analysis	24.33709	863.00283	782.31933	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE22	39	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	18218	27.76552	Analysis	24.33709	708.89518	965.64706	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE22	40	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	18218	27.76552	Analysis	24.33709	618.24363	1012.84034	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE22	41	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	19307	28.37112	Analysis	24.9427	1020.73654	139.76471	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	42	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	19307	28.37112	Analysis	24.9427	199.43343	353.94958	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	43	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	23713	30.82135	Analysis	27.39292	1241.92635	562.68908	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE22	44	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	24587	31.30739	Analysis	27.87896	1666.17564	720.60504	0	0	Palinuridae	Jasus	edwardsii	28820001	1	AD	Attracted			
+WE22	45	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	24821	31.43752	Analysis	28.00909	1116.8272	842.21849	0	0	Palinuridae	Jasus	edwardsii	28820001	1	AD	Feeding			
+WE22	46	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	29333	33.94669	Analysis	30.51827	1080.56657	540.90756	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	47	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	29333	33.94669	Analysis	30.51827	835.80737	459.22689	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	48	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	29333	33.94669	Analysis	30.51827	815.86402	388.43697	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	49	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	31695	35.26022	Analysis	31.8318	458.69688	430.18487	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	50	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	31695	35.26022	Analysis	31.8318	533.03116	279.52941	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	51	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	31695	35.26022	Analysis	31.8318	786.85552	172.43697	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	52	20210603_Port_Fairy_Wave_WE22_Rig1_1L (4).MP4	31695	35.26022	Analysis	31.8318	442.3796	61.71429	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	53	20210603_Port_Fairy_Wave_WE22_Rig1_1L (5).MP4	21926	47.46186	Analysis	44.03343	1477.6204	299.4958	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	54	20210603_Port_Fairy_Wave_WE22_Rig1_1L (5).MP4	21926	47.46186	Analysis	44.03343	984.47592	286.78992	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	55	20210603_Port_Fairy_Wave_WE22_Rig1_1L (5).MP4	21926	47.46186	Analysis	44.03343	482.26629	134.31933	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	56	20210603_Port_Fairy_Wave_WE22_Rig1_1L (5).MP4	21926	47.46186	Analysis	44.03343	244.75921	555.42857	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	57	20210603_Port_Fairy_Wave_WE22_Rig1_1L (5).MP4	21926	47.46186	Analysis	44.03343	795.92068	760.53782	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE22	58	20210603_Port_Fairy_Wave_WE22_Rig1_1L (5).MP4	26340	49.91653	Analysis	46.48811	1508.44193	156.10084	0	0	Sparidae	Chrysophrys	auratus	37353001	7	AD	Attracted			
+WE22	59	20210603_Port_Fairy_Wave_WE22_Rig1_1L (5).MP4	28196	50.94868	Analysis	47.52025	1047.93201	288.60504	0	0	Sparidae	Chrysophrys	auratus	37353001	7	AD	Attracted			
+WE23	2	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	5647	3.14036	Analysis	0.21577	271.95467	319.46218	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	3	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	5900	3.28106	Analysis	0.35647	1309.0085	381.17647	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	4	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	5967	3.31832	Analysis	0.39373	672.63456	442.89076	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	5	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	5967	3.31832	Analysis	0.39373	259.26346	237.78151	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	6	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6222	3.46012	Analysis	0.53554	1912.74788	549.98319	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	7	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6222	3.46012	Analysis	0.53554	1269.12181	399.32773	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	8	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6222	3.46012	Analysis	0.53554	1171.21813	430.18487	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	9	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6313	3.51073	Analysis	0.58614	1328.95184	321.27731	0	0	Carangidae	Pseudocaranx	spp.		14	AD	Attracted			
+WE23	10	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6596	3.66811	Analysis	0.74352	1722.3796	435.63025	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	11	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6596	3.66811	Analysis	0.74352	1319.88669	504.60504	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	12	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6596	3.66811	Analysis	0.74352	1158.52691	482.82353	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	13	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	6596	3.66811	Analysis	0.74352	1191.16147	341.2437	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE23	14	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	7042	3.91613	Analysis	0.99155	516.71388	649.81513	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	15	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	7042	3.91613	Analysis	0.99155	855.75071	569.94958	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	16	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	7042	3.91613	Analysis	0.99155	223.00283	439.2605	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	17	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	7107	3.95228	Analysis	1.02769	1638.98017	377.54622	0	0	Carangidae	Pseudocaranx	spp.		28	AD	Attracted			
+WE23	18	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	7755	4.31264	Analysis	1.38805	1726.00567	749.64706	0	0	Cheilodactylidae	Nemadactylus	macropterus		6	AD	Attracted			
+WE23	19	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	8111	4.51062	Analysis	1.58603	1617.2238	689.7479	0	0	Cheilodactylidae	Nemadactylus	macropterus		12	AD	Attracted			
+WE23	20	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	8863	4.92881	Analysis	2.00422	1370.65156	618.95798	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE23	21	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	9350	5.19964	Analysis	2.27505	1046.11898	876.70588	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	22	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	11252	6.25736	Analysis	3.33277	447.8187	226.89076	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE23	23	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	12832	7.13602	Analysis	4.21143	1687.93201	410.21849	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE23	24	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	12832	7.13602	Analysis	4.21143	1551.95467	386.62185	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE23	25	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	14705	8.17761	Analysis	5.25303	1064.24929	796.84034	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	26	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	14705	8.17761	Analysis	5.25303	1142.20963	593.54622	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	27	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	15499	8.61917	Analysis	5.69458	1785.83569	816.80672	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	28	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	15499	8.61917	Analysis	5.69458	1265.49575	733.31092	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	29	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	15499	8.61917	Analysis	5.69458	1067.87535	707.89916	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	30	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	16528	9.1914	Analysis	6.26682	926.45892	864	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	31	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	16528	9.1914	Analysis	6.26682	1073.31445	658.89076	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	32	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	16528	9.1914	Analysis	6.26682	1004.41926	726.05042	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	33	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	16528	9.1914	Analysis	6.26682	656.31728	869.44538	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	34	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	18644	10.36814	Analysis	7.44355	1138.58357	559.05882	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE23	35	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	18711	10.4054	Analysis	7.48081	732.46459	1018.28571	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	36	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	18711	10.4054	Analysis	7.48081	828.55524	785.94958	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	37	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	18711	10.4054	Analysis	7.48081	968.15864	858.55462	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	38	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	18711	10.4054	Analysis	7.48081	984.47592	733.31092	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	39	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	18711	10.4054	Analysis	7.48081	1047.93201	669.78151	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	40	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	18711	10.4054	Analysis	7.48081	1171.21813	513.68067	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	41	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	19039	10.5878	Analysis	7.66321	1713.31445	486.45378	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	42	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	19039	10.5878	Analysis	7.66321	902.88952	390.2521	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	43	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	19039	10.5878	Analysis	7.66321	855.75071	221.44538	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	44	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	19039	10.5878	Analysis	7.66321	788.66856	553.61345	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE23	45	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	19132	10.63952	Analysis	7.71493	984.47592	346.68908	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Attracted			
+WE23	46	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	20354	11.31909	Analysis	8.3945	852.12465	706.08403	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	47	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	20354	11.31909	Analysis	8.3945	977.2238	675.22689	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE23	48	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	21504	11.95861	Analysis	9.03402	1095.07082	740.57143	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	49	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	21504	11.95861	Analysis	9.03402	844.87252	695.19328	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	50	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	21504	11.95861	Analysis	9.03402	163.1728	549.98319	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	51	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	25887	14.39605	Analysis	11.47146	890.1983	386.62185	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WE23	52	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	863	18.11421	Analysis	15.18962	982.66289	437.44538	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Attracted			
+WE23	53	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	2026	18.76096	Analysis	15.83638	955.46742	628.03361	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Attracted			
+WE23	54	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	2447	18.99509	Analysis	16.0705	886.57224	776.87395	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Feeding			
+WE23	55	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4224	19.9833	Analysis	17.05871	672.63456	392.06723	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE23	56	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4650	20.2202	Analysis	17.29561	1831.16147	635.29412	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	57	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4650	20.2202	Analysis	17.29561	1414.16431	653.44538	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	58	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4650	20.2202	Analysis	17.29561	563.85269	600.80672	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	59	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4650	20.2202	Analysis	17.29561	620.05666	825.88235	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	60	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4713	20.25524	Analysis	17.33065	1793.08782	838.58824	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	61	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4713	20.25524	Analysis	17.33065	1715.12748	648	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	62	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4713	20.25524	Analysis	17.33065	1800.33994	511.86555	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	63	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4713	20.25524	Analysis	17.33065	636.37394	718.78992	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	64	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	4713	20.25524	Analysis	17.33065	527.59207	522.7563	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE23	65	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	12605	24.64406	Analysis	21.71948	828.55524	600.80672	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Attracted			
+WE23	66	20210603_Port_Fairy_Wave_WE23_Rig10_10L (2).MP4	24207	31.09606	Analysis	28.17148	835.80737	876.70588	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Attracted			
+WE23	67	20210603_Port_Fairy_Wave_WE23_Rig10_10L (3).MP4	3169	37.03088	Analysis	34.10629	904.70255	858.55462	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	68	20210603_Port_Fairy_Wave_WE23_Rig10_10L (3).MP4	3169	37.03088	Analysis	34.10629	241.13314	662.52101	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE23	69	20210603_Port_Fairy_Wave_WE23_Rig10_10L (4).MP4	2884	54.50667	Analysis	51.58209	1022.54958	918.45378	0	0	Congridae	Conger	verreauxi	37067007	1	AD	Attracted			
+WE23	70	20210603_Port_Fairy_Wave_WE23_Rig10_10L (4).MP4	17823	62.81442	Analysis	59.88983	431.50142	268.63866	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Attracted			
+WE24	2	20210603_Port_Fairy_Wave_WE24_Rig1_1L (1).MP4	26820	14.9149	Analysis	10.91813	1406.91218	691.56303	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE24	3	20210603_Port_Fairy_Wave_WE24_Rig1_1L (1).MP4	28457	15.82525	Analysis	11.82848	1027.98867	775.05882	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE24	4	20210603_Port_Fairy_Wave_WE24_Rig1_1L (1).MP4	28568	15.88698	Analysis	11.89021	1245.55241	526.38655	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE24	5	20210603_Port_Fairy_Wave_WE24_Rig1_1L (1).MP4	28568	15.88698	Analysis	11.89021	1162.15297	421.10924	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE24	6	20210603_Port_Fairy_Wave_WE24_Rig1_1L (3).MP4	8928	22.63984	Analysis	18.64307	449.63173	557.2437	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE24	7	20210603_Port_Fairy_Wave_WE24_Rig1_1L (3).MP4	9226	22.80556	Analysis	18.80879	1350.70822	500.97479	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE24	8	20210603_Port_Fairy_Wave_WE24_Rig1_1L (3).MP4	9226	22.80556	Analysis	18.80879	480.45326	597.17647	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE24	9	20210603_Port_Fairy_Wave_WE24_Rig1_1L (3).MP4	24505	31.30238	Analysis	27.30561	1095.07082	566.31933	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE24	10	20210603_Port_Fairy_Wave_WE24_Rig1_1L (3).MP4	31009	34.91933	Analysis	30.92256	1267.30878	620.77311	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE24	11	20210603_Port_Fairy_Wave_WE24_Rig1_1L (3).MP4	31009	34.91933	Analysis	30.92256	206.68555	775.05882	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE24	12	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	232	35.43818	Analysis	31.44141	1383.34278	684.30252	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WE24	13	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	232	35.43818	Analysis	31.44141	1202.03966	713.34454	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Feeding			
+WE24	14	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	4496	37.80944	Analysis	33.81267	966.34561	767.79832	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE24	15	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	4496	37.80944	Analysis	33.81267	1216.54391	753.27731	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Feeding			
+WE24	16	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16501	44.48555	Analysis	40.48878	329.97167	537.27731	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	17	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16501	44.48555	Analysis	40.48878	172.23796	600.80672	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	18	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	1667.98867	644.36975	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	19	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	1649.85836	582.65546	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	20	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	1058.8102	617.14286	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	21	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	980.84986	727.86555	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	22	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	785.04249	707.89916	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	23	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	717.96034	606.2521	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	24	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	1060.62323	493.71429	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	25	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16646	44.56619	Analysis	40.56942	442.3796	606.2521	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE24	26	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	16812	44.6585	Analysis	40.66173	911.95467	644.36975	0	0	Carangidae	Pseudocaranx	spp.		12	AD	Attracted			
+WE24	27	20210603_Port_Fairy_Wave_WE24_Rig1_1L (4).MP4	21677	47.36398	Analysis	43.36721	1370.65156	600.80672	0	0	Carangidae	Pseudocaranx	spp.		28	AD	Attracted			
+WE25	2	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	8206	4.56345	Analysis	0.24747	600.11331	56.26891	0	0	Carangidae	Pseudocaranx	spp.		1	AD	Attracted			
+WE25	3	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	8206	4.56345	Analysis	0.24747	123.28612	203.29412	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Attracted			
+WE25	4	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	8306	4.61906	Analysis	0.30308	587.4221	136.13445	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	5	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	8306	4.61906	Analysis	0.30308	270.14164	453.78151	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	6	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	8394	4.668	Analysis	0.35202	1071.50142	622.58824	0	0	Carangidae	Pseudocaranx	spp.		12	AD	Attracted			
+WE25	7	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	8430	4.68802	Analysis	0.37204	988.10198	65.34454	0	0	Carangidae	Pseudocaranx	spp.		21	AD	Attracted			
+WE25	8	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	8682	4.82816	Analysis	0.51218	1260.05666	488.26891	0	0	Carangidae	Pseudocaranx	spp.		23	AD	Attracted			
+WE25	9	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	10704	5.95261	Analysis	1.63664	841.24646	566.31933	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	10	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	10704	5.95261	Analysis	1.63664	694.39093	673.41176	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	11	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	10704	5.95261	Analysis	1.63664	493.14448	635.29412	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	12	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	11086	6.16505	Analysis	1.84907	708.89518	422.92437	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Passing			
+WE25	13	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	11752	6.53542	Analysis	2.21944	362.60623	882.15126	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE25	14	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	12266	6.82126	Analysis	2.50528	1791.27479	424.7395	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	15	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	12266	6.82126	Analysis	2.50528	696.20397	637.10924	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	16	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	12266	6.82126	Analysis	2.50528	389.8017	834.95798	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	17	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	12266	6.82126	Analysis	2.50528	221.1898	818.62185	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	18	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	13432	7.46968	Analysis	3.15371	594.67422	740.57143	0	0	Moridae	Pseudophycis	spp.		1	AD	Attracted			
+WE25	19	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	13432	7.46968	Analysis	3.15371	922.83286	827.69748	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE25	20	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	14227	7.91179	Analysis	3.59581	1160.33994	593.54622	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	21	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	14227	7.91179	Analysis	3.59581	455.07082	820.43697	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	22	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	14227	7.91179	Analysis	3.59581	117.84703	648	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	23	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	14227	7.91179	Analysis	3.59581	812.23796	482.82353	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	24	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	14227	7.91179	Analysis	3.59581	371.67139	52.63866	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	25	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	14227	7.91179	Analysis	3.59581	612.80453	96.20168	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WE25	26	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	14900	8.28606	Analysis	3.97008	957.28045	756.90756	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE25	27	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	15215	8.46123	Analysis	4.14525	650.87819	156.10084	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Attracted			
+WE25	28	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	15695	8.72816	Analysis	4.41219	1221.983	747.83193	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE25	29	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	15695	8.72816	Analysis	4.41219	1198.4136	898.48739	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE25	30	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	15695	8.72816	Analysis	4.41219	839.43343	854.92437	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE25	31	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	17875	9.94049	Analysis	5.62451	335.41076	571.76471	0	0	Labridae	Notolabrus	tetricus	37384003	7	F	Attracted			
+WE25	32	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	20001	11.12278	Analysis	6.8068	1115.01416	464.67227	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE25	33	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	20001	11.12278	Analysis	6.8068	939.15014	444.70588	0	0	Labridae	Pseudolabrus	rubicundus	37384023	1	AD	Feeding			
+WE25	34	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	21223	11.80235	Analysis	7.48637	581.983	520.94118	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WE25	35	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	25395	14.12244	Analysis	9.80646	530.74788	598.10924	0	0	Cheilodactylidae	Nemadactylus	macropterus		1	AD	Passing			
+WE25	36	20210603_Port_Fairy_Wave_WE25_Rig2_2L (2).MP4	11907	24.2559	Analysis	19.93992	1004.41926	816.80672	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE25	37	20210603_Port_Fairy_Wave_WE25_Rig2_2L (2).MP4	11907	24.2559	Analysis	19.93992	832.1813	840.40336	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE25	38	20210603_Port_Fairy_Wave_WE25_Rig2_2L (2).MP4	11907	24.2559	Analysis	19.93992	536.65722	188.77311	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WE25	39	20210603_Port_Fairy_Wave_WE25_Rig2_2L (3).MP4	622	35.61447	Analysis	31.29849	279.2068	571.76471	0	0	Sparidae	Chrysophrys	auratus	37353001	1	AD	Attracted			
+WEER1	2	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5195	2.889	Analysis	0.0139	1212.91785	201.47899	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	3	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5502	3.05972	Analysis	0.18463	406.11898	502.78992	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	4	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5502	3.05972	Analysis	0.18463	1238.30028	32.67227	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	5	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5845	3.25047	Analysis	0.37538	843.05949	172.43697	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	6	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5845	3.25047	Analysis	0.37538	696.20397	421.10924	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	7	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5845	3.25047	Analysis	0.37538	409.74504	526.38655	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	8	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5945	3.30608	Analysis	0.43099	1029.8017	157.91597	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	9	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5945	3.30608	Analysis	0.43099	725.21246	288.60504	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	10	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5945	3.30608	Analysis	0.43099	632.74788	453.78151	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	11	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5945	3.30608	Analysis	0.43099	549.34844	825.88235	0	0	Labridae	Notolabrus	tetricus	37384003	1	AD	Attracted			
+WEER1	12	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	6242	3.47125	Analysis	0.59615	823.11615	731.4958	0	0	Labridae	Notolabrus	tetricus	37384003	6	AD	Attracted			
+WEER1	13	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	6779	3.76988	Analysis	0.89478	275.58074	546.35294	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	14	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	6840	3.8038	Analysis	0.92871	206.68555	542.72269	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WEER1	15	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	7141	3.97119	Analysis	1.0961	701.64306	306.7563	0	0	Labridae	Notolabrus	tetricus	37384003	6	F	Attracted			
+WEER1	16	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	7141	3.97119	Analysis	1.0961	511.27479	466.48739	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WEER1	17	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	7910	4.39884	Analysis	1.52374	436.94051	430.18487	0	0	Labridae	Notolabrus	tetricus	37384003	7	F	Attracted			
+WEER1	18	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	7910	4.39884	Analysis	1.52374	819.49008	1012.84034	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER1	19	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	7910	4.39884	Analysis	1.52374	986.28895	653.44538	0	0	Moridae	Pseudophycis	spp.		1	AD	Feeding			
+WEER1	20	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	10562	5.87365	Analysis	2.99855	1084.19263	807.73109	0	0	Ovalipidae	Nectocarcinus	tuberculosus	28911004	1	AD	Feeding			
+WEER1	21	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	12019	6.6839	Analysis	3.80881	455.07082	602.62185	0	0	Labridae	Notolabrus	tetricus	37384003	8	F	Attracted			
+WEER1	22	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	12330	6.85685	Analysis	3.98176	821.30312	148.84034	0	0	Labridae	Notolabrus	tetricus	37384003	10	F	Attracted			
+WEER1	23	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	12330	6.85685	Analysis	3.98176	460.50992	631.66387	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WEER1	24	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	14407	8.01189	Analysis	5.1368	888.38527	564.5042	0	0	Labridae	Notolabrus	tetricus	37384003	6	F	Feeding			
+WEER1	25	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	15322	8.52073	Analysis	5.64564	1209.29178	579.02521	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER1	26	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	15590	8.66977	Analysis	5.79468	1191.16147	559.05882	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Feeding			
+WEER1	27	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	15590	8.66977	Analysis	5.79468	1287.25212	604.43697	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Passing			
+WEER1	28	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	16282	9.0546	Analysis	6.17951	902.88952	531.83193	0	0	Aplodactylidae	Aplodactylus	arctidens	37376001	1	AD	Attracted			
+WEER1	29	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	16563	9.21087	Analysis	6.33577	1642.60623	464.67227	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WEER1	30	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	16563	9.21087	Analysis	6.33577	1225.60907	787.76471	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Attracted			
+WEER1	31	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	18405	10.23523	Analysis	7.36013	919.2068	954.7563	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER1	32	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	18405	10.23523	Analysis	7.36013	1134.95751	413.84874	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER1	33	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	18405	10.23523	Analysis	7.36013	817.67705	399.32773	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER1	34	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	19394	10.78522	Analysis	7.91012	823.11615	324.90756	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER1	35	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	24341	13.5363	Analysis	10.66121	926.45892	493.71429	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER1	36	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	26132	14.5323	Analysis	11.6572	1479.43343	584.47059	0	0	Labridae	Notolabrus	tetricus	37384003	10	F	Attracted			
+WEER1	37	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	26132	14.5323	Analysis	11.6572	864.81586	166.9916	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WEER1	38	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	29231	16.25568	Analysis	13.38059	676.26062	932.97479	0	0	Labridae	Notolabrus	fucicola	37384021	5	AD	Feeding			
+WEER1	39	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	14467	25.67954	Analysis	22.80445	496.77054	428.36975	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	40	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	14467	25.67954	Analysis	22.80445	302.7762	611.69748	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	41	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	17205	27.20218	Analysis	24.32708	730.65156	673.41176	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	42	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	17205	27.20218	Analysis	24.32708	480.45326	551.79832	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	43	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	17205	27.20218	Analysis	24.32708	761.47309	103.46218	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	44	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	17205	27.20218	Analysis	24.32708	775.97734	413.84874	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	45	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	27115	32.71324	Analysis	29.83814	523.96601	357.57983	0	0	Cheilodactylidae	Cheilodactylus	nigripes		1	AD	Attracted			
+WEER1	46	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (2).MP4	29191	33.86772	Analysis	30.99263	1250.9915	530.01681	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Feeding			
+WEER1	47	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (3).MP4	1552	36.13165	Analysis	33.25656	1289.06516	372.10084	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER1	48	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (3).MP4	6119	38.67141	Analysis	35.79632	1276.37394	684.30252	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Feeding			
+WEER1	49	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (3).MP4	10670	41.20227	Analysis	38.32718	872.06799	457.41176	0	0	Labridae	Notolabrus	fucicola	37384021	6	AD	Feeding			
+WEER1	50	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (3).MP4	11587	41.71223	Analysis	38.83713	583.79603	691.56303	0	0	Labridae	Notolabrus	fucicola	37384021	8	AD	Feeding			
+WEER1	51	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (3).MP4	31223	52.63202	Analysis	49.75693	1144.02266	426.55462	0	0	Labridae	Notolabrus	fucicola	37384021	7	AD	Feeding			
+WEER1	52	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (4).MP4	12842	60.04443	Analysis	57.16933	960.90652	165.17647	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER1	53	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (4).MP4	13357	60.33083	Analysis	57.45573	1356.14731	504.60504	0	0	Labridae	Pictilabrus	laticlavius	37384020	1	AD	Feeding			
+WEER2	2	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	5853	3.25492	Analysis	0.07229	387.98867	778.68908	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER2	3	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	5968	3.31887	Analysis	0.13625	1580.96317	1011.02521	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER2	4	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	5968	3.31887	Analysis	0.13625	1421.41643	956.57143	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER2	5	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	6244	3.47236	Analysis	0.28973	1183.90935	711.52941	0	0	Girellidae	Girella	zebra		1	AD	Attracted			
+WEER2	6	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	6444	3.58358	Analysis	0.40096	612.80453	869.44538	0	0	Aplodactylidae	Aplodactylus	arctidens	37376001	1	AD	Attracted			
+WEER2	7	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7299	4.05905	Analysis	0.87643	1153.08782	197.84874	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER2	8	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7479	4.15916	Analysis	0.97653	1682.49292	733.31092	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER2	9	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7479	4.15916	Analysis	0.97653	1430.48159	989.2437	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER2	10	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7680	4.27093	Analysis	1.08831	741.52975	1056.40336	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER2	11	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7680	4.27093	Analysis	1.08831	1096.88385	976.53782	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Attracted			
+WEER2	12	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7680	4.27093	Analysis	1.08831	1619.03683	903.93277	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	13	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7826	4.35213	Analysis	1.1695	1662.54958	720.60504	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER2	14	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	7826	4.35213	Analysis	1.1695	313.65439	339.42857	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER2	15	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	8577	4.76977	Analysis	1.58714	547.53541	834.95798	0	0	Girellidae	Girella	zebra		1	AD	Attracted			
+WEER2	16	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	8577	4.76977	Analysis	1.58714	328.15864	747.83193	0	0	Girellidae	Girella	zebra		1	AD	Attracted			
+WEER2	17	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	9909	5.51051	Analysis	2.32788	977.2238	985.61345	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	18	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	11697	6.50483	Analysis	3.32221	1171.21813	161.54622	0	0	Otariidae	Arctocephalus	spp.		1	AD	Attracted			
+WEER2	19	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	16618	9.24145	Analysis	6.05883	614.52975	959.33613	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	20	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	16618	9.24145	Analysis	6.05883	354.35977	958.88235	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	21	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	16618	9.24145	Analysis	6.05883	206.68555	882.15126	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	22	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	16618	9.24145	Analysis	6.05883	83.39943	769.61345	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	23	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	16618	9.24145	Analysis	6.05883	435.12748	473.7479	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	24	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	16618	9.24145	Analysis	6.05883	995.35411	842.21849	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	25	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	16618	9.24145	Analysis	6.05883	351.93768	741.7395	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	26	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	17473	9.71693	Analysis	6.53431	110.5949	702.45378	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	27	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	19472	10.8286	Analysis	7.64597	1593.65439	816.80672	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	28	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	19472	10.8286	Analysis	7.64597	1658.92351	637.10924	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	29	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	19472	10.8286	Analysis	7.64597	1352.52125	716.97479	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	30	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	19472	10.8286	Analysis	7.64597	1254.61756	582.65546	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	31	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	19472	10.8286	Analysis	7.64597	1049.74504	608.06723	0	0	Labridae	Notolabrus	fucicola	37384021	1	AD	Feeding			
+WEER2	32	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	19782	11.00099	Analysis	7.81837	864.81586	606.2521	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WEER2	33	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	20379	11.33299	Analysis	8.15036	1504.81586	283.15966	0	0	Labridae	Notolabrus	fucicola	37384021	9	AD	Feeding			
+WEER2	34	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	21707	12.0715	Analysis	8.88888	230.25496	116.16807	0	0	Labridae	Achoerodus	spp.		1	AD	Attracted			
+WEER2	35	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22239	12.36735	Analysis	9.18473	944.58924	591.73109	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	36	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22239	12.36735	Analysis	9.18473	957.28045	506.42017	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	37	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22239	12.36735	Analysis	9.18473	1064.24929	490.08403	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	38	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22239	12.36735	Analysis	9.18473	1064.24929	606.2521	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	39	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22239	12.36735	Analysis	9.18473	1115.01416	698.82353	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	40	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22239	12.36735	Analysis	9.18473	621.86969	76.23529	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	41	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22239	12.36735	Analysis	9.18473	409.74504	651.63025	0	0	Labridae	Notolabrus	tetricus	37384003	1	F	Attracted			
+WEER2	42	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22381	12.44632	Analysis	9.2637	400.67989	199.66387	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER2	43	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22381	12.44632	Analysis	9.2637	179.49008	442.89076	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER2	44	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	22381	12.44632	Analysis	9.2637	324.53258	457.41176	0	0	Scorpididae	Scorpis	aequipinnis	37361004	1	AD	Attracted			
+WEER2	45	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	23185	12.89344	Analysis	9.71081	989.91501	275.89916	0	0	Labridae	Notolabrus	tetricus	37384003	8	F	Attracted			
+WEER2	46	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	29961	16.66165	Analysis	13.47902	1176.65722	702.45378	0	0	Labridae	Notolabrus	fucicola	37384021	11	AD	Feeding			
+WEER2	47	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (2).MP4	3182	19.40383	Analysis	16.2212	1609.97167	441.07563	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WEER2	48	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (2).MP4	3182	19.40383	Analysis	16.2212	1191.16147	172.43697	0	0	Labridae	Notolabrus	tetricus	37384003	1	M	Attracted			
+WEER2	49	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (2).MP4	5118	20.48046	Analysis	17.29784	1029.8017	333.98319	0	0	Labridae	Notolabrus	fucicola	37384021	13	AD	Feeding			
+WEER2	50	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (2).MP4	26775	32.52416	Analysis	29.34153	899.26346	422.92437	0	0	Labridae	Notolabrus	fucicola	37384021	18	AD	Feeding			
+WEER2	51	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (3).MP4	18479	45.54494	Analysis	42.36232	812.23796	163.36134	0	0	Labridae	Olisthops	cyanomelas	37385001	1	AD	Attracted			
+WEER2	52	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (3).MP4	25955	49.70243	Analysis	46.51981	1156.10482	228.90756	0	0	Aplodactylidae	Aplodactylus	arctidens	37376001	1	AD	Attracted			

@@ -1,0 +1,93 @@
+OpCode	PeriodIndex	Period	FilenameStart	FrameStart	TimeStart	FilenameEnd	FrameEnd	TimeEnd	HasEnd
+DR_Butlers_01	0	Bottom	DeepReef_Butlers_01_04122015_404.avi	5790	3.86000	DeepReef_Butlers_01_04122015_404.avi	93545	62.36333	1
+DR_Butlers_02	0	Bottom	DeepReef_Butlers_02_03122015_405.avi	8005	5.33667	DeepReef_Butlers_02_03122015_405.avi	98006	65.33733	1
+DR_Butlers_02	1	Extra	DeepReef_Butlers_02_03122015_405.avi	98007	65.33800	DeepReef_Butlers_02_03122015_405.avi	110164	73.44267	1
+DR_Butlers_03	0	Bottom	DeepReef_Butlers_03_02122015_284.avi	6486	4.32400	DeepReef_Butlers_03_02122015_284.avi	96493	64.32867	1
+DR_Butlers_03	1	Extra	DeepReef_Butlers_03_02122015_284.avi	96494	64.32933	DeepReef_Butlers_03_02122015_284.avi	110429	73.61933	1
+DR_Butlers_04	0	Bottom	DeepReef_Butlers_04_02122015_283.avi	4310	2.87333	DeepReef_Butlers_04_02122015_283.avi	94227	62.81800	1
+DR_Butlers_05	0	Bottom	DeepReef_Butlers_05_04122015_282.avi	4564	3.04267	DeepReef_Butlers_05_04122015_282.avi	94581	63.05400	1
+DR_Butlers_06	0	Bottom	DeepReef_Butlers_06_02122015_406.avi	8804	5.86933	DeepReef_Butlers_06_02122015_406.avi	98822	65.88133	1
+DR_Butlers_07	0	Bottom	DeepReef_Butlers_07_02122015_286.avi	11490	7.66000	DeepReef_Butlers_07_02122015_286.avi	101499	67.66600	1
+DR_Butlers_07	1	Extra	DeepReef_Butlers_07_02122015_286.avi	101500	67.66667	DeepReef_Butlers_07_02122015_286.avi	124310	82.87333	1
+DR_Butlers_08	0	Bottom	DeepReef_Butlers_08_03122015_406.avi	5058	3.37200	DeepReef_Butlers_08_03122015_406.avi	95090	63.39333	1
+DR_Butlers_09	0	Bottom	DeepReef_Butlers_09_03122015_285.avi	3635	2.42333	DeepReef_Butlers_09_03122015_285.avi	93644	62.42933	1
+DR_Butlers_09	1	Extra	DeepReef_Butlers_09_03122015_285.avi	93645	62.43000	DeepReef_Butlers_09_03122015_285.avi	96643	64.42867	1
+DR_Butlers_10	0	Bottom	DeepReef_Butlers_10_02122015_405.avi	3648	2.43200	DeepReef_Butlers_10_02122015_405.avi	93651	62.43400	1
+DR_Butlers_10	1	Extra	DeepReef_Butlers_10_02122015_405.avi	93652	62.43467	DeepReef_Butlers_10_02122015_405.avi	123552	82.36800	1
+DR_Butlers_11	0	Bottom	DeepReef_Butlers_11_03122015_287.avi	6676	4.45067	DeepReef_Butlers_11_03122015_287.avi	96691	64.46067	1
+DR_Butlers_11	1	Extra	DeepReef_Butlers_11_03122015_287.avi	96692	64.46133	DeepReef_Butlers_11_03122015_287.avi	97017	64.67800	1
+DR_Butlers_12	0	Bottom	DeepReef_Butlers_12_03122015_283.avi	4814	3.20933	DeepReef_Butlers_12_03122015_283.avi	94832	63.22133	1
+DR_Butlers_12	1	Extra	DeepReef_Butlers_12_03122015_283.avi	94833	63.22200	DeepReef_Butlers_12_03122015_283.avi	100716	67.14400	1
+DR_Butlers_13	0	Bottom	DeepReef_Butlers_13_04122015_286.avi	6114	4.07600	DeepReef_Butlers_13_04122015_286.avi	96123	64.08200	1
+DR_Butlers_13	1	Extra	DeepReef_Butlers_13_04122015_286.avi	96124	64.08267	DeepReef_Butlers_13_04122015_286.avi	97305	64.87000	1
+DR_Butlers_14	0	Bottom	DeepReef_Butlers_14_03122015_286.avi	4815	3.21000	DeepReef_Butlers_14_03122015_286.avi	93637	62.42467	1
+DR_Butlers_15	0	Bottom	DeepReef_Butlers_15_02122015_404.avi	4059	2.70600	DeepReef_Butlers_15_02122015_404.avi	88478	58.98533	1
+DR_Butlers_16	0	Bottom	DeepReef_Butlers_16_03122015_282.avi	4905	3.27000	DeepReef_Butlers_16_03122015_282.avi	94950	63.30000	1
+DR_Butlers_17	0	Bottom	DeepReef_Butlers_17_03122015_404.avi	1918	1.27867	DeepReef_Butlers_17_03122015_404.avi	88704	59.13600	1
+DR_Butlers_18	0	Bottom	DeepReef_Butlers_18_02122015_282.avi	4511	3.00733	DeepReef_Butlers_18_02122015_282.avi	94529	63.01933	1
+DR_Butlers_18	1	Extra	DeepReef_Butlers_18_02122015_282.avi	94530	63.02000	DeepReef_Butlers_18_02122015_282.avi	125914	83.94267	1
+DR_Butlers_19	0	Bottom	DeepReef_Butlers_19_03122015_406.avi	7859	5.23933	DeepReef_Butlers_19_03122015_406.avi	97871	65.24733	1
+DR_Butlers_20	0	Bottom	DeepReef_Butlers_20_03122015_286.avi	5556	3.70400	DeepReef_Butlers_20_03122015_286.avi	95564	63.70933	1
+DR_Butlers_21	0	Bottom	DeepReef_Butlers_21_04122015_285.avi	5166	3.44400	DeepReef_Butlers_21_04122015_285.avi	94608	63.07200	1
+DR_Butlers_22	0	Bottom	DeepReef_Butlers_22_02122015_286.avi	2911	1.94067	DeepReef_Butlers_22_02122015_286.avi	92926	61.95067	1
+DR_Butlers_23	0	Bottom	DeepReef_Butlers_23_02122015_286.avi	4969	3.31267	DeepReef_Butlers_23_02122015_286.avi	94984	63.32267	1
+DR_Butlers_23	1	Extra	DeepReef_Butlers_23_02122015_286.avi	94985	63.32333	DeepReef_Butlers_23_02122015_286.avi	109441	72.96067	1
+DR_Butlers_23	2	Way Up	DeepReef_Butlers_23_02122015_286.avi	109442	72.96133				0
+DR_Butlers_24	0	Bottom	DeepReef_Butlers_24_03122015_282.avi	5723	3.81533	DeepReef_Butlers_24_03122015_282.avi	95735	63.82333	1
+DR_Butlers_24	1	Extra	DeepReef_Butlers_24_03122015_282.avi	95736	63.82400	DeepReef_Butlers_24_03122015_282.avi	97588	65.05867	1
+DR_Butlers_25	0	Bottom	DeepReef_Butlers_25_02122015_286.avi	5466	3.64400	DeepReef_Butlers_25_02122015_286.avi	95484	63.65600	1
+DR_Butlers_25	1	Extra	DeepReef_Butlers_25_02122015_286.avi	95485	63.65667	DeepReef_Butlers_25_02122015_286.avi	126108	84.07200	1
+DR_Butlers_26	0	Bottom	DeepReef_Butlers_26_02122015_282.avi	3898	2.59867	DeepReef_Butlers_26_02122015_282.avi	93916	62.61067	1
+DR_Butlers_26	1	Extra	DeepReef_Butlers_26_02122015_282.avi	93917	62.61133	DeepReef_Butlers_26_02122015_282.avi	116725	77.81667	1
+DR_Butlers_27	0	Bottom	DeepReef_Butlers_27_04122015_404.avi	2460	1.64000	DeepReef_Butlers_27_04122015_404.avi	92471	61.64733	1
+DR_Butlers_28	0	Bottom	DeepReef_Butlers_28_02122015_284.avi	3448	2.29867	DeepReef_Butlers_28_02122015_284.avi	93457	62.30467	1
+DR_Butlers_29	0	Bottom	DeepReef_Butlers_29_03122015_284.avi	5255	3.50333	DeepReef_Butlers_29_03122015_284.avi	95291	63.52733	1
+DR_Butlers_30 	0	Bottom	DeepReef_Butlers_30_03122015_406.avi	3699	2.46600	DeepReef_Butlers_30_03122015_406.avi	93718	62.47867	1
+DR_Butlers_30 	1	Extra	DeepReef_Butlers_30_03122015_406.avi	93719	62.47933	DeepReef_Butlers_30_03122015_406.avi	109459	72.97267	1
+DR_Butlers_31 	0	Bottom	DeepReef_Butlers_31_03122015_404.avi	8041	5.36067	DeepReef_Butlers_31_03122015_404.avi	98065	65.37667	1
+DR_Butlers_31 	1	Extra	DeepReef_Butlers_31_03122015_404.avi	98066	65.37733	DeepReef_Butlers_31_03122015_404.avi	104135	69.42333	1
+DR_Butlers_32	0	Bottom	DeepReef_Butlers_32_02122015_404.avi	5295	3.53000	DeepReef_Butlers_32_02122015_404.avi	95620	63.74667	1
+DR_Butlers_32	1	Extra	DeepReef_Butlers_32_02122015_404.avi	95621	63.74733	DeepReef_Butlers_32_02122015_404.avi	119116	79.41067	1
+DR_Butlers_33	0	Bottom	DeepReef_Butlers_33_04122015_282.avi	3426	2.28400	DeepReef_Butlers_33_04122015_282.avi	93449	62.29933	1
+DR_Butlers_33	1	Extra	DeepReef_Butlers_33_04122015_282.avi	93450	62.30000				0
+DR_Butlers_34	0	Bottom	DeepReef_Butlers_34_02122015_282.avi	8989	5.99267	DeepReef_Butlers_34_02122015_282.avi	99012	66.00800	1
+DR_Butlers_34	1	Extra	DeepReef_Butlers_34_02122015_282.avi	99013	66.00867				0
+DR_Butlers_35	0	Bottom	DeepReef_Butlers_35_02122015_282.avi	4787	3.19133	DeepReef_Butlers_35_02122015_282.avi	94793	63.19533	1
+DR_Butlers_36	0	Bottom	DeepReef_Butlers_36_03122015_407.avi	5663	3.77533	DeepReef_Butlers_36_03122015_407.avi	95704	63.80267	1
+DR_Butlers_37	0	Bottom	DeepReef_Butlers_37_03122015_406.avi	4348	2.89867	DeepReef_Butlers_37_03122015_406.avi	94364	62.90933	1
+DR_Butlers_38	0	Bottom	DeepReef_Butlers_38_03122015_284.avi	4086	2.72400	DeepReef_Butlers_38_03122015_284.avi	94110	62.74000	1
+DR_Butlers_39	0	Bottom	DeepReef_Butlers_39_02122015_284.avi	6012	4.00800	DeepReef_Butlers_39_02122015_284.avi	90124	60.08267	1
+DR_Butlers_40	0	Bottom	DeepReef_Butlers_40_02122015_404.avi	4996	3.33067	DeepReef_Butlers_40_02122015_404.avi	95006	63.33733	1
+DR_Butlers_41	0	Bottom	DeepReef_Butlers_41_03122015_282.avi	2818	1.87867	DeepReef_Butlers_41_03122015_282.avi	94326	62.88400	1
+DR_Butlers_41	1	Extra	DeepReef_Butlers_41_03122015_282.avi	94327	62.88467	DeepReef_Butlers_41_03122015_282.avi	109269	72.84600	1
+DR_Butlers_42	0	Bottom	DeepReef_Butlers_42_02122015_287.avi	6472	4.31467	DeepReef_Butlers_42_02122015_287.avi	96487	64.32467	1
+DR_Butlers_42	1	Extra	DeepReef_Butlers_42_02122015_287.avi	96488	64.32533	DeepReef_Butlers_42_02122015_287.avi	99560	66.37333	1
+DR_Butlers_43	0	Bottom	DeepReef_Butlers_43_03122015_284.avi	5019	3.34600	DeepReef_Butlers_43_03122015_284.avi	95652	63.76800	1
+DR_Butlers_43	1	Extra	DeepReef_Butlers_43_03122015_284.avi	95653	63.76867	DeepReef_Butlers_43_03122015_284.avi	103166	68.77733	1
+DR_Butlers_44	0	Bottom	DeepReef_Butlers_44_03122015_286.avi	4955	3.30333	DeepReef_Butlers_44_03122015_286.avi	95632	63.75467	1
+DR_Butlers_45	0	Bottom	DeepReef_Butlers_45_02122015_284.avi	5923	3.29385	DeepReef_Butlers_45_02122015_284.avi	113844	63.30998	1
+DR_Butlers_45	1	Extra	DeepReef_Butlers_45_02122015_284.avi	113845	63.31053				0
+DR_Butlers_46	0	Bottom	DeepReef_Butlers_46_03122015_282.avi	3302	2.20133	DeepReef_Butlers_46_03122015_282.avi	93547	62.36467	1
+DR_Butlers_47	0	Bottom	DeepReef_Butlers_47_03122015_405.avi	8942	5.96133	DeepReef_Butlers_47_03122015_405.avi	99016	66.01067	1
+DR_Butlers_47	1	Extra	DeepReef_Butlers_47_03122015_405.avi	99017	66.01133				0
+DR_Butlers_48	0	Bottom	DeepReef_Butlers_48_03122015_287.avi	3882	2.58800	DeepReef_Butlers_48_03122015_287.avi	93958	62.63867	1
+DR_Butlers_48	1	Extra	DeepReef_Butlers_48_03122015_287.avi	93959	62.63933				0
+DR_Butlers_49	0	Bottom	DeepReef_Butlers_49_04122015_406.avi	3076	2.05067	DeepReef_Butlers_49_04122015_406.avi	93088	62.05867	1
+DR_Butlers_50	0	Bottom	DeepReef_Butlers_50_03122015_406.avi	3898	2.59867	DeepReef_Butlers_50_03122015_406.avi	93978	62.65200	1
+DR_Butlers_50	1	Extra	DeepReef_Butlers_50_03122015_406.avi	93979	62.65267				0
+DR_Butlers_51	0	Bottom	DeepReef_Butlers_51_03122015_284.avi	5844	3.89600	DeepReef_Butlers_51_03122015_284.avi	95897	63.93133	1
+DR_Butlers_52	0	Bottom	DeepReef_Butlers_52_03122015_287.avi	5183	3.45533	DeepReef_Butlers_52_03122015_287.avi	95467	63.64467	1
+DR_Butlers_53	0	Bottom	DeepReef_Butlers_53_03122015_282.avi	3300	2.20000	DeepReef_Butlers_53_03122015_282.avi	93528	62.35200	1
+DR_Butlers_53	1	Way Up	DeepReef_Butlers_53_03122015_282.avi	93529	62.35267				0
+DR_Butlers_54	0	Bottom	DeepReef_Butlers_54_02122015_406.avi	8563	5.70867	DeepReef_Butlers_54_02122015_406.avi	98693	65.79533	1
+DR_Butlers_55	0	Bottom	DeepReef_Butlers_55_04122015_407.avi	7265	4.84333	DeepReef_Butlers_55_04122015_407.avi	92485	61.65667	1
+DR_Butlers_56	0	Bottom	DeepReef_Butlers_56_04122015_287.avi	4034	2.68933	DeepReef_Butlers_56_04122015_287.avi	94167	62.77800	1
+DR_Butlers_57	0	Bottom	DeepReef_Butlers_57_03122015_284.avi	7082	4.72133	DeepReef_Butlers_57_03122015_284.avi	97210	64.80667	1
+DR_Butlers_58	0	Bottom	DeepReef_Butlers_58_03122015_404.avi	4058	2.70533	DeepReef_Butlers_58_03122015_404.avi	94401	62.93400	1
+DR_Butlers_58	1	Extra	DeepReef_Butlers_58_03122015_404.avi	94402	62.93467				0
+DR_Butlers_59	0	Bottom	DeepReef_Butlers_59_03122015_404.avi	4137	2.75800	DeepReef_Butlers_59_03122015_404.avi	94254	62.83600	1
+DR_Butlers_60	0	Bottom	DeepReef_Butlers_60_02122015_406.avi	5617	3.74467	DeepReef_Butlers_60_02122015_406.avi	95720	63.81333	1
+DR_Butlers_61	0	Bottom	DeepReef_Butlers_61_02122015_406.avi	4820	3.21333	DeepReef_Butlers_61_02122015_406.avi	95406	63.60400	1
+DR_Butlers_61	1	Extra	DeepReef_Butlers_61_02122015_406.avi	95407	63.60467				0
+DR_Butlers_62	0	Bottom	DeepReef_Butlers_62_02122015_284.avi	9130	6.08667	DeepReef_Butlers_62_02122015_284.avi	99782	66.52133	1
+DR_Butlers_63	0	Bottom	DeepReef_Butlers_63_04122015_284.avi	4428	2.95200	DeepReef_Butlers_63_04122015_284.avi	94804	63.20267	1

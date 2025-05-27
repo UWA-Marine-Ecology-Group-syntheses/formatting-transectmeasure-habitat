@@ -1,0 +1,645 @@
+Dot Point Measurements
+
+Generated: Thursday 25 January 2024 11:19:01
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	Relief					Radius %
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		598	1825													CP1	1					Unscorable								91.2
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		638	1144													CP1	1					Unscorable								26.0
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		1063	40													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						96.9
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		711	852													CP1	1					Unscorable								14.7
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		913	835													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						16.2
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		586	125													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						87.8
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		866	765													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						20.3
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		1000	243													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						75.2
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		865	221													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						75.1
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		650	1816													CP1	1					Unscorable								89.1
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		899	1567													CP1	1					Unscorable								62.9
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		554	1903													CP1	1					Unscorable								100.0
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		779	904													CP1	1					Unscorable								6.3
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		1037	537													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						48.6
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		1000	1436													CP1	1					Unscorable								52.6
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		606	1194													CP1	1					Unscorable								31.9
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		724	1002													CP1	1					Unscorable								10.0
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		855	262													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						70.9
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		894	852													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						13.6
+CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		980	1601													CP1	1					Unscorable								67.9
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		1028	924													CP2	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						21.2
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		956	73													CP2	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						82.4
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		570	1218													CP2	1					Unscorable								42.5
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		1019	1108													CP2	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.3
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		584	189													CP2	1					Unscorable								73.6
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		814	1373													CP2	1					Unscorable								49.6
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		875	202													CP2	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						68.5
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		683	1863													CP2	1					Unscorable								100.0
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		867	1203													CP2	1					Bryozoa > Soft	Foliaceous							32.8
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		1025	1145													CP2	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.5
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		613	858													CP2	1					Unscorable								21.1
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		891	923													CP2	1					Bryozoa > Soft	Foliaceous							8.2
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		565	1278													CP2	1					Unscorable								47.7
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		813	214													CP2	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						67.1
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		969	904													CP2	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						15.0
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		727	1070													CP2	1					Substrate > Unconsolidated (soft)								21.4
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		985	730													CP2	1					Bryozoa > Soft	Foliaceous							22.3
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		705	163													CP2	1					Substrate > Unconsolidated (soft)								73.2
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		1072	1537													CP2	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						70.7
+CP2_1_01_Left_MAH00274.MP4_0005545.jpg	      0		681	631													CP2	1					Unscorable								28.9
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		725	312													CP3	1					Unscorable								75.9
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		1018	1312													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						18.7
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		980	702													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.4
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		638	1593													CP3	1					Unscorable								43.8
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		562	1770													CP3	1					Unscorable								60.8
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		955	1891													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.3
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		987	916													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						23.6
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		607	1741													CP3	1					Unscorable								56.7
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		920	27													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		963	314													CP3	1					Macroalgae > Erect coarse branching	Red							75.0
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		998	1099													CP3	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)						12.1
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		984	1343													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.1
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		1013	1389													CP3	1					Macroalgae > Erect fine branching	Red							24.0
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		898	555													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.3
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		1044	1061													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.3
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		738	1488													CP3	1					Unscorable								31.6
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		730	943													CP3	1					Unscorable								22.8
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		914	1535													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.6
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		787	1443													CP3	1					Unscorable								26.4
+CP3_1_01_Left_MAH00260.MP4_0053708.jpg	      0		1016	1709													CP3	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.4
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		971	1235													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						64.2
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		826	1074													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.8
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		704	1044													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.2
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		792	705													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						4.7
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		863	1599													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		604	1018													CP4	1					Unscorable								39.4
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		657	1066													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.5
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		604	163													CP4	1					Unscorable								59.3
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		899	138													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						61.9
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		933	216													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.9
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		673	1000													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.1
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		1007	240													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.1
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		819	703													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						7.5
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		636	132													CP4	1					Unscorable								61.8
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		723	1441													CP4	1					Unscorable								82.1
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		570	40													CP4	1					Unscorable								73.2
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		752	82													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.9
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		578	196													CP4	1					Unscorable								56.8
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		563	455													CP4	1					Unscorable								32.7
+CP4_1_01_Left_MAH00262.MP4_0075640.jpg	      0		871	1203													CP4	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.6
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		996	195													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						81.5
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		841	101													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						89.0
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		623	1497													INV-BV-02	1					Macroalgae > Erect coarse branching								73.3
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		852	1040													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						19.8
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		908	358													INV-BV-02	1					Macroalgae > Erect fine branching	Red							60.9
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		735	606													INV-BV-02	1					Unscorable								31.7
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		661	1744													INV-BV-02	1					Macroalgae > Erect fine branching								100.0
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		994	1534													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						78.4
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		617	1718													INV-BV-02	1					Macroalgae > Erect fine branching								97.9
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		658	1579													INV-BV-02	1					Macroalgae > Erect coarse branching								81.4
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		762	240													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						73.0
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		611	451													INV-BV-02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.8
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		1033	1049													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						34.0
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		947	1131													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						34.0
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		672	1067													INV-BV-02	1					Macroalgae > Erect fine branching								25.4
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		598	848													INV-BV-02	1					Macroalgae > Erect fine branching								22.1
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		843	1348													INV-BV-02	1					Macroalgae > Erect fine branching								54.1
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		771	432													INV-BV-02	1					Macroalgae > Filamentous / filiform	Red							50.9
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		1001	42													INV-BV-02	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						98.5
+INV-BV-02_1_01_Left_MAH00274.MP4_0022786.jpg	      0		669	580													INV-BV-02	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.7
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		825	1186													INV-BV-03	1					Sponges > Massive forms	Simple							47.5
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		681	85													INV-BV-03	1					Unscorable								92.7
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		712	686													INV-BV-03	1					Unscorable								18.1
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		886	1233													INV-BV-03	1					Matrix > Bryozoa / Cnidaria Matrix								54.8
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		844	712													INV-BV-03	1					Sponges > Massive forms	Simple							15.2
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		758	1277													INV-BV-03	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.7
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		830	475													INV-BV-03	1					Matrix > Mixed Sessile Invertebrate								43.2
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		1056	1379													INV-BV-03	1					Matrix > Bryozoa / Cnidaria Matrix								79.6
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		566	898													INV-BV-03	1					Unscorable								28.9
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		874	258													INV-BV-03	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						71.0
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		827	1442													INV-BV-03	1					Matrix > Mixed Sessile Invertebrate								79.7
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		1008	436													INV-BV-03	1					Matrix > Bryozoa / Cnidaria Matrix								55.6
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		582	1482													INV-BV-03	1					Unscorable								88.1
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		702	104													INV-BV-03	1					Unscorable								90.0
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		975	87													INV-BV-03	1					Sponges > Erect forms	Laminar							94.9
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		551	1198													INV-BV-03	1					Unscorable								56.5
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		588	481													INV-BV-03	1					Unscorable								48.3
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		554	346													INV-BV-03	1					Unscorable								65.4
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		1014	1569													INV-BV-03	1					Sponges > Massive forms	Simple							100.0
+INV-BV-03_1_01_Left_MAH00267.MP4_0041402.jpg	      0		742	919													INV-BV-03	1					Unscorable								14.2
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		933	1895													INV-BV-05	1					Unscorable								88.8
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		873	1392													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.5
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		937	335													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						71.3
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		734	152													INV-BV-05	1					Unscorable								88.9
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		1028	1699													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						71.5
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		727	600													INV-BV-05	1					Unscorable								44.1
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		759	106													INV-BV-05	1					Unscorable								93.5
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		581	1321													INV-BV-05	1					Unscorable								37.6
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		1022	1743													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						75.6
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		637	988													INV-BV-05	1					Unscorable								17.8
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		901	701													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						34.3
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		894	857													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.4
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		882	42													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		668	156													INV-BV-05	1					Unscorable								89.4
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		1028	1330													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.9
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		968	1610													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						61.2
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		600	1340													INV-BV-05	1					Unscorable								38.1
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		726	1379													INV-BV-05	1					Unscorable								36.5
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		561	1253													INV-BV-05	1					Unscorable								33.9
+INV-BV-05_1_01_Left_MAH01267.MP4_0041516.jpg	      0		709	1649													INV-BV-05	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.7
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		1008	236													INV-BV-07	1					Bryozoa > Soft	Foliaceous							91.3
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		918	1093													INV-BV-07	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						7.6
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		859	1636													INV-BV-07	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.8
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		1030	1417													INV-BV-07	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.3
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		914	1768													INV-BV-07	1					Macroalgae > Erect coarse branching	Brown							74.2
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		908	475													INV-BV-07	1					Sponges > Massive forms	Cryptic							64.5
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		1055	972													INV-BV-07	1					Bryozoa > Soft	Foliaceous							24.7
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		573	646													INV-BV-07	1					Unscorable								54.4
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		721	1206													INV-BV-07	1					Sponges > Erect forms	Simple							19.4
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		951	1034													INV-BV-07	1					Bryozoa > Soft	Foliaceous							11.9
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		903	1223													INV-BV-07	1					Bryozoa > Soft	Dendroid							16.7
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		1045	270													INV-BV-07	1					Bryozoa > Soft	Foliaceous							88.6
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		766	1292													INV-BV-07	1					Macroalgae > Erect fine branching	Green							24.7
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		850	1398													INV-BV-07	1					Unscorable								34.3
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		1026	1811													INV-BV-07	1					Unscorable								80.8
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		866	1712													INV-BV-07	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.0
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		797	141													INV-BV-07	1					Matrix > Mixed Sessile Invertebrate								100.0
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		579	1020													INV-BV-07	1					Unscorable								29.3
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		551	517													INV-BV-07	1					Unscorable								67.5
+INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		642	1652													INV-BV-07	1					Matrix > Mixed Sessile Invertebrate								65.4
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		586	1327													INV-BV-11	1					Unscorable								56.5
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		987	1260													INV-BV-11	1					Matrix > Mixed Sessile Invertebrate								50.7
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		697	1301													INV-BV-11	1					Unscorable								51.0
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		683	1332													INV-BV-11	1					Unscorable								54.3
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		603	357													INV-BV-11	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						48.5
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		814	23													INV-BV-11	1					Sponges > Crusts	Encrusting							78.9
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		940	412													INV-BV-11	1					Sponges > Crusts	Encrusting							42.8
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		735	1792													INV-BV-11	1					Unscorable								100.0
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		630	953													INV-BV-11	1					Sponges > Crusts	Encrusting							21.4
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		724	953													INV-BV-11	1					Sponges > Crusts	Encrusting							16.1
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		599	416													INV-BV-11	1					Sponges > Crusts	Encrusting							43.2
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		839	303													INV-BV-11	1					Sponges > Crusts	Encrusting							51.0
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		567	94													INV-BV-11	1					Matrix > Mixed Sessile Invertebrate								74.9
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		1000	913													INV-BV-11	1					Sponges > Crusts	Encrusting							24.9
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		1012	596													INV-BV-11	1					Sponges > Crusts	Encrusting							31.5
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		655	1346													INV-BV-11	1					Unscorable								56.2
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		781	965													INV-BV-11	1					Sponges > Crusts	Encrusting							16.3
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		899	1565													INV-BV-11	1					Unscorable								77.9
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		841	4													INV-BV-11	1					Sponges > Crusts	Encrusting							81.0
+INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		998	158													INV-BV-11	1					Matrix > Mixed Sessile Invertebrate								68.9
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		910	380													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.6
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		751	1148													INV-BV-14	1					Unscorable								33.6
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		1055	1702													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.8
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		619	1827													INV-BV-14	1					Unscorable								100.0
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		879	301													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.1
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		916	803													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						4.7
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		904	1019													INV-BV-14	1					Bryozoa > Soft	Foliaceous							19.5
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		543	1495													INV-BV-14	1					Unscorable								72.3
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		909	1460													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						61.8
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		814	650													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.2
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		898	1725													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						87.2
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		992	114													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.1
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		1059	93													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						72.4
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		683	866													INV-BV-14	1					Unscorable								18.6
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		1048	945													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.0
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		1043	395													INV-BV-14	1					Macroalgae > Erect fine branching	Red							44.2
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		837	1120													INV-BV-14	1					Unscorable								29.1
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		739	138													INV-BV-14	1					Unscorable								66.9
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		780	83													INV-BV-14	1					Unscorable								71.6
+INV-BV-14_1_01_Left_MAH00247.MP4_0075911.jpg	      0		1026	141													INV-BV-14	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						67.2
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		1013	90													INV-BV-17	1					Sponges > Massive forms	Simple							100.0
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		940	1048													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						10.2
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		1042	1667													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						56.5
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		714	118													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						97.0
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		692	655													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.0
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		809	1362													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.5
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		616	1667													INV-BV-17	1					Macroalgae > Erect coarse branching								58.4
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		789	1687													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						55.9
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		862	805													INV-BV-17	1					Bryozoa > Soft	Foliaceous							29.7
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		930	1797													INV-BV-17	1					Unscorable								66.5
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		1031	171													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						92.5
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		628	1794													INV-BV-17	1					Macroalgae > Erect coarse branching								69.5
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		1066	1287													INV-BV-17	1					Macroalgae > Erect coarse branching								26.4
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		774	1615													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.2
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		866	1817													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						68.1
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		969	614													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.4
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		951	1848													INV-BV-17	1					Unscorable								71.6
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		862	1133													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						2.1
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		801	229													INV-BV-17	1					Macroalgae > Erect fine branching	Green							85.6
+INV-BV-17_1_01_Left_MAH01273.MP4_0036300.jpg	      0		770	845													INV-BV-17	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.2
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		808	592													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.0
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		720	1612													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						62.1
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		727	1824													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						84.6
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		1070	555													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.4
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		585	249													INV-BV-20	1					Unscorable								87.9
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		646	614													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.5
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		651	1188													INV-BV-20	1					Unscorable								22.7
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		912	586													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.0
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		561	367													INV-BV-20	1					Unscorable								76.5
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		867	1906													INV-BV-20	1					Unscorable								93.3
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		611	1538													INV-BV-20	1					Unscorable								57.2
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		812	1701													INV-BV-20	1					Unscorable								71.0
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		1029	245													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						88.5
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		763	1756													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						77.0
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		652	119													INV-BV-20	1					Unscorable								100.0
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		943	1010													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						15.5
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		962	1146													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.7
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		834	1220													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						19.7
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		870	1511													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.2
+INV-BV-20_1_01_Left_MAH00250.MP4_0015063.jpg	      0		1003	1044													INV-BV-20	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.7
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		1038	160													INV-BV-22	1					Macroalgae > Erect coarse branching	Red							70.6
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		990	548													INV-BV-22	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.0
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		988	1595													INV-BV-22	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						83.5
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		670	936													INV-BV-22	1					Unscorable								20.4
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		838	530													INV-BV-22	1					Macroalgae > Erect fine branching	Red							28.6
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		1044	502													INV-BV-22	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.2
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		1067	1333													INV-BV-22	1					Macroalgae > Erect fine branching	Red							60.3
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		667	244													INV-BV-22	1					Unscorable								60.2
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		930	271													INV-BV-22	1					Macroalgae > Erect fine branching	Red							56.6
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		742	1050													INV-BV-22	1					Unscorable								26.4
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		682	756													INV-BV-22	1					Unscorable								15.0
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		684	155													INV-BV-22	1					Unscorable								68.7
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		743	1058													INV-BV-22	1					Unscorable								27.2
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		920	1255													INV-BV-22	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.7
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		837	1773													INV-BV-22	1					Macroalgae > Erect fine branching	Red							100.0
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		578	147													INV-BV-22	1					Unscorable								72.5
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		780	1143													INV-BV-22	1					Macroalgae > Erect fine branching	Red							35.1
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		1000	360													INV-BV-22	1					Macroalgae > Erect fine branching	Red							49.8
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		603	722													INV-BV-22	1					Unscorable								23.9
+INV-BV-22_1_01_Left_MAH00369.MP4_0068084.jpg	      0		562	1580													INV-BV-22	1					Unscorable								84.3
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		686	474													INV-BV-24	1					Macroalgae > Erect fine branching								27.9
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		1070	801													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								26.3
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		739	1356													INV-BV-24	1					Sponges > Crusts	Encrusting							50.2
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		668	77													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								62.3
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		575	50													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								66.3
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		644	1098													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								29.7
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		821	543													INV-BV-24	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						21.4
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		1005	1294													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								49.2
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		1059	22													INV-BV-24	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						71.1
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		544	1556													INV-BV-24	1					Sponges > Crusts	Encrusting							70.5
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		598	115													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								60.2
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		725	1053													INV-BV-24	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						24.0
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		988	806													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								19.2
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		627	143													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								57.3
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		730	441													INV-BV-24	1					Macroalgae > Erect fine branching	Green							30.1
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		801	961													INV-BV-24	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						15.8
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		714	1429													INV-BV-24	1					Unscorable								56.7
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		1020	1898													INV-BV-24	1					Substrate > Consolidated (hard)	Boulders							100.0
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		686	1162													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								34.0
+INV-BV-24_1_01_Left_MAH00269.MP4_0009230.jpg	      0		695	371													INV-BV-24	1					Matrix > Mixed Sessile Invertebrate								36.6
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		1029	404													INV-BV-26	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						73.8
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		878	169													INV-BV-26	1					Macroalgae > Erect fine branching								98.1
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		776	1054													INV-BV-26	1					Macroalgae								10.9
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		759	770													INV-BV-26	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.9
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		694	1610													INV-BV-26	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						78.7
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		700	1701													INV-BV-26	1					Macroalgae								89.4
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		691	1574													INV-BV-26	1					Macroalgae								74.5
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		559	832													INV-BV-26	1					Unscorable								35.9
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		857	1170													INV-BV-26	1					Macroalgae								24.2
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		1065	912													INV-BV-26	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						30.9
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		667	1101													INV-BV-26	1					Unscorable								24.0
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		1066	189													INV-BV-26	1					Macroalgae > Erect fine branching	Red							100.0
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		1014	1708													INV-BV-26	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						92.2
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		768	275													INV-BV-26	1					Macroalgae > Erect fine branching	Red							85.2
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		890	1230													INV-BV-26	1					Macroalgae								32.3
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		546	1005													INV-BV-26	1					Unscorable								33.4
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		782	614													INV-BV-26	1					Macroalgae > Erect fine branching	Red							44.0
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		697	566													INV-BV-26	1					Unscorable								51.8
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		878	906													INV-BV-26	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						10.9
+INV-BV-26_1_01_Left_MAH01278.MP4_0037816.jpg	      0		1059	1700													INV-BV-26	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						92.8
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		551	971													INV-BV-27	1					Unscorable								30.4
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		911	400													INV-BV-27	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						43.8
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		758	1707													INV-BV-27	1					Unscorable								100.0
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		929	1482													INV-BV-27	1					Macroalgae > Erect coarse branching	Red							78.0
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		883	1616													INV-BV-27	1					Substrate > Consolidated (hard)	Cobbles							91.2
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		590	117													INV-BV-27	1					Unscorable								73.1
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		678	936													INV-BV-27	1					Macroalgae								19.1
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		748	483													INV-BV-27	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.6
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		542	109													INV-BV-27	1					Unscorable								75.4
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		1024	492													INV-BV-27	1					Macroalgae > Erect coarse branching	Brown							42.0
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		661	257													INV-BV-27	1					Unscorable								56.8
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		661	403													INV-BV-27	1					Unscorable								41.5
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		792	969													INV-BV-27	1					Bryozoa > Soft	Foliaceous							21.0
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		1047	529													INV-BV-27	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.0
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		666	1173													INV-BV-27	1					Bryozoa > Soft	Foliaceous							43.6
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		907	45													INV-BV-27	1					Macroalgae								80.3
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		685	298													INV-BV-27	1					Unscorable								52.1
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		552	278													INV-BV-27	1					Unscorable								57.9
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		717	1690													INV-BV-27	1					Bryozoa > Soft	Foliaceous							98.2
+INV-BV-27_1_01_Left_MAH00256.MP4_0016380.jpg	      0		830	1585													INV-BV-27	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						87.2
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		963	216													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		874	1016													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						11.9
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		560	1815													INV-BV-28	1					Unscorable								82.9
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		623	857													INV-BV-28	1					Unscorable								35.8
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		544	1598													INV-BV-28	1					Unscorable								62.0
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		954	905													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.9
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		994	697													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.4
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		1010	1736													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						71.8
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		555	1813													INV-BV-28	1					Unscorable								82.9
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		1060	1376													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.1
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		994	694													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						49.7
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		845	1172													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						7.0
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		955	1288													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.1
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		692	1359													INV-BV-28	1					Unscorable								31.0
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		776	1173													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						8.6
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		670	236													INV-BV-28	1					Unscorable								98.1
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		961	1733													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.2
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		830	324													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						86.9
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		653	1146													INV-BV-28	1					Unscorable								19.3
+INV-BV-28_1_01_Left_MAH00267.MP4_0032693.jpg	      0		981	1080													INV-BV-28	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.6
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		615	1731													INV-BV-29	1					Unscorable								73.7
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		908	619													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						46.6
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		1035	1184													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.9
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		574	1285													INV-BV-29	1					Unscorable								35.2
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		805	1158													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						10.7
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		657	1453													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						44.9
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		877	801													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						27.4
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		829	839													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.7
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		695	1076													INV-BV-29	1					Unscorable								13.4
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		953	1705													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						69.1
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		1023	845													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.5
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		978	781													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						33.1
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		550	990													INV-BV-29	1					Unscorable								29.3
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		987	114													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		651	1363													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.6
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		918	1114													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						11.7
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		898	1129													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						10.9
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		852	471													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						61.3
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		746	647													INV-BV-29	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						43.5
+INV-BV-29_1_01_Left_MAH00379.MP4_0057608.jpg	      0		893	1830													INV-BV-29	1					Unscorable								81.2
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		690	181													INV-BV-35	1					Unscorable								87.4
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		977	834													INV-BV-35	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						32.3
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		683	1214													INV-BV-35	1					Unscorable								13.8
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		698	1306													INV-BV-35	1					Unscorable								16.2
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		860	1865													INV-BV-35	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.9
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		575	1108													INV-BV-35	1					Unscorable								23.7
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		762	1696													INV-BV-35	1					Macroalgae > Erect coarse branching	Brown							44.8
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		561	1620													INV-BV-35	1					Unscorable								44.8
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		1021	1697													INV-BV-35	1					Unscorable								47.0
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		958	372													INV-BV-35	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						70.7
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		1063	1381													INV-BV-35	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.8
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		1016	1699													INV-BV-35	1					Unscorable								47.1
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		1021	1668													INV-BV-35	1					Unscorable								44.7
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		902	1117													INV-BV-35	1					Matrix > Mixed Sessile Invertebrate								7.8
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		910	225													INV-BV-35	1					Macroalgae > Erect fine branching	Red							82.8
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		715	1204													INV-BV-35	1					Unscorable								10.9
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		974	1307													INV-BV-35	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						15.8
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		638	1323													INV-BV-35	1					Unscorable								21.2
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		1064	45													INV-BV-35	1					Matrix > Mixed Sessile Invertebrate								100.0
+INV-BV-35_1_01_Left_MAH00243.MP4_0021424.jpg	      0		708	1790													INV-BV-35	1					Macroalgae > Erect coarse branching	Brown							53.7
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		819	1385													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						46.2
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		553	1088													INV-BV-36	1					Unscorable								29.0
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		648	1194													INV-BV-36	1					Unscorable								29.8
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		781	16													INV-BV-36	1					Unscorable								100.0
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		1014	1180													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						34.2
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		1037	904													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						27.0
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		545	416													INV-BV-36	1					Unscorable								63.0
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		672	530													INV-BV-36	1					Unscorable								46.8
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		629	750													INV-BV-36	1					Unscorable								27.6
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		792	1125													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						18.4
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		987	1352													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						47.5
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		811	1830													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Unidentifiable						93.5
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		840	582													INV-BV-36	1					Unscorable								40.0
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		545	731													INV-BV-36	1					Unscorable								35.2
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		818	1428													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Unidentifiable						50.7
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		998	376													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						65.5
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		1025	528													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						51.9
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		959	1081													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						22.7
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		553	925													INV-BV-36	1					Unscorable								25.3
+INV-BV-36_1_01_Left_MAH01263.MP4_0019272.jpg	      0		748	1643													INV-BV-36	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						73.7
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		786	1838													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.2
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		603	1337													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.7
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		709	1795													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						62.8
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		767	1806													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.3
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		983	847													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.5
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		937	796													INV-BV-42	1					Bryozoa > Hard	Branching							32.6
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		725	37													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		764	1180													INV-BV-42	1					Unscorable								6.2
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		553	1030													INV-BV-42	1					Unscorable								23.8
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		687	502													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.8
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		630	252													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.4
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		1057	1649													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						54.5
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		879	1438													INV-BV-42	1					Unscorable								30.3
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		952	339													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						73.4
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		632	862													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						28.1
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		1055	1498													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						42.3
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		610	1595													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.0
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		786	1122													INV-BV-42	1					Unscorable								0.8
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		779	1513													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						36.3
+INV-BV-42_1_01_Left_MAH00285.MP4_0074501.jpg	      0		1000	957													INV-BV-42	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.1
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		693	1868													INV-BV-44	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						53.7
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		838	247													INV-BV-44	1					Sponges > Erect forms	Simple							97.4
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		687	221													INV-BV-44	1					Unscorable								100.0
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		576	1320													INV-BV-44	1					Unscorable								18.9
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		929	1202													INV-BV-44	1					Macroalgae > Filamentous / filiform	Green							16.4
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		664	1906													INV-BV-44	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.7
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		936	1248													INV-BV-44	1					Macroalgae > Filamentous / filiform	Green							15.3
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		790	1428													INV-BV-44	1					Unscorable								12.4
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		869	1785													INV-BV-44	1					Unscorable								46.2
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		906	1758													INV-BV-44	1					Unscorable								44.6
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		790	1278													INV-BV-44	1					Macroalgae > Filamentous / filiform	Green							1.9
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		577	1082													INV-BV-44	1					Unscorable								27.1
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		778	1536													INV-BV-44	1					Unscorable								22.4
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		730	1435													INV-BV-44	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						13.8
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		798	1586													INV-BV-44	1					Unscorable								27.1
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		949	1824													INV-BV-44	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.6
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		1055	1153													INV-BV-44	1					Matrix > Mixed Sessile Invertebrate								28.9
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		676	1329													INV-BV-44	1					Macroalgae								10.0
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		654	416													INV-BV-44	1					Unscorable								82.3
+INV-BV-44_1_01_Left_MAH00265.MP4_0029051.jpg	      0		666	1274													INV-BV-44	1					Unscorable								10.6
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		562	1290													INV-BV-48	1					Unscorable								45.4
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		932	380													INV-BV-48	1					Cnidaria > Hydroids								69.6
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		628	531													INV-BV-48	1					Macroalgae > Erect fine branching	Red							54.6
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		593	1019													INV-BV-48	1					Macroalgae								24.7
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		774	1133													INV-BV-48	1					Macroalgae								18.4
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		855	1363													INV-BV-48	1					Macroalgae								44.7
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		586	1823													INV-BV-48	1					Unscorable								100.0
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		950	1695													INV-BV-48	1					Unscorable								83.9
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		976	289													INV-BV-48	1					Matrix > Mixed Sessile Invertebrate								80.8
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		982	410													INV-BV-48	1					Matrix > Mixed Sessile Invertebrate								67.7
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		1065	154													INV-BV-48	1					Matrix > Mixed Sessile Invertebrate								98.4
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		759	1849													INV-BV-48	1					Unscorable								100.0
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		620	1796													INV-BV-48	1					Unscorable								96.1
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		969	979													INV-BV-48	1					Macroalgae > Erect fine branching	Red							18.8
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		625	465													INV-BV-48	1					Macroalgae > Erect fine branching	Red							61.8
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		1043	1282													INV-BV-48	1					Macroalgae								44.5
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		763	821													INV-BV-48	1					Macroalgae								18.2
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		607	1031													INV-BV-48	1					Macroalgae								23.4
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		810	719													INV-BV-48	1					Macroalgae > Erect fine branching	Red							29.3
+INV-BV-48_1_01_Left_MAH01283.MP4_0035657.jpg	      0		982	475													INV-BV-48	1					Matrix > Mixed Sessile Invertebrate								60.6
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		969	1066													INV-BV-51	1					Macroalgae								26.5
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		824	1393													INV-BV-51	1					Macroalgae								54.6
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		684	322													INV-BV-51	1					Unscorable								49.5
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		542	6													INV-BV-51	1					Unscorable								82.3
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		557	1833													INV-BV-51	1					Unscorable								100.0
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		1004	40													INV-BV-51	1					Macroalgae > Erect fine branching	Red							75.8
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		1050	192													INV-BV-51	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						63.0
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		1044	1150													INV-BV-51	1					Substrate > Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)						37.0
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		982	1553													INV-BV-51	1					Macroalgae > Erect coarse branching	Brown							71.0
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		650	923													INV-BV-51	1					Unscorable								20.4
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		720	193													INV-BV-51	1					Macroalgae > Erect fine branching	Green							60.6
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		975	42													INV-BV-51	1					Macroalgae > Erect fine branching	Red							75.1
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		802	592													INV-BV-51	1					Macroalgae > Erect fine branching	Red							21.9
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		582	1101													INV-BV-51	1					Unscorable								36.2
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		865	1599													INV-BV-51	1					Macroalgae > Erect fine branching	Green							74.2
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		965	211													INV-BV-51	1					Macroalgae > Erect fine branching	Red							59.1
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		864	1441													INV-BV-51	1					Macroalgae > Erect coarse branching	Brown							59.2
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		993	49													INV-BV-51	1					Macroalgae > Erect fine branching	Red							74.7
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		886	1189													INV-BV-51	1					Macroalgae								35.4
+INV-BV-51_1_01_Left_MAH00265.MP4_0058175.jpg	      0		802	1495													INV-BV-51	1					Unscorable								64.3
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		615	1553													INV-BV-53	1					Unscorable								55.9
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		813	758													INV-BV-53	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						26.4
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		776	404													INV-BV-53	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						60.6
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		730	1672													INV-BV-53	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						66.9
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		718	1120													INV-BV-53	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						11.5
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		969	1742													INV-BV-53	1					Unscorable								78.0
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		670	907													INV-BV-53	1					Unscorable								11.2
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		940	1217													INV-BV-53	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						30.5
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		993	1603													INV-BV-53	1					Macroalgae > Erect coarse branching	Brown							65.8
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		583	1529													INV-BV-53	1					Unscorable								54.3
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		600	202													INV-BV-53	1					Unscorable								81.5
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		637	596													INV-BV-53	1					Unscorable								42.0
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		563	530													INV-BV-53	1					Unscorable								50.3
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		573	1094													INV-BV-53	1					Unscorable								17.4
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		595	346													INV-BV-53	1					Unscorable								67.4
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		683	1684													INV-BV-53	1					Unscorable								68.2
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		895	669													INV-BV-53	1					Macroalgae > Erect coarse branching								38.0
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		665	1323													INV-BV-53	1					Unscorable								32.4
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		764	1150													INV-BV-53	1					Bryozoa > Soft	Foliaceous							15.1
+INV-BV-53_1_01_Left_MAH00239.MP4_0018051.jpg	      0		662	11													INV-BV-53	1					Unscorable								100.0
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		621	1563													INV-BV-55	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						59.8
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		838	1289													INV-BV-55	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						27.9
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		957	1863													INV-BV-55	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.4
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		627	1759													INV-BV-55	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						81.4
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		574	1808													INV-BV-55	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						88.1
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		701	1542													INV-BV-55	1					Macroalgae > Large canopy-forming	Brown	Ecklonia radiata						55.6
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		1023	219													INV-BV-55	1					Macroalgae > Erect coarse branching	Red							100.0
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		771	1888													INV-BV-55	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						94.7
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		873	606													INV-BV-55	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						52.9
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		1070	950													INV-BV-55	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.2
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		609	322													INV-BV-55	1					Unscorable								85.5
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		642	1617													INV-BV-55	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.2
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		753	522													INV-BV-55	1					Macroalgae > Erect fine branching	Red							61.0
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		810	471													INV-BV-55	1					Macroalgae > Erect coarse branching	Brown							67.0
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		616	722													INV-BV-55	1					Macroalgae > Erect coarse branching	Brown							41.6
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		552	375													INV-BV-55	1					Unscorable								81.3
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		595	1879													INV-BV-55	1					Macroalgae								95.5
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		683	473													INV-BV-55	1					Macroalgae > Erect coarse branching								67.1
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		995	865													INV-BV-55	1					Macroalgae > Erect fine branching	Red							34.4
+INV-BV-55_1_01_Left_MAH00270.MP4_0033397.jpg	      0		922	409													INV-BV-55	1					Macroalgae > Erect fine branching	Red							76.1
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		986	644													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						29.2
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		976	1361													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						58.5
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		795	445													INV-BV-57	1					Matrix > Mixed Sessile Invertebrate								40.1
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		579	1405													INV-BV-57	1					Unscorable								62.6
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		833	1798													INV-BV-57	1					Unscorable								100.0
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		776	35													INV-BV-57	1					Unscorable								82.4
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		544	92													INV-BV-57	1					Unscorable								80.2
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		950	130													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						74.9
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		843	793													INV-BV-57	1					Sponges > Erect forms	Branching							8.1
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		837	591													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.7
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		731	1299													INV-BV-57	1					Unscorable								48.4
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		600	1431													INV-BV-57	1					Unscorable								64.4
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		748	893													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						6.8
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		541	368													INV-BV-57	1					Unscorable								53.7
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		1071	1186													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						47.8
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		678	1058													INV-BV-57	1					Unscorable								25.3
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		1016	429													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						48.6
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		659	538													INV-BV-57	1					Unscorable								32.7
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		558	1315													INV-BV-57	1					Unscorable								54.7
+INV-BV-57_1_01_Left_MAH00271.MP4_0000576.jpg	      0		774	836													INV-BV-57	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						0.3
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		818	264													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						65.3
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		855	1159													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						31.5
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		736	1099													INV-BV-58	1					Unscorable								24.4
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		622	1118													INV-BV-58	1					Unscorable								30.8
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		837	493													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.2
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		605	367													INV-BV-58	1					Unscorable								57.2
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		603	61													INV-BV-58	1					Unscorable								88.8
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		722	317													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						59.8
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		760	1227													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.7
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		773	200													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						72.0
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		588	884													INV-BV-58	1					Unscorable								20.2
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		825	507													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						39.6
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		1014	1780													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		935	1486													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						67.4
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		643	1421													INV-BV-58	1					Unscorable								60.1
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		822	1067													INV-BV-58	1					Unscorable								21.1
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		969	578													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						37.8
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		912	1336													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						51.4
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		935	938													INV-BV-58	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						18.2
+INV-BV-58_1_01_Left_MAH00261.MP4_0050973.jpg	      0		560	1185													INV-BV-58	1					Unscorable								40.4
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		839	531													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						15.6
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		750	1450													INV-BV-60	1					Bryozoa > Soft	Foliaceous							63.7
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		575	358													INV-BV-60	1					Unscorable								31.1
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		662	165													INV-BV-60	1					Unscorable								44.5
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		970	336													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.3
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		761	423													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						22.5
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		684	1788													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						92.1
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		725	832													INV-BV-60	1					Unscorable								12.0
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		665	325													INV-BV-60	1					Unscorable								31.3
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		570	614													INV-BV-60	1					Unscorable								15.7
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		578	1612													INV-BV-60	1					Unscorable								78.5
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		808	774													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						8.9
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		820	1881													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						100.0
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		888	940													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						24.3
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		967	39													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						57.7
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		837	40													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						55.0
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		743	404													INV-BV-60	1					Unscorable								24.0
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		558	395													INV-BV-60	1					Unscorable								29.1
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		812	396													INV-BV-60	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						25.3
+INV-BV-60_1_01_Left_MAH00253.MP4_0065946.jpg	      0		617	497													INV-BV-60	1					Unscorable								19.2
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		916	470													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						50.1
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		600	869													INV-BV-62	1					Unscorable								22.2
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		659	70													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						92.0
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		978	642													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						35.7
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		1025	1640													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						78.6
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		852	1602													INV-BV-62	1					Unscorable								71.1
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		691	1726													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						84.8
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		710	1162													INV-BV-62	1					Unscorable								26.3
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		717	740													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.9
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		950	567													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						41.4
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		994	910													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						20.5
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		1053	226													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						78.9
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		965	1047													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						21.3
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		833	858													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						8.4
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		813	1567													INV-BV-62	1					Unscorable								67.2
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		629	1425													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						55.3
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		686	1684													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						80.5
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		797	1094													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.3
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		551	296													INV-BV-62	1					Unscorable								71.9
+INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		594	6													INV-BV-62	1					Unscorable								100.0
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		1021	1341													INV-BV-69	1					Sponges > Erect forms	Laminar							49.6
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		806	866													INV-BV-69	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						1.5
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		744	592													INV-BV-69	1					Macroalgae > Erect fine branching	Red							28.9
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		678	200													INV-BV-69	1					Matrix > Mixed Sessile Invertebrate								67.7
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		1026	1731													INV-BV-69	1					Bryozoa > Hard	Fenestrate							85.8
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		705	1385													INV-BV-69	1					Unscorable								50.5
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		544	830													INV-BV-69	1					Unscorable								26.6
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		611	382													INV-BV-69	1					Sponges > Cup-likes	Barrels							52.5
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		1020	1054													INV-BV-69	1					Cnidaria > Corals	Black & Octocorals	Branching (3D)						26.6
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		983	1453													INV-BV-69	1					Matrix > Bryozoa / Cnidaria Matrix								58.5
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		720	130													INV-BV-69	1					Matrix > Mixed Sessile Invertebrate								73.9
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		985	238													INV-BV-69	1					Macroalgae > Encrusting	Red	Calcareous						65.1
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		703	786													INV-BV-69	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						14.0
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		823	1902													INV-BV-69	1					Unscorable								100.0
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		951	824													INV-BV-69	1					Macroalgae > Articulated calcareous	Red	Articulated Calcareous Red						14.7
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		624	911													INV-BV-69	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						18.5
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		590	555													INV-BV-69	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						38.5
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		1036	759													INV-BV-69	1					Sponges > Massive forms	Simple							25.0
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		714	1432													INV-BV-69	1					Unscorable								54.8
+INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		937	231													INV-BV-69	1					Matrix > Mixed Sessile Invertebrate								64.7
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		916	1563													INV-BV-70	1					Sponges > Erect forms	Branching							77.1
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		1060	379													INV-BV-70	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						63.7
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		625	439													INV-BV-70	1					Sponges > Erect forms	Simple							54.6
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		777	825													INV-BV-70	1					Matrix > Bryozoa / Cnidaria Matrix								7.9
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		1021	702													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						31.6
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		879	636													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						29.3
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		931	634													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						31.6
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		693	1244													INV-BV-70	1					Sponges > Erect forms	Simple							42.4
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		868	833													INV-BV-70	1					Matrix > Bryozoa / Cnidaria Matrix								8.9
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		930	585													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						36.6
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		896	1742													INV-BV-70	1					Unscorable								96.9
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		618	21													INV-BV-70	1					Matrix > Mixed Sessile Invertebrate								100.0
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		917	1472													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						67.1
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		943	470													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						49.3
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		681	1606													INV-BV-70	1					Matrix > Mixed Sessile Invertebrate								82.4
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		600	1673													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						91.8
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		778	998													INV-BV-70	1					Matrix > Bryozoa / Cnidaria Matrix								13.1
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		620	331													INV-BV-70	1					Matrix > Mixed Sessile Invertebrate								66.2
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		840	545													INV-BV-70	1					Cnidaria > Corals	Black & Octocorals	Fan (2D)						38.7
+INV-BV-70_1_01_Left_MAH00255.MP4_0020512.jpg	      0		606	1035													INV-BV-70	1					Matrix > Mixed Sessile Invertebrate								28.5

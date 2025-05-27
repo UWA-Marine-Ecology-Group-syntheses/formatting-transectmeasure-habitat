@@ -1,0 +1,275 @@
+campaignid,sample,caab_code,number,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species
+Tasman_Fracture_202103,100,82003006,20,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,101,82003003,2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,101,82003004,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,101,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,101,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,107,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,107,82003007,6,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,129,82003001,8,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,129,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,129,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,129,82003007,10,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,131,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,131,82003007,6,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,132,82003006,3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,132,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,135,82003003,5,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,135,82003004,4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,135,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,136,82003006,5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,137,82003001,5,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,137,82003003,3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,137,82003004,4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,137,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,137,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,138,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,138,82003007,6,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,142,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,143,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,143,82003006,15,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,143,82003007,4,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,144,82003001,1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,144,82003003,3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,144,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,144,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,145,82003004,6,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,145,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,146,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,146,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,147,82003001,7,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,147,82003003,8,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,148,82003007,4,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,149,82003003,7,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,149,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,149,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,149,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,150,82003003,2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,150,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,150,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,160,82003001,2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,160,82003003,7,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,160,82003004,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,160,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,161,82003003,5,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,161,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,161,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,161,82003007,5,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,162,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,163,82003006,11,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,163,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,164,82003003,3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,164,82003004,6,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,164,82003006,6,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,164,82003007,4,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,165,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,165,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,166,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,166,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,167,82003004,6,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,167,82003006,13,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,167,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,168,82003001,10,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,170,82003001,2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,170,82003003,2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,170,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,170,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,171,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,171,82003007,4,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,172,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,173,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,173,82003007,5,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,175,82003006,6,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,175,82003007,6,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,176,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,176,82003006,3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,176,82003007,13,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,178,82003006,9,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,178,82003007,8,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,179,82003001,2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,179,82003004,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,179,82003006,3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,179,82003007,4,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,180,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,180,82003007,11,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,181,82003006,11,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,181,82003007,9,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,182,82003003,9,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,182,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,182,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,183,82003003,2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,183,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,183,82003006,9,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,183,82003007,7,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,184,82003004,4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,184,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,184,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,185,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,185,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,185,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,186,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,187,82003006,10,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,187,82003007,10,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,201,82003001,4,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,201,82003003,6,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,202,82003001,1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,202,82003004,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,202,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,203,82003006,17,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,204,82003001,6,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,204,82003003,4,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,204,82003006,3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,204,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,205,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,205,82003007,9,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,206,82003004,14,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,206,82003006,5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,206,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,207,82003001,7,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,207,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,207,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,207,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,207,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,208,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,209,82003001,3,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,209,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,209,82003004,6,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,209,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,210,82003001,6,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,210,82003003,4,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,210,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,210,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,211,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,211,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,211,82003007,4,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,212,82003003,13,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,212,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,213,82003006,10,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,213,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,214,82003001,3,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,214,82003003,4,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,214,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,214,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,215,82003003,6,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,215,82003004,11,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,215,82003006,3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,216,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,216,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,216,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,216,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,217,82003004,8,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,217,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,218,82003003,2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,218,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,218,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,218,82003007,5,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,219,82003001,2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,219,82003003,4,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,219,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,220,82003006,5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,220,82003007,7,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,40,82003001,1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,40,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,40,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,40,82003006,10,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,40,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,41,82003003,10,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,41,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,41,82003006,1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,42,82003006,9,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,42,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,43,82003001,4,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,43,82003003,2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,43,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,43,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,43,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,44,82003003,8,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,44,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,47,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,47,82003006,9,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,47,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,49,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,49,82003007,5,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,50,82003001,2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,50,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,50,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,50,82003007,6,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,51,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,51,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,51,82003006,3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,51,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,52,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,52,82003006,3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,52,82003007,14,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,53,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,53,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,54,82003001,8,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,54,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,54,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,54,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,55,82003006,10,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,56,82003006,9,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,56,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,57,82003004,7,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,57,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,57,82003007,6,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,61,82003001,10,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,61,82003003,3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,61,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,62,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,63,82003004,11,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,63,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,63,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,67,82003004,4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,67,82003006,5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,67,82003007,7,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,68,82003007,4,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,70,82003004,4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,70,82003006,5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,74,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,74,82003006,5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,74,82003007,5,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,75,82003001,1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,75,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,75,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,75,82003006,6,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,76,82003003,9,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,77,82003003,14,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,79,82003003,9,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,80,82003003,12,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,80,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,81,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,81,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,82,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,82,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,82,82003007,6,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,83,82003004,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,83,82003006,5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,84,82003003,10,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,85,82003003,10,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,86,82003001,2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,86,82003003,3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,86,82003004,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,87,82003003,15,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,88,82003001,12,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,89,82003003,10,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,90,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,90,82003006,11,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,90,82003007,2,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,91,82003001,8,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,91,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,92,82003003,7,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,92,82003004,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,92,82003006,2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,93,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,94,82003006,8,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,94,82003007,3,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,95,82003003,10,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,96,82003006,7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,97,82003004,1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,97,82003006,4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,98,82003003,3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,98,82003006,11,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,98,82003007,1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,99,82003003,1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA
+Tasman_Fracture_202103,99,82003004,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA

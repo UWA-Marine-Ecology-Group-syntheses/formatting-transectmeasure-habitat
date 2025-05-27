@@ -1,0 +1,62 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+69 GRTS_10_10	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	10_10.EMObs
+73 GRTS_10_1014	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	10_1014.EMObs
+71 GRTS_10_477	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	10_477.EMObs
+72 GRTS_10_586	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	10_586.EMObs
+70 GRTS_10_reef	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	10_Reef.EMObs
+44 GRTS_15_15	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	15_15.EMObs
+46 GRTS_15_207	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	15_207.EMObs
+47 GRTS_15_911	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	15_911.EMObs
+45 GRTS_15_reef	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	15_reef.EMObs
+51 GRTS_16_16	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	16_16.EMObs
+54 GRTS_16_236	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	16_236.EMObs
+53 GRTS_16_492	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	16_492.EMObs
+55 GRTS_16_592	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	16_592.EMObs
+52 GRTS_16_reef	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	16_reef.EMObs
+78 GRTS_1_1	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	1_1.EMObs
+79 GRTS_1_1153	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	1_1153.EMObs
+82 GRTS_1_2049	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	1_2049.EMObs
+80 GRTS_1_2177	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	1_2177.EMObs
+81 GRTS_1_577	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	1_577.EMObs
+13 GRTS_23_1047	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	23_1047.EMObs
+15 GRTS_23_1111	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	23_1111.EMObs
+12 GRTS_23_23	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	23_23.EMObs
+16 GRTS_23_855	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	23_855.EMObs
+14 GRTS_23_967	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	23_967.EMObs
+100 GRTS_28_1052	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	28_1052.EMObs
+98 GRTS_28_28	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	28_28.EMObs
+101 GRTS_28_284	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	28_284.EMObs
+99 GRTS_28_348	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	28_348.EMObs
+102 GRTS_28_972	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	28_972.EMObs
+33 GRTS_2_1597	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	2_1597.EMObs
+30 GRTS_2_2	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	2_2.EMObs
+34 GRTS_2_2045	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	2_2045.EMObs
+32 GRTS_2_2109	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	2_2109.EMObs
+31 GRTS_2_reef	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	2_Reef.EMObs
+105 GRTS_31_287	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	31_287.EMObs
+104 GRTS_31_31	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	31_31.EMObs
+106 GRTS_31_399	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	31_399.EMObs
+107 GRTS_31_95	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	31_95.EMObs
+67 GRTS_3_1027	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	3_1027.EMObs
+64 GRTS_3_3	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	3_3.EMObs
+66 GRTS_3_420	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	3_420.EMObs
+65 GRTS_3_788	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	3_788.EMObs
+59 GRTS_4_255	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	4_225.EMObs
+60 GRTS_4_260	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	4_260.EMObs
+57 GRTS_4_4	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	4_4.EMObs
+58 GRTS_4_511	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	4_511.EMObs
+61 GRTS_4_991	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	4_991.EMObs
+7 GRTS_7_1031	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	7_1031.EMObs
+10 GRTS_7_1351	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	7_1351.EMObs
+9 GRTS_7_2119	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	7_2119.EMObs
+6 GRTS_7_7	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	7_7.EMObs
+8 GRTS_7_775	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	7_775.EMObs
+21 Nev's canyonhead_169	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	NevCh_169.EMObs
+20 Nev's canyonhead_873	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	NevCh_226.EMObs
+18 Nev's canyonhead_5373	1.07	2017 12 05 15:58:31	T:\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BRUV\All avi\	NevCh_5373.EMObs
+22 Nev's canyonhead_617	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	NevCh_617.EMObs
+19 Nev's canyonhead_reef	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	NevCh_Reef.EMObs
+85 Sth_Can_2_opportunistic	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	SthCan_2.EMObs
+86 Sth_Can_3_opportunistic	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	SthCan_3.EMObs
+87 Sth_Can_4_opportunistic	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	SthCan_4.EMObs
+88 Sth_Can_5_opportunistic	1.07	2017 12 05 15:58:31	R:\TAFI\Data\CERF\Flinders_Survey_Aug2012_Data\Shelf_BUV\All avi\	SthCan_5.EMObs

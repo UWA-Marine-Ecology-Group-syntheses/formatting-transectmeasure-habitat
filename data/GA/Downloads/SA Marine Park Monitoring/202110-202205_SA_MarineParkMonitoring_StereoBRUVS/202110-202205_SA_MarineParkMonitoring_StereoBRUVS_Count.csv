@@ -1,0 +1,691 @@
+Sample,Family,Genus,Species,Count,Code,Filename,Frame,Time (mins),TapeReader,Depth,Comment,Habitat,Soak time,Bias,FOV,Vis,Has fed
+PN_I01_2110,Kyphosidae,Kyphosus,sydneyanus,25,37361001,GH021770.MP4,10846,24.8673,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Labridae,Austrolabrus,maculatus,1,37384025,GH011770.MP4,20959,13.9727,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Labridae,Notolabrus,tetricus,1,37384003,GH021770.MP4,7114,22.3793,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Monacanthidae,Meuschenia,freycineti,1,37465036,GH021770.MP4,11431,25.2573,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Monacanthidae,Meuschenia,hippocrepis,7,37465004,GH031770.MP4,14299,44.806,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Labridae,Siphonognathus,beddomei,1,37385006,GH011770.MP4,7258,4.8387,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Plesiopidae,Trachinops,noarlungae,1,37316017,GH011770.MP4,10862,7.2413,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Scorpididae,Scorpis,aequipinnis,5,37361004,GH031770.MP4,4370,38.1867,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Scorpididae,Scorpis,lineolata,1,37361009,GH021770.MP4,25258,34.4753,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I01_2110,Sparidae,Chrysophrys,auratus,1,37353001,GH021770.MP4,17117,29.048,TClarke,5.8,Starts at 1:45,Reef; Ecklonia; Profile,60,1,2,1,No
+PN_I02_2110,Dinolestidae,Dinolestes,lewini,3,37327002,GH012227.MP4,17779,11.8527,TClarke,8,Starts at 3:00. Facing Up. RHS camera failed at 3:00 - No measurements,Facing Up,60,1,1,2,No
+PN_I02_2110,Gerreidae,Parequula,melbournensis,1,37349001,GH022227.MP4,5,17.64,TClarke,8,Starts at 3:00. Facing Up. RHS camera failed at 3:00 - No measurements,Facing Up,60,1,1,2,No
+PN_I02_2110,Monacanthidae,Meuschenia,freycineti,2,37465036,GH032227.MP4,22934,50.5627,TClarke,8,Starts at 3:00. Facing Up. RHS camera failed at 3:00 - No measurements,Facing Up,60,1,1,2,No
+PN_I02_2110,Monacanthidae,Meuschenia,hippocrepis,1,37465004,GH012227.MP4,13920,9.28,TClarke,8,Starts at 3:00. Facing Up. RHS camera failed at 3:00 - No measurements,Facing Up,60,1,1,2,No
+PN_I02_2110,Plesiopidae,Trachinops,noarlungae,1,37316017,GH012227.MP4,24499,16.3327,TClarke,8,Starts at 3:00. Facing Up. RHS camera failed at 3:00 - No measurements,Facing Up,60,1,1,2,No
+PN_I02_2110,Scorpididae,Scorpis,aequipinnis,7,37361004,GH042227.MP4,5853,56.812,TClarke,8,Starts at 3:00. Facing Up. RHS camera failed at 3:00 - No measurements,Facing Up,60,1,1,2,No
+PN_I03_2110,Arripidae,Arripis,georgianus,1,37344001,GP030103.MP4,11403,60.642,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Cheilodactylidae,Dactylophora,nigricans,1,37377005,GP020103.MP4,9715,41.8367,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Labridae,Austrolabrus,maculatus,2,37384025,GP020103.MP4,25128,52.112,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Labridae,Notolabrus,parilus,1,99379455,GOPR0103.MP4,14847,9.898,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Loliginidae,Sepioteuthis,australis,3,23617005,GOPR0103.MP4,20207,13.4713,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Monacanthidae,Meuschenia,hippocrepis,1,37465004,GP020103.MP4,20850,49.26,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Mullidae,Upeneichthys,vlamingii,1,37355029,GOPR0103.MP4,11019,7.346,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Scorpididae,Scorpis,aequipinnis,6,37361004,GP010103.MP4,23994,33.676,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I03_2110,Sillaginidae,Sillago,bassensis,4,37330002,GOPR0103.MP4,5928,3.952,TClarke,7.6,Starts at 1:50,Reef; Sand; Transition,60,1,1,1,No
+PN_I04_2110,Kyphosidae,Kyphosus,sydneyanus,1,37361001,GH021770.MP4,1334,18.526,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Labridae,Austrolabrus,maculatus,1,37384025,GH011770.MP4,10014,6.676,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Labridae,Notolabrus,parilus,3,99379455,GH011770.MP4,23538,15.692,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Labridae,Notolabrus,tetricus,1,37384003,GH031770.MP4,23260,50.78,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Labridae,Pictilabrus,laticlavius,1,37384020,GH011770.MP4,8851,5.9007,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Monacanthidae,Meuschenia,freycineti,1,37465036,GH011770.MP4,26090,17.3933,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Monacanthidae,Meuschenia,hippocrepis,10,37465004,GH021770.MP4,24931,34.2573,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Labridae,Siphonognathus,beddomei,1,37385006,GH041770.MP4,1474,53.8927,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+PN_I04_2110,Scorpididae,Scorpis,aequipinnis,3,37361004,GH021770.MP4,18709,30.1093,TClarke,7.6,Starts at 4:00. Tilted on side. RHS camera obstructed,Reef; Ecklonia; Profile; Sand; Transition,60,2,2,1,No
+ISDI01_2111,Dasyatidae,Bathytoshia,brevicaudata,2,99379210,LGH020043.MP4,18189,29.7627,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Dinolestidae,Dinolestes,lewini,10,37327002,LGH020043.MP4,19065,30.3467,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Gerreidae,Parequula,melbournensis,2,37349001,LGH010043.MP4,12970,8.6467,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Labridae,Achoerodus,gouldii,1,37384002,LGH020043.MP4,12380,25.89,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Labridae,Austrolabrus,maculatus,1,37384025,LGH020043.MP4,12499,25.9693,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Labridae,Notolabrus,parilus,2,99379455,LGH020043.MP4,6243,21.7987,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Labridae,Ophthalmolepis,lineolatus,46,37384040,LGH030043.MP4,21961,49.914,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,Yes
+ISDI01_2111,Labridae,Pictilabrus,laticlavius,2,37384020,LGH010043.MP4,11206,7.4707,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Monacanthidae,Acanthaluteres,vittiger,12,37465002,LGH040043.MP4,9093,58.972,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Monacanthidae,Meuschenia,freycineti,1,37465036,LGH040043.MP4,15943,63.5387,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH010043.MP4,14997,9.998,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGH030043.MP4,30,35.2933,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,Yes
+ISDI01_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH010043.MP4,26331,17.554,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH010043.MP4,25338,16.892,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Labridae,Olisthops,cyanomelas,1,37385001,LGH010043.MP4,6587,4.3913,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Scorpididae,Neatypus,obliquus,7,37361002,LGH040043.MP4,5397,56.508,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Serranidae,Caesioperca,rasor,1,99378025,LGH040043.MP4,1234,53.7327,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Triakidae,Mustelus,antarcticus,1,37017001,LGH040043.MP4,11233,60.3987,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI01_2111,Trygonorrhinidae,Trygonorrhina,dumerilii,1,37027011,LGH020043.MP4,25279,34.4893,DEaston,28.5,start at 3.8mins,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI02_2111,Carangidae,Seriola,hippos,1,37337007,LGP010119.MP4,7795,22.8767,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Dasyatidae,Bathytoshia,brevicaudata,1,99379210,LGOPR0119.MP4,18051,12.034,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Gerreidae,Parequula,melbournensis,3,37349001,LGOPR0119.MP4,20631,13.754,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Labridae,Eupetrichthys,angustipes,1,37384105,LGOPR0119.MP4,7356,4.904,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Labridae,Notolabrus,parilus,2,99379455,LGOPR0119.MP4,20923,13.9487,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Labridae,Ophthalmolepis,lineolatus,23,37384040,LGP020119.MP4,4832,38.5813,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Monacanthidae,Acanthaluteres,vittiger,2,37465002,LGP020119.MP4,18211,47.5007,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Monacanthidae,Meuschenia,freycineti,3,37465036,LGP030119.MP4,2816,54.9173,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,Yes
+ISDI02_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGOPR0119.MP4,21189,14.126,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGOPR0119.MP4,12761,8.5073,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGP010119.MP4,17952,29.648,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Scorpididae,Neatypus,obliquus,2,37361002,LGP020119.MP4,9688,41.8187,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Triakidae,Galeorhinus,galeus,1,37017008,LGP020119.MP4,9232,41.5147,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Triakidae,Mustelus,antarcticus,1,37017001,LGP010119.MP4,20434,31.3027,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI02_2111,Trygonorrhinidae,Trygonorrhina,dumerilii,1,37027011,LGP030119.MP4,3301,55.2407,DEaston,22.7,NA,Macroalgae; sand or reef,60,2,1,1,No
+ISDI03_2111,Carangidae,Seriola,hippos,2,37337007,LGP011796.MP4,12805,26.2167,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Dasyatidae,Bathytoshia,brevicaudata,2,99379210,LGP011796.MP4,15512,28.0213,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,Yes
+ISDI03_2111,Gerreidae,Parequula,melbournensis,1,37349001,LGOPR1796.MP4,16347,10.898,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Labridae,Notolabrus,parilus,2,99379455,LGOPR1796.MP4,15144,10.096,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Labridae,Notolabrus,tetricus,1,37384003,LGOPR1796.MP4,18624,12.416,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Labridae,Ophthalmolepis,lineolatus,30,37384040,LGP011796.MP4,3824,20.2293,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Labridae,Pictilabrus,laticlavius,2,37384020,LGOPR1796.MP4,9378,6.252,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Monacanthidae,Acanthaluteres,vittiger,4,37465002,LGOPR1796.MP4,5688,3.792,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Monacanthidae,Meuschenia,galii,2,37465040,LGP011796.MP4,10407,24.618,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Monacanthidae,Meuschenia,hippocrepis,1,37465004,LGOPR1796.MP4,23954,15.9693,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGOPR1796.MP4,22661,15.1073,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI03_2111,Triakidae,Galeorhinus,galeus,1,37017008,LGP021796.MP4,3513,37.702,DEaston,22.2,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+ISDI04_2111,Carangidae,Pseudocaranx,sp,1,37337924,LGH011784.MP4,20573,13.7153,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Carangidae,Seriola,hippos,1,37337007,LGH031784.MP4,24836,51.8307,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Gerreidae,Parequula,melbournensis,1,37349001,LGH011784.MP4,18597,12.398,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Labridae,Notolabrus,parilus,2,99379455,LGH011784.MP4,11500,7.6667,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Labridae,Notolabrus,tetricus,1,37384003,LGH031784.MP4,16853,46.5087,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Labridae,Ophthalmolepis,lineolatus,28,37384040,LGH031784.MP4,9456,41.5773,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Monacanthidae,Acanthaluteres,vittiger,27,37465002,LGH031784.MP4,1454,36.2427,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,Yes
+ISDI04_2111,Monacanthidae,Meuschenia,freycineti,3,37465036,LGH011784.MP4,23670,15.78,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,Yes
+ISDI04_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH021784.MP4,15415,27.9133,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Monacanthidae,Scobinichthys,granulatus,1,37465007,LGH011784.MP4,18006,12.004,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH011784.MP4,11583,7.722,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Myliobatidae,Myliobatis,tenuicaudatus,2,37039001,LGH021784.MP4,25677,34.7547,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,Yes
+ISDI04_2111,Labridae,Heteroscarus,acroptilus,1,37385010,LGH011784.MP4,14468,9.6453,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Sillaginidae,Sillaginodes,punctatus,1,37330001,LGH031784.MP4,10335,42.1633,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Triakidae,Mustelus,antarcticus,1,37017001,LGH041784.MP4,6569,57.2893,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISDI04_2111,Trygonorrhinidae,Trygonorrhina,dumerilii,1,37027011,LGH031784.MP4,11576,42.9907,DEaston,20.7,start at 2.9mins,Amphibolis and algae; Sand,60,2,1,1,No
+ISEO01_2111,Carangidae,Pseudocaranx,sp,3,37337924,LGP020120.MP4,16439,46.3193,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Carcharhinidae,Carcharhinus,brachyurus,1,37018001,LGP030120.MP4,11658,60.812,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Dinolestidae,Dinolestes,lewini,4,37327002,LGOPR0120.MP4,14981,9.9873,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Gerreidae,Parequula,melbournensis,1,37349001,LGP010120.MP4,19035,30.37,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Labridae,Achoerodus,gouldii,1,37384002,LGP010120.MP4,19279,30.5327,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Labridae,Notolabrus,parilus,2,99379455,LGOPR0120.MP4,23721,15.814,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Labridae,Notolabrus,tetricus,1,37384003,LGOPR0120.MP4,13918,9.2787,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Labridae,Ophthalmolepis,lineolatus,15,37384040,LGP010120.MP4,23361,33.254,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Labridae,Pictilabrus,laticlavius,1,37384020,LGOPR0120.MP4,3753,2.502,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Monacanthidae,Meuschenia,freycineti,2,37465036,LGP020120.MP4,201,35.494,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Monacanthidae,Meuschenia,hippocrepis,7,37465004,LGP020120.MP4,4747,38.5247,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,Yes
+ISEO01_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGP010120.MP4,7848,22.912,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO01_2111,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGP010120.MP4,20952,31.648,DEaston,10.8,NA,Sand; Seagrass; Transition,60,2,1,2,No
+ISEO02_2111,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,LGH030044.MP4,7380,40.1933,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Dinolestidae,Dinolestes,lewini,1,37327002,LGH040044.MP4,12439,61.2027,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Gerreidae,Parequula,melbournensis,1,37349001,LGH010044.MP4,8398,5.5987,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Labridae,Achoerodus,gouldii,1,37384002,LGH020044.MP4,24353,33.872,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Labridae,Notolabrus,parilus,1,99379455,LGH010044.MP4,14910,9.94,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Labridae,Ophthalmolepis,lineolatus,39,37384040,LGH020044.MP4,21145,31.7333,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,Yes
+ISEO02_2111,Labridae,Pictilabrus,laticlavius,2,37384020,LGH010044.MP4,24550,16.3667,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Monacanthidae,Acanthaluteres,vittiger,1,37465002,LGH010044.MP4,18018,12.012,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Monacanthidae,Meuschenia,flavolineata,1,37465035,LGH010044.MP4,25407,16.938,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH020044.MP4,5536,21.3273,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH010044.MP4,8138,5.4253,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH030044.MP4,10190,42.0667,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,Yes
+ISEO02_2111,Platycephalidae,Platycephalus,speculator,1,37296037,LGH020044.MP4,21685,32.0933,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Pomacentridae,Parma,victoriae,1,37372006,LGH010044.MP4,13012,8.6747,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGH040044.MP4,16392,63.838,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Serranidae,Caesioperca,rasor,2,99378025,LGH030044.MP4,3972,37.9213,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO02_2111,Sillaginidae,Sillaginodes,punctatus,1,37330001,LGH010044.MP4,17486,11.6573,DEaston,19.7,start at 4.8mins,Algae; Sand; Medium,60,2,1,1,No
+ISEO03_2111,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,LGH021785.MP4,7962,22.9447,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Gerreidae,Parequula,melbournensis,2,37349001,LGH011785.MP4,10500,7,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Labridae,Notolabrus,parilus,2,99379455,LGH011785.MP4,23747,15.8313,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Labridae,Notolabrus,tetricus,2,37384003,LGH031785.MP4,22191,50.0673,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Labridae,Ophthalmolepis,lineolatus,14,37384040,LGH031785.MP4,25983,52.5953,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Labridae,Pictilabrus,laticlavius,1,37384020,LGH011785.MP4,6499,4.3327,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Monacanthidae,Acanthaluteres,vittiger,1,37465002,LGH011785.MP4,10676,7.1173,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,Yes
+ISEO03_2111,Monacanthidae,Meuschenia,freycineti,3,37465036,LGH041785.MP4,11212,60.3847,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH031785.MP4,19606,48.344,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGH031785.MP4,475,35.59,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Monacanthidae,Scobinichthys,granulatus,1,37465007,LGH011785.MP4,12531,8.354,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH021785.MP4,19809,30.8427,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH031785.MP4,9991,41.934,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Labridae,Heteroscarus,acroptilus,1,37385010,LGH011785.MP4,19479,12.986,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO03_2111,Serranidae,Caesioperca,rasor,2,99378025,LGH021785.MP4,15283,27.8253,DEaston,27.3,start at 3.5mins,Algae med on sand,60,2,2,1,No
+ISEO04_2111,Carangidae,Pseudocaranx,sp,3,37337924,LGOPR1797.MP4,9618,6.412,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,LGOPR1797.MP4,13808,9.2053,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGP031797.MP4,3723,55.522,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Labridae,Achoerodus,gouldii,1,37384002,LGP011797.MP4,11971,25.6607,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Labridae,Notolabrus,tetricus,3,37384003,LGP011797.MP4,16360,28.5867,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Labridae,Ophthalmolepis,lineolatus,31,37384040,LGP031797.MP4,3916,55.6507,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Labridae,Pictilabrus,laticlavius,1,37384020,LGOPR1797.MP4,15063,10.042,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Monacanthidae,Meuschenia,freycineti,3,37465036,LGP031797.MP4,13188,61.832,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGP021797.MP4,6068,39.4053,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGP011797.MP4,7396,22.6107,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISEO04_2111,Serranidae,Caesioperca,rasor,2,99378025,LGOPR1797.MP4,13458,8.972,DEaston,24.4,Start at 2.6mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO01_2111,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,LGH010065.MP4,19003,12.6687,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Cheilodactylidae,Nemadactylus,valenciennesi,2,37377004,LGH010065.MP4,12297,8.198,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Dasyatidae,Bathytoshia,brevicaudata,1,37035001,LGH030065.MP4,4407,38.2113,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,Yes
+ISLO01_2111,Dinolestidae,Dinolestes,lewini,1,37327002,LGH010065.MP4,22631,15.0873,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Enoplosidae,Enoplosus,armatus,2,37366001,LGH010065.MP4,12669,8.446,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Labridae,Achoerodus,gouldii,1,37384002,LGH010065.MP4,16366,10.9107,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Labridae,Notolabrus,parilus,1,99379455,LGH020065.MP4,2015,18.98,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Labridae,Notolabrus,tetricus,2,37384003,LGH010065.MP4,16448,10.9653,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Labridae,Ophthalmolepis,lineolatus,16,37384040,LGH030065.MP4,597,35.6713,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Labridae,Pictilabrus,laticlavius,1,37384020,LGH010065.MP4,24068,16.0453,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Monacanthidae,Meuschenia,flavolineata,1,37465035,LGH020065.MP4,5467,21.2813,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Monacanthidae,Meuschenia,freycineti,1,37465036,LGH010065.MP4,10975,7.3167,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH010065.MP4,22813,15.2087,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Monacanthidae,Meuschenia,hippocrepis,8,37465004,LGH030065.MP4,11101,42.674,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,Yes
+ISLO01_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH020065.MP4,17549,29.336,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Labridae,Olisthops,cyanomelas,1,37385001,LGH010065.MP4,4316,2.8773,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Serranidae,Caesioperca,rasor,4,99378025,LGH020065.MP4,4789,20.8293,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO01_2111,Serranidae,Othos,dentex,1,37311005,LGH010065.MP4,12585,8.39,DEaston,29.4,NA,Reef; Ecklonia; Profile,60,3,2,1,No
+ISLO02_2111,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGH022239.MP4,6816,22.1807,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Dinolestidae,Dinolestes,lewini,1,37327002,LGH022239.MP4,2730,19.4567,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Labridae,Notolabrus,parilus,2,99379455,LGH022239.MP4,2640,19.3967,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Labridae,Notolabrus,tetricus,2,37384003,LGH032239.MP4,11790,43.1333,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Labridae,Ophthalmolepis,lineolatus,24,37384040,LGH042239.MP4,11279,60.4293,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,Yes
+ISLO02_2111,Labridae,Pictilabrus,laticlavius,3,37384020,LGH012239.MP4,18309,12.206,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Monacanthidae,Meuschenia,galii,2,37465040,LGH022239.MP4,4514,20.646,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Monacanthidae,Meuschenia,hippocrepis,9,37465004,LGH042239.MP4,8345,58.4733,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,Yes
+ISLO02_2111,Mullidae,Upeneichthys,vlamingii,2,37355029,LGH022239.MP4,22515,32.6467,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH042239.MP4,7412,57.8513,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Labridae,Heteroscarus,acroptilus,1,37385010,LGH012239.MP4,12986,8.6573,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Labridae,Olisthops,cyanomelas,1,37385001,LGH012239.MP4,4527,3.018,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO02_2111,Serranidae,Caesioperca,rasor,10,99378025,LGH022239.MP4,955,18.2733,DEaston,27.2,start at 2.8mins,Reef; Ecklonia; Profile,60,2,1,1,No
+ISLO03_2111,Chaetodontidae,Chelmonops,curiosus,1,37365066,LGH030036.MP4,21320,49.4867,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,LGH010036.MP4,9589,6.3927,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGH010036.MP4,10405,6.9367,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Enoplosidae,Enoplosus,armatus,1,37366001,LGH040036.MP4,2361,54.484,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Gerreidae,Parequula,melbournensis,1,37349001,LGH010036.MP4,15930,10.62,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Achoerodus,gouldii,1,37384002,LGH030036.MP4,5297,38.8047,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Austrolabrus,maculatus,1,37384025,LGH010036.MP4,8165,5.4433,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Notolabrus,parilus,1,99379455,LGH010036.MP4,15337,10.2247,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Notolabrus,tetricus,2,37384003,LGH010036.MP4,11571,7.714,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Ophthalmolepis,lineolatus,28,37384040,LGH030036.MP4,23726,51.0907,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Pictilabrus,laticlavius,2,37384020,LGH010036.MP4,7391,4.9273,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Monacanthidae,Acanthaluteres,brownii,1,37465001,LGH010036.MP4,15148,10.0987,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Monacanthidae,Eubalichthys,cyanoura,1,37465055,LGH020036.MP4,14155,27.0733,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Monacanthidae,Meuschenia,flavolineata,1,37465035,LGH010036.MP4,18289,12.1927,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH010036.MP4,14882,9.9213,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Monacanthidae,Meuschenia,hippocrepis,7,37465004,LGH040036.MP4,69,52.956,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,Yes
+ISLO03_2111,Monacanthidae,Scobinichthys,granulatus,1,37465007,LGH030036.MP4,23459,50.9127,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH010036.MP4,19919,13.2793,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Heteroscarus,acroptilus,1,37385010,LGH010036.MP4,7676,5.1173,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Labridae,Siphonognathus,beddomei,1,37385006,LGH010036.MP4,8465,5.6433,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Pomacentridae,Parma,victoriae,1,37372006,LGH010036.MP4,18201,12.134,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Serranidae,Caesioperca,rasor,6,99378025,LGH020036.MP4,10316,24.514,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO03_2111,Serranidae,Hypoplectrodes,nigroruber,1,37311037,LGH010036.MP4,9100,6.0667,DEaston,16.3,start at 4mins,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+ISLO04_2111,Carangidae,Pseudocaranx,sp,1,37337924,LGH031775.MP4,18539,47.6327,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,No
+ISLO04_2111,Labridae,Notolabrus,tetricus,2,37384003,LGH021775.MP4,14681,27.424,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,No
+ISLO04_2111,Labridae,Ophthalmolepis,lineolatus,14,37384040,LGH041775.MP4,2723,54.7253,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,Yes
+ISLO04_2111,Labridae,Pictilabrus,laticlavius,1,37384020,LGH011775.MP4,16478,10.9853,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,No
+ISLO04_2111,Monacanthidae,Acanthaluteres,brownii,1,37465001,LGH011775.MP4,18546,12.364,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,No
+ISLO04_2111,Monacanthidae,Meuschenia,flavolineata,4,37465035,LGH011775.MP4,8476,5.6507,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,No
+ISLO04_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH011775.MP4,13303,8.8687,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,No
+ISLO04_2111,Monacanthidae,Meuschenia,hippocrepis,1,37465004,LGH011775.MP4,18701,12.4673,DEaston,14.5,NA,Reef; Ecklonia; Profile,60,1,1,1,No
+ISMI01_2111,Carangidae,Pseudocaranx,sp,4,37337924,GP030118L.MP4,1067,53.7513,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,GOPR0118L.MP4,13212,8.808,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Kyphosidae,Girella,zebra,2,37361008,GP010118L.MP4,13674,26.796,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Labridae,Austrolabrus,maculatus,2,37384025,GOPR0118L.MP4,19406,12.9373,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Labridae,Notolabrus,parilus,1,99379455,GP010118L.MP4,13782,26.868,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Labridae,Notolabrus,tetricus,2,37384003,GP010118L.MP4,7858,22.9187,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Labridae,Ophthalmolepis,lineolatus,30,37384040,GP020118L.MP4,11423,42.9753,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Labridae,Pictilabrus,laticlavius,1,37384020,GOPR0118L.MP4,13018,8.6787,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Monacanthidae,Meuschenia,flavolineata,1,37465035,GOPR0118L.MP4,9793,6.5287,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Monacanthidae,Meuschenia,galii,2,37465040,GOPR0118L.MP4,9793,6.5287,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Monacanthidae,Meuschenia,hippocrepis,2,37465004,GP030118L.MP4,1428,53.992,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Mullidae,Upeneichthys,vlamingii,2,37355029,GOPR0118L.MP4,8120,5.4133,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Myliobatidae,Myliobatis,tenuicaudatus,2,37039001,GP030118L.MP4,1763,54.2153,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Labridae,Olisthops,cyanomelas,1,37385001,GP020118L.MP4,15464,45.6693,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Scorpididae,Neatypus,obliquus,1,37361002,GP010118L.MP4,11259,25.186,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Serranidae,Caesioperca,rasor,11,99378025,GOPR0118L.MP4,24890,16.5933,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI01_2111,Triakidae,Furgaleus,macki,1,37017003,GOPR0118L.MP4,25483,16.9887,DEaston,24.8,at times algae obsures view,Reef; Ecklonia; Profile,60,2,2,1,No
+ISMI02_2111,Carangidae,Pseudocaranx,sp,4,37337924,LGH010042.MP4,6234,4.156,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Carangidae,Seriola,lalandi,2,37337006,LGH010042.MP4,2039,1.3593,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGH010042.MP4,6494,4.3293,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Dinolestidae,Dinolestes,lewini,3,37327002,LGH010042.MP4,11438,7.6253,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Enoplosidae,Enoplosus,armatus,2,37366001,LGH030042.MP4,14030,44.6267,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Kyphosidae,Girella,zebra,16,37361008,LGH040042.MP4,9606,59.314,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Kyphosidae,Kyphosus,sydneyanus,1,37361001,LGH010042.MP4,18525,12.35,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Labridae,Achoerodus,gouldii,3,37384002,LGH010042.MP4,3514,2.3427,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Labridae,Dotalabrus,aurantiacus,1,37384018,LGH030042.MP4,3320,37.4867,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Labridae,Notolabrus,tetricus,4,37384003,LGH010042.MP4,4359,2.906,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,Yes
+ISMI02_2111,Labridae,Ophthalmolepis,lineolatus,49,37384040,LGH020042.MP4,5525,21.32,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Monacanthidae,Meuschenia,freycineti,2,37465036,LGH020042.MP4,16036,28.3273,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Monacanthidae,Meuschenia,galii,2,37465040,LGH010042.MP4,25568,17.0453,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,Yes
+ISMI02_2111,Monacanthidae,Meuschenia,hippocrepis,4,37465004,LGH020042.MP4,16637,28.728,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,Yes
+ISMI02_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH010042.MP4,7905,5.27,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH020042.MP4,10845,24.8667,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Scorpididae,Scorpis,aequipinnis,25,37361004,LGH010042.MP4,6857,4.5713,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Serranidae,Caesioperca,rasor,20,99378025,LGH030042.MP4,11251,42.774,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI02_2111,Serranidae,Othos,dentex,2,37311005,LGH010042.MP4,14093,9.3953,DEaston,19.5,start at 1.3493mins,Seagrass and algae,60,2,1,1,No
+ISMI03_2111,Dinolestidae,Dinolestes,lewini,13,37327002,1LGAlGH011783.MP4,21974,14.6493,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Gerreidae,Parequula,melbournensis,1,37349001,1LGAlGH011783.MP4,18544,12.3627,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Kyphosidae,Girella,zebra,1,37361008,3LGH031783.MP4,21285,49.4633,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Labridae,Achoerodus,gouldii,1,37384002,1LGAlGH011783.MP4,23879,15.9193,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Labridae,Austrolabrus,maculatus,1,37384025,2lGH021783.MP4,8342,23.198,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Labridae,Notolabrus,parilus,2,99379455,2lGH021783.MP4,15100,27.7033,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Labridae,Notolabrus,tetricus,3,37384003,3LGH031783.MP4,24664,51.716,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Labridae,Ophthalmolepis,lineolatus,16,37384040,3LGH031783.MP4,4513,38.282,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Labridae,Pictilabrus,laticlavius,2,37384020,2lGH021783.MP4,10634,24.726,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Monacanthidae,Acanthaluteres,vittiger,1,37465002,2lGH021783.MP4,1195,18.4333,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Monacanthidae,Meuschenia,freycineti,1,37465036,3LGH031783.MP4,25351,52.174,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Monacanthidae,Meuschenia,galii,2,37465040,1LGAlGH011783.MP4,12911,8.6073,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI03_2111,Monacanthidae,Meuschenia,hippocrepis,4,37465004,1LGAlGH011783.MP4,14430,9.62,DEaston,11.2,Start at 4.13mins,Posidonia; Dense,60,2,2,1,No
+ISMI04_2111,Gerreidae,Parequula,melbournensis,1,37349001,LGP011795.MP4,11446,25.3107,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Labridae,Achoerodus,gouldii,1,37384002,LGOPR1795.MP4,21316,14.2107,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Labridae,Notolabrus,parilus,2,99379455,LGOPR1795.MP4,24176,16.1173,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Labridae,Notolabrus,tetricus,1,37384003,LGP011795.MP4,21470,31.9933,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Labridae,Ophthalmolepis,lineolatus,18,37384040,LGP021795.MP4,10093,42.0887,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Labridae,Pictilabrus,laticlavius,2,37384020,LGP021795.MP4,25388,52.2853,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Monacanthidae,Acanthaluteres,vittiger,3,37465002,LGOPR1795.MP4,16778,11.1853,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Monacanthidae,Meuschenia,freycineti,1,37465036,LGP021795.MP4,17688,47.152,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGOPR1795.MP4,20962,13.9747,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Monacanthidae,Meuschenia,hippocrepis,9,37465004,LGP021795.MP4,9850,41.9267,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,Yes
+ISMI04_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGP021795.MP4,8246,40.8573,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Labridae,Olisthops,cyanomelas,1,37385001,LGOPR1795.MP4,14837,9.8913,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISMI04_2111,Sillaginidae,Sillaginodes,punctatus,1,37330001,LGP011795.MP4,3757,20.1847,DEaston,10.1,start at 2mins,Posidonia; Dense,60,3,2,1,No
+ISGO01_2111,Arripidae,Arripis,georgianus,2,37344001,LGH012240.MP4,16902,11.268,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Cheilodactylidae,Dactylophora,nigricans,3,37377005,LGH012240.MP4,2223,1.482,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Labridae,Achoerodus,gouldii,2,37384002,LGH012240.MP4,4132,2.7547,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Labridae,Notolabrus,parilus,1,99379455,LGH012240.MP4,11451,7.634,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Labridae,Notolabrus,tetricus,1,37384003,LGH012240.MP4,6064,4.0427,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Labridae,Ophthalmolepis,lineolatus,15,37384040,LGH022240.MP4,10894,24.8993,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Labridae,Pictilabrus,laticlavius,1,37384020,LGH012240.MP4,12143,8.0953,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Monacanthidae,Meuschenia,flavolineata,1,37465035,LGH042240.MP4,2986,54.9007,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Monacanthidae,Meuschenia,freycineti,1,37465036,LGH032240.MP4,8300,40.8067,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Monacanthidae,Meuschenia,hippocrepis,1,37465004,LGH022240.MP4,18851,30.204,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH012240.MP4,25201,16.8007,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Labridae,Olisthops,cyanomelas,1,37385001,LGH012240.MP4,21356,14.2373,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Pomacentridae,Parma,victoriae,1,37372006,LGH012240.MP4,17443,11.6287,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGH022240.MP4,5136,21.0607,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO01_2111,Triakidae,Mustelus,antarcticus,1,37017001,LGH022240.MP4,12512,25.978,DEaston,13,Start 1.2mins,Reef; Fucoid; Profile,60,1,1,1,No
+ISGO02_2111,Labridae,Ophthalmolepis,lineolatus,5,37384040,LGH030066.MP4,24031,51.294,DEaston,12,"facing up, start at 2 mins",Facing up,60,1,1,1,No
+ISGO02_2111,Monacanthidae,Meuschenia,freycineti,1,37465036,LGH030066.MP4,7039,39.966,DEaston,12,"facing up, start at 2 mins",Facing up,60,1,1,1,No
+ISGO02_2111,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGH040066.MP4,6668,57.3553,DEaston,12,"facing up, start at 2 mins",Facing up,60,1,1,1,Yes
+ISGO03_2111,Kyphosidae,Kyphosus,sydneyanus,1,37361001,LGH021776.MP4,7682,22.758,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Labridae,Achoerodus,gouldii,1,37384002,LGH021776.MP4,591,18.0307,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Labridae,Austrolabrus,maculatus,1,37384025,LGH011776.MP4,10948,7.2987,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Labridae,Notolabrus,parilus,1,99379455,LGH011776.MP4,17699,11.7993,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Labridae,Notolabrus,tetricus,1,37384003,LGH011776.MP4,5122,3.4147,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Labridae,Ophthalmolepis,lineolatus,6,37384040,LGH041776.MP4,3043,54.9387,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Labridae,Pictilabrus,laticlavius,1,37384020,LGH011776.MP4,17728,11.8187,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Monacanthidae,Meuschenia,freycineti,1,37465036,LGH021776.MP4,12880,26.2233,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO03_2111,Monacanthidae,Meuschenia,hippocrepis,3,37465004,LGH031776.MP4,293,35.4687,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,Yes
+ISGO03_2111,Scorpididae,Scorpis,aequipinnis,3,37361004,LGH011776.MP4,4879,3.2527,DEaston,8.5,"Facing down start at 3mins, maxN only",Reef; Ecklonia; Profile,60,3,3,2,No
+ISGO04_2111,Labridae,Austrolabrus,maculatus,1,37384025,LGH030037.MP4,22614,50.3493,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Labridae,Notolabrus,parilus,1,99379455,LGH040037.MP4,10642,60.0047,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Labridae,Notolabrus,tetricus,1,37384003,LGH010037.MP4,23852,15.9013,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Labridae,Ophthalmolepis,lineolatus,5,37384040,LGH040037.MP4,1655,54.0133,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Labridae,Pictilabrus,laticlavius,2,37384020,LGH010037.MP4,19292,12.8613,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Monacanthidae,Meuschenia,flavolineata,1,37465035,LGH020037.MP4,6551,22.004,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Monacanthidae,Meuschenia,freycineti,2,37465036,LGH040037.MP4,10520,59.9233,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,Yes
+ISGO04_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH020037.MP4,15777,28.1547,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGH030037.MP4,14915,45.2167,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH030037.MP4,6048,39.3053,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Labridae,Siphonognathus,beddomei,1,37385006,LGH010037.MP4,23556,15.704,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Scorpididae,Scorpis,aequipinnis,1,37361004,LGH040037.MP4,5726,56.7273,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGH010037.MP4,16193,10.7953,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Serranidae,Caesioperca,rasor,1,99378025,LGH020037.MP4,24793,34.1653,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,No
+ISGO04_2111,Triakidae,Mustelus,antarcticus,1,37017001,LGH020037.MP4,16306,28.5073,DEaston,14.2,start at 6 mins,Reef; Mixed algal; Profile,60,3,1,2,Yes
+ISSI01_2111,Arripidae,Arripis,truttaceus,1,37344004,LGH022238.MP4,25729,34.7893,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Carangidae,Pseudocaranx,sp,7,37337924,LGH032238.MP4,23839,51.166,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGH012238.MP4,17291,11.5273,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Dinolestidae,Dinolestes,lewini,1,37327002,LGH032238.MP4,7498,40.272,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Enoplosidae,Enoplosus,armatus,2,37366001,LGH022238.MP4,17202,29.1047,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Kyphosidae,Girella,zebra,1,37361008,LGH012238.MP4,14743,9.8287,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Labridae,Achoerodus,gouldii,2,37384002,LGH012238.MP4,9196,6.1307,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Labridae,Notolabrus,tetricus,5,37384003,LGH032238.MP4,761,35.7807,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Labridae,Ophthalmolepis,lineolatus,7,37384040,LGH022238.MP4,12882,26.2247,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Labridae,Pictilabrus,laticlavius,3,37384020,LGH012238.MP4,18195,12.13,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Lamnidae,Carcharodon,carcharias,1,37010003,LGH042238.MP4,14374,62.4927,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Monacanthidae,Acanthaluteres,brownii,1,37465001,LGH012238.MP4,18752,12.5013,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Monacanthidae,Meuschenia,flavolineata,1,37465035,LGH012238.MP4,4758,3.172,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Monacanthidae,Meuschenia,freycineti,3,37465036,LGH022238.MP4,26093,35.032,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Monacanthidae,Meuschenia,galii,1,37465040,LGH012238.MP4,8867,5.9113,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Monacanthidae,Meuschenia,hippocrepis,8,37465004,LGH042238.MP4,3416,55.1873,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Labridae,Heteroscarus,acroptilus,1,37385010,LGH012238.MP4,14894,9.9293,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Labridae,Olisthops,cyanomelas,12,37385001,LGH012238.MP4,3914,2.6093,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI01_2111,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGH022238.MP4,3870,20.2167,DEaston,13.1,start at 2.4mins,Reef; Fucoid; Profile,60,1,3,1,No
+ISSI02_2111,Carangidae,Pseudocaranx,sp,4,37337924,LGH040064.MP4,928,53.5287,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Carangidae,Seriola,hippos,1,37337007,LGH020064.MP4,12963,26.2787,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Carangidae,Seriola,lalandi,1,37337006,LGH030064.MP4,7983,40.5953,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Gerreidae,Parequula,melbournensis,2,37349001,LGH020064.MP4,17000,28.97,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Labridae,Achoerodus,gouldii,1,37384002,LGH010064.MP4,22312,14.8747,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Labridae,Notolabrus,parilus,1,99379455,LGH010064.MP4,14541,9.694,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Labridae,Notolabrus,tetricus,4,37384003,LGH040064.MP4,3962,55.5513,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Labridae,Ophthalmolepis,lineolatus,23,37384040,LGH020064.MP4,18476,29.954,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Labridae,Pictilabrus,laticlavius,4,37384020,LGH020064.MP4,4639,20.7293,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Monacanthidae,Acanthaluteres,vittiger,1,37465002,LGH030064.MP4,5521,38.954,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Monacanthidae,Meuschenia,freycineti,3,37465036,LGH040064.MP4,2819,54.7893,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Monacanthidae,Meuschenia,galii,2,37465040,LGH020064.MP4,7311,22.5107,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Monacanthidae,Meuschenia,hippocrepis,1,37465004,LGH020064.MP4,18222,29.7847,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH010064.MP4,21378,14.252,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Myliobatidae,Myliobatis,tenuicaudatus,2,37039001,LGH020064.MP4,25351,34.5373,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,Yes
+ISSI02_2111,Labridae,Olisthops,cyanomelas,1,99378082,LGH030064.MP4,18507,47.6113,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Labridae,Siphonognathus,caninis,1,37385011,LGH010064.MP4,10549,7.0327,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI02_2111,Serranidae,Caesioperca,rasor,2,99378025,LGH010064.MP4,21373,14.2487,DEaston,21,start at 6.7mins,Algae med on sand,60,2,1,1,No
+ISSI03_2111,Gerreidae,Parequula,melbournensis,1,37349001,GH020035.MP4,19103,30.372,DEaston,22.4,facing up,facing up,60,1,1,1,No
+ISSI03_2111,Labridae,Ophthalmolepis,lineolatus,3,37384040,GH040035.MP4,5439,56.536,DEaston,22.4,facing up,facing up,60,1,1,1,No
+ISSI03_2111,Monacanthidae,Acanthaluteres,vittiger,3,37465002,GH030035.MP4,9849,41.8393,DEaston,22.4,facing up,facing up,60,1,1,1,No
+ISSI04_2111,Carangidae,Pseudocaranx,sp,3,37337924,LGH031774.MP4,3553,37.642,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Diodontidae,Diodon,nicthemerus,1,37469001,LGH011774.MP4,26120,17.4133,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Gerreidae,Parequula,melbournensis,4,37349001,LGH041774.MP4,16891,64.1707,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Mullidae,Upeneichthys,vlamingii,1,37355029,LGH031774.MP4,23487,50.9313,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Myliobatidae,Myliobatis,tenuicaudatus,3,37039001,LGH041774.MP4,4596,55.974,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Ovalipidae,Ovalipes,australiensis,1,28911003,LGH021774.MP4,15294,27.8327,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Platycephalidae,Platycephalus,bassensis,1,37296003,LGH021774.MP4,1648,18.7353,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Platycephalidae,Platycephalus,grandispinis,1,37296036,LGH021774.MP4,20618,31.382,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Sillaginidae,Sillago,bassensis,1,37330002,LGH011774.MP4,17901,11.934,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+ISSI04_2111,Syngnathidae,Hippocampus,breviceps,1,37282026,LGH011774.MP4,23072,15.3813,DEaston,22.6,Start at 8.1mins,Sand,60,2,1,1,No
+SKNO24_2205,Dasyatidae,Bathytoshia,brevicaudata,1,37035001,LGP020127.MP4,20334,48.916,DEaston,29.8,NA,NA,60,2,1,2,No
+SKNO24_2205,Heterodontidae,Heterodontus,portusjacksoni,1,37007001,LGP030127.MP4,9492,59.368,DEaston,29.8,NA,NA,60,2,1,2,No
+SKNO24_2205,Labridae,Notolabrus,tetricus,2,37384003,LGOPR0127.MP4,21916,14.6107,DEaston,29.8,NA,NA,60,2,1,2,No
+SKNO24_2205,Labridae,Pictilabrus,laticlavius,3,37384020,LGOPR0127.MP4,19541,13.0273,DEaston,29.8,NA,NA,60,2,1,2,No
+SKNO24_2205,Monacanthidae,Meuschenia,galii,1,37465040,LGP020127.MP4,6273,39.542,DEaston,29.8,NA,NA,60,2,1,2,No
+SKNO24_2205,Serranidae,Caesioperca,rasor,6,99378025,LGP010127.MP4,16454,28.6493,DEaston,29.8,NA,NA,60,2,1,2,No
+SKNO25_2205,Berycidae,Centroberyx,gerrardi,2,37258004,lGP011802.MP4,9161,23.7873,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Carangidae,Pseudocaranx,sp,1,37337924,lGP031802.MP4,9047,59.0713,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Kyphosidae,Girella,zebra,1,37361008,lGOPR1802.MP4,8001,5.334,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Labridae,Achoerodus,gouldii,1,37384002,lGP021802.MP4,21725,49.8433,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Labridae,Notolabrus,tetricus,7,37384003,lGP031802.MP4,1421,53.9873,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Labridae,Pictilabrus,laticlavius,1,37384020,lGOPR1802.MP4,16531,11.0207,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Monacanthidae,Meuschenia,flavolineata,2,37465035,lGP021802.MP4,18959,47.9993,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Monacanthidae,Meuschenia,galii,1,37465040,lGP021802.MP4,23407,50.9647,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Monacanthidae,Meuschenia,hippocrepis,4,37465004,lGP021802.MP4,7363,40.2687,DEaston,17,start 2.5mins,NA,60,2,1,1,Yes
+SKNO25_2205,Labridae,Siphonognathus,beddomei,1,37385006,lGP011802.MP4,3394,19.9427,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Pempherididae,Pempheris,multiradiata,2,37357001,lGOPR1802.MP4,6130,4.0867000000000004,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,lGOPR1802.MP4,15479,10.3193,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Serranidae,Caesioperca,rasor,24,99378025,lGP011802.MP4,24309,33.886,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO25_2205,Triakidae,Galeorhinus,galeus,1,37017008,lGP021802.MP4,12053,43.3953,DEaston,17,start 2.5mins,NA,60,2,1,1,No
+SKNO26_2205,Berycidae,Centroberyx,gerrardi,5,37258004,1GH030071.mp4,15120,43.6739,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Berycidae,Centroberyx,lineatus,34,37258005,1GH020071.mp4,3847,19.7744,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Carangidae,Pseudocaranx,sp,1,37337924,1GH020071.mp4,25646,31.885,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Carangidae,Seriola,lalandi,1,37337006,1GH030071.mp4,7916,39.6717,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,1GH030071.mp4,18519,45.5622,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Dinolestidae,Dinolestes,lewini,2,37327002,1GH030071.mp4,26391,49.9356,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Enoplosidae,Enoplosus,armatus,2,37366001,1GH040071.mp4,25162,66.8894,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Labridae,Notolabrus,tetricus,3,37384003,1GH020071.mp4,5140,20.4928,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Monacanthidae,Meuschenia,hippocrepis,5,37465004,1GH020071.mp4,22494,30.1339,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,Yes
+SKNO26_2205,Scorpididae,Scorpis,aequipinnis,6,37361004,1GH020071.mp4,26818,32.5361,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO26_2205,Serranidae,Caesioperca,rasor,150,99378025,1GH010071.mp4,27162,15.09,DEaston,26.1,start at 14.5mins max N only,NA,60,2,1,1,No
+SKNO27_2205,Berycidae,Centroberyx,gerrardi,2,37258004,LGH010050.MP4,24764,16.5093,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,LGH030050.MP4,10284,42.1293,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGH010050.MP4,22238,14.8253,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Dinolestidae,Dinolestes,lewini,12,37327002,LGH020050.MP4,8948,23.602,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Labridae,Achoerodus,gouldii,1,37384002,LGH010050.MP4,12237,8.158,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Labridae,Notolabrus,tetricus,4,37384003,LGH030050.MP4,10473,42.2553,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Labridae,Pictilabrus,laticlavius,1,37384020,LGH010050.MP4,10587,7.058,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Monacanthidae,Meuschenia,galii,1,37465040,LGH010050.MP4,11183,7.4553,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGH030050.MP4,19892,48.5347,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGH040050.MP4,12950,61.5433,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Serranidae,Caesioperca,rasor,12,99378025,LGH040050.MP4,5131,56.3307,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO27_2205,Serranidae,Othos,dentex,1,37311005,LGH010050.MP4,21616,14.4107,DEaston,27.7,Start at 3 mins,NA,60,2,1,1,No
+SKNO29_2205,Berycidae,Centroberyx,gerrardi,2,37258004,LGH042245.MP4,13428,61.862,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO29_2205,Carangidae,Seriola,lalandi,2,37337006,LGH032245.MP4,18569,47.6527,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO29_2205,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,LGH022245.MP4,12172,25.7513,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO29_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGH022245.MP4,5175,21.0867,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO29_2205,Labridae,Notolabrus,tetricus,3,37384003,LGH032245.MP4,8800,41.14,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO29_2205,Monacanthidae,Meuschenia,hippocrepis,4,37465004,LGH032245.MP4,11256,42.7773,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,Yes
+SKNO29_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,LGH012245.MP4,26271,17.514,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO29_2205,Scorpididae,Scorpis,lineolata,1,37361009,LGH042245.MP4,13809,62.116,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO29_2205,Serranidae,Caesioperca,rasor,20,99378025,LGH022245.MP4,15380,27.89,DEaston,23.6,Start at 3.8mins,facing up,60,3,1,1,No
+SKNO31_2205,Berycidae,Centroberyx,gerrardi,2,37258004,LGH021791.MP4,10921,24.9173,DEaston,32.1,Start at 3 mins,Reef; Mixed algal; Flat,60,2,1,1,No
+SKNO31_2205,Cheilodactylidae,Nemadactylus,valenciennesi,4,37377004,LGH021791.MP4,12780,26.1567,DEaston,32.1,Start at 3 mins,Reef; Mixed algal; Flat,60,2,1,1,No
+SKNO31_2205,Labridae,Notolabrus,tetricus,4,37384003,LGH021791.MP4,7117,22.3813,DEaston,32.1,Start at 3 mins,Reef; Mixed algal; Flat,60,2,1,1,No
+SKNO31_2205,Labridae,Pictilabrus,laticlavius,2,37384020,LGH011791.MP4,20889,13.926,DEaston,32.1,Start at 3 mins,Reef; Mixed algal; Flat,60,2,1,1,No
+SKNO31_2205,Monacanthidae,Meuschenia,hippocrepis,3,37465004,LGH031791.MP4,15838,45.832,DEaston,32.1,Start at 3 mins,Reef; Mixed algal; Flat,60,2,1,1,No
+SKNO31_2205,Serranidae,Caesioperca,rasor,4,99378025,LGH021791.MP4,17871,29.5507,DEaston,32.1,Start at 3 mins,Reef; Mixed algal; Flat,60,2,1,1,No
+SKNO31_2205,Triakidae,Galeorhinus,galeus,1,37017008,LGH031791.MP4,5464,38.916,DEaston,32.1,Start at 3 mins,Reef; Mixed algal; Flat,60,2,1,1,No
+SKNO32_2205,Berycidae,Centroberyx,gerrardi,2,37258004,LGOPR1804.MP4,15459,10.306,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Berycidae,Centroberyx,lineatus,32,37258005,LGP011804.MP4,23664,33.456,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Carangidae,Pseudocaranx,sp,1,37337924,LGP011804.MP4,8721,23.494,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,LGP021804.MP4,14956,45.3307,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGP011804.MP4,12887,26.2713,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Dinolestidae,Dinolestes,lewini,2,37327002,LGP031804.MP4,6958,57.6787,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Kyphosidae,Girella,zebra,1,37361008,LGP011804.MP4,17858,29.5853,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Labridae,Achoerodus,gouldii,1,37384002,LGOPR1804.MP4,5924,3.9493,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Labridae,Austrolabrus,maculatus,1,37384025,LGOPR1804.MP4,9129,6.086,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Labridae,Notolabrus,tetricus,4,37384003,LGOPR1804.MP4,11491,7.6607,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Labridae,Pictilabrus,laticlavius,2,37384020,LGP011804.MP4,8683,23.4687,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Monacanthidae,Meuschenia,flavolineata,2,37465035,LGOPR1804.MP4,10840,7.2267,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Monacanthidae,Meuschenia,hippocrepis,4,37465004,LGP021804.MP4,1068,36.072,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Moridae,Lotella,rhacina,1,37224005,LGOPR1804.MP4,16237,10.8247,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Labridae,Heteroscarus,acroptilus,1,37385010,LGOPR1804.MP4,6132,4.088,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,LGOPR1804.MP4,8250,5.5,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGP011804.MP4,6944,22.3093,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Serranidae,Caesioperca,rasor,6,99378025,LGP011804.MP4,653,18.1153,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO32_2205,Trachichthyidae,Trachichthys,australis,2,37255015,LGP011804.MP4,13395,26.61,DEaston,24.3,start at 3 mins,NA,60,3,1,1,No
+SKNO33_2205,Berycidae,Centroberyx,gerrardi,2,37258004,LGH020072.MP4,4682,20.758,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Berycidae,Centroberyx,lineatus,111,37258005,LGH020072.MP4,10619,24.716,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Carangidae,Pseudocaranx,sp,1,37337924,LGH030072.MP4,20914,49.216,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,LGH020072.MP4,2308,19.1753,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGH020072.MP4,7332,22.5247,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Labridae,Achoerodus,gouldii,1,37384002,LGH010072.MP4,22536,15.024,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Labridae,Notolabrus,tetricus,3,37384003,LGH030072.MP4,18108,47.3453,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGH020072.MP4,8696,23.434,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Scorpididae,Scorpis,aequipinnis,4,37361004,LGH020072.MP4,6637,22.0613,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO33_2205,Serranidae,Caesioperca,rasor,8,99378025,LGH040072.MP4,12232,61.0647,DEaston,29,start at 4mins,Facing Up,60,1,1,1,No
+SKNO34_2205,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,LGH032246.MP4,7268,40.1187,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Labridae,Achoerodus,gouldii,1,37384002,LGH022246.MP4,9742,24.1313,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Labridae,Notolabrus,tetricus,3,37384003,LGH022246.MP4,3438,19.9287,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Labridae,Pictilabrus,laticlavius,1,37384020,LGH012246.MP4,10977,7.318,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Monacanthidae,Meuschenia,flavolineata,2,37465035,LGH022246.MP4,3681,20.0907,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Monacanthidae,Meuschenia,hippocrepis,4,37465004,LGH032246.MP4,4694,38.4027,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,Yes
+SKNO34_2205,Labridae,Heteroscarus,acroptilus,1,37385010,LGH012246.MP4,21474,14.316,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGH022246.MP4,6014,21.646,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Serranidae,Caesioperca,rasor,15,99378025,LGH022246.MP4,10471,24.6173,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO34_2205,Triakidae,Galeorhinus,galeus,1,37017008,LGH032246.MP4,12906,43.8773,DEaston,24.8,start at 3.5mins,NA,60,2,1,1,No
+SKNO35_2205,Berycidae,Centroberyx,gerrardi,4,37258004,L325FPS.avi,20127,48.694,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,L125fps.avi,6612,4.408,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Kyphosidae,Girella,zebra,1,37361008,L125fps.avi,7974,5.316,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Labridae,Notolabrus,tetricus,5,37384003,L225fps.avi,22846,32.8687,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Labridae,Pictilabrus,laticlavius,1,37384020,L125fps.avi,10618,7.0787,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Monacanthidae,Meuschenia,hippocrepis,8,37465004,L425FPS.avi,7879,58.1653,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,Yes
+SKNO35_2205,Scorpididae,Scorpis,aequipinnis,2,37361004,L325FPS.avi,1482,36.264,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,L225fps.avi,2686,19.4287,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Serranidae,Caesioperca,rasor,7,99378025,L425FPS.avi,1425,53.8627,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO35_2205,Serranidae,Othos,dentex,1,37311005,L425FPS.avi,127,52.9973,DEaston,24,"Start at 3,3mins MaxN only",NA,60,3,2,1,No
+SKNO36_2205,Berycidae,Centroberyx,gerrardi,3,37258004,LGH020051.MP4,19756,30.8073,DEaston,23.3,NA,NA,60,3,2,1,No
+SKNO36_2205,Carangidae,Pseudocaranx,sp,1,37337924,LGH030051.MP4,26389,52.866,DEaston,23.3,NA,NA,60,3,2,1,No
+SKNO36_2205,Labridae,Notolabrus,tetricus,6,37384003,LGH020051.MP4,9631,24.0573,DEaston,23.3,NA,NA,60,3,2,1,Yes
+SKNO36_2205,Labridae,Pictilabrus,laticlavius,3,37384020,LGH010051.MP4,11895,7.93,DEaston,23.3,NA,NA,60,3,2,1,No
+SKNO36_2205,Monacanthidae,Meuschenia,galii,1,37465040,LGH010051.MP4,25805,17.2033,DEaston,23.3,NA,NA,60,3,2,1,No
+SKNO36_2205,Monacanthidae,Meuschenia,hippocrepis,1,37465004,LGH010051.MP4,8615,5.7433,DEaston,23.3,NA,NA,60,3,2,1,No
+SKNO36_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,LGH030051.MP4,3701,37.7407,DEaston,23.3,NA,NA,60,3,2,1,No
+SKNO36_2205,Serranidae,Caesioperca,rasor,4,99378025,LGH010051.MP4,23911,15.9407,DEaston,23.3,NA,NA,60,3,2,1,No
+SKNO37_2205,Berycidae,Centroberyx,gerrardi,3,37258004,LGOPR0128.MP4,23375,15.5833,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Carangidae,Pseudocaranx,sp,1,37337924,LGOPR0128.MP4,21270,14.18,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Kyphosidae,Girella,zebra,1,37361008,LGP020128.MP4,11245,42.8567,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Labridae,Achoerodus,gouldii,1,37384002,LGP010128.MP4,16201,28.4807,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Labridae,Notolabrus,tetricus,3,37384003,LGOPR0128.MP4,23163,15.442,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Labridae,Pictilabrus,laticlavius,1,37384020,LGOPR0128.MP4,20168,13.4453,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Monacanthidae,Meuschenia,hippocrepis,2,37465004,LGP010128.MP4,7487,22.6713,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,LGOPR0128.MP4,9255,6.17,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGP020128.MP4,19786,48.5507,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO37_2205,Serranidae,Caesioperca,rasor,85,99378025,LGOPR0128.MP4,16565,11.0433,DEaston,27.1,NA,NA,60,2,1,1,No
+SKNO38_2205,Berycidae,Centroberyx,gerrardi,28,37258004,LGH042247.MP4,14117,62.3213,DEaston,30.5,start at 4mins,NA,60,1,1,1,No
+SKNO38_2205,Carangidae,Seriola,lalandi,4,37337006,LGH012247.MP4,13885,9.2567,DEaston,30.5,start at 4mins,NA,60,1,1,1,No
+SKNO38_2205,Kyphosidae,Girella,zebra,1,37361008,LGH022247.MP4,624,18.0527,DEaston,30.5,start at 4mins,NA,60,1,1,1,No
+SKNO38_2205,Labridae,Notolabrus,tetricus,4,37384003,LGH022247.MP4,7687,22.7613,DEaston,30.5,start at 4mins,NA,60,1,1,1,No
+SKNO38_2205,Monacanthidae,Meuschenia,hippocrepis,5,37465004,LGH032247.MP4,2952,37.2413,DEaston,30.5,start at 4mins,NA,60,1,1,1,Yes
+SKNO38_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,LGH022247.MP4,5743,21.4653,DEaston,30.5,start at 4mins,NA,60,1,1,1,No
+SKNO38_2205,Serranidae,Caesioperca,rasor,20,99378025,LGH042247.MP4,10196,59.7073,DEaston,30.5,start at 4mins,NA,60,1,1,1,No
+SKNO39_2205,Berycidae,Centroberyx,gerrardi,22,37258004,LGH010073.MP4,26181,17.454,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Berycidae,Centroberyx,lineatus,11,37258005,LGH020073.MP4,0,17.6367,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Carangidae,Pseudocaranx,sp,7,37337924,LGH030073.MP4,25998,52.6053,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Cheilodactylidae,Nemadactylus,valenciennesi,2,37377004,LGH030073.MP4,21232,49.428,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Dinolestidae,Dinolestes,lewini,1,37327002,LGH010073.MP4,24253,16.1687,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Labridae,Achoerodus,gouldii,1,37384002,LGH040073.MP4,3253,55.0787,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Labridae,Notolabrus,tetricus,2,37384003,LGH020073.MP4,11290,25.1633,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Monacanthidae,Meuschenia,galii,1,37465040,LGH020073.MP4,15226,27.7873,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Monacanthidae,Meuschenia,hippocrepis,6,37465004,LGH030073.MP4,21615,49.6833,DEaston,37.8,Start at 4mins,NA,60,2,1,1,Yes
+SKNO39_2205,Serranidae,Caesioperca,rasor,17,99378025,LGH010073.MP4,9712,6.4747,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO39_2205,Triakidae,Mustelus,antarcticus,1,37017001,LGH030073.MP4,4640,38.3667,DEaston,37.8,Start at 4mins,NA,60,2,1,1,No
+SKNO40_2205,Berycidae,Centroberyx,lineatus,1,37258005,LGOPR1805.MP4,18763,12.5087,DEaston,35.6,NA,NA,60,2,1,1,No
+SKNO40_2205,Carangidae,Pseudocaranx,sp,15,37337924,LGP011805.MP4,684,18.136,DEaston,35.6,NA,NA,60,2,1,1,No
+SKNO40_2205,Carangidae,Seriola,lalandi,2,37337006,LGP021805.MP4,18269,47.5393,DEaston,35.6,NA,NA,60,2,1,1,No
+SKNO40_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,LGP031805.MP4,8421,58.654,DEaston,35.6,NA,NA,60,2,1,1,No
+SKNO40_2205,Dinolestidae,Dinolestes,lewini,1,37327002,LGOPR1805.MP4,14060,9.3733,DEaston,35.6,NA,NA,60,2,1,1,No
+SKNO40_2205,Labridae,Notolabrus,tetricus,2,37384003,LGP021805.MP4,6613,39.7687,DEaston,35.6,NA,NA,60,2,1,1,No
+SKNO40_2205,Mullidae,Upeneichthys,vlamingii,1,37355029,LGOPR1805.MP4,6675,4.45,DEaston,35.6,NA,NA,60,2,1,1,No
+SKNO40_2205,Serranidae,Caesioperca,rasor,70,99378025,LGP011805.MP4,25985,35.0033,DEaston,35.6,NA,NA,60,2,1,1,Yes
+SKNO41_2205,Berycidae,Centroberyx,gerrardi,1,37258004,LGOPR0129.MP4,8921,5.9473,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Berycidae,Centroberyx,lineatus,28,37258005,LGOPR0129.MP4,24333,16.222,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Carangidae,Pseudocaranx,sp,10,37337924,LGP010129.MP4,26223,35.162,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Carangidae,Seriola,lalandi,1,37337006,LGOPR0129.MP4,19550,13.0333,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Labridae,Notolabrus,tetricus,4,37384003,LGP020129.MP4,9989,42.0193,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Labridae,Pictilabrus,laticlavius,1,37384020,LGOPR0129.MP4,11724,7.816,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Monacanthidae,Meuschenia,hippocrepis,1,37465004,LGP010129.MP4,9867,24.258,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGOPR0129.MP4,4860,3.24,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO41_2205,Serranidae,Caesioperca,rasor,22,99378025,LGOPR0129.MP4,23001,15.334,DEaston,39,Start at 2.2mins,NA,60,3,1,1,No
+SKNO42_2205,Carangidae,Pseudocaranx,sp,3,37337924,LGH041794.MP4,16707,64.048,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Carangidae,Seriola,lalandi,1,37337006,LGH011794.MP4,24941,16.6273,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Heterodontidae,Heterodontus,portusjacksoni,1,37007001,LGH011794.MP4,15019,10.0127,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Labridae,Austrolabrus,maculatus,2,37384025,LGH021794.MP4,3827,20.188,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Monacanthidae,Meuschenia,scaber,3,37465005,LGH031794.MP4,4777,38.458,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,LGH021794.MP4,12836,26.194,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Labridae,Siphonognathus,caninis,1,37385011,LGH041794.MP4,1341,53.804,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Rajidae,Spiniraja,whitleyi,1,37031006,LGH041794.MP4,17247,64.408,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO42_2205,Serranidae,Caesioperca,rasor,3,99378025,LGH031794.MP4,8244,40.7693,DEaston,42.7,start at 5.3mins,NA,60,2,1,1,No
+SKNO43_2205,Berycidae,Centroberyx,gerrardi,7,37258004,LGH010053.MP4,9442,6.2947,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Berycidae,Centroberyx,lineatus,29,37258005,LGH010053.MP4,10605,7.07,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Carangidae,Pseudocaranx,sp,5,37337924,LGH030053.MP4,15360,45.5133,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Carangidae,Seriola,lalandi,1,37337006,LGH010053.MP4,17194,11.4627,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,LGH020053.MP4,4168,20.4153,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Cheilodactylidae,Nemadactylus,valenciennesi,2,37377004,LGH020053.MP4,2221,19.1173,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Heterodontidae,Heterodontus,portusjacksoni,1,37007001,LGH030053.MP4,36,35.2973,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Kyphosidae,Girella,zebra,1,37361008,LGH010053.MP4,7623,5.082,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Labridae,Achoerodus,gouldii,1,37384002,LGH010053.MP4,12027,8.018,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Labridae,Notolabrus,tetricus,2,37384003,LGH010053.MP4,20099,13.3993,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Labridae,Pseudolabrus,rubicundus,1,37384023,LGH010053.MP4,9376,6.2507,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Monacanthidae,Meuschenia,hippocrepis,1,37465004,LGH020053.MP4,12760,26.1433,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,LGH010053.MP4,6472,4.3147,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,LGH010053.MP4,6544,4.3627,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Serranidae,Caesioperca,lepidoptera,2,37311002,LGH010053.MP4,9052,6.0347,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO43_2205,Serranidae,Caesioperca,rasor,20,99378025,LGH040053.MP4,3164,55.0193,DEaston,42.3,start at 4.24mins,NA,60,2,1,1,No
+SKNO49_2205,Carangidae,Pseudocaranx,sp,1,37337924,L_GH010080 (4).MP4,3245,55.0733,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Carangidae,Seriola,lalandi,3,37337006,L_GH010080 (2).MP4,12749,26.136,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,L_GH010080 (4).MP4,8532,58.598,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Gerreidae,Parequula,melbournensis,1,37349001,L_GH010080 (3).MP4,3091,37.334,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Labridae,Notolabrus,tetricus,2,37384003,L_GH010080 (3).MP4,18138,47.3653,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Labridae,Pictilabrus,laticlavius,1,37384020,L_GH010080 (1).MP4,14391,9.594,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Monacanthidae,Meuschenia,hippocrepis,2,37465004,L_GH010080 (3).MP4,5877,39.1913,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Monacanthidae,Meuschenia,scaber,2,37465005,L_GH010080 (2).MP4,13822,26.8513,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Serranidae,Caesioperca,rasor,14,99378025,L_GH010080 (1).MP4,22788,15.192,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO49_2205,Triakidae,Galeorhinus,galeus,1,37017008,L_GH010080 (3).MP4,23830,51.16,DEaston,40.8,start at 6.1mins,NA,60,2,1,1,No
+SKNO54_2205,Labridae,Notolabrus,tetricus,1,37384003,L_GOPR0136 (1).MP4,13012,8.6747,DEaston,42.7,start at 3mins,NA,60,2,1,1,No
+SKNO54_2205,Monacanthidae,Meuschenia,scaber,3,37465005,L_GOPR0136 (3).MP4,24465,51.67,DEaston,42.7,start at 3mins,NA,60,2,1,1,No
+SKNO54_2205,Serranidae,Caesioperca,rasor,11,99378025,L_GOPR0136 (3).MP4,11949,43.326,DEaston,42.7,start at 3mins,NA,60,2,1,1,No
+SKNO58_2205,Carangidae,Seriola,lalandi,1,37337006,L_GH010060 (3).MP4,17520,46.9533,DEaston,44.7,start at 2.3mins,NA,60,1,1,1,No
+SKNO58_2205,Labridae,Eupetrichthys,angustipes,1,37384105,L_GH010060 (3).MP4,10626,42.3573,DEaston,44.7,start at 2.3mins,NA,60,1,1,1,No
+SKNO58_2205,Loliginidae,Sepioteuthis,australis,1,23617005,L_GH010060 (1).MP4,16977,11.318,DEaston,44.7,start at 2.3mins,NA,60,1,1,1,No
+SKNO58_2205,Monacanthidae,Meuschenia,scaber,2,37465005,L_GH010060 (3).MP4,16655,46.3767,DEaston,44.7,start at 2.3mins,NA,60,1,1,1,No
+SKNO58_2205,Mullidae,Upeneichthys,vlamingii,5,37355029,L_GH010060 (1).MP4,11787,7.858,DEaston,44.7,start at 2.3mins,NA,60,1,1,1,No
+SKNO58_2205,Serranidae,Caesioperca,rasor,1,99378025,L_GH010060 (4).MP4,12302,61.1113,DEaston,44.7,start at 2.3mins,NA,60,1,1,1,No
+SKNO91_2205,Berycidae,Centroberyx,gerrardi,3,37258004,L_GH012254 (2).MP4,3412,19.9113,DEaston,42.8,Start at 3.3mins,NA,60,2,1,1,No
+SKNO91_2205,Carangidae,Pseudocaranx,sp,26,37337924,L_GH012254 (4).MP4,14181,62.364,DEaston,42.8,Start at 3.3mins,NA,60,2,1,1,No
+SKNO91_2205,Labridae,Austrolabrus,maculatus,1,37384025,L_GH012254 (1).MP4,12908,8.6053,DEaston,42.8,Start at 3.3mins,NA,60,2,1,1,No
+SKNO91_2205,Labridae,Notolabrus,tetricus,2,37384003,L_GH012254 (2).MP4,2432,19.258,DEaston,42.8,Start at 3.3mins,NA,60,2,1,1,No
+SKNO91_2205,Monacanthidae,Meuschenia,hippocrepis,1,37465004,L_GH012254 (2).MP4,25492,34.6313,DEaston,42.8,Start at 3.3mins,NA,60,2,1,1,No
+SKNO91_2205,Serranidae,Caesioperca,rasor,26,99378025,L_GH012254 (1).MP4,12791,8.5273,DEaston,42.8,Start at 3.3mins,NA,60,2,1,1,No
+SKNO92_2205,Berycidae,Centroberyx,gerrardi,2,37258004,L_GOPR1813 (2).MP4,4551,20.714,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO92_2205,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,L_GOPR1813 (4).MP4,12879,61.626,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO92_2205,Labridae,Austrolabrus,maculatus,1,37384025,L_GOPR1813 (1).MP4,10802,7.2013,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO92_2205,Labridae,Notolabrus,tetricus,4,37384003,L_GOPR1813 (2).MP4,25344,34.576,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO92_2205,Labridae,Pictilabrus,laticlavius,1,37384020,L_GOPR1813 (1).MP4,14486,9.6573,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO92_2205,Monacanthidae,Meuschenia,hippocrepis,3,37465004,L_GOPR1813 (2).MP4,20719,31.4927,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO92_2205,Serranidae,Caesioperca,rasor,14,99378025,L_GOPR1813 (1).MP4,13487,8.9913,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO92_2205,Triakidae,Mustelus,antarcticus,1,37017001,L_GOPR1813 (2).MP4,4832,20.9013,DEaston,39,start at 3.1mins,NA,60,2,1,1,No
+SKNO93_2205,Berycidae,Centroberyx,gerrardi,1,37258004,L_GH011802 (1).MP4,14639,9.7593,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Carangidae,Pseudocaranx,sp,8,37337924,L_GH011802 (1).MP4,19168,12.7787,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Carangidae,Seriola,lalandi,1,37337006,L_GH011802 (1).MP4,17429,11.6193,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Cheilodactylidae,Dactylophora,nigricans,2,37377005,L_GH011802 (1).MP4,4824,3.216,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Kyphosidae,Girella,zebra,1,37361008,L_GH011802 (3).MP4,1427,36.2247,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Labridae,Achoerodus,gouldii,1,37384002,L_GH011802 (1).MP4,10857,7.238,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Labridae,Austrolabrus,maculatus,1,37384025,L_GH011802 (1).MP4,7468,4.9787,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Labridae,Notolabrus,tetricus,2,37384003,L_GH011802 (1).MP4,8506,5.6707,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Labridae,Pictilabrus,laticlavius,1,37384020,L_GH011802 (1).MP4,13201,8.8007,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Labridae,Pseudolabrus,rubicundus,1,37384023,L_GH011802 (1).MP4,12493,8.3287,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Monacanthidae,Meuschenia,flavolineata,2,37465035,L_GH011802 (3).MP4,21046,49.304,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Monacanthidae,Meuschenia,galii,1,37465040,L_GH011802 (1).MP4,5604,3.736,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Monacanthidae,Meuschenia,hippocrepis,7,37465004,L_GH011802 (3).MP4,6023,39.2887,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Palinuridae,Jasus,edwardsii,1,28820001,L_GH011802 (2).MP4,121,17.7173,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Scorpididae,Tilodon,sexfasciatus,1,37361003,L_GH011802 (2).MP4,503,17.972,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Serranidae,Caesioperca,rasor,18,99378025,L_GH011802 (4).MP4,14950,62.8767,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKNO93_2205,Triakidae,Mustelus,antarcticus,1,37017001,L_GH011802 (3).MP4,24242,51.4347,DEaston,40.4,start at 2.3mins,NA,60,3,1,1,No
+SKEO44_2205,Carangidae,Pseudocaranx,sp,4,37337924,GH010079_L (3).MP4,5301,38.8073,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Gerreidae,Parequula,melbournensis,1,37349001,GH010079_L (1).MP4,14782,9.8547,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Heterodontidae,Heterodontus,portusjacksoni,1,37007001,GH010079_L (3).MP4,3496,37.604,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Labridae,Achoerodus,gouldii,1,37384002,GH010079_L (4).MP4,9723,59.392,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Labridae,Austrolabrus,maculatus,1,37384025,GH010079_L (1).MP4,7096,4.7307,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Labridae,Notolabrus,parilus,1,99379455,GH010079_L (1).MP4,23212,15.4747,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Labridae,Notolabrus,tetricus,7,37384003,GH010079_L (3).MP4,4767,38.4513,CMeakin,37.3,NA,NA,60,1,1,1,Yes
+SKEO44_2205,Labridae,Pictilabrus,laticlavius,2,37384020,GH010079_L (1).MP4,12439,8.2927,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Monacanthidae,Meuschenia,flavolineata,2,37465035,GH010079_L (3).MP4,13794,44.4693,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Monacanthidae,Meuschenia,freycineti,1,37465036,GH010079_L (4).MP4,12116,60.9873,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Monacanthidae,Meuschenia,galii,3,37465040,GH010079_L (2).MP4,13894,26.8993,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Monacanthidae,Meuschenia,hippocrepis,14,37465004,GH010079_L (3).MP4,6994,39.936,CMeakin,37.3,NA,NA,60,1,1,1,Yes
+SKEO44_2205,Mullidae,Upeneichthys,vlamingii,2,37355029,GH010079_L (1).MP4,20623,13.7487,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Serranidae,Caesioperca,rasor,2,99378025,GH010079_L (3).MP4,570,35.6533,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Serranidae,Hypoplectrodes,nigroruber,2,37311037,GH010079_L (2).MP4,1323,18.5187,CMeakin,37.3,NA,NA,60,1,1,1,No
+SKEO44_2205,Triakidae,Mustelus,antarcticus,2,37017001,GH010079_L (3).MP4,15824,45.8227,CMeakin,37.3,NA,NA,60,1,1,1,Yes
+SKEO46_2205,Carangidae,Pseudocaranx,sp,5,37337924,GH011801_L (2).MP4,17917,29.5813,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,GH011801_L (4).MP4,11218,60.3887,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Cheilodactylidae,Nemadactylus,valenciennesi,2,37377004,GH011801_L (2).MP4,2439,19.2627,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Dinolestidae,Dinolestes,lewini,1,37327002,GH011801_L (3).MP4,11049,42.6393,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Kyphosidae,Girella,zebra,2,37361008,GH011801_L (2).MP4,4128,20.3887,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Labridae,Achoerodus,gouldii,2,37384002,GH011801_L (2).MP4,41,17.664,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Labridae,Notolabrus,tetricus,8,37384003,GH011801_L (2).MP4,5634,21.3927,CMeakin,32.6,NA,NA,60,2,1,1,Yes
+SKEO46_2205,Labridae,Pictilabrus,laticlavius,3,37384020,GH011801_L (1).MP4,16716,11.144,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Monacanthidae,Meuschenia,flavolineata,1,37465035,GH011801_L (2).MP4,2150,19.07,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Monacanthidae,Meuschenia,freycineti,1,37465036,GH011801_L (2).MP4,5777,21.488,CMeakin,32.6,NA,NA,60,2,1,1,Yes
+SKEO46_2205,Monacanthidae,Meuschenia,galii,2,37465040,GH011801_L (2).MP4,7912,22.9113,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Monacanthidae,Meuschenia,hippocrepis,16,37465004,GH011801_L (3).MP4,7220,40.0867,CMeakin,32.6,NA,NA,60,2,1,1,Yes
+SKEO46_2205,Monacanthidae,Meuschenia,venusta,1,37465060,GH011801_L (3).MP4,14631,45.0273,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Mullidae,Upeneichthys,vlamingii,1,37355029,GH011801_L (2).MP4,1762,18.8113,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,GH011801_L (3).MP4,20501,48.9407,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Labridae,Olisthops,cyanomelas,1,37385001,GH011801_L (2).MP4,3868,20.2153,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Serranidae,Caesioperca,rasor,1,99378025,GH011801_L (2).MP4,4792,20.8313,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO46_2205,Triakidae,Mustelus,antarcticus,1,37017001,GH011801_L (2).MP4,18789,30.1627,CMeakin,32.6,NA,NA,60,2,1,1,No
+SKEO48_2205,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,L_GH010059 (1).MP4,8446,5.6307,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Gerreidae,Parequula,melbournensis,1,37349001,L_GH010059 (2).MP4,1744,18.7993,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Kyphosidae,Girella,zebra,3,37361008,L_GH010059 (1).MP4,20172,13.448,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Labridae,Achoerodus,gouldii,1,37384002,L_GH010059 (1).MP4,7077,4.718,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Labridae,Austrolabrus,maculatus,1,37384025,L_GH010059 (3).MP4,8964,41.2493,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Labridae,Notolabrus,tetricus,6,37384003,L_GH010059 (2).MP4,17287,29.1613,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,Yes
+SKEO48_2205,Labridae,Pictilabrus,laticlavius,3,37384020,L_GH010059 (1).MP4,25286,16.8573,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Monacanthidae,Meuschenia,flavolineata,1,37465035,L_GH010059 (2).MP4,11089,25.0293,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Monacanthidae,Meuschenia,galii,1,37465040,L_GH010059 (1).MP4,9402,6.268,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Monacanthidae,Meuschenia,hippocrepis,12,37465004,L_GH010059 (2).MP4,23059,33.0093,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,Yes
+SKEO48_2205,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,L_GH010059 (1).MP4,19533,13.022,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Labridae,Olisthops,cyanomelas,1,37385001,L_GH010059 (1).MP4,9739,6.4927,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Labridae,Siphonognathus,beddomei,1,37385006,L_GH010059 (4).MP4,14599,62.6427,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,L_GH010059 (1).MP4,7281,4.854,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Serranidae,Caesioperca,rasor,1,99378025,L_GH010059 (1).MP4,23740,15.8267,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO48_2205,Triakidae,Mustelus,antarcticus,1,37017001,L_GH010059 (2).MP4,13546,26.6673,CMeakin,21.8,very obstructed at times,NA,60,2,3,1,No
+SKEO50_2205,Berycidae,Centroberyx,lineatus,8,37258005,L_GH012253 (1).MP4,10297,6.8647,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,L_GH012253 (2).MP4,19029,30.3227,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Dinolestidae,Dinolestes,lewini,2,37327002,L_GH012253 (3).MP4,5741,39.1007,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Enoplosidae,Enoplosus,armatus,2,37366001,L_GH012253 (1).MP4,8564,5.7093,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Kyphosidae,Girella,zebra,5,37361008,L_GH012253 (1).MP4,15062,10.0413,CMeakin,21.4,NA,NA,60,2,2,1,Yes
+SKEO50_2205,Labridae,Achoerodus,gouldii,1,37384002,L_GH012253 (1).MP4,4718,3.1453,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Labridae,Notolabrus,tetricus,9,37384003,L_GH012253 (2).MP4,4104,20.3727,CMeakin,21.4,NA,NA,60,2,2,1,Yes
+SKEO50_2205,Labridae,Pictilabrus,laticlavius,3,37384020,L_GH012253 (3).MP4,16370,46.1867,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Monacanthidae,Meuschenia,flavolineata,1,37465035,L_GH012253 (1).MP4,7326,4.884,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Monacanthidae,Meuschenia,hippocrepis,20,37465004,L_GH012253 (2).MP4,2196,19.1007,CMeakin,21.4,NA,NA,60,2,2,1,Yes
+SKEO50_2205,Labridae,Heteroscarus,acroptilus,1,37385010,L_GH012253 (1).MP4,25186,16.7907,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Labridae,Olisthops,cyanomelas,2,37385001,L_GH012253 (4).MP4,6551,57.2773,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Pentacerotidae,Pentaceropsis,recurvirostris,1,37367003,L_GH012253 (2).MP4,19524,30.6527,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Plesiopidae,Paraplesiops,meleagris,1,37316009,L_GH012253 (2).MP4,15502,27.9713,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,L_GH012253 (1).MP4,4473,2.982,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO50_2205,Serranidae,Caesioperca,rasor,3,99378025,L_GH012253 (2).MP4,3978,20.2887,CMeakin,21.4,NA,NA,60,2,2,1,No
+SKEO51_2205,Berycidae,Centroberyx,gerrardi,4,37258004,L_GOPR1811 (1).MP4,19094,12.7293,CMeakin,14.2,"facing down, limited feild of view",NA,60,3,4,3,Yes
+SKEO51_2205,Labridae,Notolabrus,tetricus,14,37384003,L_GOPR1811 (2).MP4,2720,19.4933,CMeakin,14.2,"facing down, limited feild of view",NA,60,3,4,3,Yes
+SKEO51_2205,Labridae,Pictilabrus,laticlavius,2,37384020,L_GOPR1811 (1).MP4,8792,5.8613,CMeakin,14.2,"facing down, limited feild of view",NA,60,3,4,3,No
+SKEO51_2205,Monacanthidae,Meuschenia,hippocrepis,11,37465004,L_GOPR1811 (1).MP4,24624,16.416,CMeakin,14.2,"facing down, limited feild of view",NA,60,3,4,3,Yes
+SKEO51_2205,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,L_GOPR1811 (3).MP4,22867,50.6047,CMeakin,14.2,"facing down, limited feild of view",NA,60,3,4,3,No
+SKEO52_2205,Berycidae,Centroberyx,gerrardi,1,37258004,L_GOPR0135 (2).MP4,16060,28.3867,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Carangidae,Trachurus,novaezelandiae,10,37337003,L_GOPR0135 (2).MP4,13043,26.3753,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Dinolestidae,Dinolestes,lewini,2,37327002,L_GOPR0135 (1).MP4,21383,14.2553,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Kyphosidae,Girella,zebra,1,37361008,L_GOPR0135 (2).MP4,11684,25.4693,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Labridae,Achoerodus,gouldii,1,37384002,L_GOPR0135 (1).MP4,13598,9.0653,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Labridae,Notolabrus,tetricus,8,37384003,L_GOPR0135 (2).MP4,21519,32.026,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,Yes
+SKEO52_2205,Labridae,Pictilabrus,laticlavius,1,37384020,L_GOPR0135 (1).MP4,13400,8.9333,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Monacanthidae,Meuschenia,flavolineata,1,37465035,L_GOPR0135 (1).MP4,24915,16.61,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Monacanthidae,Meuschenia,galii,1,37465040,L_GOPR0135 (2).MP4,4040,20.3733,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,Yes
+SKEO52_2205,Monacanthidae,Meuschenia,hippocrepis,13,37465004,L_GOPR0135 (2).MP4,11908,25.6187,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,Yes
+SKEO52_2205,Labridae,Olisthops,cyanomelas,1,37385001,L_GOPR0135 (3).MP4,18227,47.5113,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Scorpididae,Scorpis,aequipinnis,1,37361004,L_GOPR0135 (2).MP4,20561,31.3873,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Serranidae,Caesioperca,rasor,5,99378025,L_GOPR0135 (1).MP4,24567,16.378,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No
+SKEO52_2205,Triakidae,Galeorhinus,galeus,1,37017008,L_GOPR0135 (3).MP4,8649,41.126,CMeakin,23.1,"Landed on side and liooking up, difficult to see detail, veru hard to measure",NA,60,1,2,1,No

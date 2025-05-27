@@ -1,0 +1,37 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+DR_R1	MOewens	20 - 30 m	Started at 2.14	Habitat	Broken sand (Seagrass & Algae)														
+DR_R2	MOwens	20 - 30 m	Starts at 1.18	Habitat	Broken sand (Seagrass)														
+DR_R3	Laura Holmes	< 20 m		Habitat	Reef	Soak time		FOV		Bias		Vis							
+DR_R4	MOwens	20 - 30 m	Started at 1.18	Habitat	Reef/Seagrass														
+DR_R5	MOwens	20 - 30 m	Started at 0.51	Habitat	Seagrass														
+DR_R6	MOwens	20 - 30 m	Starts at 0.46	Habitat	Seagrass														
+DR_S1	MOwens	20 - 30 m	Started at 1:13	Habitat	Seagrass														
+DR_S2	MOwens	< 20 m	Started at 1.33	Habitat	Reef	Soak time		FOV		Bias		Vis							
+DR_S3	MOwens	20 - 30 m	 Started at 1.01	Habitat	Reef														
+DR_S4	MOwens	20 - 30 m	Starts at 1.00	Habitat	Broken sand (Seagrass & Algae)														
+DR_S5	MOwens	20 - 30 m	Started at 1.06	Habitat	Seagrass														
+DR_S6	LH	20 - 30 m		Habitat	Reef														
+NN_R10	MOwens	20 - 30 m	Seagrass. Starts at 1.08.	Habitat	Seagrass														
+NN_R11	MO	20 - 30 m	Reef (Algae). Started at 45s	Habitat	Reef														
+NN_R12	MOwens	20 - 30 m	Reef (Alage). Started at 55s	Habitat	Reef														
+NN_R1	LH	20 - 30 m		Habitat	Reef														
+NN_R2 	Mowens	20 - 30 m	Started 1.00	Habitat	Reef														
+NN_R3	MOwens	< 20 m	Reef (Alage). Started at 33s	Habitat	Reef														
+NN_R4	MOwens	< 20 m	Reef (Algae). Started at 45s	Habitat	Reef														
+NN_R5	MOwens	20 - 30 m	Seagrass.  Start time at 1.24	Habitat	Seagrass														
+NN_R6	MOwens	20 - 30 m	Reef Algae. Started at 47s. Bit of obstruction throough video	Habitat	Reef														
+NN_R7	MOwens	< 20 m	Started at 1.20	Habitat	Reef														
+NN_R8	MOwens	< 20 m	Reef Algae. Starts at 1.06	Habitat	Reef														
+NN_R9	Mowens	20 - 30 m	Reef (Algae). Started at 55s	Habitat	Reef														
+SN_R10	MOwens	20 - 30 m	 Started at 44s	Habitat	Reef														
+SN_R11	MOwens	20 - 30 M	Started at 1.30	Habitat	Reef														
+SN_R13	MOwens	20 - 30 m	Starts at 1.13	Habitat	Reef														
+SN_R14	MOwens	20 - 30 m	Seagrass & Alage (reef)	Habitat	Seagrass														
+SN_R2	MOwens	20 - 30 m	Segrass. Started at 3.42	Habitat	Seagrass														
+SN_R3	MOwens 	20 - 30 m	Started at 1.15	Habitat	Reef														
+SN_R4	MOwens	20 - 30 m	Reef Alage. Starts at 3.40	Habitat	Reef														
+SN_R5	MOwens	20 - 30 m	Started at 0.45	Habitat	Reef														
+SN_R6	MOwens	20 - 30 m	Reef (Algae). Started at 5.26	Habitat	Reef														
+SN_R7	MOwens	20 - 30 m	Started at 55s	Habitat	Reef														
+SN_R8	MOwens	20 - 30 m	Started at 1.06	Habitat	Reef														
+SN_R9	MOwens	20 - 30 m	Reef/Seaweed. Starts at 1.50	Habitat	Broken sand: Seagrass/ Algae														

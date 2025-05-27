@@ -1,0 +1,105 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+APO_012	Scott Gray	64	No lights	Latitude	-38.94150569	Longitude	143.508107	Date	11/05/2023	Time	13:48	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_013	Scott Gray	72	Lights	Latitude	-38.95304222	Longitude	143.5166972	Date	11/05/2023	Time	13:31	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_014	Scott Gray	62	Lights	Latitude	-38.9446462	Longitude	143.5145632	Date	11/05/2023	Time	14:01	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_015	Scott Gray	67	Lights	Latitude	-38.95322675	Longitude	143.5110588	Date	11/05/2023	Time	13:34	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_016	Scott Gray	62	Lights	Latitude	-38.94471013	Longitude	143.5032129	Date	11/05/2023	Time	13:41	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_017	Scott Gray	73	Lights	Latitude	-38.94677217	Longitude	143.5224181	Date	11/05/2023	Time	14:05	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_018	Scott Gray	66	Lights	Latitude	-38.95379492	Longitude	143.5065876	Date	11/05/2023	Time	13:37	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_019	Scott Gray	58	Lights	Latitude	-38.9383985	Longitude	143.5047276	Date	11/05/2023	Time	13:44	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_031	Scott Gray	72	Lights	Latitude	-38.9428436	Longitude	143.5650766	Date	12/05/2023	Time	13:11	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_033	Scott Gray	75	Lights	Latitude	-38.94616391	Longitude	143.5558281	Date	12/05/2023	Time	14:28	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_034	Scott Gray	72	Lights	Latitude	-38.94422792	Longitude	143.5684953	Date	12/05/2023	Time	13:19	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_035	Scott Gray	77	Lights	Latitude	-38.95177587	Longitude	143.5512001	Date	13/05/2023	Time	13:36	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_036	Scott Gray	72	Lights	Latitude	-38.95040076	Longitude	143.5631108	Date	13/05/2023	Time	13:42	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_037	Scott Gray	71	Lights	Latitude	-38.94662769	Longitude	143.5644767	Date	12/05/2023	Time	13:22	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_039	Scott Gray	72	Lights	Latitude	-38.95153435	Longitude	143.5582595	Date	13/05/2023	Time	13:39	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_040	Scott Gray	73	Lights	Latitude	-38.93777239	Longitude	143.5650812	Date	12/05/2023	Time	13:08	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_041	Scott Gray	73	Lights	Latitude	-38.92831938	Longitude	143.6121707	Date	12/05/2023	Time	9:47	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_042	Scott Gray	74	Lights	Latitude	-38.92655138	Longitude	143.6211445	Date	12/05/2023	Time	9:23	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_043	Scott Gray	74	Lights	Latitude	-38.92256159	Longitude	143.6126475	Date	12/05/2023	Time	9:44	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_044	Scott Gray	75	Lights	Latitude	-38.92342275	Longitude	143.6242993	Date	12/05/2023	Time	9:26	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_045	Scott Gray	73	Lights	Latitude	-38.91308211	Longitude	143.6216389	Date	12/05/2023	Time	9:34	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_046	Scott Gray	75	Lights	Latitude	-38.9159008	Longitude	143.6161287	Date	12/05/2023	Time	9:38	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_047	Scott Gray	73	Lights	Latitude	-38.91685677	Longitude	143.6251699	Date	12/05/2023	Time	9:31	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_048	Scott Gray	73	Lights	Latitude	-38.92014837	Longitude	143.6190174	Date	12/05/2023	Time	9:40	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_049	Scott Gray	74	Lights	Latitude	-38.92032968	Longitude	143.6269818	Date	12/05/2023	Time	9:29	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_050	Scott Gray	73	Lights	Latitude	-38.9180188	Longitude	143.6074832	Date	12/05/2023	Time	11:06	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_051	Scott Gray	84	Lights	Latitude	-39.00976429	Longitude	143.5420556	Date	11/05/2023	Time	11:28	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_052	Scott Gray	82	Lights	Latitude	-39.01063114	Longitude	143.5270601	Date	11/05/2023	Time	11:46	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_053	Scott Gray	78	Lights	Latitude	-39.00299176	Longitude	143.5289784	Date	11/05/2023	Time	11:40	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_054	Scott Gray	82	Lights	Latitude	-39.01073121	Longitude	143.5373584	Date	11/05/2023	Time	11:30	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_055	Scott Gray	80	Lights	Latitude	-39.01222907	Longitude	143.5217678	Date	11/05/2023	Time	11:49	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_056	Scott Gray	82	Lights	Latitude	-39.00719153	Longitude	143.5379091	Date	11/05/2023	Time	11:35	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_057	Scott Gray	80	Lights	Latitude	-39.00526172	Longitude	143.5290152	Date	11/05/2023	Time	11:43	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_058	Scott Gray	81	Lights	Latitude	-38.99757712	Longitude	143.5410184	Date	11/05/2023	Time	12:00	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_059	Scott Gray	76	Lights	Latitude	-38.99713211	Longitude	143.5236587	Date	11/05/2023	Time	11:55	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_060	Scott Gray	80	Lights	Latitude	-39.00315424	Longitude	143.5326402	Date	11/05/2023	Time	11:38	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_061	Scott Gray	72	Lights	Latitude	-38.92625043	Longitude	143.563399	Date	12/05/2023	Time	11:39	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_062	Scott Gray	71	Lights	Latitude	-38.91298022	Longitude	143.5686134	Date	13/05/2023	Time	13:05	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_063	Scott Gray	73	Lights	Latitude	-38.92193109	Longitude	143.5657358	Date	12/05/2023	Time	11:35	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_064	Scott Gray	73	Lights	Latitude	-38.917828	Longitude	143.571856	Date	12/05/2023	Time	11:17	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_065	Scott Gray	71	Lights	Latitude	-38.91993173	Longitude	143.576015	Date	12/05/2023	Time	11:19	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_066	Scott Gray	72	Lights	Latitude	-38.92414898	Longitude	143.5794666	Date	12/05/2023	Time	11:23	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_067	Scott Gray	72	Lights	Latitude	-38.91423326	Longitude	143.5607937	Date	13/05/2023	Time	13:08	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_068	Scott Gray	72	Lights	Latitude	-38.92629684	Longitude	143.5716944	Date	12/05/2023	Time	11:29	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_069	Scott Gray	72	Lights	Latitude	-38.92878742	Longitude	143.5789617	Date	12/05/2023	Time	11:25	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_070	Scott Gray	71	Lights	Latitude	-38.91683043	Longitude	143.5812434	Date	12/05/2023	Time	11:13	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_071	Scott Gray	81	Lights	Latitude	-38.97546486	Longitude	143.577842	Date	11/05/2023	Time	9:39	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_072	Scott Gray	78	Lights	Latitude	-38.96915628	Longitude	143.5738508	Date	11/05/2023	Time	9:46	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_076	Scott Gray	77	Lights	Latitude	-38.96050495	Longitude	143.5788458	Date	11/05/2023	Time	9:24	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_077	Scott Gray	78	Lights	Latitude	-38.97236663	Longitude	143.5723112	Date	11/05/2023	Time	9:43	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_078	Scott Gray	81	Lights	Latitude	-38.97287575	Longitude	143.583288	Date	11/05/2023	Time	9:36	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_079	Scott Gray	75	Lights	Latitude	-38.96370383	Longitude	143.5642593	Date	11/05/2023	Time	9:54	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_080	Scott Gray	80	Lights	Latitude	-38.96406828	Longitude	143.5812808	Date	11/05/2023	Time	9:28	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_081	Scott Gray	82	Lights	Latitude	-38.98125793	Longitude	143.6266939	Date	10/05/2023	Time	9:24	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_082	Scott Gray	84	Lights	Latitude	-38.99167832	Longitude	143.6256478	Date	10/05/2023	Time	9:51	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_083	Scott Gray	82	Lights	Latitude	-38.97522476	Longitude	143.6169373	Date	10/05/2023	Time	9:32	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_084	Scott Gray	84	Lights	Latitude	-38.97825492	Longitude	143.6240205	Date	10/05/2023	Time	9:28	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_085	Scott Gray	84	Lights	Latitude	-38.99056981	Longitude	143.6132312	Date	10/05/2023	Time	9:57	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_086	Scott Gray	83	Lights	Latitude	-38.98409586	Longitude	143.6079344	Date	10/05/2023	Time	9:40	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_087	Scott Gray	85	Lights	Latitude	-38.99003793	Longitude	143.6072086	Date	10/05/2023	Time	10:01	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_088	Scott Gray	82	Lights	Latitude	-38.98440346	Longitude	143.6150853	Date	10/05/2023	Time	9:44	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_089	Scott Gray	83	Lights	Latitude	-38.98442008	Longitude	143.6233642	Date	10/05/2023	Time	9:47	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_090	Scott Gray	84	Lights	Latitude	-38.97826476	Longitude	143.6104828	Date	10/05/2023	Time	9:36	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_091	Scott Gray	89	Lights	Latitude	-39.04046605	Longitude	143.5986188	Date	10/05/2023	Time	12:27	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_092	Scott Gray	89	Lights	Latitude	-39.04775399	Longitude	143.6087297	Date	10/05/2023	Time	11:50	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_093	Scott Gray	89	Lights	Latitude	-39.0518604	Longitude	143.6023642	Date	10/05/2023	Time	11:53	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_094	Scott Gray	90	Lights	Latitude	-39.05000613	Longitude	143.5958258	Date	10/05/2023	Time	12:04	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_095	Scott Gray	89	Lights	Latitude	-39.04697357	Longitude	143.599591	Date	10/05/2023	Time	12:07	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_096	Scott Gray	88	Lights	Latitude	-39.04392893	Longitude	143.6027694	Date	10/05/2023	Time	12:10	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_097	Scott Gray	90	Lights	Latitude	-39.05447369	Longitude	143.5950651	Date	10/05/2023	Time	12:01	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_098	Scott Gray	87	Lights	Latitude	-39.05257467	Longitude	143.6120457	Date	10/05/2023	Time	11:46	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_099	Scott Gray	88	Lights	Latitude	-39.04521343	Longitude	143.5941946	Date	10/05/2023	Time	12:30	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_100	Scott Gray	88	Lights	Latitude	-39.04599013	Longitude	143.6149669	Date	10/05/2023	Time	11:42	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_105	Sasha Whitmarsh	80.468	Lights, Rayville, Facing down	Latitude	-38.97899225	Longitude	143.5075917	Date	14/05/2023	Time	9:49	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Reef
+APO_001	Sasha Whitmarsh	62	Lights	Latitude	-38.92799828	Longitude	143.5194884	Date	13/05/2023	Time	9:53	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand
+APO_002	Sasha Whitmarsh	51	No lights	Latitude	-38.9138801	Longitude	143.5098785	Date	13/05/2023	Time	9:38	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand/pebble
+APO_003	Sasha Whitmarsh	56	No lights	Latitude	-38.92494358	Longitude	143.5159757	Date	13/05/2023	Time	9:51	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sponge
+APO_004	Sasha Whitmarsh	52	No lights	Latitude	-38.91826939	Longitude	143.5171301	Date	13/05/2023	Time	9:30	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sponge
+APO_005	Sasha Whitmarsh	66	Lights	Latitude	-38.9289975	Longitude	143.524945	Date	13/05/2023	Time	11:09	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Inverts
+APO_006	Sasha Whitmarsh	50	No lights	Latitude	-38.91451806	Longitude	143.5048102	Date	13/05/2023	Time	9:41	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	
+APO_007	Sasha Whitmarsh	50	No lights	Latitude	-38.91446896	Longitude	143.5174201	Date	13/05/2023	Time	9:35	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sponge
+APO_008	Sasha Whitmarsh	60	Lights	Latitude	-38.91964739	Longitude	143.5218293	Date	13/05/2023	Time	9:27	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	
+APO_009	Sasha Whitmarsh	49	No lights	Latitude	-38.92049873	Longitude	143.5104578	Date	13/05/2023	Time	9:44	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sponge
+APO_010	Sasha Whitmarsh	55	No lights	Latitude	-38.92656863	Longitude	143.5080651	Date	13/05/2023	Time	9:47	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	
+APO_011	Sasha Whitmarsh	68	Lights	Latitude	-38.93760736	Longitude	143.5217666	Date	13/05/2023	Time	13:26	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sponge
+APO_020	Sasha Whitmarsh	64	Lights	Latitude	-38.94549409	Longitude	143.5328064	Date	14/05/2023	Time	10:03	MPAStatus	No-take	Site	Apollo MP	Year	2023	Spare	
+APO_021	Sasha Whitmarsh	74	Lights	Latitude	-38.92904778	Longitude	143.5432448	Date	13/05/2023	Time	13:16	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand
+APO_022	Sasha Whitmarsh	71	Lights	Latitude	-38.9200127	Longitude	143.5455736	Date	13/05/2023	Time	11:26	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand/Sponge
+APO_023	Sasha Whitmarsh	62	Lights	Latitude	-38.91789589	Longitude	143.5353245	Date	13/05/2023	Time	11:19	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	
+APO_024	Sasha Whitmarsh	70	Lights	Latitude	-38.92686787	Longitude	143.532159	Date	13/05/2023	Time	11:11	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand/sponge
+APO_025	Sasha Whitmarsh	74	Lights	Latitude	-38.92454577	Longitude	143.5452176	Date	13/05/2023	Time	11:28	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand/sponge
+APO_026	Sasha Whitmarsh	60	Lights	Latitude	-38.91778033	Longitude	143.5295293	Date	13/05/2023	Time	11:22	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sponge
+APO_027	Sasha Whitmarsh	72	Lights	Latitude	-38.93021295	Longitude	143.5353694	Date	13/05/2023	Time	13:21	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sponge
+APO_028	Sasha Whitmarsh	69	Lights	Latitude	-38.92123832	Longitude	143.5380808	Date	13/05/2023	Time	11:16	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand
+APO_029	Sasha Whitmarsh	68	Lights	Latitude	-38.92400328	Longitude	143.5356899	Date	13/05/2023	Time	11:14	MPAStatus	Fished	Site	Apollo CMR	Year	2023	Spare	Sand/sponge
+APO_030	Sasha Whitmarsh	70	Lights	Latitude	-38.92874003	Longitude	143.548942	Date	14/05/2023	Time	10:17	MPAStatus	No-take	Site	Apollo MP	Year	2023	Spare	Sponge
+APO_038	Sasha Whitmarsh	76.455	Lights	Latitude	-38.93762869	Longitude	143.5698711	Date	14/05/2023	Time	10:25	MPAStatus	No-take	Site	Apollo	Year	2023	Spare	sand and sponge
+APO_073	Sasha Whitmarsh	82.0418	Lights	Latitude	-38.9698878	Longitude	143.5643817	Date	14/05/2023	Time	09:34	MPAStatus	No-take	Site	Apollo	Year	2023	Spare	sand/sponge
+APO_074	Sasha Whtimarsh	84.9034	Lights	Latitude	-38.96940615	Longitude	143.5803582	Date	14/05/2023	Time	09:29	MPAStatus	No-take	Site	Apollo	Year	2023	Spare	Sand
+APO_102	Sasha Whitmarsh	63.655	Light	Latitude	-38.94094019	Longitude	143.5328064	Date	14/05/2023	Time	10:10	MPAStatus	No-take	Site	Apollo	Year	2023	Spare	Sponge
+APO_103	Sasha Whitmarsh	74.146	Lights	Latitude	-38.93349097	Longitude	143.5673528	Date	14/05/2023	Time	10:22	MPAStatus	No-take	Site	Apollo	Year	2023	Spare	Sand
+APO_104	Sasha Whitmarsh	79.246	Lights	Latitude	-38.93058036	Longitude	143.5873523	Date	14/05/2023	Time	10:31	MPAStatus	No-take	Site	Apollo	Year	2023	Spare	Sponge
+APO_075	Scott Gray	76	Lights	Latitude	-38.96073828	Longitude	143.5674531	Date	11/05/2023	Time	9:56	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	
+APO_032	Scott Gray	74	Lights	Latitude	-38.94103251	Longitude	143.552435	Date	12/05/2023	Time	14:30	MPAStatus	Inside MPA	Site	Apollo Bay	Year	2023	Spare	

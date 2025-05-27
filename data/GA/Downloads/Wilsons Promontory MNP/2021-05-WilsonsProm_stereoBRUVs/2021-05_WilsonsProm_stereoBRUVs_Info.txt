@@ -1,0 +1,90 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+WP_001	Scott Gray	38.08		Latitude	-39.09453	Longitude	146.32264	Date	25/05/2021	Time	9:15	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_002	Scott Gray	40.18		Latitude	-39.11253	Longitude	146.33309	Date	23/05/2021	Time	10:13	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_003	Scott Gray	45	Some jellyfish	Latitude	-39.09674	Longitude	146.28768	Date	23/05/2021	Time	9:46	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, some shells
+WP_005	Scott Gray	42.51		Latitude	-39.09485	Longitude	146.30748	Date	23/05/2021	Time	9:55	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_012	Scott Gray	36.55		Latitude	-39.12771	Longitude	146.42822	Date	21/05/2021	Time	11:52	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_017	Scott Gray	29.29		Latitude	-39.08189	Longitude	146.45076	Date	21/05/2021	Time	11:25	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_020	Scott Gray	45.05		Latitude	-39.11825	Longitude	146.31658	Date	23/05/2021	Time	10:21	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_025	Scott Gray	42.61		Latitude	-39.13641	Longitude	146.33753	Date	21/05/2021	Time	14:16	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_026	Scott Gray	44.46		Latitude	-39.14936	Longitude	146.29713	Date	22/05/2021	Time	13:20	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_027	Scott Gray	39.43		Latitude	-39.11563	Longitude	146.43576	Date	21/05/2021	Time	11:45	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_029	Scott Gray	44.75		Latitude	-39.13514	Longitude	146.30028	Date	22/05/2021	Time	13:43	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Invertebrates
+WP_031	Scott Gray	71.74	Lights	Latitude	-39.1742	Longitude	146.3482	Date	24/05/2021	Time	13.48	MPAStatus	No-take	Site	Wilsons Promontory	Year	2021	Spare	Sand
+WP_032	Scott Gray	54.66		Latitude	-39.13529	Longitude	146.27592	Date	23/05/2021	Time	13:29	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_037	Scott Gray	50.4		Latitude	-39.11755	Longitude	146.28672	Date	23/05/2021	Time	13:10	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Rubble
+WP_038	Scott Gray	67.87	Lights, jellyfish present	Latitude	-39.16294	Longitude	146.31743	Date	24/05/2021	Time	9:18	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_044	Scott Gray	71.59	Lights	Latitude	-39.15967	Longitude	146.33672	Date	24/05/2021	Time	9:29	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_045	Scott Gray	39.88		Latitude	-39.14782	Longitude	146.37339	Date	21/05/2021	Time	14:00	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_048	Scott Gray	41.18		Latitude	-39.14073	Longitude	146.31357	Date	22/05/2021	Time	13:37	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Sponge
+WP_050	Scott Gray	45.23		Latitude	-39.12722	Longitude	146.29996	Date	22/05/2021	Time	13:48	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sponge, Sand
+WP_051	Scott Gray	43.29	No measurements	Latitude	-39.10044	Longitude	146.24135	Date	22/05/2021	Time	9:33	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_052	Scott Gray	35.57		Latitude	-39.13041	Longitude	146.32139	Date	21/05/2021	Time	14:34	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_053	Scott Gray	31.69		Latitude	-39.14261	Longitude	146.39622	Date	21/05/2021	Time	13:50	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_054	Scott Gray	42.53		Latitude	-39.07055	Longitude	146.23232	Date	22/05/2021	Time	9:01	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Shells
+WP_060	Scott Gray	68.73	Lights	Latitude	-39.15409	Longitude	146.34474	Date	24/05/2021	Time	9:34	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_062	Scott Gray	68.37	Lights	Latitude	-39.15748	Longitude	146.30311	Date	23/05/2021	Time	13:57	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Shell
+WP_065	Scott Gray	62.65	Lights, jellyfish	Latitude	-39.15396	Longitude	146.2916	Date	23/05/2021	Time	13:48	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_066	Scott Gray	65.4	Lights	Latitude	-39.13045	Longitude	146.43088	Date	25/05/2021	Time	12:33	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_068	Scott Gray	20.02		Latitude	-39.12608	Longitude	146.34738	Date	21/05/2021	Time	14:23	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_069	Scott Gray	44.65	Lights	Latitude	-39.15451	Longitude	146.36401	Date	25/05/2021	Time	11:58	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_070	Scott Gray	36.5	Lights	Latitude	-39.15439	Longitude	146.29781	Date	25/05/2021	Time	9:52	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_077	Scott Gray	21.02	Lights	Latitude	-39.15852	Longitude	146.29597	Date	25/05/2021	Time	9:57	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_078	Scott Gray	59.15	Lights	Latitude	-39.1591	Longitude	146.2918	Date	23/05/2021	Time	13:50	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_079	Scott Gray	46.59		Latitude	-39.13475	Longitude	146.27035	Date	22/05/2021	Time	12:48	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_081	Scott Gray	37.35	Lights	Latitude	-39.14743	Longitude	146.29056	Date	25/05/2021	Time	9:48	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_085	Scott Gray	70.27	Lights, jellyfish present	Latitude	-39.17564	Longitude	146.40829	Date	24/05/2021	Time	14:15	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_089	Scott Gray	61.42	Lights	Latitude	-39.15501	Longitude	146.36946	Date	25/05/2021	Time	12:01	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_092	Scott Gray	55.66		Latitude	-39.1635	Longitude	146.32442	Date	24/05/2021	Time	9:22	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_093	Scott Gray	41.85		Latitude	-39.1282	Longitude	146.25869	Date	22/05/2021	Time	11:32	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_094	Scott Gray	49.13		Latitude	-39.10093	Longitude	146.24533	Date	23/05/2021	Time	12:50	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_095	Scott Gray	45.16		Latitude	-39.0872	Longitude	146.25795	Date	23/05/2021	Time	9:31	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_096	Scott Gray	45.22		Latitude	-39.0846	Longitude	146.26752	Date	23/05/2021	Time	9:26	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_097	Scott Gray	24.06		Latitude	-39.14438	Longitude	146.29549	Date	22/05/2021	Time	13:28	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macropalgae
+WP_098	Scott Gray	51.41		Latitude	-39.141	Longitude	146.29033	Date	23/05/2021	Time	13:37	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_099	Scott Gray	91.21	Lights. No measurements	Latitude	-39.15202	Longitude	146.38884	Date	24/05/2021	Time	11:35	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Sponge
+WP_101	Scott Gray	86.59	Lights	Latitude	-39.1528	Longitude	146.38285	Date	24/05/21	Time	11:30	MPAStatus	No-take	Site	Wilsons Promontory	Year	2021	Spare	Sand, Sponge
+WP_103	Scott Gray	81.31	Lights	Latitude	-39.14238	Longitude	146.37865	Date	24/05/2021	Time	9:54	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_105	Scott Gray	43.54	Jellyfish present	Latitude	-39.13683	Longitude	146.41629	Date	24/05/2021	Time	12:03	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_106	Scott Gray	32.16		Latitude	-39.13961	Longitude	146.39634	Date	21/05/2021	Time	13:47	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_107	Scott Gray	33.14		Latitude	-39.14354	Longitude	146.3626	Date	21/05/2021	Time	14:05	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_108	Scott Gray	51.2		Latitude	-39.13934	Longitude	146.37233	Date	24/05/2021	Time	9:58	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_110	Scott Gray	39.25		Latitude	-39.06523429	Longitude	146.2846594	Date	23/05/2021	Time	9:13	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_111	Scott Gray	28.07		Latitude	-39.06278821	Longitude	146.3058562	Date	23/05/2021	Time	8:04	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_113	Scott Gray	55.82		Latitude	-39.15605176	Longitude	146.4113262	Date	24/05/2021	Time	11:45	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Shell
+WP_114	Scott Gray	74.07	Lights	Latitude	-39.13976411	Longitude	146.4233338	Date	24/05/2021	Time	11:58	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Sponge
+WP_115	Scott Gray	68.99	Lights	Latitude	-39.13565442	Longitude	146.4314143	Date	25/05/2021	Time	12:28	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Sponge
+WP_116	Scott Gray	68.6	Lights	Latitude	-39.12488036	Longitude	146.4425771	Date	24/05/2021	Time	12:23	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_117	Scott Gray	50.63		Latitude	-39.13223893	Longitude	146.4258329	Date	24/05/2021	Time	12:14	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_118	Scott Gray	29.65	No measurements	Latitude	-39.06576522	Longitude	146.4718637	Date	21/05/2021	Time	11:02	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_119	Scott Gray	70.51	Lights, plenty of jellyfish	Latitude	-39.16967045	Longitude	146.3860689	Date	24/05/2021	Time	14:05	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_120	Scott Gray	53.32	Jellyfish present	Latitude	-39.1215504	Longitude	146.267472	Date	23/05/2021	Time	13:20	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand, Sponge
+WP_121	Scott Gray	51.26	No measurements	Latitude	-39.11730298	Longitude	146.2737632	Date	23/05/2021	Time	13:16	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_122	Scott Gray	38.2	Lights	Latitude	-39.14405143	Longitude	146.2921177	Date	25/05/2021	Time	9:45	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_123	Scott Gray	61	Lights	Latitude	-39.14427891	Longitude	146.2839399	Date	23/05/2021	Time	13:40	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_124	Scott Gray	36.94		Latitude	-39.12535282	Longitude	146.2443021	Date	22/05/2021	Time	11:24	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_125	Scott Gray	46.25		Latitude	-39.12215677	Longitude	146.2428348	Date	22/05/2021	Time	11:22	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge, Hard coral
+WP_126	Scott Gray	34.54		Latitude	-39.11834653	Longitude	146.2413107	Date	22/05/2021	Time	11:19	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_127	Scott Gray	42.18		Latitude	-39.11783471	Longitude	146.2395023	Date	22/05/2021	Time	11:17	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_128	Scott Gray	44.89		Latitude	-39.11773234	Longitude	146.2348049	Date	22/05/2021	Time	11:14	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_129	Scott Gray	50.19		Latitude	-39.11698167	Longitude	146.2307103	Date	22/05/2021	Time	11:11	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_130	Scott Gray	35.17		Latitude	-39.11517323	Longitude	146.2316089	Date	22/05/2021	Time	11:08	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_131	Scott Gray	34.38		Latitude	-39.11393348	Longitude	146.2335879	Date	22/05/2021	Time	11:06	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_132	Scott Gray	43.26		Latitude	-39.11082842	Longitude	146.2357717	Date	22/05/2021	Time	11:02	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_133	Scott Gray	54.92		Latitude	-39.10745038	Longitude	146.2349186	Date	22/05/2021	Time	9:41	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sand patches
+WP_134	Scott Gray	47.03		Latitude	-39.10550545	Longitude	146.2349869	Date	22/05/2021	Time	9:39	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_136	Scott Gray	55.85		Latitude	-39.085275	Longitude	146.220231	Date	22/05/2021	Time	9:19	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_137	Scott Gray	41.29		Latitude	-39.08786689	Longitude	146.2273355	Date	22/05/2021	Time	9:22	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_138	Scott Gray	39.55		Latitude	-39.08376866	Longitude	146.2183456	Date	22/05/2021	Time	9:16	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_139	Scott Gray	47.63		Latitude	-39.07539751	Longitude	146.2194011	Date	22/05/2021	Time	9:11	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_140	Scott Gray	40.06		Latitude	-39.07112458	Longitude	146.2210171	Date	22/05/2021	Time	9:08	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_141	Scott Gray	25.66		Latitude	-39.05743967	Longitude	146.4833914	Date	21/05/2021	Time	9:35	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_142	Scott Gray	23.67		Latitude	-39.05152968	Longitude	146.4797443	Date	21/05/2021	Time	9:28	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_144	Scott Gray	23.72		Latitude	-39.05071167	Longitude	146.4782666	Date	21/05/2021	Time	9:25	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_145	Scott Gray	14.55		Latitude	-39.04641493	Longitude	146.4783809	Date	21/05/2021	Time	9:22	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_146	Scott Gray	25.43		Latitude	-39.04225535	Longitude	146.4767675	Date	21/05/2021	Time	9:19	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef
+WP_147	Scott Gray	21.16	Jellyfish @50mins+	Latitude	-39.03882636	Longitude	146.4741837	Date	21/05/2021	Time	9:17	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_148	Scott Gray	11.4		Latitude	-39.03350079	Longitude	146.4709952	Date	21/05/2021	Time	9:13	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae
+WP_150	Scott Gray	20.29		Latitude	-39.02656037	Longitude	146.4766781	Date	21/05/2021	Time	9:07	MPAStatus	Fished	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Sponge
+WP_151	Scott Gray	29.6		Latitude	-39.06685606	Longitude	146.4641613	Date	21/05/2021	Time	11:07	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Sand
+WP_152	Scott Gray	18.85		Latitude	-39.06511064	Longitude	146.4455699	Date	21/05/2021	Time	11:15	MPAStatus	No-take	Site	Wilsons Promontory MP	Year	2021	Spare	Reef, Macroalgae

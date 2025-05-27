@@ -1,0 +1,86 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+Howe_001	Scott Gray	15		Latitude	-37.5078	Longitude	149.98027	Date	1/03/2021	Time	10:28	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_002	Scott Gray	11.71		Latitude	-37.50908	Longitude	149.97547	Date	1/03/2021	Time	10:34	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Reef
+Howe_003	Scott Gray	27		Latitude	-37.50945	Longitude	149.98413	Date	1/03/2021	Time	10:23	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Reef/inverts
+Howe_004	Scott Gray	31	No measurement due to 6R camera fail	Latitude	-37.51173	Longitude	149.985	Date	1/03/2021	Time	10:17	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_005	Scott Gray	40		Latitude	-37.51254	Longitude	149.99086	Date	1/03/2021	Time	10:12	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_006	Scott Gray	na		Latitude	-37.51574	Longitude	149.99355	Date	3/03/2021	Time	9:06	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_007	Scott Gray	na		Latitude	-37.51697	Longitude	150.00045	Date	3/03/2021	Time	8:51	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_008	Scott Gray	13.74		Latitude	-37.51948	Longitude	149.96777	Date	28/02/2021	Time	13:23	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_009	Scott Gray	56.2		Latitude	-37.5193	Longitude	149.9957	Date	3/03/2021	Time	9:00	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_010	Scott Gray	9.61		Latitude	-37.52074	Longitude	149.95424	Date	28/02/2021	Time	13:33	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_011	Scott Gray	13.21		Latitude	-37.52232	Longitude	149.95993	Date	28/02/2021	Time	13:29	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_012	Scott Gray	75.46	Lights	Latitude	-37.52139	Longitude	150.00286	Date	3/03/2021	Time	9:25	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_013	Scott Gray	23.22		Latitude	-37.52422	Longitude	149.95315	Date	28/02/2021	Time	13:36	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_014	Scott Gray	21.19		Latitude	-37.52381	Longitude	149.96757	Date	28/02/2021	Time	13:20	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Reef/inverts
+Howe_015	Scott Gray	13.15		Latitude	-37.52564	Longitude	149.95875	Date	28/02/2021	Time	13:40	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_016	Scott Gray	na	Lights	Latitude	-37.524	Longitude	150.0095	Date	3/03/2021	Time	11:32	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_018	Scott Gray	87.74	Lights	Latitude	-37.52816	Longitude	150.00586	Date	3/03/2021	Time	11:28	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_019	Scott Gray	na	Lights	Latitude	-37.52872	Longitude	150.01764	Date	3/03/2021	Time	11:19	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_022	Scott Gray	93.31	Lights	Latitude	-37.53618	Longitude	150.01553	Date	3/03/2021	Time	11:14	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_025	Scott Gray	28.47		Latitude	-37.55713	Longitude	149.87493	Date	27/02/2021	Time	15:42	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_026	Scott Gray	29.69		Latitude	-37.56038	Longitude	149.82162	Date	27/02/2021	Time	15:08	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_028	Scott Gray	18.9		Latitude	-37.55976	Longitude	149.84225	Date	27/02/2021	Time	15:18	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_029	Scott Gray	14.5	was originally labelled 023 by mistake	Latitude	-37.557599	Longitude	149.902271	Date	28/02/2021	Time	15:47	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_030	Scott Gray	15.88		Latitude	-37.56106	Longitude	149.85091	Date	27/02/2021	Time	15:23	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_032	Scott Gray	21.6		Latitude	-37.56032	Longitude	149.92018	Date	28/02/2021	Time	16:14	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_033	Scott Gray	23.77		Latitude	-37.56565	Longitude	149.85623	Date	27/02/2021	Time	15:32	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_034	Scott Gray	19.25		Latitude	-37.56752	Longitude	149.82743	Date	27/02/2021	Time	15:00	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_035	Scott Gray	32.49		Latitude	-37.56529	Longitude	149.88794	Date	27/02/2021	Time	15:50	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_036	Scott Gray	20.48		Latitude	-37.56692	Longitude	149.84982	Date	27/02/2021	Time	15:28	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_037	Scott Gray	26.58		Latitude	-37.56492	Longitude	149.9029	Date	28/02/2021	Time	15:52	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_039	Sasha Whitmarsh	39.55		Latitude	-37.56532	Longitude	149.93802	Date	04/03/2021	Time	08:50	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_040	Scott Gray	25.61		Latitude	-37.56744	Longitude	149.92305	Date	28/02/2021	Time	16:07	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_041	Scott Gray	25.23		Latitude	-37.56988	Longitude	149.90782	Date	28/02/2021	Time	15:57	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_042	Sasha Whitmarsh	41.54		Latitude	-37.5693	Longitude	149.93889	Date	04/03/2021	Time	8:54	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_043	Scott Gray	18.91		Latitude	-37.57096	Longitude	149.91303	Date	28/02/2021	Time	16:00	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_044	Scott Gray	14.42		Latitude	-37.57223	Longitude	149.91923	Date	28/02/2021	Time	16:04	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_045	Sasha Whitmarsh	59.81		Latitude	-37.57205	Longitude	149.94306	Date	04/03/2021	Time	8:58	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_046	Sasha Whitmarsh	41.13		Latitude	-37.57413	Longitude	149.92448	Date	04/03/2021	Time	9:19	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_047	Sasha Whitmarsh	60		Latitude	-37.57435	Longitude	149.93361	Date	04/03/2021	Time	9:04	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_048	Sasha Whitmarsh	41.98		Latitude	-37.57642	Longitude	149.89667	Date	04/03/2021	Time	9:33	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_050	Sasha Whitmarsh	47.32		Latitude	-37.57751	Longitude	149.91727	Date	04/03/21	Time	9:24	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_051	Sasha Whitmarsh	56.58		Latitude	-37.57932	Longitude	149.92513	Date	4/03/2021	Time	9:13:00 	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_058	Scott Gray	21.03		Latitude	-37.513	Longitude	149.9763	Date	1/03/2021	Time	10:38	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_060	Scott Gray	29.05	Jellyfish	Latitude	-37.546	Longitude	149.9317	Date	1/03/2021	Time	14:15	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_061	Scott Gray	74.72	Lights	Latitude	-37.5298	Longitude	149.9971	Date	3/03/2021	Time	9:31	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_062	Scott Gray	75.28	Lights	Latitude	-37.5375	Longitude	149.9913	Date	3/03/2021	Time	9:44	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_063	Scott Gray	75.01	Lights	Latitude	-37.5333	Longitude	149.9946	Date	3/03/2021	Time	9:39	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_064	Scott Gray	39.45		Latitude	-37.5447	Longitude	149.9637	Date	1/03/2021	Time	14:51	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_065	Sasha Whitmarsh	48.9		Latitude	-37.5534	Longitude	149.9592	Date	4/03/2021	Time	11:38	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_066	Scott Gray	45.54		Latitude	-37.5215	Longitude	149.9847	Date	3/03/2021	Time	9:14	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_067	Sasha Whitmarsh	43.57		Latitude	-37.5567	Longitude	149.9516	Date	4/03/2021	Time	11:34:00 	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_071	Scott Gray	58.43		Latitude	-37.524	Longitude	149.994	Date	3/03/2021	Time	11:49	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_072	Scott Gray	50.42		Latitude	-37.5394	Longitude	149.9748	Date	3/03/2021	Time	13:41	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_075	Sasha Whitmarsh	92.06	Lights	Latitude	-37.5669	Longitude	149.9754	Date	4/03/2021	Time	12:15:00	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_076	Sasha Whitmarsh	92.09	Lights	Latitude	-37.5666	Longitude	149.9703	Date	4/03/2021	Time	1:31:00	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_078	Scott Gray	60.7		Latitude	-37.5301	Longitude	149.9862	Date	3/03/2021	Time	13:26	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_079	Sasha Whitmarsh	65.07	screw shells present	Latitude	-37.5349	Longitude	149.9837	Date	03/03/2021	Time	13:32	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_081	Sasha Whitmarsh	60.68		Latitude	-37.5267	Longitude	149.9936	Date	03/03/2021	Time	11:44	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_082	Sasha Whitmarsh	62.77		Latitude	-37.5432	Longitude	149.9788	Date	4/03/2021	Time	11:52	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_083	Scott Gray	43.32		Latitude	-37.5399	Longitude	149.9707	Date	1/03/2021	Time	14:57	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_084	Scott Gray	40.2		Latitude	-37.5334	Longitude	149.9715	Date	1/03/2021	Time	15:01	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_085	Scott Gray	32.6		Latitude	-37.5444	Longitude	149.941	Date	1/03/2021	Time	14:25	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_086	Scott Gray	37.82		Latitude	-37.5251	Longitude	149.9731	Date	1/03/2021	Time	11:50	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_087	Scott Gray	38.44		Latitude	-37.5195	Longitude	149.9798	Date	1/03/2021	Time	10:00	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_088	Scott Gray	33.73		Latitude	-37.5415	Longitude	149.9616	Date	1/03/2021	Time	12:05	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_089	Scott Gray	23.09		Latitude	-37.5337	Longitude	149.9648	Date	1/03/2021	Time	11:58	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_090	Sasha Whitmarsh	88.71	Lights	Latitude	-37.548	Longitude	149.9892	Date	03/03/2021	Time	14:03	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_091	Sasha Whitmarsh	81.31	Lights	Latitude	-37.5428	Longitude	149.9892	Date	03/03/2021	Time	14:06	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_092	Sasha Whitmarsh	85.28	Lights	Latitude	-37.5608	Longitude	149.9714	Date	4/03/2021	Time	12:08:00 	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_093	Sasha Whitmarsh	52.15		Latitude	-37.5258	Longitude	149.9865	Date	03/03/2021	Time	11:56	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_094	Sasha Whitmarsh	50.83		Latitude	-37.5444	Longitude	149.9703	Date	4/03/2021	Time	11:46	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_095	Sasha Whitmarsh	50.09	Clapper says 035	Latitude	-37.5238	Longitude	149.9893	Date	03/03/2021	Time	11:52	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_096	Scott Gray	38.95		Latitude	-37.5294	Longitude	149.9725	Date	1/03/2021	Time	15:05	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_097	Sasha Whitmarsh	47.14		Latitude	-37.5275	Longitude	149.9779	Date	3/03/2021	Time	13:20	MPAStatus	Fished	Site	Cape Howe	Year	2021	Spare	Inverts
+Howe_100	Sasha Whitmarsh	71.23	Lights	Latitude	-37.5375	Longitude	149.9866	Date	03/03/2021	Time	14:14	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_101	Sasha Whitmarsh	77.37	Lights	Latitude	-37.546	Longitude	149.9822	Date	03/03/2021	Time	13:55	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_102	Sasha Whitmarsh	78.54	Lights	Latitude	-37.5505	Longitude	149.9785	Date	4/03/2021	Time	11:59	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand
+Howe_103	Scott Gray	29.12		Latitude	-37.5407	Longitude	149.9379	Date	1/03/2021	Time	14:28	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_104	Scott Gray	27.95		Latitude	-37.5282	Longitude	149.969	Date	28/02/2021	Time	13:48	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_105	Scott Gray	36.18		Latitude	-37.5161	Longitude	149.9868	Date	1/03/2021	Time	10:08	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_107	Scott Gray	18.92		Latitude	-37.53597	Longitude	149.939	Date	1/03/2021	Time	14:33	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_108	Scott Gray	31.32		Latitude	-37.53622	Longitude	149.95339	Date	1/03/2021	Time	12:12	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Sand/inverts
+Howe_109	Scott Gray	17.61		Latitude	-37.53275	Longitude	149.95594	Date	1/03/2021	Time	12:16	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_110	Scott Gray	33.78		Latitude	-37.53887	Longitude	149.95779	Date	1/03/2021	Time	12:09	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren
+Howe_111	Scott Gray	23.34		Latitude	-37.53775	Longitude	149.96458	Date	1/03/2021	Time	12:00	MPAStatus	No-take	Site	Cape Howe	Year	2021	Spare	Barren

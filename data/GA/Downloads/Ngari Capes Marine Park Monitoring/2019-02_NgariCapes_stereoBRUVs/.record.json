@@ -1,0 +1,202 @@
+{
+  "created_at": ["2023-12-01T03:07:00.779859"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [174],
+  "description": [""],
+  "files": [
+    {
+      "id": 13163,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_MovieSeq.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13164,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_Period.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13165,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_Points.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13166,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_Source.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13167,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_3DPoints.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13168,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_ImagePtPair.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13169,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_Info.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13170,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_Lengths.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13171,
+      "iscompressed": true,
+      "name": "2019-02_NgariCapes_stereoBRUVs_Metadata.csv",
+      "user_id": 350
+    },
+    {
+      "id": 13172,
+      "iscompressed": false,
+      "name": "2019-02_NgariCapes_stereoBRUVs_EMObs.zip",
+      "user_id": 350
+    }
+  ],
+  "id": [1146],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 160,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "800"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 175,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 36,
+      "id": 191,
+      "property": {
+        "id": 36,
+        "is_filter": false,
+        "name": "Sampling: Camera type"
+      },
+      "value": "SONY HDRA Full HD Action Cam"
+    },
+    {
+      "campaigninfoprop_id": 38,
+      "id": 196,
+      "property": {
+        "id": 38,
+        "is_filter": false,
+        "name": "Sampling: Camera separation (mm)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 37,
+      "id": 193,
+      "property": {
+        "id": 37,
+        "is_filter": false,
+        "name": "Sampling: Camera configuration"
+      },
+      "value": "Stereo"
+    },
+    {
+      "campaigninfoprop_id": 42,
+      "id": 210,
+      "property": {
+        "id": 42,
+        "is_filter": false,
+        "name": "Sampling: Frame type"
+      },
+      "value": "Steel"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 219,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "EventMeasure database output"
+    }
+  ],
+  "name": ["2019-02_NgariCapes_stereoBRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [335],
+    "is_public": [false],
+    "name": ["Ngari Capes Marine Park Monitoring"]
+  },
+  "project_id": [335],
+  "user": {
+    "email": ["jordan.goetze@dbca.wa.gov.au"],
+    "first_name": ["Marine Science Program"],
+    "id": [350],
+    "is_admin": [false],
+    "last_name": ["DBCA"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    },
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 354,
+      "is_public": false,
+      "name": "Ngari Capes BRUVs"
+    }
+  ]
+}

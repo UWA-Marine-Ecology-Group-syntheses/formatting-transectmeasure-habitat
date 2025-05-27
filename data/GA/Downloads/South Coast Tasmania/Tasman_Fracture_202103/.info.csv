@@ -1,0 +1,7 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait consistency","Mushed",FALSE
+"4","Sampling: Bait deployment","Plastic mesh bag",FALSE
+"5","Sampling: Minimum separation distance of samples (m)","200",FALSE
+"6","Sampling: Artificial lighting","White",FALSE

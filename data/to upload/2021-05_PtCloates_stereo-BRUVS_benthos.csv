@@ -1,0 +1,106 @@
+campaignid,sample,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,count
+2021-05_PtCloates_stereo-BRUVS,1,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,1,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,5
+2021-05_PtCloates_stereo-BRUVS,1,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,1,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,10
+2021-05_PtCloates_stereo-BRUVS,1,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,13
+2021-05_PtCloates_stereo-BRUVS,10,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,34
+2021-05_PtCloates_stereo-BRUVS,11,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,11,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,11,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,11,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,11,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,8
+2021-05_PtCloates_stereo-BRUVS,11,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,11,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,11,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,11
+2021-05_PtCloates_stereo-BRUVS,12,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,12,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,12,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,3
+2021-05_PtCloates_stereo-BRUVS,12,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2021-05_PtCloates_stereo-BRUVS,12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,17
+2021-05_PtCloates_stereo-BRUVS,13,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,13,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,6
+2021-05_PtCloates_stereo-BRUVS,13,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,13,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,6
+2021-05_PtCloates_stereo-BRUVS,13,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,13,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,13,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,12
+2021-05_PtCloates_stereo-BRUVS,14,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,14,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,29
+2021-05_PtCloates_stereo-BRUVS,15,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,15,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,3
+2021-05_PtCloates_stereo-BRUVS,15,Biota,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,15,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,15,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2021-05_PtCloates_stereo-BRUVS,15,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,17
+2021-05_PtCloates_stereo-BRUVS,16,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,16,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,16,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,4
+2021-05_PtCloates_stereo-BRUVS,16,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,16,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,5
+2021-05_PtCloates_stereo-BRUVS,16,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,19
+2021-05_PtCloates_stereo-BRUVS,17,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,17,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,17,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,5
+2021-05_PtCloates_stereo-BRUVS,17,Biota,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,17,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,17,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,17,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,8
+2021-05_PtCloates_stereo-BRUVS,18,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,31
+2021-05_PtCloates_stereo-BRUVS,19,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,29
+2021-05_PtCloates_stereo-BRUVS,2,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,2,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,2,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,2,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,2,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,1
+2021-05_PtCloates_stereo-BRUVS,2,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
+2021-05_PtCloates_stereo-BRUVS,21,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,21,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,21,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,21,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,4
+2021-05_PtCloates_stereo-BRUVS,21,Biota,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,21,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,9
+2021-05_PtCloates_stereo-BRUVS,22,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,22,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,6
+2021-05_PtCloates_stereo-BRUVS,22,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2021-05_PtCloates_stereo-BRUVS,22,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,17
+2021-05_PtCloates_stereo-BRUVS,23,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,23,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,26
+2021-05_PtCloates_stereo-BRUVS,25,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,25,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,25,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,1
+2021-05_PtCloates_stereo-BRUVS,25,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,25,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,25,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,24
+2021-05_PtCloates_stereo-BRUVS,26,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,26,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,9
+2021-05_PtCloates_stereo-BRUVS,27,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,6
+2021-05_PtCloates_stereo-BRUVS,27,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,5
+2021-05_PtCloates_stereo-BRUVS,27,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,27,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,27,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,4
+2021-05_PtCloates_stereo-BRUVS,27,Biota,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,27,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,9
+2021-05_PtCloates_stereo-BRUVS,3,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,3,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,3,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,6
+2021-05_PtCloates_stereo-BRUVS,3,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,3,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,3,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,6
+2021-05_PtCloates_stereo-BRUVS,4,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,4
+2021-05_PtCloates_stereo-BRUVS,4,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,4
+2021-05_PtCloates_stereo-BRUVS,4,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,4,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,4,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,3
+2021-05_PtCloates_stereo-BRUVS,4,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_PtCloates_stereo-BRUVS,4,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,8
+2021-05_PtCloates_stereo-BRUVS,5,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,1
+2021-05_PtCloates_stereo-BRUVS,5,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,28
+2021-05_PtCloates_stereo-BRUVS,6,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,6,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,6,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,25
+2021-05_PtCloates_stereo-BRUVS,7,Biota,Sessile invertebrates,,,NA,NA,NA,NA,,,,3
+2021-05_PtCloates_stereo-BRUVS,7,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,32
+2021-05_PtCloates_stereo-BRUVS,8,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,2
+2021-05_PtCloates_stereo-BRUVS,8,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,29
+2021-05_PtCloates_stereo-BRUVS,9,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,27

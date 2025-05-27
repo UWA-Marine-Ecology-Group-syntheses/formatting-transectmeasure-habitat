@@ -1,0 +1,25 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,Comments
+BB_S1_R1,-34.745569,135.899189,20220510,11:22:00,Boston Bay,Fished,Site 1,13.8,Tom Clarke,Yes,No,NA
+BB_S1_R2,-34.745539,135.903639,20220510,11:27:00,Boston Bay,Fished,Site 1,12.2,Tom Clarke,Yes,No,NA
+BB_S1_R3,-34.749159,135.899442,20220510,11:18:00,Boston Bay,Fished,Site 1,13.6,Tom Clarke,Yes,No,NA
+BB_S1_R4,-34.749101,135.90391,20220510,11:31:00,Boston Bay,Fished,Site 1,13,Tom Clarke,Yes,No,NA
+BB_S1_R5,-34.752784,135.899702,20220510,11:13:00,Boston Bay,Fished,Site 1,10.8,Tom Clarke,Yes,No,NA
+BB_S1_R6,-34.752666,135.904115,20220510,11:09:00,Boston Bay,Fished,Site 1,12.1,Tom Clarke,Yes,No,NA
+BB_S1_R7,-34.74696,135.907531,20220510,14:31:00,Boston Bay,Fished,Site 1,13.1,Tom Clarke,Yes,No,NA
+BB_S1_R8,-34.750607,135.907883,20220510,14:35:00,Boston Bay,Fished,Site 1,13.7,Tom Clarke,Yes,No,NA
+BB_S2_R1,-34.766118,135.897578,20220510,10:47:00,Boston Bay,Fished,Site 2,10,Tom Clarke,Yes,No,NA
+BB_S2_R2,-34.769848,135.897711,20220510,10:40:00,Boston Bay,Fished,Site 2,9.7,Tom Clarke,Yes,No,NA
+BB_S2_R3,-34.765866,135.901991,20220510,10:52:00,Boston Bay,Fished,Site 2,11.8,Tom Clarke,Yes,No,NA
+BB_S2_R4,-34.76952,135.90213,20220510,10:55:00,Boston Bay,Fished,Site 2,10.4,Tom Clarke,Yes,No,Poor vis
+BB_S2_R5,-34.765558,135.906402,20220510,14:40:00,Boston Bay,Fished,Site 2,12.5,Tom Clarke,Yes,No,NA
+BB_S2_R6,-34.769331,135.90653,20220510,14:44:00,Boston Bay,Fished,Site 2,11.5,Tom Clarke,Yes,No,NA
+BB_S2_R7,-34.772778,135.900302,20220510,10:35:00,Boston Bay,Fished,Site 2,10.9,Tom Clarke,Yes,No,NA
+BB_S2_R8,-34.772667,135.904726,20220510,9:52:00,Boston Bay,Fished,Site 2,11,Tom Clarke,Yes,No,Poor vis
+BB_S3_R1,-34.72514,135.894928,20220510,13:02:00,Boston Bay,Fished,Site 3,16.5,Tom Clarke,Yes,No,NA
+BB_S3_R2,-34.724529,135.899362,20220510,13:09:00,Boston Bay,Fished,Site 3,16.9,Tom Clarke,Yes,No,NA
+BB_S3_R3,-34.728724,135.895475,20220510,12:59:00,Boston Bay,Fished,Site 3,15.9,Tom Clarke,Yes,No,NA
+BB_S3_R4,-34.728209,135.899869,20220510,13:14:00,Boston Bay,Fished,Site 3,15.7,Tom Clarke,Yes,No,NA
+BB_S3_R5,-34.732358,135.896081,20220510,12:54:00,Boston Bay,Fished,Site 3,15.3,Tom Clarke,Yes,No,NA
+BB_S3_R6,-34.731879,135.900408,20220510,12:50:00,Boston Bay,Fished,Site 3,15.5,Tom Clarke,Yes,No,NA
+BB_S3_R7,-34.725865,135.903386,20220510,14:22:00,Boston Bay,Fished,Site 3,16.5,Tom Clarke,Yes,No,NA
+BB_S3_R8,-34.729508,135.903937,20220510,14:26:00,Boston Bay,Fished,Site 3,16.2,Tom Clarke,Yes,No,Poor vis for first 10 mins

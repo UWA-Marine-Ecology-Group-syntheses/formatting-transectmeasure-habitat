@@ -1,0 +1,25 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+WE01	Scott Gray	8.85		Latitude	-38.39388	Longitude	142.16432	Date	3/06/2021	Time	13:50	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE02	Scott Gray	9.8		Latitude	-38.39423	Longitude	142.1682	Date	3/06/2021	Time	9:42	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE05	Scott Gray	14.52		Latitude	-38.3972	Longitude	142.1842	Date	3/06/2021	Time	9:55	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE06	Scott Gray	11.92		Latitude	-38.39752	Longitude	142.18762	Date	3/06/2021	Time	9:59	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE07	Scott Gray	23.35		Latitude	-38.39657	Longitude	142.15625	Date	3/06/2021	Time	11:37	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE09	Scott Gray	28.56		Latitude	-38.39912	Longitude	142.15837	Date	3/06/2021	Time	11:43	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE10	Sasha Whitmarsh	23.24		Latitude	-38.39682	Longitude	142.1641	Date	3/06/2021	Time	11:46	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE11	Sasha Whitmarsh	24.09		Latitude	-38.39712	Longitude	142.16752	Date	3/06/2021	Time	11:54	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE12	Sasha Whitmarsh	28.15		Latitude	-38.39957	Longitude	142.16537	Date	3/06/2021	Time	11:51	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE13	Sasha Whitmarsh	24.04		Latitude	-38.39715	Longitude	142.17102	Date	3/06/2021	Time	11:56	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE14	Sasha Whitmarsh	24.42	No fish observed	Latitude	-38.39747	Longitude	142.1746	Date	3/06/2021	Time	11:58	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE15	Sasha Whitmarsh	28.89		Latitude	-38.40013	Longitude	142.17207	Date	3/06/2021	Time	12:02	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE16	Sasha Whitmarsh	30.68		Latitude	-38.39952	Longitude	142.17868	Date	3/06/2021	Time	13:36	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE17	Sasha Whitmarsh	29.39		Latitude	-38.39992	Longitude	142.18305	Date	3/06/2021	Time	13:48	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE18	Sasha Whitmarsh	31.67		Latitude	-38.40245	Longitude	142.18	Date	3/06/2021	Time	13:41	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE19	Sasha Whitmarsh	27.24		Latitude	-38.40073	Longitude	142.18772	Date	3/06/2021	Time	10:12	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE20	Sasha Whitmarsh	24.32		Latitude	-38.40095	Longitude	142.19203	Date	3/06/2021	Time	10:08	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef/sand
+WE21	Sasha Whitmarsh	39.49		Latitude	-38.40387	Longitude	142.18937	Date	3/06/2021	Time	14:04	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE22	Sasha Whitmarsh	29.7	On ledge	Latitude	-38.39844998	Longitude	142.1724	Date	3/06/2021	Time	9:30	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WE23	Sasha Whitmarsh	29.8	Right near generator	Latitude	-38.3983	Longitude	142.172	Date	3/06/2021	Time	11:31	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef/sand
+WE24	Sasha Whitmarsh	27.3		Latitude	-38.398283	Longitude	142.172517	Date	3/06/2021	Time	13:27	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Sand
+WE25	Sasha Whitmarsh	29.3	Near generator, vis starts off bad but improves	Latitude	-38.39814999	Longitude	142.1720833	Date	3/06/2021	Time	13:31	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	sand/reef?
+WEER1	Sasha Whitmarsh	9.7	Facing down into crack	Latitude	-38.39795	Longitude	142.19085	Date	3/06/2021	Time	10:04	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef
+WEER2	Sasha Whitmarsh	6.13	BRUV moves around in swell	Latitude	-38.39505	Longitude	142.17545	Date	3/06/2021	Time	9:50	MPAStatus	Fished	Site	Port Fairy Wave Energy	Year	2021	Spare	Reef

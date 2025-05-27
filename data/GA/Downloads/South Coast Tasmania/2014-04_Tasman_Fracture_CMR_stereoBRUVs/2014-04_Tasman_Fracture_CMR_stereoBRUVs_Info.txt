@@ -1,0 +1,95 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+131	Lainey			Lights	Yes	CATAMI_Sup	"low - Moderate relief, 70% rock covered in biota, 30% coarse sand veneer over rock"	CATAMI_biota	"Soft coral, sponge"										
+142	Lainey		underscored - couldn't really ID schooling fish in far background 	Lights	Yes	CATAMI_Sup	"Moderate - High relief, rock covered in biota"	CATAMI_biota	Soft coral dominated										
+145	Lainey			Lights	Yes	CATAMI_Sup	"Low relief, bedrock covered in biota"	CATAMI_biota	"Soft coral, sponge"										
+74	Lainey			Survey - Project	Yes	Bait Type	"Low - moderate relief, 60% coarse sand, 40% rock covered in biota"	Camera Type	"Brittle stars, soft coral"	Camera Pair		Lights		Drop Date		Bait Arm Length		Camera Hight	
+83	Lainey		Poor visibility 	Lights	Yes	CATAMI_Sup	"low relief, coarse sand veneer over bedrock"	CATAMI_biota	"sponges, soft corals, brittle stars"										
+94	Lainey			Lights	Yes	CATAMI_Sup	"Low-moderate relief, coarse sand veneer over rock"	CATAMI_biota	"Brittle stars, sponge"										
+95	Lainey			Lights	Yes	CATAMI_Sup	"Flat - Low relief, coarse sand forming 2D parallel waves"	CATAMI_biota	"not much benthic, but appears to be lots of krill in the water column "										
+130	Lainey			Lights	Yes	CATAMI_Sup	"Low relief, coarse sand/biogenic gravel forming 3D waves, with interspersed boulders "	CATAMI_biota	hard to see...sea whips?										
+144	Lainey			Lights	Yes	CATAMI_Sup	"Low relief, coarse sand veneer over rock forming 3D ripples "	CATAMI_biota	Sponge										
+146	Lainey		"I think frame has fallen backwards, facing up."	Lights	Yes	CATAMI_Sup	"Low-Moderaterelief, 60% rock covered in biota, 40% coarse sand veneer over rock"	CATAMI_biota	sponge										
+75	Lainey			Lights	Yes	CATAMI_Sup	"Low relief, rock covered in biota"	CATAMI_biota	Brittle stars										
+89	Lainey		Cam looks a little zoomed in maybe?	Lights	Yes	CATAMI_Sup	"Low relief, coarse sand forming 3D waves"	CATAMI_biota	Nil...										
+96	Lainey			Lights	Yes	CATAMI_Sup	"Low-Moderate relief, 80% coarse sand veneer over rock, 20% rock covered in biota"	CATAMI_biota	"Sponge, brittle star"										
+129	Lainey			Lights	Yes	CATAMI_Sup	"Moderate-High relief, rock covered in biota"	CATAMI_biota	Sponge										
+137	Lainey		No bait bag	Lights	Yes	CATAMI_Sup	"Moderate - High relief, rock covered in biota"	CATAMI_biota	"Soft coral,  sponge dominated"										
+143	Lainey			Lights	Yes	CATAMI_Sup	"Flat-Low relief, biogenic gravel/coarse sand forming 3D waves"	CATAMI_biota											
+81	Lainey		Bad vis	Lights	Yes	CATAMI_Sup	"High relief, rock covered in biota"	CATAMI_biota	"Sponge, sea whips"										
+85	Lainey		"Frame has fallen back, facing up into water column"	Lights	Yes	CATAMI_Sup	"Low-moderate relief, bedrock covered in biota"	CATAMI_biota	"soft corals, sponge"										
+98	Lainey		"Cam cuts out 8mins from end, nothing new observed from cam 287 during the additional  time"	Lights	Yes	CATAMI_Sup	"Moderate-high relief, bedrock covered in biota"	CATAMI_biota	"Sponge, soft coral and brittle star dominated"										
+93	Lainey		"Both cams - Video stops at ~34min (FT), using cam 287 'cause it runs slighty longer"	Lights	Yes	CATAMI_Sup	"Moderate relief, bedrock covered in biota"	CATAMI_biota	"Sponge, brittle star"										
+138	Lainey			Lights	Yes	CATAMI_Sup	"Flat - Low relief, coarse sand forming 2D parrallel waves"	CATAMI_biota											
+149	Lainey			Lights	Yes	CATAMI_Sup	"Low - High relief, 75% biogenic gravel/coarse sand veneer over bedrock, 25% rock covered in biota"	CATAMI_biota	"Sponge, "										
+80	Lainey			Lights	Yes	CATAMI_Sup	"Flat-High relief, 65% coarse sand forming 3D ripples, 35% rock covered in biota"	CATAMI_biota											
+101	Lainey		"Using cam 405, 404 is blurry/obscured"	Lights	Yes	CATAMI_Sup	"Flat-Low relief, 30% rock covered in biota, 70% sand forming 2D ripples"	CATAMI_biota	Soft corals										
+136	Lainey		Cam 404 bit out of focus/blurry - using 405	Lights	YEs	CATAMI_Sup	"Moderate - high relief, rock covered in Biota"	CATAMI_biota	"Soft coral, sponge"										
+148	Lainey		Using cam 405 - cam 404 is blurry	Lights	Yes	CATAMI_Sup	"Moderate-High relief, bedrock covered in biota"	CATAMI_biota	"Sponge, soft coral"										
+99	Lainey		Cam 404 obscured/out of focus - using 405	Lights	Yes	CATAMI_Sup	"Flat relief, coarse sand forming parallel 2D waves"	CATAMI_biota											
+132	Lainey		Frame facing towards seafloor	Lights	Yes	CATAMI_Sup	"Moderate - high relief, bedrock covered in biota"	CATAMI_biota	Sponge dominated?										
+135	Lainey			Lights	Yes	CATAMI_Sup	"Flat - moderate relief, 60% coarse sand forming 3D waves, 40% bedrock covered in biota"	CATAMI_biota	Sponge dominated										
+147	Lainey			Lights	Yes	CATAMI_Sup	"Flat - moderate relief, 40% bedrock covered in biota, 60% sand veneer over rock"	CATAMI_biota	Sponge? hard to see										
+77	Lainey			Lights	Yes	CATAMI_Sup	"Flat relief, coarse sand veneer over bedrock"	CATAMI_biota	Brittle stars										
+86	Lainey		Bad visibility	Lights	Yes	CATAMI_Sup	"Flat relief, sand forming 2D parrallel waves"	CATAMI_biota											
+91	Lainey		Bad vis	Lights	Yes	CATAMI_Sup	"Flat relief, 90% sand forming 2D parrallel waves, 10% sand veneer over rock"	CATAMI_biota	sponge										
+92	Lainey			Lights	Yes	CATAMI_Sup	"Flat relief, sand forming 3D waves"	CATAMI_biota											
+180	Lainey		"BRUV frame tilted back, no view across the reef - NO bait bag"	Lights	Yes	CATAMI_Sup	"Moderate relief, 100% bedrock covered in biota"	CATAMI_biota	Sea whips and soft bushy gorgonians										
+182	Lainey		"BRUV frame tilted forward, no view across the reef"	Lights	Yes	CATAMI_Sup	"Moderate relief (hard to tell?), 100% bedrock covered in biota"	CATAMI_biota	Sponge and soft coral										
+69	Lainey			Lights	Yes	CATAMI_Sup	"Coarse sand veneer of bedrock, covered in biota"	CATAMI_biota	"Sponge, sea whip dominated"										
+87	Lainey			Lights	Yes	CATAMI_Sup	"Flat relief, 100% coarse sand forming 2D parrallel waves"	CATAMI_biota	not much... one detached stalked ascidian										
+90	Lainey			Lights	Yes	CATAMI_Sup	"Moderate-high relief, 100% rocked covered in biota"	CATAMI_biota	"Sessile invert community, sponges, soft corals, sea whips"										
+179	Lainey		Visiability isn't great...	Lights	No	CATAMI_Sup	"Low - Moderate relief, 90% bedrock covered in biota, 10% coarse sand veneer over rock"	CATAMI_biota	"Sponge, sea whip"										
+184	Lainey		"around 10mins (7mins BT) in frame flips upside down, facing seafloor "	Lights	"Yes, but falls off"	CATAMI_Sup	"Low-moderate relief, bedrock covered in biota"	CATAMI_biota	Sponge dominated										
+67	Lainey		"No bait bag, BRUV frame is tilted forward - no view across the reef"	Lights	Yes	CATAMI_Sup	"High relief, 100% bedrock covered in biota"	CATAMI_biota	Sponge and soft coral dominated										
+79	Lainey		Very poor visibility! Cam looks a lil zoomed?	Lights	Yes	CATAMI_Sup	"Flat relief, 80% coarse sand forming 2D parallel waves, 20% coarse sand veneer over bedrock"	CATAMI_biota	"Can't see that well, sponge?"										
+178	Lainey		"Frame falls forward, facing substrate at 3.15min BT"	Lights	Yes	CATAMI_Sup	"Moderate - high relief, rock covered in biota"	CATAMI_biota	"Soft coral, sponge dominated"										
+186	Lainey		"Frame moves around a bit, view of the reef not the same throughout the drop"	Lights	Yes	CATAMI_Sup	"Low-moderate relief, 80% rock covered in biota, 20% coarse sand veneer over rock"	CATAMI_biota	"Sea whips, sponge and soft corals"										
+76	Lainey		No bait	Lights	Yes	CATAMI_Sup	"Low-moderate relief, 85% bedrock covered in biota, 15% coarse sand"	CATAMI_biota	Sponge dominated										
+88	TF_20150501_286_287_286_88			Lights	Yes	CATAMI_Sup	"Flat relief, coarse sand forming 3D waves"	CATAMI_biota											
+97	Lainey		No bait bag	Lights	Yes	CATAMI_Sup	"Low  relief, 100% coarse sand forming 3D waves"	CATAMI_biota											
+185	Lainey		"Frame tilted forward into substrate, flips over onto side at 6.11mns (BT)"	Lights	Yes	CATAMI_Sup	"Flat - high relief,  coarse sand forming 3D ripples with large outcropping rocks"	CATAMI_biota	"encursting sponge, soft coral"										
+187	Lainey			Lights	Yes	CATAMI_Sup	"Moderate-high relief, 100% bedrock covered in biota"	CATAMI_biota	"Soft corals, sea whips"										
+68	Lainey		visibility isn't great...	Lights	Yes	CATAMI_Sup	"Moderate - high relief, bedrock covered biota"	CATAMI_biota	"Sponge, soft corals? hard to see"										
+82	Lainey			Lights	Yes	CATAMI_Sup	"Low-moderate relief, 90% coarse sand forming 3D waves, 10% rock covered in biota"	CATAMI_biota	"Can't see that well, soft coral/ sponge "										
+100	Lainey		Frame tilted to the left?	Lights	Yes	CATAMI_Sup	"Low relief, bedrock covered in biota"	CATAMI_biota	"Sponge, sea whips, soft corals"										
+181	Lainey			Lights	Yes	CATAMI_Sup	"High relief, rock covered in biota"	CATAMI_biota	"soft corals, sponge dominated"										
+183	Lainey		Frame tilted forward	Lights	Yes	CATAMI_Sup	"Flat-low relief, coarse sand veneer over bedrock, forming 3D waves"	CATAMI_biota	Sponge										
+78	Lainey			Lights	Yes	CATAMI_Sup	"Low relief, 100% bedrock covered in biota"	CATAMI_biota	"Sponges, soft corals and brittle sea star dominate"										
+84	Lainey			Lights	Yes	CATAMI_Sup	"Flat relief, coarse sand forming 3D waves"	CATAMI_biota											
+5	Lainey		BRUV frame shifts backwards changing the view at ~44min (bottom time)	Lights	Yes	CATAMI_Sup	"Low-moderate relief, 60% bedrock covered in biota, 40% coarse sand veneer over bedrock"	CATAMI_biota	Sponge dominated										
+8	Lainey			Lights	Yes	CATAMI_Sup	"Moderate relief, 100% rock covered in biota"	CATAMI_biota	Sponge dominated										
+11	Jac			Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge dominated										
+17	Lainey			Lights	Yes	CATAMI_Sup	"Low relief, 100% bedrock covered in biota"	CATAMI_biota	Sponge dominated 										
+13	Lainey			Lights	Yes	CATAMI_Sup	"Looks to be on the edge of a high relief, rock covered in biota"	CATAMI_biota	Sponge and soft coral dominated										
+14	Lainey		BRUV frame looks tilted forward	Lights	Yes	CATAMI_Sup	"Low-moderate relief, 90% bedrock covered in biota 10% sand veneer"	CATAMI_biota	Sponge dominated										
+18	Lainey		"Camera looks a little zoomed, maybe??"	Lights	Yes	CATAMI_Sup	"Flat relief, 100% coarse sand 2D waves with parallel crests"	CATAMI_biota	nil 										
+X2	Lainey			Lights	No	CATAMI_Sup	"Moderate-high relief, 100% bedrock covered in biota"	CATAMI_biota	Sponge dominated										
+15	Lainey			Lights	No	CATAMI_Sup	"Flat to Moderate relief, 40% coarse sand forming 3D waves, 60% bedrock covered in biota"	CATAMI_biota	Sponge dominated 										
+16	Lainey			Lights	No	CATAMI_Sup	"Moderate-High relief, 100% bedrock covered in biota"	CATAMI_biota	"sessile inverts, predominatly sponges"										
+20	Lainey			Lights	No	CATAMI_Sup	"Flat relief, 80% bedrock covered in biota, 20% bedrock covered in sediment veneer"	CATAMI_biota	sponge dominant 										
+X1	Lainey		Using 287 'cause 286 turns off after ~29mins	Lights	Yes	CATAMI_Sup	"Flat relief, 100% thick coarse sand veneer over bedrock (presence of sponges), forming 3D waves "	CATAMI_biota	Sponge 										
+9	Lainey			Lights	Yes	CATAMI_Sup	"Low-moderate relief, 80% bedrock covered in biota, 15% sand veneer over rock"	CATAMI_biota	Sponge dominated										
+12	Lainey			Lights	Yes	CATAMI_Sup	"Flat relief, 95% coarse sand forming 3D waves, 5% bedrock covered in biota"	CATAMI_biota	Bryozoa?										
+37	Lainey			Lights	Yes	CATAMI_Sup	"~85% Flat sand with 3D waves, 15% low relief rock with biota"	CATAMI_biota	"Sessile inverts, sponge dominated "										
+2	Lainey		"Very dark, cam 405 has a slightly better view"	Lights	Yes	CATAMI_Sup	"low - moderate, 100% bedrock covered in biota"	CATAMI_biota	Sponge dominated										
+1	Lainey		Little out of focus close up	Lights	Yes	CATAMI_Sup	"Flat - Low relief, 40% bedrock covered in biota, 60% coarse sand  veneer over rock"	CATAMI_biota	Sponge dominated										
+10	Lainey			Lights	Yes	CATAMI_Sup	"Moderate-high relief, 100% bedrock covered in biota"	CATAMI_biota	Sponge dominated 										
+38	Lainey			Lights	Yes	CATAMI_Sup	"Moderate relief, consolidated bedrock covered in biota"	CATAMI_biota	"sessile inverts, sponge dominated "										
+19	Lainey		BUV frame looks tilted forward	Lights	Yes	CATAMI_Sup	"Low-moderate relief, 70% rock covered in biota, 30% coarse sand veneer over rock"	CATAMI_biota	Sponge dominated 										
+166	Jac			Lights	Yes	CATAMI_Sup	"Moderate low relief, 50% bedrock covered in biota 50% course sand"	CATAMI_biota	Sponge dominated										
+52	Jac			Lights	Yes	CATAMI_Sup	"High relief, 100% bedrock covered in biota"	CATAMI_biota	Sponge dominated										
+40	Jac			Lights	Yes	CATAMI_Sup	100% course sand (rippled)	CATAMI_biota	<10% Biogeneic										
+162	Jac			Lights	Yes	CATAMI_Sup	75% low relief reef 25% course sand (rippled)	CATAMI_biota	Sponge dominated										
+41	Jac			Lights	Yes	CATAMI_Sup	100% course sand (rippled)	CATAMI_biota											
+51	Jac			Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge and soft coral dominated										
+160	Jac			Lights	Yes	CATAMI_Sup	100% course sand (rippled)	CATAMI_biota	Bare										
+164	Jac			Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge and bryozoa dominated										
+50	Jac			Lights	Yes	CATAMI_Sup	75% high relief reef 25% course sand (rippled)	CATAMI_biota	Sponge and bryozoa dominated										
+163	Jac			Lights	Yes	CATAMI_Sup	75% coarse rippled sand 24% Low relief reef	CATAMI_biota	Bryozoan matrix and sponges										
+54	Jac			Lights	Yes	CATAMI_Sup	100% coarse rippled sand	CATAMI_biota	Bare										
+161	Jac			Lights	Yes	CATAMI_Sup	75% fine rippled sediment 25% low relief reef	CATAMI_biota	Sponge dominated										
+165	Jac			Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge & cnidarian dominated										
+49	Jac		Landed on side	Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge and cnidaria dominated										
+53	Jac		Landed upside down	Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge and cnidaria dominated										
+42	Jac			Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge & cnidarian dominated										
+55	Jac			Lights	Yes	CATAMI_Sup	100% high relief reef	CATAMI_biota	Sponge & cnidarian dominated										

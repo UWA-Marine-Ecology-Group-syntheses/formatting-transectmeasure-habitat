@@ -1,0 +1,351 @@
+{
+  "created_at": ["2017-12-05T05:38:44.013455"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [60],
+  "description": ["Stereo-BRUV sampling of Flinders CMR undertaken by IMAS researchers as a part of NERP. Sample design was based on a two stage GRTS approach"],
+  "files": [
+    {
+      "id": 9364,
+      "iscompressed": true,
+      "name": "2012-8_Flinders_CMR_2012_stereoBRUVs_Metadata.csv",
+      "user_id": 5
+    },
+    {
+      "id": 5041,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_stereoBRUVs_Info.txt",
+      "user_id": 5
+    },
+    {
+      "id": 5043,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_stereoBRUVs_MovieSeq.txt",
+      "user_id": 5
+    },
+    {
+      "id": 5044,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_stereoBRUVs_Period.txt",
+      "user_id": 5
+    },
+    {
+      "id": 5046,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_stereoBRUVs_Source.txt",
+      "user_id": 5
+    },
+    {
+      "id": 5047,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_stereoBRUVs_3DPoints.txt",
+      "user_id": 5
+    },
+    {
+      "id": 5048,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_stereoBRUVs_Camera.txt",
+      "user_id": 5
+    },
+    {
+      "id": 5049,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_stereoBRUVs_ImagePtPair.txt",
+      "user_id": 5
+    },
+    {
+      "id": 5050,
+      "iscompressed": true,
+      "name": "2012-08_Flinders_CMR_ Habitat_Dot Point Measurements.txt",
+      "user_id": 5
+    },
+    {
+      "id": 9149,
+      "iscompressed": true,
+      "name": "2012-8_Flinders_CMR_2012_stereoBRUVs_Lengths.txt",
+      "user_id": 5
+    },
+    {
+      "id": 9150,
+      "iscompressed": true,
+      "name": "2012-8_Flinders_CMR_2012_stereoBRUVs_Points.txt",
+      "user_id": 5
+    }
+  ],
+  "id": [550],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 160,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "800"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 174,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "250"
+    },
+    {
+      "campaigninfoprop_id": 36,
+      "id": 183,
+      "property": {
+        "id": 36,
+        "is_filter": false,
+        "name": "Sampling: Camera type"
+      },
+      "value": "Canon Legria HFG25"
+    },
+    {
+      "campaigninfoprop_id": 37,
+      "id": 193,
+      "property": {
+        "id": 37,
+        "is_filter": false,
+        "name": "Sampling: Camera configuration"
+      },
+      "value": "Stereo"
+    },
+    {
+      "campaigninfoprop_id": 38,
+      "id": 197,
+      "property": {
+        "id": 38,
+        "is_filter": false,
+        "name": "Sampling: Camera separation (mm)"
+      },
+      "value": "700"
+    },
+    {
+      "campaigninfoprop_id": 39,
+      "id": 202,
+      "property": {
+        "id": 39,
+        "is_filter": false,
+        "name": "Sampling: Camera incidence angle (degrees)"
+      },
+      "value": "8"
+    },
+    {
+      "campaigninfoprop_id": 40,
+      "id": 205,
+      "property": {
+        "id": 40,
+        "is_filter": false,
+        "name": "Sampling: Camera height above benthos (mm)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 41,
+      "id": 207,
+      "property": {
+        "id": 41,
+        "is_filter": false,
+        "name": "Sampling: Bait arm length (m)"
+      },
+      "value": "1.5"
+    },
+    {
+      "campaigninfoprop_id": 42,
+      "id": 210,
+      "property": {
+        "id": 42,
+        "is_filter": false,
+        "name": "Sampling: Frame type"
+      },
+      "value": "Steel"
+    },
+    {
+      "campaigninfoprop_id": 43,
+      "id": 213,
+      "property": {
+        "id": 43,
+        "is_filter": false,
+        "name": "Sampling: Artificial lighting"
+      },
+      "value": "Blue"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 219,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "EventMeasure database output"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 221,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "EventMeasure-stereo"
+    },
+    {
+      "campaigninfoprop_id": 46,
+      "id": 229,
+      "property": {
+        "id": 46,
+        "is_filter": false,
+        "name": "Annotation: Taxa that have been ID'd"
+      },
+      "value": "All fauna"
+    },
+    {
+      "campaigninfoprop_id": 47,
+      "id": 233,
+      "property": {
+        "id": 47,
+        "is_filter": false,
+        "name": "Annotation: Taxonomic resolution"
+      },
+      "value": "All taxa identified to the lowest possible taxonomic level"
+    },
+    {
+      "campaigninfoprop_id": 48,
+      "id": 238,
+      "property": {
+        "id": 48,
+        "is_filter": false,
+        "name": "Annotation: Observer/Anotator experience (>years)"
+      },
+      "value": "3"
+    },
+    {
+      "campaigninfoprop_id": 49,
+      "id": 251,
+      "property": {
+        "id": 49,
+        "is_filter": false,
+        "name": "Annotation: Observation/Annotation checked by expert"
+      },
+      "value": "Yes"
+    },
+    {
+      "campaigninfoprop_id": 50,
+      "id": 253,
+      "property": {
+        "id": 50,
+        "is_filter": true,
+        "name": "Annotation: Lengths measured for"
+      },
+      "value": "Selected target fish"
+    },
+    {
+      "campaigninfoprop_id": 54,
+      "id": 271,
+      "property": {
+        "id": 54,
+        "is_filter": true,
+        "name": "Annotation: Habitat information in the study area"
+      },
+      "value": "Multibeam and predictive habtiat map"
+    },
+    {
+      "campaigninfoprop_id": 55,
+      "id": 276,
+      "property": {
+        "id": 55,
+        "is_filter": true,
+        "name": "Annotation: Habitat information from each sample"
+      },
+      "value": "Cover of benthos and score of complexity"
+    },
+    {
+      "campaigninfoprop_id": 56,
+      "id": 280,
+      "property": {
+        "id": 56,
+        "is_filter": false,
+        "name": "Annotation: Habitat information from each sample annotated as"
+      },
+      "value": "Point score"
+    },
+    {
+      "campaigninfoprop_id": 57,
+      "id": 283,
+      "property": {
+        "id": 57,
+        "is_filter": false,
+        "name": "Annotation: .EMObs uploaded as .zip"
+      },
+      "value": "Yes"
+    }
+  ],
+  "name": ["2012-08_Flinders_CMR_BRUV"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [132],
+    "is_public": [true],
+    "name": ["Flinders CMR"]
+  },
+  "project_id": [132],
+  "user": {
+    "email": ["jacquomo.monk@utas.edu.au"],
+    "first_name": ["Jacquomo"],
+    "id": [5],
+    "is_admin": [false],
+    "last_name": ["Monk"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

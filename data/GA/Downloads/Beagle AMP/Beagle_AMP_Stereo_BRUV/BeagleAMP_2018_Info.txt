@@ -1,0 +1,126 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+01	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+02	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+03	Justin H			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+04	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+06	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+07	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+08	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+09	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+10	Justin		Right Cam Blurry	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+100	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+101	Justin		Seal at Start of video, lights off at 55min	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+102	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+103	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+104	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+105	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+107	Justin		Facing Up	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+108	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+109	Name		Scored Right Cam	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+11	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+110	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+111	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+112	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+113	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+114	Justin		828 Failed, One Cam only	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+115	Justin		287 7min BT, 282 25min BT	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+116	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+117	Justin		828 Failed, One Cam Only, Lights turn off at 40min	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+12	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+120	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+121	Justin		scored 283, 282 Stoped after 30min	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+122	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+123	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+124	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+125	Justin		406 Only	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+127	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+128	Justin		Facing Up	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+129	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+13	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+130	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+131	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+132	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+134	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+135	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+136	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+137	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+138	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+139	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+14	Justin		283 Only, 58min BT only	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+140	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+141	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+142	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+143	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+144	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+145	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+147	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+149	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+15	Justin		John Dory!!	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+16	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+18	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+21	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+22	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+23	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+24	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+25	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+26	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+28	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+29	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+30	Justin		Measure Jackass at around 56.5min BT	Lights	Blue	Substrate CATAMI		Biota CATAMI			Magpie Perch after 1 hour Bottom time 								
+31	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+32	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+34	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+35	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+36	Justin		only 57:30 botom time	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+37	Justin		Sea Pen drifting past at 38min	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+38	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+39	Name		Video becomes too Dark around 49min Bottom time 	Lights	No lights	Substrate CATAMI		Biota CATAMI											
+40	Justin		Pulled at 47:30 bottom time	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+41	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+42	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+43	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+44	Justin		Facing Down	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+46	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+47	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+48	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+49	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+50	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+51	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+52	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+53	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+55	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+56	Justin		827 Only	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+57	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+59	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+60	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+61	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+62	Justin		287 stops after 44 min Bt	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+64	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+65	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+66	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+67	Name		Light turn off at 40min	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+68	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+71	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+72	Justin		BRUV pulled at 59min BT	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+73	Justin		Light turns off at 51min, Pulled at 56min	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+75	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+76	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+77	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+78	Justin		Light off at 36min BT, very dark @ 59min 	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+79	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+80	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+82	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+84	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+85	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+87	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+88	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+89	Name		lights turn off at 42min Bt, BRUV pulled at 57.5min BT	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+90	Name		287 Scored , 286 stoped	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+91	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+92	Justin		Scored 283, 282 Stops	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+93	Justin		scored 287, 286 blury	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+94	Justin			Lights	Blue	Substrate CATAMI		Biota CATAMI											
+95	Justin		407 only, 406 failed, BRUV pulled at 58.30 BT	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+96	Justin		light turns off at 33.5min, 57min very dark	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+97	Justin		Droughtboard sharks mating	Lights	Blue	Substrate CATAMI		Biota CATAMI											
+98	Name			Lights	Blue	Substrate CATAMI		Biota CATAMI											

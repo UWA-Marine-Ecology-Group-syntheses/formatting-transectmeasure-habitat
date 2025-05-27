@@ -1,0 +1,541 @@
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	CATAMI_L1	CATAMI_L2	CATAMI_L3	CATAMI_L4	CATAMI_L5	CATAMI_L6	Description [Code]	CATAMI Sp Code	Radius %
+Inside_1_15_Pilchard_left.avi	10035	337.1333	136	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			100
+Inside_1_15_Pilchard_left.avi	10035	337.1333	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300902			89.8
+Inside_1_15_Pilchard_left.avi	10035	337.1333	675	193	23/05/2017												Macroalgae	Encrusting	Red	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			89.8
+Inside_1_15_Pilchard_left.avi	10035	337.1333	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_1_15_Pilchard_left.avi	10035	337.1333	136	576	23/05/2017												Open Water			Open					64.3
+Inside_1_15_Pilchard_left.avi	10035	337.1333	405	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	3. Good relief structure with some overhangs. >45 substrate slope	80300902			46.9
+Inside_1_15_Pilchard_left.avi	10035	337.1333	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	3. Good relief structure with some overhangs. >45 substrate slope	80300902			46.9
+Inside_1_15_Pilchard_left.avi	10035	337.1333	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_1_15_Pilchard_left.avi	10035	337.1333	136	960	23/05/2017												Open Water			Open					46.6
+Inside_1_15_Pilchard_left.avi	10035	337.1333	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	3. Good relief structure with some overhangs. >45 substrate slope	80300902			15.5
+Inside_1_15_Pilchard_left.avi	10035	337.1333	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			15.5
+Inside_1_15_Pilchard_left.avi	10035	337.1333	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_1_15_Pilchard_left.avi	10035	337.1333	136	1344	23/05/2017												Open Water			Open					64.3
+Inside_1_15_Pilchard_left.avi	10035	337.1333	405	1344	23/05/2017												Open Water			Open					46.9
+Inside_1_15_Pilchard_left.avi	10035	337.1333	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_1_15_Pilchard_left.avi	10035	337.1333	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_1_15_Pilchard_left.avi	10035	337.1333	136	1727	23/05/2017												Open Water			Open					100
+Inside_1_15_Pilchard_left.avi	10035	337.1333	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_1_15_Pilchard_left.avi	10035	337.1333	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_1_15_Pilchard_left.avi	10035	337.1333	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	136	193	23/05/2017												Invertebrate Complex	Complex 1		Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"				100
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	405	193	23/05/2017												Invertebrate Complex	Complex 1		Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"				89.8
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	"5. Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope"	80300902			89.8
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	136	576	23/05/2017												Invertebrate Complex	Complex 1		Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"				64.3
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	405	576	23/05/2017												Invertebrate Complex	Complex 1		Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"				46.9
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	675	576	23/05/2017												Macroalgae	Encrusting	Red	Open	"5. Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope"	80300929			46.9
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	136	960	23/05/2017												Macroalgae	Encrusting	Red	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			46.6
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	405	960	23/05/2017												Macroalgae	Encrusting	Red	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			15.5
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			15.5
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	136	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_3_15_Pilchard_right.avi	11082	4520.2313	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_1_25_pilchards_left.avi	21632	534.726	136	193	23/05/2017												Open Water			Open					100
+Inside_1_25_pilchards_left.avi	21632	534.726	405	193	23/05/2017												Open Water			Open					89.8
+Inside_1_25_pilchards_left.avi	21632	534.726	675	193	23/05/2017												Sponges	Erect forms	Branching	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	10000915			89.8
+Inside_1_25_pilchards_left.avi	21632	534.726	944	193	23/05/2017												Sponges	Erect forms	Branching	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			100
+Inside_1_25_pilchards_left.avi	21632	534.726	136	576	23/05/2017												Open Water			Open					64.3
+Inside_1_25_pilchards_left.avi	21632	534.726	405	576	23/05/2017												Open Water			Open					46.9
+Inside_1_25_pilchards_left.avi	21632	534.726	675	576	23/05/2017												Open Water			Open					46.9
+Inside_1_25_pilchards_left.avi	21632	534.726	944	576	23/05/2017												Sponges	Erect forms	Branching	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			64.3
+Inside_1_25_pilchards_left.avi	21632	534.726	136	960	23/05/2017												Open Water			Open					46.6
+Inside_1_25_pilchards_left.avi	21632	534.726	405	960	23/05/2017												Open Water			Open					15.5
+Inside_1_25_pilchards_left.avi	21632	534.726	675	960	23/05/2017												Open Water			Open					15.5
+Inside_1_25_pilchards_left.avi	21632	534.726	944	960	23/05/2017												Sponges	Erect forms	Branching	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			46.6
+Inside_1_25_pilchards_left.avi	21632	534.726	136	1344	23/05/2017												Open Water			Open					64.3
+Inside_1_25_pilchards_left.avi	21632	534.726	405	1344	23/05/2017												Open Water			Open					46.9
+Inside_1_25_pilchards_left.avi	21632	534.726	675	1344	23/05/2017												Open Water			Open					46.9
+Inside_1_25_pilchards_left.avi	21632	534.726	944	1344	23/05/2017												Sponges	Erect forms	Branching	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			64.3
+Inside_1_25_pilchards_left.avi	21632	534.726	136	1727	23/05/2017												Open Water			Open					100
+Inside_1_25_pilchards_left.avi	21632	534.726	405	1727	23/05/2017												Open Water			Open					89.8
+Inside_1_25_pilchards_left.avi	21632	534.726	675	1727	23/05/2017												Open Water			Open					89.8
+Inside_1_25_pilchards_left.avi	21632	534.726	944	1727	23/05/2017												Sponges	Erect forms	Branching	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			100
+Inside_1_5_Pilchards_left.avi	13341	77.454	136	193	23/05/2017												Open Water			Open					100
+Inside_1_5_Pilchards_left.avi	13341	77.454	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_1_5_Pilchards_left.avi	13341	77.454	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_1_5_Pilchards_left.avi	13341	77.454	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_1_5_Pilchards_left.avi	13341	77.454	136	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_1_5_Pilchards_left.avi	13341	77.454	405	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_1_5_Pilchards_left.avi	13341	77.454	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_1_5_Pilchards_left.avi	13341	77.454	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_1_5_Pilchards_left.avi	13341	77.454	136	960	23/05/2017												Open Water			Open					46.6
+Inside_1_5_Pilchards_left.avi	13341	77.454	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_1_5_Pilchards_left.avi	13341	77.454	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_1_5_Pilchards_left.avi	13341	77.454	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_1_5_Pilchards_left.avi	13341	77.454	136	1344	23/05/2017												Open Water			Open					64.3
+Inside_1_5_Pilchards_left.avi	13341	77.454	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_1_5_Pilchards_left.avi	13341	77.454	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_1_5_Pilchards_left.avi	13341	77.454	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_1_5_Pilchards_left.avi	13341	77.454	136	1727	23/05/2017												Open Water			Open					100
+Inside_1_5_Pilchards_left.avi	13341	77.454	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_1_5_Pilchards_left.avi	13341	77.454	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_1_5_Pilchards_left.avi	13341	77.454	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	136	193	23/05/2017												Open Water			Open					100
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			89.8
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300902			89.8
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300902			100
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	136	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	405	576	23/05/2017												Macroalgae	Erect fine branching	Red	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	90300910			46.9
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300902			46.9
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	944	576	23/05/2017												Macroalgae	Erect fine branching	Red	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	90300910			64.3
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	136	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	"5. Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope"	80300902			15.5
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	675	960	23/05/2017												Macroalgae	Encrusting	Red	Open	"5. Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope"	80300929			15.5
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	944	960	23/05/2017												Macroalgae	Encrusting	Red	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			46.6
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	136	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	405	1344	23/05/2017												Macroalgae	Encrusting	Red	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			46.9
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	675	1344	23/05/2017												Macroalgae	Encrusting	Red	Open	"5. Exceptional structural complexity, numerous large holes and caves. Vertical wall. ~90 substrate slope"	80300929			46.9
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	944	1344	23/05/2017												Macroalgae	Encrusting	Red	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			64.3
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	675	1727	23/05/2017												Macroalgae	Encrusting	Red	Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			89.8
+Inside_2_15_Pilchards_Right.avi	27422	1033.6973	944	1727	23/05/2017												Macroalgae	Encrusting	Red	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	80300929			100
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	136	193	23/05/2017												Open Water			Open					100
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	405	193	23/05/2017												Open Water			Open					89.8
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			89.8
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			100
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	136	576	23/05/2017												Open Water			Open					64.3
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	405	576	23/05/2017												Open Water			Open					46.9
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	80300902			46.9
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	944	576	23/05/2017												Macroalgae	Erect fine branching	Red	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	90300910			64.3
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	136	960	23/05/2017												Open Water			Open					46.6
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	405	960	23/05/2017												Open Water			Open					15.5
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	675	960	23/05/2017												Macroalgae	Erect fine branching	Red	Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	90300910			15.5
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	944	960	23/05/2017												Macroalgae	Erect fine branching	Red	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	90300910			46.6
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	136	1344	23/05/2017												Open Water			Open					64.3
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			46.9
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			46.9
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			64.3
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	136	1727	23/05/2017												Open Water			Open					100
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			89.8
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_2_25_Pilchards_left.avi	17495	1236.9787	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	136	193	23/05/2017												Open Water			Open					100
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	136	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	405	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	136	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	136	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_2_5_Pilchards_Left.avi	22561	786.6607	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	136	193	23/05/2017												Open Water			Open					100
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	136	576	23/05/2017												Open Water			Open					64.3
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	405	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	136	960	23/05/2017												Open Water			Open					46.6
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	136	1344	23/05/2017												Open Water			Open					64.3
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	136	1727	23/05/2017												Open Water			Open					100
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_15_Pilchards_left.avi	11538	1693.8873	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	136	193	23/05/2017												Open Water			Open					100
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	405	193	23/05/2017												Open Water			Open					89.8
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	675	193	23/05/2017												Unknown			Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				89.8
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			100
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	136	576	23/05/2017												Open Water			Open					64.3
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	405	576	23/05/2017												Open Water			Open					46.9
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	675	576	23/05/2017												Unknown			Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				46.9
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	944	576	23/05/2017												Sponges	Small Multi Form <10cm		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			64.3
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	136	960	23/05/2017												Open Water			Open					46.6
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	405	960	23/05/2017												Open Water			Open					15.5
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	675	960	23/05/2017												Sponges	Large Multi Form >10cm		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			15.5
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	944	960	23/05/2017												Sponges	Large Multi Form >10cm		Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			46.6
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	136	1344	23/05/2017												Open Water			Open					64.3
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	405	1344	23/05/2017												Open Water			Open					46.9
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			46.9
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	944	1344	23/05/2017												Sponges	Small Multi Form <10cm		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			64.3
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	136	1727	23/05/2017												Open Water			Open					100
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	405	1727	23/05/2017												Open Water			Open					89.8
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	675	1727	23/05/2017												Unknown			Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				89.8
+Inside_3_25_Pilchards_left.avi	12782	2034.9987	944	1727	23/05/2017												Macroalgae	Erect fine branching	Red	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	90300910			100
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	136	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	136	576	23/05/2017												Open Water			Open					64.3
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	405	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	136	960	23/05/2017												Open Water			Open					46.6
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	136	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	136	1727	23/05/2017												Open Water			Open					100
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_3_5_Pilchards_left.avi	14602	1477.0933	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	136	193	23/05/2017																				100
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	405	193	23/05/2017																				89.8
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	675	193	23/05/2017																				89.8
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	944	193	23/05/2017																				100
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	136	576	23/05/2017																				64.3
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	405	576	23/05/2017																				46.9
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	675	576	23/05/2017																				46.9
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	944	576	23/05/2017																				64.3
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	136	960	23/05/2017																				46.6
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	405	960	23/05/2017																				15.5
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	675	960	23/05/2017																				15.5
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	944	960	23/05/2017																				46.6
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	136	1344	23/05/2017																				64.3
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	405	1344	23/05/2017																				46.9
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	675	1344	23/05/2017																				46.9
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	944	1344	23/05/2017																				64.3
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	136	1727	23/05/2017																				100
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	405	1727	23/05/2017																				89.8
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	675	1727	23/05/2017																				89.8
+Inside_3_5_Pilchards_left.avi	20818	1481.2373	944	1727	23/05/2017																				100
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	136	193	23/05/2017												Open Water			Open					100
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	944	193	23/05/2017												Macroalgae	Erect fine branching	Red	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	90300910			100
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	136	576	23/05/2017												Open Water			Open					64.3
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	405	576	23/05/2017												Open Water			Open					46.9
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			64.3
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	136	960	23/05/2017												Open Water			Open					46.6
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	944	960	23/05/2017												Unknown			Limited	Unknown				46.6
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	136	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_15_Pilchards_left.avi	7571	2430.4713	944	1727	23/05/2017												Macroalgae	Erect fine branching	Red	Limited	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	90300910			100
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	136	193	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			100
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	405	193	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			89.8
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	675	193	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			89.8
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	944	193	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			100
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	136	576	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			64.3
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	405	576	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			46.9
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	675	576	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			46.9
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	944	576	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			64.3
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	136	960	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			46.6
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	405	960	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			15.5
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	675	960	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			15.5
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	944	960	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			46.6
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	136	1344	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			64.3
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	405	1344	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			46.9
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	675	1344	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			46.9
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	944	1344	23/05/2017												Sponges	Erect forms	Branching	Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	10000915			64.3
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	136	1727	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			100
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	405	1727	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			89.8
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	675	1727	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Facing Down	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			89.8
+Inside_4_25_Pilchards_left.avi	23467	2673.4407	944	1727	23/05/2017												Sponges	Massive forms	Simple	Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	10000904			100
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	136	193	23/05/2017												Open Water			Open					100
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	405	193	23/05/2017												Open Water			Open					89.8
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	136	576	23/05/2017												Open Water			Open					64.3
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	405	576	23/05/2017												Open Water			Open					46.9
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	136	960	23/05/2017												Open Water			Open					46.6
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	405	960	23/05/2017												Open Water			Open					15.5
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	136	1344	23/05/2017												Open Water			Open					64.3
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	405	1344	23/05/2017												Open Water			Open					46.9
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	136	1727	23/05/2017												Open Water			Open					100
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	405	1727	23/05/2017												Open Water			Open					89.8
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_5_Pilchards_Left (2).avi	6375	2277.8273	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	136	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	136	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	405	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	136	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	136	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Inside_4_5_Pilchards_Left (2).avi	17040	2284.9373	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	136	193	23/05/2017												Open Water			Open					100
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	136	576	23/05/2017												Open Water			Open					64.3
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	405	576	23/05/2017												Open Water			Open					46.9
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	136	960	23/05/2017												Open Water			Open					46.6
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	405	960	23/05/2017												Open Water			Open					15.5
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	136	1344	23/05/2017												Open Water			Open					64.3
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_1_15_Pilchards_left.avi	5644	3144.3693	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	136	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	136	576	23/05/2017												Open Water			Open					64.3
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	405	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	136	960	23/05/2017												Open Water			Open					46.6
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	405	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	136	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			64.3
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			46.9
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			100
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			89.8
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			89.8
+Outside_1_5_Pilchards_left.avi	28545	2932.2347	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	136	193	23/05/2017												Open Water			Open					100
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	405	193	23/05/2017												Open Water			Open					89.8
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	675	193	23/05/2017												Open Water			Open					89.8
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	944	193	23/05/2017												Open Water			Open					100
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	136	576	23/05/2017												Open Water			Open					64.3
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	405	576	23/05/2017												Open Water			Open					46.9
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	675	576	23/05/2017												Open Water			Open					46.9
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	944	576	23/05/2017												Open Water			Open					64.3
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	136	960	23/05/2017												Open Water			Open					46.6
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	405	960	23/05/2017												Open Water			Open					15.5
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	675	960	23/05/2017												Open Water			Open					15.5
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	944	960	23/05/2017												Open Water			Open					46.6
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	136	1344	23/05/2017												Open Water			Open					64.3
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	405	1344	23/05/2017												Open Water			Open					46.9
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	675	1344	23/05/2017												Open Water			Open					46.9
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	944	1344	23/05/2017												Open Water			Open					64.3
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	136	1727	23/05/2017												Open Water			Open					100
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	405	1727	23/05/2017												Open Water			Open					89.8
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	675	1727	23/05/2017												Open Water			Open					89.8
+Outside_2_15_Pilchards_left(1).avi	8079	3781.458	944	1727	23/05/2017												Open Water			Open					100
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	136	193	23/05/2017												Sponges	Erect forms	Branching	Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			100
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	405	193	23/05/2017												Sponges	Small Multi Form <10cm		Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			89.8
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	675	193	23/05/2017												Sponges	Small Multi Form <10cm		Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			89.8
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	944	193	23/05/2017												Invertebrate Complex	Complex 1		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				100
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	136	576	23/05/2017												Sponges	Erect forms	Branching	Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			64.3
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	405	576	23/05/2017												Sponges	Erect forms	Branching	Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			46.9
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	675	576	23/05/2017												Macroalgae	Erect fine branching	Red	Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	90300910			46.9
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	944	576	23/05/2017												Invertebrate Complex	Complex 2		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				64.3
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	136	960	23/05/2017												Sponges	Erect forms	Branching	Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			46.6
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	405	960	23/05/2017												Sponges	Large Multi Form >10cm		Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			15.5
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	675	960	23/05/2017												Sponges	Small Multi Form <10cm		Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			15.5
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	944	960	23/05/2017												Invertebrate Complex	Complex 1		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				46.6
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	136	1344	23/05/2017												Sponges	Hollow forms	Tubes and Chimneys	Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000911			64.3
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	405	1344	23/05/2017												Sponges	Erect forms	Branching	Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			46.9
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	675	1344	23/05/2017												Invertebrate Complex	Complex 2		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				46.9
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	944	1344	23/05/2017												Invertebrate Complex	Complex 2		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				64.3
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	136	1727	23/05/2017												Sponges	Large Multi Form >10cm		Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			100
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	405	1727	23/05/2017												Sponges	Large Multi Form >10cm		Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			89.8
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	675	1727	23/05/2017												Sponges	Large Multi Form >10cm		Facing Down	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			89.8
+Outside_2_25_Pilchards_left.avi	77080	4052.3467	944	1727	23/05/2017												Invertebrate Complex	Complex 2		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				100
+Outside_2_5_Pilchards_left.avi	17905	3627.358	136	193	23/05/2017												Open Water			Open					100
+Outside_2_5_Pilchards_left.avi	17905	3627.358	405	193	23/05/2017												Open Water			Open					89.8
+Outside_2_5_Pilchards_left.avi	17905	3627.358	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_2_5_Pilchards_left.avi	17905	3627.358	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_2_5_Pilchards_left.avi	17905	3627.358	136	576	23/05/2017												Open Water			Open					64.3
+Outside_2_5_Pilchards_left.avi	17905	3627.358	405	576	23/05/2017												Open Water			Open					46.9
+Outside_2_5_Pilchards_left.avi	17905	3627.358	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_2_5_Pilchards_left.avi	17905	3627.358	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_2_5_Pilchards_left.avi	17905	3627.358	136	960	23/05/2017												Open Water			Open					46.6
+Outside_2_5_Pilchards_left.avi	17905	3627.358	405	960	23/05/2017												Open Water			Open					15.5
+Outside_2_5_Pilchards_left.avi	17905	3627.358	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Outside_2_5_Pilchards_left.avi	17905	3627.358	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Outside_2_5_Pilchards_left.avi	17905	3627.358	136	1344	23/05/2017												Open Water			Open					64.3
+Outside_2_5_Pilchards_left.avi	17905	3627.358	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_2_5_Pilchards_left.avi	17905	3627.358	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_2_5_Pilchards_left.avi	17905	3627.358	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_2_5_Pilchards_left.avi	17905	3627.358	136	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_2_5_Pilchards_left.avi	17905	3627.358	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_2_5_Pilchards_left.avi	17905	3627.358	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_2_5_Pilchards_left.avi	17905	3627.358	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	136	193	23/05/2017												Open Water			Open					100
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	405	193	23/05/2017												Sponges	Erect forms	Branching	Open	3. Good relief structure with some overhangs. >45 substrate slope	10000915			89.8
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	675	193	23/05/2017												Sponges	Erect forms	Branching	Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000915			89.8
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	944	193	23/05/2017												Sponges	Small Multi Form <10cm		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			100
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	136	576	23/05/2017												Open Water			Open					64.3
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	405	576	23/05/2017												Open Water			Open					46.9
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	675	576	23/05/2017												Sponges	Erect forms	Branching	Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	10000915			46.9
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	944	576	23/05/2017												Sponges	Small Multi Form <10cm		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			64.3
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	136	960	23/05/2017												Open Water			Open					46.6
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	405	960	23/05/2017												Open Water			Open					15.5
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	675	960	23/05/2017												Sponges	Large Multi Form >10cm		Limited	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	10000000			15.5
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	944	960	23/05/2017												Sponges	Large Multi Form >10cm		Limited	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	10000000			46.6
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	136	1344	23/05/2017												Unknown			Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"				64.3
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	405	1344	23/05/2017												Sponges	Erect forms	Branching	Open	3. Good relief structure with some overhangs. >45 substrate slope	10000915			46.9
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	675	1344	23/05/2017												Sponges	Large Multi Form >10cm		Limited	3. Good relief structure with some overhangs. >45 substrate slope	10000000			46.9
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	944	1344	23/05/2017												Invertebrate Complex	Complex 2		Limited	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope				64.3
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	136	1727	23/05/2017												Sponges	Large Multi Form >10cm		Open	3. Good relief structure with some overhangs. >45 substrate slope	10000000			100
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	405	1727	23/05/2017												Invertebrate Complex	Complex 5		Open	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"				89.8
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	675	1727	23/05/2017												Octocoral/Black	Branching (3D)		Open	3. Good relief structure with some overhangs. >45 substrate slope	11168902			89.8
+Outside_3_25_Pilchards_left.avi	3533	4745.9993	944	1727	23/05/2017												Sponges	Erect forms	Branching	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	10000915			100
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	136	193	23/05/2017												Open Water			Open					100
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	405	193	23/05/2017												Open Water			Open					89.8
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	136	576	23/05/2017												Open Water			Open					64.3
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	405	576	23/05/2017												Open Water			Open					46.9
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	675	576	23/05/2017												Open Water			Open					46.9
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	136	960	23/05/2017												Open Water			Open					46.6
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	405	960	23/05/2017												Open Water			Open					15.5
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	675	960	23/05/2017												Open Water			Open					15.5
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	136	1344	23/05/2017												Open Water			Open					64.3
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	405	1344	23/05/2017												Open Water			Open					46.9
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	675	1344	23/05/2017												Open Water			Open					46.9
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	136	1727	23/05/2017												Open Water			Open					100
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_3_5_Pilchards_right.avi	13567	4313.7847	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	136	193	23/05/2017												Open Water			Open					100
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	405	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	675	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	944	193	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	136	576	23/05/2017												Open Water			Open					64.3
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	405	576	23/05/2017												Open Water			Open					46.9
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	Unknown	80300902			46.9
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	136	960	23/05/2017												Open Water			Open					46.6
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	405	960	23/05/2017												Open Water			Open					15.5
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	675	960	23/05/2017												Open Water			Open					15.5
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	136	1344	23/05/2017												Open Water			Open					64.3
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	405	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	675	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	136	1727	23/05/2017												Open Water			Open					100
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	405	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	675	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			89.8
+Outside_4_15_Pilchards_left.avi	38946	5247.1547	944	1727	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			100
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	136	193	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	3. Good relief structure with some overhangs. >45 substrate slope	10000902			100
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	405	193	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	3. Good relief structure with some overhangs. >45 substrate slope	10000902			89.8
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	675	193	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	3. Good relief structure with some overhangs. >45 substrate slope	10000902			89.8
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	944	193	23/05/2017												Sponges	Crusts	Encrusting	Limited	3. Good relief structure with some overhangs. >45 substrate slope	10000902			100
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	136	576	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	3. Good relief structure with some overhangs. >45 substrate slope	10000902			64.3
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	405	576	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	3. Good relief structure with some overhangs. >45 substrate slope	10000902			46.9
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	675	576	23/05/2017												Sponges	Crusts	Encrusting	Limited	3. Good relief structure with some overhangs. >45 substrate slope	10000902			46.9
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	944	576	23/05/2017												Sponges	Crusts	Encrusting	Limited	3. Good relief structure with some overhangs. >45 substrate slope	10000902			64.3
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	136	960	23/05/2017												Zoanthids			Facing Up	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	11284000			46.6
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	405	960	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	10000902			15.5
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	675	960	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	10000902			15.5
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	944	960	23/05/2017												Sponges	Crusts	Encrusting	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	10000902			46.6
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	136	1344	23/05/2017												Invertebrate Complex	Complex 2		Facing Up	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"				64.3
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	405	1344	23/05/2017												Sponges	Crusts	Encrusting	Facing Up	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	10000902			46.9
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	675	1344	23/05/2017												Zoanthids			Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	11284000			46.9
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	944	1344	23/05/2017												Sponges	Crusts	Encrusting	Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	10000902			64.3
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	136	1727	23/05/2017												Zoanthids			Facing Up	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	11284000			100
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	405	1727	23/05/2017												Zoanthids			Facing Up	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	11284000			89.8
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	675	1727	23/05/2017												Zoanthids			Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	11284000			89.8
+Outside_4_25_Pilchards_left.avi	29096	5453.1327	944	1727	23/05/2017												Zoanthids			Limited	"4. High structural complexity, fissures and caves. Vertical wall. ~90 substrate slope"	11284000			100
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	136	193	23/05/2017												Open Water			Open					100
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	405	193	23/05/2017												Open Water			Open					89.8
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	675	193	23/05/2017												Open Water			Open					89.8
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	944	193	23/05/2017												Open Water			Open					100
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	136	576	23/05/2017												Open Water			Open					64.3
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	405	576	23/05/2017												Open Water			Open					46.9
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	675	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.9
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	944	576	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	136	960	23/05/2017												Open Water			Open					46.6
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	405	960	23/05/2017												Open Water			Open					15.5
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			15.5
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	944	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			46.6
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	136	1344	23/05/2017												Open Water			Open					64.3
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	405	1344	23/05/2017												Open Water			Open					46.9
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	675	1344	23/05/2017												Open Water			Open					46.9
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	944	1344	23/05/2017												Macroalgae	Large canopy-forming	Brown	Limited	Unknown	80300902			64.3
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	136	1727	23/05/2017												Open Water			Open					100
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	405	1727	23/05/2017												Open Water			Open					89.8
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	675	1727	23/05/2017												Open Water			Open					89.8
+Outside_4_5_Pilchards_left.avi	14148	5157.6953	944	1727	23/05/2017												Open Water			Limited					100
+Outside_1_25_Pilchards.avi	18530	3434.566	136	193	23/05/2017												Open Water			Open					100
+Outside_1_25_Pilchards.avi	18530	3434.566	405	193	23/05/2017												Unknown			Open	3. Good relief structure with some overhangs. >45 substrate slope				89.8
+Outside_1_25_Pilchards.avi	18530	3434.566	675	193	23/05/2017												Macroalgae	Small mixed		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	80300000			89.8
+Outside_1_25_Pilchards.avi	18530	3434.566	944	193	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			100
+Outside_1_25_Pilchards.avi	18530	3434.566	136	576	23/05/2017												Open Water			Open					64.3
+Outside_1_25_Pilchards.avi	18530	3434.566	405	576	23/05/2017												Unknown			Open	3. Good relief structure with some overhangs. >45 substrate slope				46.9
+Outside_1_25_Pilchards.avi	18530	3434.566	675	576	23/05/2017												Macroalgae	Small mixed		Open	2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope	80300000			46.9
+Outside_1_25_Pilchards.avi	18530	3434.566	944	576	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			64.3
+Outside_1_25_Pilchards.avi	18530	3434.566	136	960	23/05/2017												Open Water			Open					46.6
+Outside_1_25_Pilchards.avi	18530	3434.566	405	960	23/05/2017												Open Water			Open					15.5
+Outside_1_25_Pilchards.avi	18530	3434.566	675	960	23/05/2017												Macroalgae	Large canopy-forming	Brown	Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope	80300902			15.5
+Outside_1_25_Pilchards.avi	18530	3434.566	944	960	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			46.6
+Outside_1_25_Pilchards.avi	18530	3434.566	136	1344	23/05/2017												Open Water			Open					64.3
+Outside_1_25_Pilchards.avi	18530	3434.566	405	1344	23/05/2017												Open Water			Open					46.9
+Outside_1_25_Pilchards.avi	18530	3434.566	675	1344	23/05/2017												Unknown			Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				46.9
+Outside_1_25_Pilchards.avi	18530	3434.566	944	1344	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			64.3
+Outside_1_25_Pilchards.avi	18530	3434.566	136	1727	23/05/2017												Open Water			Open					100
+Outside_1_25_Pilchards.avi	18530	3434.566	405	1727	23/05/2017												Open Water			Open					89.8
+Outside_1_25_Pilchards.avi	18530	3434.566	675	1727	23/05/2017												Unknown			Open	1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope				89.8
+Outside_1_25_Pilchards.avi	18530	3434.566	944	1727	23/05/2017												Unconsolidated	Sand / mud (coarse sand)		Limited	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope"	82001014			100
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									
+																									

@@ -1,0 +1,9 @@
+OpCode	PeriodIndex	Period	FilenameStart	FrameStart	TimeStart	FilenameEnd	FrameEnd	TimeEnd	HasEnd
+Pimp1_20230914	0	Pimpernel_Cam1_14Sep2023 start	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	4418	2.45690				0
+Pimp1_20231103	0	start	Pimp1_2023Nov3_LC_unit1a.MP4	3707	2.06150				0
+Pimp2_20230914	0	Pimpernel_Cam2_14Sep2023 Start	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	6197	3.44622				0
+Pimp2_20231103	0	start	Pimp2_2023Nov3_LC_unit2a.MP4	5471	3.04248				0
+Pimp3_20230914	0	Pimpernel_Cam3_14Sep2023 Start	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	4383	2.43744				0
+Pimp3_20231103	0	start	Pimp3_2023Nov3_LC_unit3a.MP4	9796	5.44766				0
+Pimp4_20230914	0	Pimpernel_Cam4_14Sep2023 Start	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	4895	2.72216				0
+Pimp4_20231103	0	start	Pimp4_2023Nov3_LC_unit4a.MP4	6593	3.66644				0

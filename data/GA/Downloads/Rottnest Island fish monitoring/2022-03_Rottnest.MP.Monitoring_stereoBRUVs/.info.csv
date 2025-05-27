@@ -1,0 +1,10 @@
+"","name","value","is_filter"
+"1","Sampling: Bait type","Pilchards",TRUE
+"2","Sampling: Bait quantity (g)","800",FALSE
+"3","Sampling: Frame type","Aluminimum",FALSE
+"4","Sampling: Bait deployment","Plastic mesh bag",FALSE
+"5","Annotation: .EMObs uploaded as .zip","Yes",FALSE
+"6","Sampling: Bait consistency","Mushed",FALSE
+"7","Annotation: Observation/Annotation checked by expert","Yes",FALSE
+"8","Annotation: Lengths measured for","All fish",TRUE
+"9","Annotation: Taxonomic resolution","All taxa identified to the lowest possible taxonomic level",FALSE

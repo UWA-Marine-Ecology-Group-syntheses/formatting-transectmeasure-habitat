@@ -1,0 +1,981 @@
+campaignid,sample,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,count
+2024-04_Geographe_stereo-BRUVs,GB-BV-001,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-001,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-04_Geographe_stereo-BRUVs,GB-BV-002,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-002,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-002,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-002,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-003,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-004,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,31
+2024-04_Geographe_stereo-BRUVs,GB-BV-004,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-005,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-005,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-005,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-005,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-005,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-006,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-006,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-006,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-006,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-007,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-007,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-04_Geographe_stereo-BRUVs,GB-BV-008,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-009,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-009,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-009,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-009,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-010,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-010,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-010,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,21
+2024-04_Geographe_stereo-BRUVs,GB-BV-010,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-011,Biota,Echinoderms,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-011,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-011,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-011,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-011,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-011,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-012,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-012,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-012,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-012,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-012,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-013,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-013,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-013,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-013,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-014,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-014,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-015,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-015,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,21
+2024-04_Geographe_stereo-BRUVs,GB-BV-015,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-015,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-015,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-016,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-016,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-016,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-016,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-016,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-016,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-017,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-017,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-017,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-017,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-017,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-017,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-018,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-018,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-018,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-018,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-019,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-019,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-019,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-019,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-019,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-020,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-021,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-04_Geographe_stereo-BRUVs,GB-BV-022,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-04_Geographe_stereo-BRUVs,GB-BV-023,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-023,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-023,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-023,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-024,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-024,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-024,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-024,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-024,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-025,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-025,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,24
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-026,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-027,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-027,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-027,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-027,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-028,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-029,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-029,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-029,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-029,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-029,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-029,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-030,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-031,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-031,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-031,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-031,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-032,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-04_Geographe_stereo-BRUVs,GB-BV-033,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-033,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-033,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-04_Geographe_stereo-BRUVs,GB-BV-034,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-034,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-034,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-034,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-04_Geographe_stereo-BRUVs,GB-BV-035,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,39
+2024-04_Geographe_stereo-BRUVs,GB-BV-036,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-037,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-037,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-04_Geographe_stereo-BRUVs,GB-BV-038,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-04_Geographe_stereo-BRUVs,GB-BV-039,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-039,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-041,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-041,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-041,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-042,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-042,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-042,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-042,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-043,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-045,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-046,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-046,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-046,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-04_Geographe_stereo-BRUVs,GB-BV-047,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-047,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-047,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,24
+2024-04_Geographe_stereo-BRUVs,GB-BV-048,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-048,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-048,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-048,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-048,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-048,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-049,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-049,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-049,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-049,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-049,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-049,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,Hydrocharitaceae,Halophila,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-050,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-051,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-052,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-052,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-052,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-052,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-053,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-053,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-04_Geographe_stereo-BRUVs,GB-BV-054,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-054,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,23
+2024-04_Geographe_stereo-BRUVs,GB-BV-054,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-054,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-055,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-056,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-056,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-04_Geographe_stereo-BRUVs,GB-BV-057,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-057,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-057,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-057,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-058,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,28
+2024-04_Geographe_stereo-BRUVs,GB-BV-058,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-058,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-058,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-058,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-059,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-059,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-04_Geographe_stereo-BRUVs,GB-BV-060,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-061,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-061,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-061,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-061,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-061,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-062,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-063,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-064,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-04_Geographe_stereo-BRUVs,GB-BV-065,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-065,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-065,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-065,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-066,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-066,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-066,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-04_Geographe_stereo-BRUVs,GB-BV-067,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-04_Geographe_stereo-BRUVs,GB-BV-068,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-068,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-068,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-068,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-068,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-069,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-070,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-070,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-070,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-070,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-070,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-071,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-071,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-071,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-071,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,21
+2024-04_Geographe_stereo-BRUVs,GB-BV-072,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-073,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-073,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-073,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-073,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-074,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-074,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-075,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-075,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-075,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-075,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-075,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-075,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-076,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-077,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-077,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-077,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-077,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-078,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-078,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-078,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-078,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-078,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-078,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-079,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-079,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-079,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-080,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-081,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-081,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-081,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-081,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-083,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-084,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-085,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-086,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-086,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,25
+2024-04_Geographe_stereo-BRUVs,GB-BV-086,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-087,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-087,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-087,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-087,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-088,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-04_Geographe_stereo-BRUVs,GB-BV-089,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-04_Geographe_stereo-BRUVs,GB-BV-090,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-090,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-090,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-090,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-090,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-091,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-091,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-091,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-091,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-091,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-092,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-093,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-094,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-094,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-094,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-094,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-094,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-095,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-096,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-096,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-096,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-096,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-096,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-097,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-097,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-097,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-097,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-097,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-098,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-099,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-04_Geographe_stereo-BRUVs,GB-BV-100,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-04_Geographe_stereo-BRUVs,GB-BV-101,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-101,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-101,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-101,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-102,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-102,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-102,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-102,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-102,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-103,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-103,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-104,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,39
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,Hydrocharitaceae,Halophila,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-105,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-106,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-106,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-106,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-106,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-106,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-107,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,38
+2024-04_Geographe_stereo-BRUVs,GB-BV-108,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-109,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-110,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-110,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-04_Geographe_stereo-BRUVs,GB-BV-111,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-111,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-111,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-111,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-112,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-113,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-113,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-113,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-113,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-114,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-114,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-04_Geographe_stereo-BRUVs,GB-BV-115,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-115,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-115,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-115,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-115,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-116,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-117,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-117,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-117,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-117,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-117,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-04_Geographe_stereo-BRUVs,GB-BV-118,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-04_Geographe_stereo-BRUVs,GB-BV-119,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-120,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-120,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-121,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-121,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-121,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-121,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-121,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-121,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-122,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-122,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-123,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-123,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-123,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-123,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-123,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-124,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-124,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-124,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-124,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-124,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-125,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-125,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-125,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,21
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-126,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-127,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-128,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-129,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-129,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-130,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,37
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-131,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-132,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-133,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-133,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-133,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-134,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-134,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-04_Geographe_stereo-BRUVs,GB-BV-135,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-135,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-135,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-135,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-135,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-136,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-137,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-137,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-138,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-04_Geographe_stereo-BRUVs,GB-BV-139,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-139,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-139,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-139,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-140,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-140,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-140,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-140,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-140,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-141,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-141,Biota,Macroalgae,Laminate,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-141,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-141,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-141,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-142,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-142,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-142,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-142,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-143,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-143,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-143,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-143,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-143,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-04_Geographe_stereo-BRUVs,GB-BV-144,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-144,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-144,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-144,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-145,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-145,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-146,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,37
+2024-04_Geographe_stereo-BRUVs,GB-BV-147,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-147,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-147,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-147,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-147,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-148,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-149,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-149,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-149,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,21
+2024-04_Geographe_stereo-BRUVs,GB-BV-149,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-149,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-150,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-150,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-150,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-150,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-150,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-151,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-151,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-151,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-151,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-152,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-152,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-04_Geographe_stereo-BRUVs,GB-BV-153,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-153,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-04_Geographe_stereo-BRUVs,GB-BV-154,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-155,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-155,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-155,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-155,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-155,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-156,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-156,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-156,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-156,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-156,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-157,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-157,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-157,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-157,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-158,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-158,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-158,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-04_Geographe_stereo-BRUVs,GB-BV-159,Biota,Cnidaria,Hydrocorals,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-159,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-159,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-159,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-159,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-160,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-160,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-160,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-161,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-161,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-161,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-161,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-04_Geographe_stereo-BRUVs,GB-BV-162,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-162,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-162,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-162,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-162,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-04_Geographe_stereo-BRUVs,GB-BV-163,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-163,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-163,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-164,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-164,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-164,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-164,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-164,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-165,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-165,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-165,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-166,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-167,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-167,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-167,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-167,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-167,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-168,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-169,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-169,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-169,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-170,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-171,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-172,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-173,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-173,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-173,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-173,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-173,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-173,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-174,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-175,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-176,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-176,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-176,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-176,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-176,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-177,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-177,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-178,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-04_Geographe_stereo-BRUVs,GB-BV-179,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-04_Geographe_stereo-BRUVs,GB-BV-180,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-180,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-180,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-180,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-180,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-180,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-181,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-181,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-04_Geographe_stereo-BRUVs,GB-BV-182,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-182,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-183,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-184,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-184,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-184,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-184,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-184,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-185,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-186,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-186,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-186,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-186,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-04_Geographe_stereo-BRUVs,GB-BV-187,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-187,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-187,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-187,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-04_Geographe_stereo-BRUVs,GB-BV-187,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-188,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-188,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-188,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-188,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-189,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-189,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-190,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-190,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-190,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-190,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-04_Geographe_stereo-BRUVs,GB-BV-191,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-191,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-191,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-191,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-192,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-04_Geographe_stereo-BRUVs,GB-BV-193,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-193,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-194,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-195,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-195,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-196,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-196,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-196,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-196,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-197,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-197,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-197,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,28
+2024-04_Geographe_stereo-BRUVs,GB-BV-197,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-198,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-04_Geographe_stereo-BRUVs,GB-BV-199,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-200,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-200,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-200,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-200,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-200,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-200,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-201,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-201,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-201,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-201,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-202,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-202,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-202,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-203,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-204,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-204,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-204,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-204,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-205,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-205,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-205,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,29
+2024-04_Geographe_stereo-BRUVs,GB-BV-206,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-206,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-206,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,28
+2024-04_Geographe_stereo-BRUVs,GB-BV-206,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-207,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-207,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-207,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,25
+2024-04_Geographe_stereo-BRUVs,GB-BV-207,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-208,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-209,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-210,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-210,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,30
+2024-04_Geographe_stereo-BRUVs,GB-BV-210,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-211,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-212,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-212,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-212,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-04_Geographe_stereo-BRUVs,GB-BV-213,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-213,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-213,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,14
+2024-04_Geographe_stereo-BRUVs,GB-BV-213,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-213,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-214,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-215,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-215,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-215,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-216,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,37
+2024-04_Geographe_stereo-BRUVs,GB-BV-217,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,31
+2024-04_Geographe_stereo-BRUVs,GB-BV-217,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-218,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-218,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-218,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-218,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-219,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-219,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-219,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-219,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-220,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-220,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-220,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,21
+2024-04_Geographe_stereo-BRUVs,GB-BV-221,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-221,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,25
+2024-04_Geographe_stereo-BRUVs,GB-BV-221,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-222,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-222,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-222,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-222,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-222,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-223,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-223,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-223,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-223,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-224,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-224,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-224,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-225,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-225,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-225,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-225,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-226,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-226,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-227,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-227,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,26
+2024-04_Geographe_stereo-BRUVs,GB-BV-227,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-228,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-228,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-228,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-228,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-04_Geographe_stereo-BRUVs,GB-BV-229,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-229,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-229,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-230,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-230,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-230,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-230,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-231,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-232,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-232,Biota,Seagrasses,Elliptical leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-232,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-04_Geographe_stereo-BRUVs,GB-BV-233,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-233,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,34
+2024-04_Geographe_stereo-BRUVs,GB-BV-233,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-234,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-234,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-234,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-234,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-04_Geographe_stereo-BRUVs,GB-BV-235,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-04_Geographe_stereo-BRUVs,GB-BV-236,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-236,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-04_Geographe_stereo-BRUVs,GB-BV-237,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-237,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-237,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,34
+2024-04_Geographe_stereo-BRUVs,GB-BV-238,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-238,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-238,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-239,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-04_Geographe_stereo-BRUVs,GB-BV-240,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-240,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-240,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,24
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP2,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP2,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,9
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP2,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP2,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,29
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-CP3,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-P01,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P02,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-P02,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-P02,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-P02,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P02,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P02,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-P03,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P03,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,24
+2024-04_Geographe_stereo-BRUVs,GB-BV-P03,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P04,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-04_Geographe_stereo-BRUVs,GB-BV-P05,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P05,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-P05,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-04_Geographe_stereo-BRUVs,GB-BV-P05,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P05,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,25
+2024-04_Geographe_stereo-BRUVs,GB-BV-P06,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P07,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P07,Biota,Macroalgae,Laminate,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P07,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-P07,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-04_Geographe_stereo-BRUVs,GB-BV-P08,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P08,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-P08,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-P08,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P08,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-P09,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P09,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P09,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,17
+2024-04_Geographe_stereo-BRUVs,GB-BV-P09,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-P10,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P10,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-P10,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-P10,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-P11,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P11,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P11,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P11,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P12,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P13,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-P13,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-P13,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P13,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P13,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P13,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P14,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P14,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-P14,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P14,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-P15,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P15,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P15,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P15,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P15,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-04_Geographe_stereo-BRUVs,GB-BV-P15,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-04_Geographe_stereo-BRUVs,GB-BV-P16,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P16,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P16,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-P16,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-P17,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,19
+2024-04_Geographe_stereo-BRUVs,GB-BV-P18,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P18,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P18,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Amphibolis,spp,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-P18,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-04_Geographe_stereo-BRUVs,GB-BV-P18,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-P19,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P19,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-04_Geographe_stereo-BRUVs,GB-BV-P19,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-04_Geographe_stereo-BRUVs,GB-BV-P19,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-04_Geographe_stereo-BRUVs,GB-BV-P19,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P24,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-04_Geographe_stereo-BRUVs,GB-BV-P24,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-04_Geographe_stereo-BRUVs,GB-BV-P24,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-04_Geographe_stereo-BRUVs,GB-BV-P24,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-04_Geographe_stereo-BRUVs,GB-BV-P24,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-04_Geographe_stereo-BRUVs,GB-BV-P24,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5

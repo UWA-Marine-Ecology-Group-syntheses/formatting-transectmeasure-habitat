@@ -1,0 +1,77 @@
+Camera Details
+
+Generated: Monday 06 November 2023 14:58:53
+
+OpCode	TapeReader	Depth	Comment	Habitat								Camera	Index	Descriptor	Image rows	Image columns	Focal length (mm)	x pixel size (mm)	y pixel size (mm)	X mm	Y mm	Z mm	Omega (degrees)	Phi (degrees)	Kappa (degrees)
+DR_R1	MOewens	20 - 30 m	Started at 2.14	Broken sand (Seagrass & Algae)								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R1	MOewens	20 - 30 m	Started at 2.14	Broken sand (Seagrass & Algae)								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R2	MOwens	20 - 30 m	Starts at 1.18	Broken sand (Seagrass)								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R2	MOwens	20 - 30 m	Starts at 1.18	Broken sand (Seagrass)								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R3	Laura Holmes	< 20 m		Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R3	Laura Holmes	< 20 m		Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R4	MOwens	20 - 30 m	Started at 1.18	Reef/Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R4	MOwens	20 - 30 m	Started at 1.18	Reef/Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R5	MOwens	20 - 30 m	Started at 0.51	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R5	MOwens	20 - 30 m	Started at 0.51	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R6	MOwens	20 - 30 m	Starts at 0.46	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_R6	MOwens	20 - 30 m	Starts at 0.46	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S1	MOwens	20 - 30 m	Started at 1:13	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S1	MOwens	20 - 30 m	Started at 1:13	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S2	MOwens	< 20 m	Started at 1.33	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S2	MOwens	< 20 m	Started at 1.33	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S3	MOwens	20 - 30 m	 Started at 1.01	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S3	MOwens	20 - 30 m	 Started at 1.01	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S4	MOwens	20 - 30 m	Starts at 1.00	Broken sand (Seagrass & Algae)								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S4	MOwens	20 - 30 m	Starts at 1.00	Broken sand (Seagrass & Algae)								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S5	MOwens	20 - 30 m	Started at 1.06	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S5	MOwens	20 - 30 m	Started at 1.06	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S6	LH	20 - 30 m		Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+DR_S6	LH	20 - 30 m		Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R10	MOwens	20 - 30 m	Seagrass. Starts at 1.08.	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R10	MOwens	20 - 30 m	Seagrass. Starts at 1.08.	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R11	MO	20 - 30 m	Reef (Algae). Started at 45s	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R11	MO	20 - 30 m	Reef (Algae). Started at 45s	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R12	MOwens	20 - 30 m	Reef (Alage). Started at 55s	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R12	MOwens	20 - 30 m	Reef (Alage). Started at 55s	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R1	LH	20 - 30 m		Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R1	LH	20 - 30 m		Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R2 	Mowens	20 - 30 m	Started 1.00	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R2 	Mowens	20 - 30 m	Started 1.00	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R3	MOwens	< 20 m	Reef (Alage). Started at 33s	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R3	MOwens	< 20 m	Reef (Alage). Started at 33s	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R4	MOwens	< 20 m	Reef (Algae). Started at 45s	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R4	MOwens	< 20 m	Reef (Algae). Started at 45s	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R5	MOwens	20 - 30 m	Seagrass.  Start time at 1.24	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R5	MOwens	20 - 30 m	Seagrass.  Start time at 1.24	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R6	MOwens	20 - 30 m	Reef Algae. Started at 47s. Bit of obstruction throough video	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R6	MOwens	20 - 30 m	Reef Algae. Started at 47s. Bit of obstruction throough video	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R7	MOwens	< 20 m	Started at 1.20	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R7	MOwens	< 20 m	Started at 1.20	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R8	MOwens	< 20 m	Reef Algae. Starts at 1.06	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R8	MOwens	< 20 m	Reef Algae. Starts at 1.06	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R9	Mowens	20 - 30 m	Reef (Algae). Started at 55s	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+NN_R9	Mowens	20 - 30 m	Reef (Algae). Started at 55s	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R10	MOwens	20 - 30 m	 Started at 44s	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R10	MOwens	20 - 30 m	 Started at 44s	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R11	MOwens	20 - 30 M	Started at 1.30	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R11	MOwens	20 - 30 M	Started at 1.30	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R13	MOwens	20 - 30 m	Starts at 1.13	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R13	MOwens	20 - 30 m	Starts at 1.13	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R14	MOwens	20 - 30 m	Seagrass & Alage (reef)	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R14	MOwens	20 - 30 m	Seagrass & Alage (reef)	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R2	MOwens	20 - 30 m	Segrass. Started at 3.42	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R2	MOwens	20 - 30 m	Segrass. Started at 3.42	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R3	MOwens 	20 - 30 m	Started at 1.15	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R3	MOwens 	20 - 30 m	Started at 1.15	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R4	MOwens	20 - 30 m	Reef Alage. Starts at 3.40	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R4	MOwens	20 - 30 m	Reef Alage. Starts at 3.40	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R5	MOwens	20 - 30 m	Started at 0.45	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R5	MOwens	20 - 30 m	Started at 0.45	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R6	MOwens	20 - 30 m	Reef (Algae). Started at 5.26	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R6	MOwens	20 - 30 m	Reef (Algae). Started at 5.26	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R7	MOwens	20 - 30 m	Started at 55s	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R7	MOwens	20 - 30 m	Started at 55s	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R8	MOwens	20 - 30 m	Started at 1.06	Reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R8	MOwens	20 - 30 m	Started at 1.06	Reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R9	MOwens	20 - 30 m	Reef/Seaweed. Starts at 1.50	Broken sand: Seagrass/ Algae								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+SN_R9	MOwens	20 - 30 m	Reef/Seaweed. Starts at 1.50	Broken sand: Seagrass/ Algae								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000

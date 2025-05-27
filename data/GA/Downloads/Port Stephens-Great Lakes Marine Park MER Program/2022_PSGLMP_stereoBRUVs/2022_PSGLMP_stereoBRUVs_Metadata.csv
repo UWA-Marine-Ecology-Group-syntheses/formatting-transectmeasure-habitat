@@ -1,0 +1,113 @@
+Sample,Latitude,Longitude,Date,Time,Site,Location,Status,Depth,Successful.count,Successful.length,Observer.count,Observer.length,Observer
+BE01,-32.41699167,152.5614783,20221109,9:00:00,Pinnacle,Belmona,Fished,21,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BE02,-32.41702,152.559935,20221110,9:00:00,Pinnacle,Belmona,Fished,32,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BE03,-32.41761,152.55824,20221111,9:00:00,Pinnacle,Belmona,Fished,40,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BE04,-32.417945,152.5609267,20221112,9:00:00,Pinnacle,Belmona,Fished,36,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH01,-32.06365333,152.5951233,20220919,9:30:00,Black Head,Black Head,Fished,31,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH02,-32.06459833,152.59638,20160829,9:30:00,Black Head,Black Head,Fished,29,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH03,-32.06610167,152.5928833,20160829,9:30:00,Black Head,Black Head,Fished,28,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH04,-32.06412333,152.59317,20160829,9:30:00,Black Head,Black Head,Fished,29,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH06,-32.070243,152.59929,20160829,10:30:00,Black Head,Black Head,Fished,30,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH07,-32.067642,152.60141,20160829,10:30:00,Black Head,Black Head,Fished,27,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH08,-32.069533,152.602135,20160829,10:30:00,Black Head,Black Head,Fished,32,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BH09,-32.069085,152.604675,20160829,10:30:00,Black Head,Black Head,Fished,28,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+BIHPZ01,-32.634585,152.312395,20160822,14:00:00,Broughton Island,Broughton Island,Fished,25,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+BIHPZ02,-32.63403167,152.3098133,20160822,14:00:00,Broughton Island,Broughton Island,Fished,27,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+BIHPZ03,-32.63355,152.30363,20160822,14:00:00,Broughton Island,Broughton Island,Fished,28,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+BIHPZ04,-32.63073,152.30175,20160822,14:00:00,Broughton Island,Broughton Island,Fished,22,Yes,No,Chris Gallen,,Chris Gallen
+BIHPZ05,-32.62693,152.29801,20160822,15:00:00,Broughton Island,Broughton Island,Fished,21,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+BIHPZ06,-32.62832833,152.2991717,20160822,15:00:00,Broughton Island,Broughton Island,Fished,27,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+BIHPZ07,-32.63123167,152.3012617,20160822,15:00:00,Broughton Island,Broughton Island,Fished,22,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+BIHPZ09,-32.63467,152.317485,20160822,15:00:00,Broughton Island,Broughton Island,Fished,27,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+BISZ01,-32.6263,152.3378,20220629,9:30:00,Broughton Island,Broughton Island,No-take,25,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+BISZ03,-32.62791833,152.3361917,20220629,9:30:00,Broughton Island,Broughton Island,No-take,35,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+BISZ04,-32.62456833,152.33951,20220629,9:30:00,Broughton Island,Broughton Island,No-take,28,Yes,No,Chris Gallen,,Chris Gallen
+BISZ05,-32.61938833,152.3385133,20220629,9:30:00,Broughton Island,Broughton Island,No-take,29,Yes,No,Chris Gallen,,Chris Gallen
+BISZ06,-32.61762833,152.3374617,20220629,10:30:00,Broughton Island,Broughton Island,No-take,31,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+BISZ07,-32.61544667,152.3368333,20220629,10:30:00,Broughton Island,Broughton Island,No-take,31,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+BISZ08,-32.61470167,152.3333367,20220629,10:30:00,Broughton Island,Broughton Island,No-take,23,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+BISZ09,-32.6267,152.3351,20220629,10:30:00,Broughton Island,Broughton Island,No-take,24,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+BOO01,-32.70742167,152.2313333,20220621,15:00:00,Cabbage Tree,Boondelbah,Fished,24,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+BOO02,-32.70889,152.23225,20220621,15:00:00,Cabbage Tree,Boondelbah,Fished,25,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+BOO03,-32.710465,152.2317433,20220621,15:00:00,Cabbage Tree,Boondelbah,Fished,22,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+BOO06,-32.70608667,152.2306783,20220621,15:00:00,Cabbage Tree,Boondelbah,Fished,21,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+BS01,-32.46564667,152.5520933,20220623,9:00:00,Seal Rocks,Big Seal Rock,No-take,20,Yes,Yes,David Harasti,David Harasti,David Harasti
+BS02,-32.46472833,152.5538683,20220623,9:00:00,Seal Rocks,Big Seal Rock,No-take,25,Yes,Yes,David Harasti,David Harasti,David Harasti
+BS03,-32.461785,152.5539783,20220623,9:00:00,Seal Rocks,Big Seal Rock,No-take,24,Yes,Yes,David Harasti,David Harasti,David Harasti
+BS04,-32.463618,152.550605,20220623,9:00:00,Seal Rocks,Big Seal Rock,No-take,25,Yes,Yes,David Harasti,David Harasti,David Harasti
+CT01,-32.69378167,152.2241617,20220621,10:00:00,Cabbage Tree Island,Cabbage Tree Island,No-take,18,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+CT02,-32.693725,152.225882,20220621,10:00:00,Cabbage Tree Island,Cabbage Tree Island,No-take,20,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+CT03,-32.69226667,152.2276183,20220621,10:00:00,Cabbage Tree Island,Cabbage Tree Island,No-take,20,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+CT04,-32.687885,152.229162,20220621,10:00:00,Cabbage Tree Island,Cabbage Tree Island,No-take,19,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+CT05,-32.68701667,152.2287933,20220621,11:30:00,Cabbage Tree Island,Cabbage Tree Island,No-take,18,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+CT06,-32.684295,152.22628,20220621,11:30:00,Cabbage Tree Island,Cabbage Tree Island,No-take,14,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+CT07,-32.69322833,152.22367,20220621,11:30:00,Cabbage Tree Island,Cabbage Tree Island,No-take,17,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+CT08,-32.693225,152.226288,20220621,11:30:00,Cabbage Tree Island,Cabbage Tree Island,No-take,18,Yes,Yes,David Harasti,David Harasti,David Harasti
+EB01,-32.48571833,152.5110033,20220623,12:30:00,Seal Rocks,Edith Breaker,Fished,30,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+EB02,-32.48747667,152.511125,20220623,12:30:00,Seal Rocks,Edith Breaker,Fished,24,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+EB03,-32.48843333,152.5098967,20220623,12:30:00,Seal Rocks,Edith Breaker,Fished,30,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+EB04,-32.48291667,152.5095417,20220623,12:30:00,Seal Rocks,Edith Breaker,Fished,28,Yes,Yes,Luke Housefield,Luke Housefield,Luke Housefield
+EB05,-32.47781167,152.5054017,20220623,11:30:00,Seal Rocks,Edith Breaker,Fished,31,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+EB06,-32.48039333,152.5010717,20220623,11:30:00,Seal Rocks,Edith Breaker,Fished,29,Yes,Yes,David Harasti,David Harasti,David Harasti
+EB07,-32.491205,152.5105517,20220623,11:30:00,Seal Rocks,Edith Breaker,Fished,29,Yes,Yes,David Harasti,David Harasti,David Harasti
+EB08,-32.48151667,152.5091183,20220623,11:30:00,Seal Rocks,Edith Breaker,Fished,20,Yes,Yes,David Harasti,David Harasti,David Harasti
+FIHPZ01,-32.73970833,152.2071,20221019,9:30:00,Fingal Island,Fingal Island,Fished,26,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FIHPZ02,-32.74205833,152.20863,20221019,9:30:00,Fingal Island,Fingal Island,Fished,28,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FIHPZ04,-32.74599167,152.207715,20221019,9:30:00,Fingal Island,Fingal Island,Fished,25,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FIHPZ05,-32.74175,152.2071683,20221019,9:30:00,Fingal Island,Fingal Island,Fished,23,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FIHPZ06,-32.753235,152.2051333,20221019,10:30:00,Fingal Island,Fingal Island,Fished,28,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FIHPZ07,-32.750685,152.2074283,20221019,10:30:00,Fingal Island,Fingal Island,Fished,25,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FIHPZ08,-32.75215,152.20568,20221019,10:30:00,Fingal Island,Fingal Island,Fished,30,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FIHPZ09,-32.75175333,152.20654,20221019,10:30:00,Fingal Island,Fingal Island,Fished,28,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ01,-32.753475,152.2002983,20221019,12:30:00,Fingal Island,Fingal Island,No-take,31,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ02,-32.75263167,152.1972917,20221019,12:30:00,Fingal Island,Fingal Island,No-take,25,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ03,-32.753765,152.197265,20221019,12:30:00,Fingal Island,Fingal Island,No-take,26,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ04,-32.75577333,152.19355,20221019,12:30:00,Fingal Island,Fingal Island,No-take,26,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ06,-32.75668833,152.19109,20221019,14:00:00,Fingal Island,Fingal Island,No-take,29,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ07,-32.75504833,152.1905433,20221019,14:00:00,Fingal Island,Fingal Island,No-take,29,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ08,-32.75478667,152.1891367,20221019,14:00:00,Fingal Island,Fingal Island,No-take,25,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+FISZ09,-32.75381333,152.1946967,20221019,14:00:00,Fingal Island,Fingal Island,No-take,24,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+LI03,-32.69929833,152.2434367,20220621,14:30:00,Cabbage Tree Island,Little Island,Fished,20,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+LI05,-32.70119667,152.2399533,20220621,14:30:00,Cabbage Tree Island,Little Island,Fished,20,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+LI08,-32.70163,152.2391483,20220621,14:30:00,Cabbage Tree Island,Little Island,Fished,28,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+LI09,-32.698335,152.2454183,20220621,14:30:00,Cabbage Tree Island,Little Island,Fished,20,Yes,Yes,Josh Maloney,Josh Maloney,Josh Maloney
+LS01,-32.477497,152.54846,20220623,10:30:00,Seal Rocks,Little Seal Rock,No-take,29,Yes,Yes,David Harasti,David Harasti,David Harasti
+LS02,-32.472695,152.546083,20220623,10:30:00,Seal Rocks,Little Seal Rock,No-take,28,Yes,Yes,David Harasti,David Harasti,David Harasti
+LS03,-32.478645,152.546315,20220623,10:30:00,Seal Rocks,Little Seal Rock,No-take,24,Yes,Yes,David Harasti,David Harasti,David Harasti
+LS04,-32.47142833,152.54734,20220623,10:30:00,Seal Rocks,Little Seal Rock,No-take,24,Yes,Yes,David Harasti,David Harasti,David Harasti
+NR01,-32.59923,152.3238517,20220623,14:00:00,Broughton Island,North Rock,Fished,18,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+NR02,-32.59608167,152.3212933,20220623,14:00:00,Broughton Island,North Rock,Fished,18,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+NR03,-32.59515167,152.3232483,20220623,14:00:00,Broughton Island,North Rock,Fished,24,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+NR04,-32.596725,152.3248433,20220623,14:00:00,Broughton Island,North Rock,Fished,20,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+NR05,-32.60199333,152.3240933,20220623,15:00:00,Broughton Island,North Rock,Fished,21,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+NR06,-32.604,152.3231317,20220623,15:00:00,Broughton Island,North Rock,Fished,20,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+NR07,-32.60428667,152.3204383,20220623,15:00:00,Broughton Island,North Rock,Fished,22,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+NR08,-32.60404167,152.3166233,20220623,15:00:00,Broughton Island,North Rock,Fished,25,Yes,Yes,Chris Gallen,Chris Gallen,Chris Gallen
+OG01,-32.55595333,152.4362983,20220629,13:00:00,Outer Gibber,Outer Gibber,Fished,36,Yes,Yes,David Harasti,David Harasti,David Harasti
+OG02,-32.55464,152.4363067,20220629,13:00:00,Outer Gibber,Outer Gibber,Fished,38,Yes,Yes,David Harasti,David Harasti,David Harasti
+OG03,-32.55344333,152.4367533,20220629,13:00:00,Outer Gibber,Outer Gibber,Fished,45,Yes,Yes,David Harasti,David Harasti,David Harasti
+OG04,-32.55297667,152.43507,20220629,13:00:00,Outer Gibber,Outer Gibber,Fished,38,Yes,Yes,David Harasti,David Harasti,David Harasti
+OG05,-32.553115,152.433005,20220629,14:30:00,Outer Gibber,Outer Gibber,Fished,36,Yes,Yes,David Harasti,David Harasti,David Harasti
+OG06,-32.55412,152.4329,20220629,14:30:00,Outer Gibber,Outer Gibber,Fished,36,Yes,Yes,David Harasti,David Harasti,David Harasti
+OG07,-32.554855,152.43425,20220629,14:30:00,Outer Gibber,Outer Gibber,Fished,38,Yes,Yes,David Harasti,David Harasti,David Harasti
+OG08,-32.55405833,152.4351817,20220629,14:30:00,Outer Gibber,Outer Gibber,Fished,31,Yes,Yes,David Harasti,David Harasti,David Harasti
+PN01,-32.22882333,152.6014483,20220920,10:30:00,Pinnacle,Pinnacle,No-take,35,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+PN02,-32.228205,152.6009283,20220920,10:30:00,Pinnacle,Pinnacle,No-take,29,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+PN03,-32.22768667,152.6001783,20220920,10:30:00,Pinnacle,Pinnacle,No-take,33.3,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+PN04,-32.22717833,152.5989483,20220920,10:30:00,Pinnacle,Pinnacle,No-take,34,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+PN05,-32.22785667,152.60205,20220920,11:30:00,Pinnacle,Pinnacle,No-take,38,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+PN06,-32.22908,152.60433,20220920,11:30:00,Pinnacle,Pinnacle,No-take,46,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+PN07,-32.22766167,152.601145,20220920,11:30:00,Pinnacle,Pinnacle,No-take,45,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+PN08,-32.22992,152.6020583,20220920,11:30:00,Pinnacle,Pinnacle,No-take,46,Yes,Yes,Art Schulz,Art Schulz,Art Schulz
+SM01,-32.26824167,152.5756033,20220920,14:00:00,Pinnacle,Seven Mile Reef,Fished,47,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SM03,-32.26940167,152.574155,20220920,14:00:00,Pinnacle,Seven Mile Reef,Fished,47,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SM04,-32.267165,152.5746333,20220920,14:00:00,Pinnacle,Seven Mile Reef,Fished,46,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SM06,-32.26846,152.5719683,20220920,14:00:00,Pinnacle,Seven Mile Reef,Fished,50,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR02,-32.03266,152.6078283,20220919,12:30:00,Snapper Rocks,Snapper Rocks,Fished,26,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR03,-32.03237,152.6101083,20220919,12:30:00,Snapper Rocks,Snapper Rocks,Fished,29,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR05,-32.030393,152.61068,20220919,12:30:00,Snapper Rocks,Snapper Rocks,Fished,25,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR06,-32.03010333,152.6080183,20220919,12:30:00,Snapper Rocks,Snapper Rocks,Fished,31,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR07,-32.03774167,152.6154367,20220919,13:30:30,Snapper Rocks,Snapper Rocks,Fished,29,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR08,-32.03900333,152.61601,20220919,13:30:30,Snapper Rocks,Snapper Rocks,Fished,29,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR09,-32.040495,152.6174033,20220919,13:30:30,Snapper Rocks,Snapper Rocks,Fished,28,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin
+SNR10,-32.03825167,152.6183733,20220919,13:30:30,Snapper Rocks,Snapper Rocks,Fished,23,Yes,Yes,Meryl Larkin,Meryl Larkin,Meryl Larkin

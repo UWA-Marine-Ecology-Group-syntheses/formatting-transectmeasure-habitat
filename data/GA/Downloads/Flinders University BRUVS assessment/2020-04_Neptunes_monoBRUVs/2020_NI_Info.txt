@@ -1,0 +1,44 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+DR_R1_20	BH		Reef																
+DR_R2_20	BH		Sand																
+DR_R3_20	BH		Reef																
+DR_R4_20	BH		Reef																
+DR_R5_20	BH		Seagrass																
+DR_R6_20	BH		Seagrass																
+DR_S1_20	BH		Facing up																
+DR_S2_20	BH		Facing up																
+DR_S3_20	BH		Facing up																
+DR_S4_20	BH		Seagrass																
+DR_S5_20	BH		Seagrass																
+DR_S6_20	BH		Sand																
+NN_R1_20	BH	25	Reef																
+NN_R2_20	BH	20	Reef																
+NN_R2_20_May	BH		Reef																
+NN_R3_20	BH	27	Reef																
+NN_R3_20_May	BH		Reef																
+NN_R4_20_May	BH		Reef																
+NN_R5_20	BH	12	Reef																
+NN_R5_May	BH																		
+NN_R6_20	BH	17	Reef																
+NN_R6_20_May	BH		Reef																
+NN_S1_20	BH	32	Reef																
+NN_S2_20	BH	32	Reef																
+NN_S3_20	BH	27	Seagrass																
+NN_S4_20	BH	10.5	Seagrass																
+NN_S5_20	BH	12	Reef																
+NN_S6_20	BH	25	Reef																
+SN_R10_20	BH		Reef																
+SN_R11_20	BH		Reef																
+SN_R12_20	BH		Sand																
+SN_R13_20	BH		Reef																
+SN_R14_20	BH		Reef																
+SN_R15_20	BH		Seagrass																
+SN_R1_20	BH		Seagrass																
+SN_R2_20	BH		Seagrass																
+SN_R3_20	BH		Reef																
+SN_R4_20	BH		Reef																
+SN_R5_20	BH		Reef																
+SN_R6_20	BH		Reef																
+SN_R7_20	BH		Reef																
+SN_R8_20	BH		Reef- Facing down																
+SN_R9_20	BH		Sand																

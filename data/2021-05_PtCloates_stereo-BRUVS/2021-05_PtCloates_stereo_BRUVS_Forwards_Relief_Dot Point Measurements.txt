@@ -1,0 +1,505 @@
+Dot Point Measurements
+
+Generated: Tuesday 24 January 2023 14:45:35
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Frame info 1	Frame info 2	Frame info 3	Frame info 4	Frame info 5	Frame info 6	BROAD	MORPHOLOGY	TYPE	FieldOfView	Relief	CODE			Radius %
+1.jpg	      0		139	196																						Open					100.0
+1.jpg	      0		406	196																						Open					89.9
+1.jpg	      0		674	196																						Open	.3. Good relief structure with some overhangs. >45 substrate slope.				89.9
+1.jpg	      0		941	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+1.jpg	      0		139	578																						Open					64.2
+1.jpg	      0		406	578																						Open					46.9
+1.jpg	      0		674	578																						Open	.3. Good relief structure with some overhangs. >45 substrate slope.				46.9
+1.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+1.jpg	      0		139	960																						Open					46.5
+1.jpg	      0		406	960																						Open					15.5
+1.jpg	      0		674	960																						Limited	.3. Good relief structure with some overhangs. >45 substrate slope.				15.5
+1.jpg	      0		941	960																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.5
+1.jpg	      0		139	1342																						Open					64.2
+1.jpg	      0		406	1342																						Open	.3. Good relief structure with some overhangs. >45 substrate slope.				46.9
+1.jpg	      0		674	1342																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+1.jpg	      0		941	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+1.jpg	      0		139	1724																						Open					100.0
+1.jpg	      0		406	1724																											89.9
+1.jpg	      0		674	1724																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				89.9
+1.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+10.jpg	      0		139	196																						Open					100.0
+10.jpg	      0		406	196																						Open					89.9
+10.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+10.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+10.jpg	      0		139	578																						Open					64.2
+10.jpg	      0		406	578																						Open					46.9
+10.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+10.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+10.jpg	      0		139	960																						Open					46.5
+10.jpg	      0		406	960																						Open					15.5
+10.jpg	      0		674	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+10.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+10.jpg	      0		139	1342																						Open					64.2
+10.jpg	      0		406	1342																						Open					46.9
+10.jpg	      0		674	1342																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+10.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+10.jpg	      0		139	1724																						Open					100.0
+10.jpg	      0		406	1724																						Open					89.9
+10.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+10.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+11.jpg	      0		139	196																						Open					100.0
+11.jpg	      0		406	196																						Open					89.9
+11.jpg	      0		674	196																						Open	.3. Good relief structure with some overhangs. >45 substrate slope.				89.9
+11.jpg	      0		941	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+11.jpg	      0		139	578																						Open					64.2
+11.jpg	      0		406	578																						Open					46.9
+11.jpg	      0		674	578																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+11.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+11.jpg	      0		139	960																						Open					46.5
+11.jpg	      0		406	960																						Open					15.5
+11.jpg	      0		674	960																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				15.5
+11.jpg	      0		941	960																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.5
+11.jpg	      0		139	1342																						Open					64.2
+11.jpg	      0		406	1342																						Open					46.9
+11.jpg	      0		674	1342																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+11.jpg	      0		941	1342																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+11.jpg	      0		139	1724																						Open					100.0
+11.jpg	      0		406	1724																						Open					89.9
+11.jpg	      0		674	1724																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				89.9
+11.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+12.jpg	      0		139	196																						Open					100.0
+12.jpg	      0		406	196																						Open					89.9
+12.jpg	      0		674	196																						Open					89.9
+12.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+12.jpg	      0		139	578																						Open					64.2
+12.jpg	      0		406	578																						Open					46.9
+12.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+12.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+12.jpg	      0		139	960																						Open					46.5
+12.jpg	      0		406	960																						Open					15.5
+12.jpg	      0		674	960																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+12.jpg	      0		941	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+12.jpg	      0		139	1342																						Open					64.2
+12.jpg	      0		406	1342																						Open					46.9
+12.jpg	      0		674	1342																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+12.jpg	      0		941	1342																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+12.jpg	      0		139	1724																						Open					100.0
+12.jpg	      0		406	1724																						Open					89.9
+12.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+12.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+13.jpg	      0		139	196																						Open					100.0
+13.jpg	      0		406	196																						Open					89.9
+13.jpg	      0		674	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				89.9
+13.jpg	      0		941	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+13.jpg	      0		139	578																						Open					64.2
+13.jpg	      0		406	578																						Open					46.9
+13.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+13.jpg	      0		941	578																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				64.2
+13.jpg	      0		139	960																						Open					46.5
+13.jpg	      0		406	960																						Open					15.5
+13.jpg	      0		674	960																						Open	.3. Good relief structure with some overhangs. >45 substrate slope.				15.5
+13.jpg	      0		941	960																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.5
+13.jpg	      0		139	1342																						Open					64.2
+13.jpg	      0		406	1342																						Open					46.9
+13.jpg	      0		674	1342																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+13.jpg	      0		941	1342																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				64.2
+13.jpg	      0		139	1724																						Open					100.0
+13.jpg	      0		406	1724																						Open					89.9
+13.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+13.jpg	      0		941	1724																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+14.jpg	      0		139	196																						Open					100.0
+14.jpg	      0		406	196																						Open					89.9
+14.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+14.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+14.jpg	      0		139	578																						Open					64.2
+14.jpg	      0		406	578																						Open					46.9
+14.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+14.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+14.jpg	      0		139	960																						Open					46.5
+14.jpg	      0		406	960																						Open					15.5
+14.jpg	      0		674	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+14.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+14.jpg	      0		139	1342																						Open					64.2
+14.jpg	      0		406	1342																						Open					46.9
+14.jpg	      0		674	1342																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+14.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+14.jpg	      0		139	1724																						Open					100.0
+14.jpg	      0		406	1724																						Open					89.9
+14.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+14.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+15.jpg	      0		139	196																						Open					100.0
+15.jpg	      0		406	196																						Open					89.9
+15.jpg	      0		674	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				89.9
+15.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+15.jpg	      0		139	578																						Open					64.2
+15.jpg	      0		406	578																						Open					46.9
+15.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+15.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+15.jpg	      0		139	960																						Open					46.5
+15.jpg	      0		406	960																						Open					15.5
+15.jpg	      0		674	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+15.jpg	      0		941	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+15.jpg	      0		139	1342																						Open					64.2
+15.jpg	      0		406	1342																						Open					46.9
+15.jpg	      0		674	1342																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+15.jpg	      0		941	1342																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+15.jpg	      0		139	1724																						Open					100.0
+15.jpg	      0		406	1724																						Open					89.9
+15.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+15.jpg	      0		941	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+16.jpg	      0		139	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+16.jpg	      0		406	196																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+16.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+16.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+16.jpg	      0		139	578																						Open	.3. Good relief structure with some overhangs. >45 substrate slope.				64.2
+16.jpg	      0		406	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+16.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+16.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+16.jpg	      0		139	960																						Open					46.5
+16.jpg	      0		406	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+16.jpg	      0		674	960																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				15.5
+16.jpg	      0		941	960																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.5
+16.jpg	      0		139	1342																						Open					64.2
+16.jpg	      0		406	1342																						Open					46.9
+16.jpg	      0		674	1342																						Open					46.9
+16.jpg	      0		941	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+16.jpg	      0		139	1724																						Open					100.0
+16.jpg	      0		406	1724																						Open					89.9
+16.jpg	      0		674	1724																						Open					89.9
+16.jpg	      0		941	1724																						Open					100.0
+17.jpg	      0		139	196																						Open					100.0
+17.jpg	      0		406	196																						Open					89.9
+17.jpg	      0		674	196																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+17.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+17.jpg	      0		139	578																						Open					64.2
+17.jpg	      0		406	578																						Open					46.9
+17.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+17.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+17.jpg	      0		139	960																						Open					46.5
+17.jpg	      0		406	960																						Open					15.5
+17.jpg	      0		674	960																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				15.5
+17.jpg	      0		941	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.5
+17.jpg	      0		139	1342																						Open					64.2
+17.jpg	      0		406	1342																						Open					46.9
+17.jpg	      0		674	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+17.jpg	      0		941	1342																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				64.2
+17.jpg	      0		139	1724																						Open					100.0
+17.jpg	      0		406	1724																						Open					89.9
+17.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+17.jpg	      0		941	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+18.jpg	      0		139	196																						Open					100.0
+18.jpg	      0		406	196																						Open					89.9
+18.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+18.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+18.jpg	      0		139	578																						Open					64.2
+18.jpg	      0		406	578																						Open					46.9
+18.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+18.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+18.jpg	      0		139	960																						Open					46.5
+18.jpg	      0		406	960																						Open					15.5
+18.jpg	      0		674	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+18.jpg	      0		941	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+18.jpg	      0		139	1342																						Open					64.2
+18.jpg	      0		406	1342																						Open					46.9
+18.jpg	      0		674	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+18.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+18.jpg	      0		139	1724																						Open					100.0
+18.jpg	      0		406	1724																						Open					89.9
+18.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+18.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+19.jpg	      0		139	196																						Open					100.0
+19.jpg	      0		406	196																						Open					89.9
+19.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+19.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+19.jpg	      0		139	578																						Open					64.2
+19.jpg	      0		406	578																						Open					46.9
+19.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+19.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+19.jpg	      0		139	960																						Open					46.5
+19.jpg	      0		406	960																						Open					15.5
+19.jpg	      0		674	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+19.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+19.jpg	      0		139	1342																						Open					64.2
+19.jpg	      0		406	1342																						Open					46.9
+19.jpg	      0		674	1342																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+19.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+19.jpg	      0		139	1724																						Open					100.0
+19.jpg	      0		406	1724																						Open					89.9
+19.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+19.jpg	      0		941	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+2.jpg	      0		139	196																						Open					100.0
+2.jpg	      0		406	196																						Open					89.9
+2.jpg	      0		674	196																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+2.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+2.jpg	      0		139	578																						Open					64.2
+2.jpg	      0		406	578																						Open					46.9
+2.jpg	      0		674	578																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+2.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+2.jpg	      0		139	960																						Open					46.5
+2.jpg	      0		406	960																						Open					15.5
+2.jpg	      0		674	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+2.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+2.jpg	      0		139	1342																						Open					64.2
+2.jpg	      0		406	1342																						Open					46.9
+2.jpg	      0		674	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+2.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+2.jpg	      0		139	1724																						Open					100.0
+2.jpg	      0		406	1724																						Open					89.9
+2.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+2.jpg	      0		941	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+21.jpg	      0		139	196																						Open					100.0
+21.jpg	      0		406	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				89.9
+21.jpg	      0		674	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				89.9
+21.jpg	      0		941	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+21.jpg	      0		139	578																						Open					64.2
+21.jpg	      0		406	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+21.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+21.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+21.jpg	      0		139	960																						Open					46.5
+21.jpg	      0		406	960																											15.5
+21.jpg	      0		674	960																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+21.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+21.jpg	      0		139	1342																						Open					64.2
+21.jpg	      0		406	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+21.jpg	      0		674	1342																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+21.jpg	      0		941	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+21.jpg	      0		139	1724																						Open					100.0
+21.jpg	      0		406	1724																						Open					89.9
+21.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+21.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+22.jpg	      0		139	196																						Open					100.0
+22.jpg	      0		406	196																						Open					89.9
+22.jpg	      0		674	196																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+22.jpg	      0		941	196																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+22.jpg	      0		139	578																						Open					64.2
+22.jpg	      0		406	578																						Open					46.9
+22.jpg	      0		674	578																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+22.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+22.jpg	      0		139	960																						Open					46.5
+22.jpg	      0		406	960																						Open					15.5
+22.jpg	      0		674	960																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				15.5
+22.jpg	      0		941	960																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.5
+22.jpg	      0		139	1342																						Open					64.2
+22.jpg	      0		406	1342																						Open					46.9
+22.jpg	      0		674	1342																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+22.jpg	      0		941	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+22.jpg	      0		139	1724																						Open					100.0
+22.jpg	      0		406	1724																						Open					89.9
+22.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+22.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+23.jpg	      0		139	196																						Open					100.0
+23.jpg	      0		406	196																						Open					89.9
+23.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+23.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+23.jpg	      0		139	578																						Open					64.2
+23.jpg	      0		406	578																						Open					46.9
+23.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+23.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+23.jpg	      0		139	960																						Open					46.5
+23.jpg	      0		406	960																						Open					15.5
+23.jpg	      0		674	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+23.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+23.jpg	      0		139	1342																						Open					64.2
+23.jpg	      0		406	1342																						Open					46.9
+23.jpg	      0		674	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+23.jpg	      0		941	1342																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+23.jpg	      0		139	1724																						Open					100.0
+23.jpg	      0		406	1724																						Open					89.9
+23.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+23.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+25.jpg	      0		139	196																						Open					100.0
+25.jpg	      0		406	196																						Open					89.9
+25.jpg	      0		674	196																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+25.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+25.jpg	      0		139	578																						Open					64.2
+25.jpg	      0		406	578																						Open					46.9
+25.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+25.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+25.jpg	      0		139	960																						Open					46.5
+25.jpg	      0		406	960																						Open					15.5
+25.jpg	      0		674	960																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				15.5
+25.jpg	      0		941	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.5
+25.jpg	      0		139	1342																						Open					64.2
+25.jpg	      0		406	1342																						Open					46.9
+25.jpg	      0		674	1342																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+25.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+25.jpg	      0		139	1724																						Open					100.0
+25.jpg	      0		406	1724																						Open					89.9
+25.jpg	      0		674	1724																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+25.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+26.jpg	      0		139	196																						Open					100.0
+26.jpg	      0		406	196																						Open					89.9
+26.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+26.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+26.jpg	      0		139	578																						Open					64.2
+26.jpg	      0		406	578																						Open					46.9
+26.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+26.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+26.jpg	      0		139	960																						Open					46.5
+26.jpg	      0		406	960																						Open					15.5
+26.jpg	      0		674	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+26.jpg	      0		941	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+26.jpg	      0		139	1342																						Open					64.2
+26.jpg	      0		406	1342																						Open					46.9
+26.jpg	      0		674	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+26.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+26.jpg	      0		139	1724																						Open					100.0
+26.jpg	      0		406	1724																						Open					89.9
+26.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+26.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+27.jpg	      0		139	196																						Open					100.0
+27.jpg	      0		406	196																						Open					89.9
+27.jpg	      0		674	196																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				89.9
+27.jpg	      0		941	196																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+27.jpg	      0		139	578																						Open					64.2
+27.jpg	      0		406	578																						Open					46.9
+27.jpg	      0		674	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+27.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+27.jpg	      0		139	960																						Open					46.5
+27.jpg	      0		406	960																											15.5
+27.jpg	      0		674	960																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+27.jpg	      0		941	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.5
+27.jpg	      0		139	1342																						Open					64.2
+27.jpg	      0		406	1342																						Open	.3. Good relief structure with some overhangs. >45 substrate slope.				46.9
+27.jpg	      0		674	1342																						Limited	.3. Good relief structure with some overhangs. >45 substrate slope.				46.9
+27.jpg	      0		941	1342																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				64.2
+27.jpg	      0		139	1724																						Open					100.0
+27.jpg	      0		406	1724																						Open					89.9
+27.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+27.jpg	      0		941	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+3.jpg	      0		139	196																						Open					100.0
+3.jpg	      0		406	196																						Open					89.9
+3.jpg	      0		674	196																						Open					89.9
+3.jpg	      0		941	196																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				100.0
+3.jpg	      0		139	578																						Open					64.2
+3.jpg	      0		406	578																						Open					46.9
+3.jpg	      0		674	578																						Open					46.9
+3.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+3.jpg	      0		139	960																						Open					46.5
+3.jpg	      0		406	960																						Open					15.5
+3.jpg	      0		674	960																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+3.jpg	      0		941	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.5
+3.jpg	      0		139	1342																						Open					64.2
+3.jpg	      0		406	1342																						Open					46.9
+3.jpg	      0		674	1342																						Limited					46.9
+3.jpg	      0		941	1342																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				64.2
+3.jpg	      0		139	1724																						Open					100.0
+3.jpg	      0		406	1724																						Open					89.9
+3.jpg	      0		674	1724																						Open					89.9
+3.jpg	      0		941	1724																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+4.jpg	      0		139	196																						Open					100.0
+4.jpg	      0		406	196																						Open					89.9
+4.jpg	      0		674	196																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				89.9
+4.jpg	      0		941	196																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				100.0
+4.jpg	      0		139	578																						Open					64.2
+4.jpg	      0		406	578																						Open					46.9
+4.jpg	      0		674	578																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+4.jpg	      0		941	578																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+4.jpg	      0		139	960																						Open					46.5
+4.jpg	      0		406	960																						Open					15.5
+4.jpg	      0		674	960																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+4.jpg	      0		941	960																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.5
+4.jpg	      0		139	1342																						Open					64.2
+4.jpg	      0		406	1342																						Open					46.9
+4.jpg	      0		674	1342																						Open	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				46.9
+4.jpg	      0		941	1342																						Limited	.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.				64.2
+4.jpg	      0		139	1724																						Open					100.0
+4.jpg	      0		406	1724																						Open					89.9
+4.jpg	      0		674	1724																						Open					89.9
+4.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+5.jpg	      0		139	196																						Open					100.0
+5.jpg	      0		406	196																						Open					89.9
+5.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+5.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+5.jpg	      0		139	578																						Open					64.2
+5.jpg	      0		406	578																						Open					46.9
+5.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+5.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+5.jpg	      0		139	960																						Open					46.5
+5.jpg	      0		406	960																						Open					15.5
+5.jpg	      0		674	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+5.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+5.jpg	      0		139	1342																						Open					64.2
+5.jpg	      0		406	1342																						Open					46.9
+5.jpg	      0		674	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+5.jpg	      0		941	1342																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+5.jpg	      0		139	1724																						Open					100.0
+5.jpg	      0		406	1724																						Open					89.9
+5.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+5.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+6.jpg	      0		139	196																						Open					100.0
+6.jpg	      0		406	196																						Open					89.9
+6.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+6.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+6.jpg	      0		139	578																						Open					64.2
+6.jpg	      0		406	578																						Open					46.9
+6.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+6.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+6.jpg	      0		139	960																						Open					46.5
+6.jpg	      0		406	960																						Open					15.5
+6.jpg	      0		674	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+6.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+6.jpg	      0		139	1342																						Open					64.2
+6.jpg	      0		406	1342																						Open					46.9
+6.jpg	      0		674	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+6.jpg	      0		941	1342																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+6.jpg	      0		139	1724																						Open					100.0
+6.jpg	      0		406	1724																						Open					89.9
+6.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+6.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+7.jpg	      0		139	196																						Open					100.0
+7.jpg	      0		406	196																						Open					89.9
+7.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+7.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+7.jpg	      0		139	578																						Open					64.2
+7.jpg	      0		406	578																						Open					46.9
+7.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+7.jpg	      0		941	578																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				64.2
+7.jpg	      0		139	960																						Open					46.5
+7.jpg	      0		406	960																						Open					15.5
+7.jpg	      0		674	960																						Open	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				15.5
+7.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+7.jpg	      0		139	1342																						Open					64.2
+7.jpg	      0		406	1342																						Open					46.9
+7.jpg	      0		674	1342																						Limited	.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.				46.9
+7.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+7.jpg	      0		139	1724																						Open					100.0
+7.jpg	      0		406	1724																						Open					89.9
+7.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+7.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+8.jpg	      0		139	196																						Open					100.0
+8.jpg	      0		406	196																						Open					89.9
+8.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+8.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+8.jpg	      0		139	578																						Open					64.2
+8.jpg	      0		406	578																						Open					46.9
+8.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+8.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+8.jpg	      0		139	960																						Open					46.5
+8.jpg	      0		406	960																						Open					15.5
+8.jpg	      0		674	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+8.jpg	      0		941	960																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+8.jpg	      0		139	1342																						Open					64.2
+8.jpg	      0		406	1342																						Open					46.9
+8.jpg	      0		674	1342																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+8.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+8.jpg	      0		139	1724																						Open					100.0
+8.jpg	      0		406	1724																						Open					89.9
+8.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+8.jpg	      0		941	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+9.jpg	      0		139	196																						Open					100.0
+9.jpg	      0		406	196																						Open					89.9
+9.jpg	      0		674	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+9.jpg	      0		941	196																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0
+9.jpg	      0		139	578																						Open					64.2
+9.jpg	      0		406	578																						Open					46.9
+9.jpg	      0		674	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+9.jpg	      0		941	578																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+9.jpg	      0		139	960																						Open					46.5
+9.jpg	      0		406	960																						Open					15.5
+9.jpg	      0		674	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				15.5
+9.jpg	      0		941	960																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.5
+9.jpg	      0		139	1342																						Open					64.2
+9.jpg	      0		406	1342																						Open					46.9
+9.jpg	      0		674	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				46.9
+9.jpg	      0		941	1342																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				64.2
+9.jpg	      0		139	1724																						Open					100.0
+9.jpg	      0		406	1724																						Open					89.9
+9.jpg	      0		674	1724																						Open	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				89.9
+9.jpg	      0		941	1724																						Limited	".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."				100.0

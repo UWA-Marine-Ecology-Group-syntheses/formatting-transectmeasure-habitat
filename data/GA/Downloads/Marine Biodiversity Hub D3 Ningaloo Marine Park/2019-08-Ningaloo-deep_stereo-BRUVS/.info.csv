@@ -1,0 +1,18 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait quantity (g)","1000",FALSE
+"4","Sampling: Bait consistency","Mushed",FALSE
+"5","Sampling: Camera type","Canon Legria HFG25",FALSE
+"6","Sampling: Camera configuration","Stereo",FALSE
+"7","Sampling: Frame type","Steel",FALSE
+"8","Sampling: Artificial lighting","White",FALSE
+"9","Annotation: Upload type","EventMeasure database output",TRUE
+"10","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"11","Annotation: Taxa that have been ID'd","Fish, Sharks, Rays and sea snakes",FALSE
+"12","Annotation: Observation/Annotation checked by expert","Yes",FALSE
+"13","Annotation: Observer/Anotator experience (>years)","1",FALSE
+"14","Annotation: Lengths measured for","All fish",TRUE
+"15","Annotation: Habitat information from each sample","Cover of benthos and score of complexity",TRUE
+"16","Sampling: Bait deployment","Plastic coated wire mesh bag",FALSE
+"17","Sampling: Bait arm length (m)","1.5",FALSE

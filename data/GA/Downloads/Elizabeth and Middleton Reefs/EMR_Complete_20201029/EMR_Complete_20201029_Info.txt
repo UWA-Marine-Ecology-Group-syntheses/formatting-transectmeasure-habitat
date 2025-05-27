@@ -1,0 +1,173 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+E107	Kristy	-13.2		Date.Collected	5/02/2020	Time.Collected	12:10:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E112	Kristy	-27.3	Camera facing up	Date.Collected	4/02/2020	Time.Collected	15:50:00	Location	E	Status	F	Successful.Count	N	Successful.Length	N	Lights	N		
+E12	Kristy	-20.1		Date.Collected	5/02/2020	Time.Collected	16:13:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E121	Kristy	-30.7		Date.Collected	4/02/2020	Time.Collected	15:32:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E130	Kristy	-52.5		Date.Collected	4/02/2020	Time.Collected	11:31:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E133	Kristy	-26.1		Date.Collected	4/02/2020	Time.Collected	15:54:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E136	Kristy	-97.7		Date.Collected	4/02/2020	Time.Collected	10:50:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E140	Kristy	-13.7		Date.Collected	5/02/2020	Time.Collected	11:45:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E165	Kristy	-32.5		Date.Collected	4/02/2020	Time.Collected	16:10:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E166	Kristy	-17.1		Date.Collected	5/02/2020	Time.Collected	16:08:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E168	Kristy	-33.1		Date.Collected	4/02/2020	Time.Collected	11:21:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E19	Kristy	-56.9		Date.Collected	4/02/2020	Time.Collected	11:36:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E195	Kristy	-45.5		Date.Collected	4/02/2020	Time.Collected	15:28:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E208	Kristy	-30.5		Date.Collected	4/02/2020	Time.Collected	15:38:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	P	Lights	N		
+E213	Kristy	-14.1		Date.Collected	5/02/2020	Time.Collected	11:30:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E231	Kristy	-32.1		Date.Collected	4/02/2020	Time.Collected	16:05:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E236	Kristy	-20.4		Date.Collected	5/02/2020	Time.Collected	15:55:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E243	Kristy	-32.8	Video being re converted	Date.Collected	4/02/2020	Time.Collected	11:12:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E268	Kristy	-17.7		Date.Collected	5/02/2020	Time.Collected	16:04:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E270	Kristy	-29.7		Date.Collected	4/02/2020	Time.Collected	16:00:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E276	Kristy	-79.0		Date.Collected	4/02/2020	Time.Collected	10:46:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E285	Kristy	-31.1		Date.Collected	4/02/2020	Time.Collected	11:15:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E29	Kristy	-16.6		Date.Collected	5/02/2020	Time.Collected	11:15:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E298	Kristy	-16.5		Date.Collected	5/02/2020	Time.Collected	12:30:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E37	Kristy	-17.8	Facing down	Date.Collected	5/02/2020	Time.Collected	15:37:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E39	Kristy	-17.8	"Facing down, only a few measurments "	Date.Collected	5/02/2020	Time.Collected	15:52:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E42	Kristy	-28.3	Facing Down	Date.Collected	4/02/2020	Time.Collected	15:58:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E46	Kristy	-17.9	Facing up	Date.Collected	5/02/2020	Time.Collected	11:55:00	Location	E	Status	F	Successful.Count	N	Successful.Length	N	Lights	N		
+E49	Kristy	-29.9	"on a bommie, constantly moving "	Date.Collected	4/02/2020	Time.Collected	11:00:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E79	Kristy	-18.2	C. galapagensis has been taged	Date.Collected	5/02/2020	Time.Collected	15:45:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E89	Kristy	-5.7		Date.Collected	5/02/2020	Time.Collected	10:50:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E93	Kristy	-16.6		Date.Collected	5/02/2020	Time.Collected	15:32:00	Location	E	Status	F	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M03	Justin	-64.7		Date.Collected	3/02/2020	Time.Collected	9:48:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M06	Kristy	-71.7	Pulled following day	Date.Collected	1/02/2020	Time.Collected	15:07:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M07	Justin	-65.8	"Frame bounces,  Facing up at 30min"	Date.Collected	3/02/2020	Time.Collected	13:45:00	Location	M	Status	NT	Successful.Count	N	Successful.Length	Y	Lights	N		
+M08	Justin	-50.2		Date.Collected	3/02/2020	Time.Collected	9:54:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M104	Kristy	-50.9		Date.Collected	2/02/2020	Time.Collected	10:50:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M105	Kristy	-60.5		Date.Collected	2/02/2020	Time.Collected	16:35:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M109	Kristy	-62.1		Date.Collected	1/02/2020	Time.Collected	9:15:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M110	KB		Tiger takes bait, no second vid after 10ish mins	Date.Collected	3/02/2020	Time.Collected		Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	N	Successful.Length (Y/N)	N	Lights: (Blue/None)	N		
+M113	Kristy	-98.3		Date.Collected	1/02/2020	Time.Collected	9:09:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M116	Kristy	-69.7		Date.Collected	1/02/2020	Time.Collected	15:00:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M119	KB	1.3		Date.Collected	3/02/2020	Time.Collected		Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	Y	Successful.Length (Y/N)	Y	Lights: (Blue/None)	N		
+M123	Kristy	-49.2		Date.Collected	3/02/2020	Time.Collected	9:52:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M13	Justin	-40.5	Scored 283 as 282 stops	Date.Collected	31/01/2020	Time.Collected	12:07:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M132	Kristy	-51.4		Date.Collected	3/02/2020	Time.Collected	15:49:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M137	Kristy	-45.2		Date.Collected	2/02/2020	Time.Collected	16:15:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M141	Kristy	-42.4	Tiger sarks takes bait at 34min extra time	Date.Collected	31/01/2020	Time.Collected	12:58:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M16	Justin	-85.6		Date.Collected	2/02/2020	Time.Collected	16:39:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M161	Kristy	-94.4		Date.Collected	1/02/2020	Time.Collected	15:26:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M163	KB		upside down	Date.Collected	3/2/2020	Time.Collected	11.20	Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	Y	Successful.Length (Y/N)	Y	Lights: (Blue/None)	N		
+M164	Kristy	-25.8		Date.Collected	1/02/2020	Time.Collected	14:47:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M165	KB	1.8		Date.Collected	03/02/2020	Time.Collected	8.53	Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	Y	Successful.Length (Y/N)	Y	Lights: (Blue/None)	N		
+M169	Kristy	-95.2		Date.Collected	2/02/2020	Time.Collected	16:29:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M172	Kristy	-81.6		Date.Collected	3/02/2020	Time.Collected	9:43:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M178	Justin	-70.2	Clapper Board Site Wrong Should be M178 not M17	Date.Collected	1/02/2020	Time.Collected	8:35:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M18	Justin	-44.5		Date.Collected	31/01/2020	Time.Collected	12:34:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M181	Kristy	-55.1		Date.Collected	3/02/2020	Time.Collected	15:35:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M184	Justin	-73.6	BRUV Flips at 43min30 total time Clapper has M46 should be M184	Date.Collected	3/02/2020	Time.Collected	16:05	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M189	Kristy	-89.5		Date.Collected	1/02/2020	Time.Collected	15:15:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M195	Kristy	-94.7		Date.Collected	2/02/2020	Time.Collected	10:40:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M199	Kristy	-63.3		Date.Collected	3/02/2020	Time.Collected	9:18:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M20	Justin	-61.5		Date.Collected	1/02/2020	Time.Collected	9:23:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M201	Kristy	-57.7		Date.Collected	2/02/2020	Time.Collected	16:42:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M21	Justin	-54.3		Date.Collected	3/02/2020	Time.Collected	9:28:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M22	KB	0.8	No CAL files	Date.Collected	3/02/2020	Time.Collected	13.00	Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	Y	Successful.Length (Y/N)	Y	Lights: (Blue/None)	N		
+M226	Kristy	-70.6		Date.Collected	2/02/2020	Time.Collected	16:19:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M228	Kristy	-56.4	r video stops at 30mins	Date.Collected	2/02/2020	Time.Collected	11:05:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	P	Lights	N		
+M245	Kristy			Location		Zone		Site name											
+M268	Kristy	-28.6		Date.Collected	2/02/2020	Time.Collected	16:11:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M27	KB	20		Date.Collected	03/03/2020	Time.Collected		Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	Y	Successful.Length (Y/N)	Y	Lights: (Blue/None)	N		
+M284	Kristy	-48.2	Bait bag taken at 28 mins	Date.Collected	3/02/2020	Time.Collected	9:38:00	Location	M	Status	NT	Successful.Count	N	Successful.Length	Y	Lights	N		
+M29	Justin	-75.4	Started 1 min after hitting the bottom due to sediment	Date.Collected	1/02/2020	Time.Collected	8:20:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length		Lights	N		
+M293	Kristy	-51.0		Date.Collected	3/02/2020	Time.Collected	15:42:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M34	Justin	-26.9		Date.Collected	31/01/2020	Time.Collected	12:43:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length		Lights	N		
+M40	Justin	-80.2	Both Cams Blurry	Date.Collected	2/02/2020	Time.Collected	16:18:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M45	Justin	-98.8	Only Right Cam	Date.Collected	1/02/2020	Time.Collected	8:55:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M50	Justin	-37.7		Date.Collected	3/02/2020	Time.Collected	15:27:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M53	Justin	-49.8	scored Right Image	Date.Collected	2/02/2020	Time.Collected	10:58:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M58	Justin	-30.4	282 only	Date.Collected	3/02/2020	Time.Collected	15:30:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M61	Justin	-46.1	Also has Spanish Lobster	Date.Collected	31/01/2020	Time.Collected	12:27:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M67	Justin	-40.3		Date.Collected	31/01/2020	Time.Collected	12:18:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M69	Justin	-42.7		Date.Collected	3/02/2020	Time.Collected	15:52:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M70	Kristy	-31.8		Date.Collected	1/02/2020	Time.Collected	9:35:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M71	KB	1		Date.Collected	3/02/2020	Time.Collected	09:09	Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	Y	Successful.Length (Y/N)	Y	Lights: (Blue/None)	N		
+M77	KB	1.1m		Date.Collected	3/02/2020	Time.Collected	1.15	Location (E/M)	M	Status (NT/F)	NT	Successful.count (Y/N)	Y	Successful.Length (Y/N)	Y	Lights: (Blue/None)	N 		
+M78	Kristy	-29.9		Date.Collected	3/02/2020	Time.Collected	9:34:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M79	Kristy	-65.1		Date.Collected	2/02/2020	Time.Collected	16:37:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M83	Kristy	-86.3		Date.Collected	1/02/2020	Time.Collected	14:34:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M87	Kristy	-94.5	287 Stops after 6min	Date.Collected	1/02/2020	Time.Collected	8:44:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M92	Kristy	-55.6		Date.Collected	3/02/2020	Time.Collected	9:25:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+N1	Kristy	-92.2		Date.Collected	2/02/2020	Time.Collected	11:10:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+N2	Kristy	-84.9	rope hooked around bait	Date.Collected	2/02/2020	Time.Collected	11:15:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+N3	Kristy	-82.9		Date.Collected	2/02/2020	Time.Collected	11:19:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+N4	Kristy	-93.4		Date.Collected	2/02/2020	Time.Collected	11:25:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+N5	Kristy	-85.5		Date.Collected	2/02/2020	Time.Collected	11:30:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+E_006	JW	6		Date.Collected		Time.Collected		Location	Elizabeth	Status		Successful.Count		Successful.Length		Lights			
+E_124	JW	8		Date.Collected		Time.Collected		Location	Elizabeth	Status		Successful.Count		Successful.Length		Lights			
+E_191	JW	10		Date.Collected		Time.Collected		Location	Elizabeth	Status		Successful.Count		Successful.Length		Lights			
+M183	Kristy			Location		Zone		Site name											
+M04	Joel	-0.9		Date.Collected	31/01/2020	Time.Collected	8:04:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M09	Joel	-1.5		Date.Collected	31/01/2020	Time.Collected	10:26:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M11	Joel	-2.4		Date.Collected	1/02/2020	Time.Collected	14:14:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M12	Joel	-1.2		Date.Collected	2/02/2020	Time.Collected	11:15:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M15	Joel	-1.2		Date.Collected	1/02/2020	Time.Collected	11:05:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M24	Joel	-1.9		Date.Collected	2/02/2020	Time.Collected	11:23:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M25	Joel	-1		Date.Collected	2/02/2020	Time.Collected	10:45:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M30	Joel	-1.2		Date.Collected	1/02/2020	Time.Collected	11:14:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M35	Joel	-2.5		Date.Collected	1/02/2020	Time.Collected	10:43:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M36	Joel	-2.5		Date.Collected	31/01/2020	Time.Collected	12:34:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M43	Joel	-1.7		Date.Collected	1/02/2020	Time.Collected	7:36:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M44	Joel	-1.6		Date.Collected	31/01/2020	Time.Collected	10:23:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M57	Joel	-1.2		Date.Collected	31/01/2020	Time.Collected	10:43:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M59	Joel	-5.1		Date.Collected	31/01/2020	Time.Collected	12:22:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M65	Joel	-2.5		Date.Collected	1/02/2020	Time.Collected	14:27:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M66	Joel	-2		Date.Collected	31/01/2020	Time.Collected	12:40:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M68	Joel	-1		Date.Collected	31/01/2020	Time.Collected	8:44:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M72	Joel	-6		Date.Collected	1/02/2020	Time.Collected	11:26:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M81	Joel	-4.4		Date.Collected	1/02/2020	Time.Collected	8:23:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M84	Joel	-1.4		Date.Collected	2/02/2020	Time.Collected	8:15:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M85	Joel	-1.4		Date.Collected	1/02/2020	Time.Collected	14:03:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M95	Joel	-1		Date.Collected	31/01/2020	Time.Collected	8:50:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M98	Joel	-1.6		Date.Collected	31/01/2020	Time.Collected	10:16:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M102	Joel	-1.2		Date.Collected	1/02/2020	Time.Collected	14:20:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M111	Joel	-1		Date.Collected	31/01/2020	Time.Collected	8:25:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M112	Joel	-2.2		Date.Collected	31/01/2020	Time.Collected	10:48:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M125	Joel	-2.5		Date.Collected	31/01/2020	Time.Collected	12:29:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M130	Joel	-1		Date.Collected	31/01/2020	Time.Collected	8:30:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M131	Joel	-1.9		Date.Collected	31/01/2020	Time.Collected	10:07:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M134	Joel	-1		Date.Collected	2/02/2020	Time.Collected	8:29:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M139	Joel	-5		Date.Collected	1/02/2020	Time.Collected	8:04:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M143	Joel	-2		Date.Collected	2/02/2020	Time.Collected	11:27:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M146	Joel	-4.4		Date.Collected	2/02/2020	Time.Collected	13:43:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M149_1	Joel	-2.4		Date.Collected	31/01/2020	Time.Collected	10:30:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M149_2	Joel	-2.4		Date.Collected	31/01/2020	Time.Collected	10:30:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M154	Joel	-2.2		Date.Collected	31/01/2020	Time.Collected	13:14:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M157	Joel	-6		Date.Collected	1/02/2020	Time.Collected	11:23:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M158	Joel	-0.9		Date.Collected	31/01/2020	Time.Collected	8:12:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M170	Joel	-8		Date.Collected	1/02/2020	Time.Collected	10:38:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M174	Joel	-2.5		Date.Collected	31/01/2020	Time.Collected	10:33:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M177b	Joel	-9		Date.Collected	2/02/2020	Time.Collected	13:54:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M179	Joel	-2		Date.Collected	1/02/2020	Time.Collected	13:48:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M185	Joel	-1.5		Date.Collected	31/01/2020	Time.Collected	12:44:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M186	Joel	-1.1		Date.Collected	31/01/2020	Time.Collected	7:55:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M187	Joel	-1		Date.Collected	31/01/2020	Time.Collected	8:40:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M188	Joel	-1.6		Date.Collected	2/02/2020	Time.Collected	10:30:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M193	Joel	-2.6		Date.Collected	1/02/2020	Time.Collected	14:09:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M_194	JW	1.1		Location	Middleton	Zone		Site name											
+M202	Joel	-11.2		Date.Collected	1/02/2020	Time.Collected	8:29:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M211	Joel	-2.1		Date.Collected	1/02/2020	Time.Collected	14:33:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M217	Joel	-1		Date.Collected	1/02/2020	Time.Collected	7:56:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M_218	JW	1.2		Location	Middleton	Zone		Site name											
+M_222	JW	1.7		Location	Middleton	Zone		Site name											
+M_224	JW	1.6		Location	Middleton	Zone		Site name											
+M_233	JW	20		Location	Middleton	Zone		Site name											
+M_239	JW	1.3		Location	Middleton	Zone		Site name											
+M_240	JW	1.1		Location	Middleton	Zone		Site name											
+M_241	JW	1.3		Location	Middleton	Zone		Site name											
+M_250	JW	2.8		Location	Middleton	Zone		Site name											
+M_255	JW	1		Location	Middleton	Zone		Site name											
+M257	Kristy			Date.Collected	3/02/2020	Time.Collected	10:35	Location	Middleton	Status	No Take	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M_263	JW	2.1		Location	Middleton	Zone		Site name											
+M269	Joel	-5.2		Date.Collected	1/02/2020	Time.Collected	8:13:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M_273	JW	1.1		Location	Middleton	Zone		Site name											
+M274	Kristy			Date.Collected	11:16	Time.Collected	3/02/2020	Location	M	Status	NT	Successful.Count	Y	Successful.Length	N	Lights	N		
+M283	Joel	-2.3		Date.Collected	1/02/2020	Time.Collected	10:47:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M_286	JW	1.3		Location	Middleton	Zone		Site name											
+M291	Joel	-1.1		Date.Collected	1/02/2020	Time.Collected	8:56:00	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M_292	JW	1.8		Location	Middleton	Zone		Site name											
+M294	Kristy			Date.Collected	9:22	Time.Collected	3/02/2020	Location	M	Status	NT	Successful.Count	Y	Successful.Length	Y	Lights	N		
+M_296	JW	1		Location	Middleton	Zone		Site name											
+M_298	JW	1.4		Location	Middleton	Zone		Site name											

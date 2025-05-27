@@ -1,0 +1,49 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+FB_S1_R1	TClarke	31.0	Starts at 1:22. Camera tilted up	Habitat	Sand	Soak time	60	FOV		Bias		Vis							
+FB_S1_R10	TClarke		Starts at 1:35	Habitat		Soak time	60	FOV		Bias		Vis							
+FB_S1_R11	TClarke		Starts at 1:01. Tilted up	Habitat		Soak time	60	FOV		Bias		Vis							
+FB_S1_R12	TClarke		Starts at 1:36. Tilted up	Habitat		Soak time	60	FOV		Bias		Vis							
+FB_S1_R2	TClarke	30.8	Starts at 0:50	Habitat	Sand/rubble	Soak time	60	FOV		Bias		Vis							
+FB_S1_R3	TClarke		Starts at 1:00	Habitat	Sand/rubble	Soak time	60	FOV		Bias		Vis							
+FB_S1_R4	TClarke		Starts at 1:08. BRUV facing straight up	Habitat		Soak time	60	FOV		Bias		Vis							
+FB_S1_R5	TClarke		Starts at 1:36. Facing upwards	Habitat	Coral/Sand	Soak time	60	FOV		Bias		Vis							
+FB_S1_R6	TClarke		Starts at 2:16. Tilted up	Habitat		Soak time	60	FOV		Bias		Vis							
+FB_S1_R7	TClarke		Starts at 0:55. Tiltedupwards. Stopped at 50:48	Habitat		Soak time	60	FOV		Bias		Vis							
+FB_S1_R8	TClarke		Starts at 3:06. Coral	Habitat	Rubble/coral	Soak time	60	FOV		Bias		Vis							
+FB_S1_R9	TClarke		Starts 0:41. Stops early @ 6:10	Habitat		Soak time		FOV	60	Bias		Vis							
+FB_S2_R1	TClarke		Starts at 2:41	Habitat	Reef	Soak time	60	FOV		Bias		Vis							
+FB_S2_R10	TClarke		Starts at 2:37	Habitat	Seagrass/kelp	Soak time	60	FOV		Bias		Vis							
+FB_S2_R11	TClarke		Startst at 3:00	Habitat	Kelp	Soak time	60	FOV		Bias		Vis							
+FB_S2_12	TClarke		Starts at 2:33	Habitat	Sand/kelp	Soak time	60	FOV		Bias		Vis							
+FB_S2_R2	TClarke		Starts at 2:11	Habitat	Algae	Soak time	60	FOV		Bias		Vis							
+FB_S2_R3	TClarke		Starts at 3:35	Habitat	Reef/kelp	Soak time	60	FOV		Bias		Vis							
+FB_S2_R4	TClarke		Starts at 2:21	Habitat	Reef/kelp	Soak time	60	FOV		Bias		Vis							
+FB_S2_R5	TClarke		Starts at 3:12	Habitat	Kelp/reef	Soak time	60	FOV		Bias		Vis							
+FB_S2_R6	TClarke		Starts at 2:01	Habitat	Kelp/reef	Soak time	60	FOV		Bias		Vis							
+FB_S2_R7	TClarke		Starts at 1:18	Habitat	Sand	Soak time	60	FOV		Bias		Vis							
+FB_S2_R8	TClarke		Starts at 2:09	Habitat	Sand/reef	Soak time	60	FOV		Bias		Vis							
+FB_S2_R9	TClarke		Starts at 2:56. Facing up	Habitat	Unknown (kelp?)	Soak time	60	FOV		Bias		Vis							
+FB_S3_R1	TClarke		Starts at 0:48	Habitat	Kelp	Soak time	60	FOV		Bias		Vis							
+FB_S3_R10	TClarke		Starts at 3:03	Habitat	Sand	Soak time	60	FOV		Bias		Vis							
+FB_S3_R11	TClarke		Starts at 0:34	Habitat	Unknown	Soak time	60	FOV		Bias		Vis							
+FB_S3_R12	TClarke		Starts at 0:44	Habitat	Reef	Soak time	60	FOV		Bias		Vis							
+FB_S3_R2	TClarke		Starts at 0:37	Habitat	Reef	Soak time	60	FOV		Bias		Vis							
+FB_S3_R3	TClarke		Starts at 0:31	Habitat	Kelp	Soak time	60	FOV		Bias		Vis							
+FB_S3_R4	TClarke		Starts at 1:28	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S3_R5	TClarke 		Starts at 0:41.Tilted up	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S3_R6	TClarke		Starts at 0:38	Habitat	Sand	Soak time	60	FOV		Bias		Vis							
+FB_S3_R7	TClarke		Starts at 0:33	Habitat	Sand/Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S3_R8	TClarke		Starts at 2:18	Habitat	Sand/seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S3_R9	TClarke		Starts at 5:13	Habitat	Sand/seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R1	TClarke		Starts at 0:29	Habitat	Sand	Soak time	60	FOV		Bias		Vis							
+FB_S4_R10	TClarke		Starts at 1:58	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R11	TClarke		Starts at 2:40	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R12	TClarke		Starts at 1:25	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R2	TClarke		Starts at 2:01	Habitat	Sand	Soak time	60	FOV		Bias		Vis							
+FB_S4_R3	TClarke		Starts at 1:08	Habitat	Sand/seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R4	TClarke		Starts at 0:58	Habitat	Sand	Soak time	60	FOV		Bias		Vis							
+FB_S4_R5	TClarke		Starts at 1:58. Facing up	Habitat	unknown	Soak time	60	FOV		Bias		Vis							
+FB_S4_R6	TClarke		Starts at 1:08. Facing up. Obstructed	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R7	TClarke		Starts at 0:21	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R8	TClarke		Starts at 1:31	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							
+FB_S4_R9	TClarke		Starts at 1:36	Habitat	Seagrass	Soak time	60	FOV		Bias		Vis							

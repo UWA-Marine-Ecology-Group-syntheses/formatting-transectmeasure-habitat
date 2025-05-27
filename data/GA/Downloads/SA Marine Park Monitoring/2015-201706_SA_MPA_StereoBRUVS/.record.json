@@ -1,0 +1,69 @@
+{
+  "created_at": ["2019-08-26T04:06:42.531889"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [422],
+  "description": ["State Marine Park data, In and out of SZ for 2015-June 2017 (excluding Upper GSV)"],
+  "files": [
+    {
+      "id": 10280,
+      "iscompressed": true,
+      "name": "2015-201706_SA_MPA_StereoBRUVS_Count.csv",
+      "user_id": 60
+    },
+    {
+      "id": 10281,
+      "iscompressed": true,
+      "name": "2015-201706_SA_MPA_StereoBRUVS_Length.csv",
+      "user_id": 60
+    },
+    {
+      "id": 10282,
+      "iscompressed": true,
+      "name": "2015-201706_SA_MPA_StereoBRUVS_Metadata.csv",
+      "user_id": 60
+    }
+  ],
+  "id": [938],
+  "info": [],
+  "name": ["2015-201706_SA_MPA_StereoBRUVS"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [168],
+    "is_public": [false],
+    "name": ["SA Marine Park Monitoring"]
+  },
+  "project_id": [168],
+  "user": {
+    "email": ["danny.brock@sa.gov.au"],
+    "first_name": ["Daniel"],
+    "id": [60],
+    "is_admin": [false],
+    "last_name": ["Brock"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    },
+    {
+      "current_user_is_member": false,
+      "current_user_is_owner": true,
+      "id": 280,
+      "is_public": false,
+      "name": "Flinders and DEW"
+    }
+  ]
+}

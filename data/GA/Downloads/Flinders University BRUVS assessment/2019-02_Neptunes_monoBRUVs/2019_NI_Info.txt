@@ -1,0 +1,37 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+DR_R1	Caitlin/Christine			Habitat	Reef/Algae	Date	16/02/19												
+DR_R2	Caitlin/Christine		not reef	Habitat	Algae/sand	Date	16/2/19												
+DR_R3	Caitlin/Christine		facing down	Habitat	reef	Date	16/2/19												
+DR_R4	Caitlin/Christine			Habitat		Date	16/2/19												
+DR_R5	Caitlin/Christine			Habitat	rock / algae	Date	16/2/19												
+DR_R6	Caitlin/Christine			Habitat	sand / grass	Date	16/2/19												
+DR_S1	Caitlin/Christine			Habitat	Sand	Date	16/2/19												
+DR_S2	Caitlin/Christine			Habitat	Sand/Algae	Date	16/2/19												
+DR_S3	Caitlin/Christine			Habitat	sand/algae	Date	16/02/19												
+DR_S4	Caitlin/christine			Habitat	rocky bottom	Date	16/02/19												
+DR_S5	caitlin/Christine			Habitat	Sand	Date	16/2/19												
+DR_S6	Caitlin/Christine		Slight facing up, foggy lens	Habitat	Sand/Seagrass	Date	16/2/19												
+NN_R1	Caitlin/Christine		algae obstructing view 	Habitat	Reef/Algae	Date	14/02/19												
+NN_R2	Caitlin/Christine		facing up	Habitat	reef	Date	14/02/19 												
+NN_R3	CAITLIN			Habitat		Date	14/02/19												
+NN_R4	Caitlin			Habitat	Reef	Date	15/02/19												
+NN_R5	CAITLIN		obstructed by algae, tilted	Habitat	REEF/ALGAE	Date	15/02/19												
+NN_R6	Christine		Algae often blocking viewm bruv tip down at 27.47, again at 30.05	Habitat	Reef	Date	15/02/19												
+NN_S1	Caitlin/Christine		unstable position, view partially blocked by algae	Habitat	reef	Date	15/02/19												
+NN_S2	Caitlin/Christine			Habitat	reef not sand	Date	15/02/19												
+NN_S3	Caitlin			Habitat	SAND	Date	15/02/19												
+NN_S4	CAITLIN			Habitat	ALGAE	Date	15/02/19												
+NN_S5	Caitlin			Habitat	Seagrass	Date	15/02/19												
+NN_S6	Christine		Facing up, unwatchable	Habitat	Seagrass	Date	15/2/19												
+SN_R1	Christine		Algae obstructing view	Habitat	Sand and Algae	Date	14/2/19												
+SN_R2	Caitlin		landed on side	Habitat		Date	14/02/19												
+SN_R3	Caitlin			Habitat		Date	14/02/19												
+SN_R4	CAITLIN		Tilted	Habitat	Reef/Algae	Date	14/02/19												
+SN_R5	Caitlin		facing down, unwatchable	Habitat		Date	14/02/19												
+SN_R6	Caitlin			Habitat		Date	14/02/19												
+SN_S1	CAITLIN			Habitat	Sand	Date	14/2/19												
+SN_S2	CAITLIN			Habitat	sand	Date	14/02/19												
+SN_S3	Caitlin			Habitat	sand/algae	Date	14/2/19												
+SN_S4	Caitlin			Habitat	Sand	Date	14/02/19												
+SN_S5	Caitlin		Half obstrcuted by algae	Habitat	Reef not sand 	Date	14/2/19												
+SN_S6	Caitlin			Habitat		Date	14/02/19												

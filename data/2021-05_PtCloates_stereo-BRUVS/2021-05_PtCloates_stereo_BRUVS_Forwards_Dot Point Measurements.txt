@@ -1,0 +1,505 @@
+Dot Point Measurements
+
+Generated: Tuesday 24 January 2023 14:45:35
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Frame info 1	Frame info 2	Frame info 3	Frame info 4	Frame info 5	Frame info 6	BROAD	MORPHOLOGY	TYPE	FieldOfView	Relief	CODE			Radius %
+1.jpg	      0		829	356																			Unknown			Open					51.1
+1.jpg	      0		779	463																			Sponges	Massive forms		Open		10000903			40.0
+1.jpg	      0		879	1059																			Sponges	Erect forms		Open		10000912			23.3
+1.jpg	      0		822	1838																			Invertebrate Complex	Complex 1		Open					100.0
+1.jpg	      0		547	1704																			Unknown			Open					89.3
+1.jpg	      0		767	510																			Invertebrate Complex	Complex 1		Open					35.2
+1.jpg	      0		837	644																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			22.5
+1.jpg	      0		958	289																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			60.7
+1.jpg	      0		965	1116																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			32.8
+1.jpg	      0		1022	1307																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			52.4
+1.jpg	      0		556	1369																			Sponges	Massive forms		Open		10000903			56.7
+1.jpg	      0		564	1492																			Octocoral/Black	Branching (3D)		Open		11168902			68.1
+1.jpg	      0		768	747																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			11.1
+1.jpg	      0		772	161																			Sponges	Massive forms		Open		10000903			70.7
+1.jpg	      0		575	37																			Open Water			Open					85.7
+1.jpg	      0		624	1657																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			82.9
+1.jpg	      0		843	211																			Unknown			Open					65.9
+1.jpg	      0		991	667																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			29.3
+1.jpg	      0		663	815																			Invertebrate Complex	Complex 1		Open					11.9
+1.jpg	      0		707	676																			Sponges	Massive forms		Open		10000903			19.5
+10.jpg	      0		699	205																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			70.2
+10.jpg	      0		565	1333																			Unknown			Open					66.3
+10.jpg	      0		699	817																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			8.0
+10.jpg	      0		922	420																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			48.2
+10.jpg	      0		579	630																			Unknown			Open					29.6
+10.jpg	      0		832	1655																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+10.jpg	      0		797	772																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			5.1
+10.jpg	      0		1004	1377																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			72.8
+10.jpg	      0		693	872																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			11.8
+10.jpg	      0		815	778																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			6.4
+10.jpg	      0		717	642																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			19.5
+10.jpg	      0		799	1434																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			73.9
+10.jpg	      0		782	315																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			56.9
+10.jpg	      0		821	220																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			68.2
+10.jpg	      0		661	1215																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			49.8
+10.jpg	      0		551	628																			Unknown			Open					32.2
+10.jpg	      0		558	1008																			Unknown			Open					34.2
+10.jpg	      0		1019	1107																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			46.4
+10.jpg	      0		811	193																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			71.3
+10.jpg	      0		990	417																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			52.1
+11.jpg	      0		1009	1008																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			25.0
+11.jpg	      0		895	1635																			Octocoral/Black	Branching (3D)		Open		11168902			70.0
+11.jpg	      0		1071	1259																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			37.8
+11.jpg	      0		689	1354																			Unknown			Open					38.2
+11.jpg	      0		636	515																			Unknown			Open					76.7
+11.jpg	      0		835	541																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			69.4
+11.jpg	      0		874	442																			Invertebrate Complex	Complex 1		Open					82.1
+11.jpg	      0		906	1795																			Invertebrate Complex	Complex 1		Open					90.3
+11.jpg	      0		721	658																			Invertebrate Complex	Complex 1		Open					56.2
+11.jpg	      0		922	1720																			Invertebrate Complex	Complex 1		Open					81.2
+11.jpg	      0		550	1623																			Unknown			Open					76.7
+11.jpg	      0		1071	594																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			69.8
+11.jpg	      0		762	1621																			Unknown			Open					68.2
+11.jpg	      0		913	520																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			72.8
+11.jpg	      0		677	1657																			Unknown			Open					74.9
+11.jpg	      0		812	300																			Sponges	Massive forms		Open		10000903			100.0
+11.jpg	      0		833	1854																			Unknown			Open					97.3
+11.jpg	      0		785	1662																			Hydroids			Open		11001000			73.1
+11.jpg	      0		803	616																			Invertebrate Complex	Complex 1		Open					60.0
+11.jpg	      0		808	375																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			90.5
+12.jpg	      0		984	1191																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			14.6
+12.jpg	      0		976	1748																			Invertebrate Complex	Complex 1		Open					71.5
+12.jpg	      0		1008	568																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			66.3
+12.jpg	      0		753	1533																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			47.8
+12.jpg	      0		557	1661																			Unknown			Open					70.3
+12.jpg	      0		1048	417																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			84.2
+12.jpg	      0		580	780																			Unknown			Open					52.1
+12.jpg	      0		863	762																			Hydroids			Open		11001000			42.2
+12.jpg	      0		1052	896																			Hydroids			Open		11001000			34.0
+12.jpg	      0		825	258																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+12.jpg	      0		782	796																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			39.6
+12.jpg	      0		1043	1873																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			87.0
+12.jpg	      0		755	1066																			Unknown			Open					15.1
+12.jpg	      0		802	1235																			Unknown			Limited					14.1
+12.jpg	      0		987	1855																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			83.7
+12.jpg	      0		919	1438																			Unknown			Limited					35.4
+12.jpg	      0		950	857																			Invertebrate Complex	Complex 1		Open					32.7
+12.jpg	      0		736	1080																			Unknown			Limited					16.5
+12.jpg	      0		1039	887																			Hydroids			Open		11001000			33.9
+12.jpg	      0		748	1734																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			70.2
+13.jpg	      0		681	1058																			Unknown			Limited					19.1
+13.jpg	      0		720	1665																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			74.4
+13.jpg	      0		735	58																			Unknown			Open					96.0
+13.jpg	      0		1048	981																			Bryozoa			Open		20000000			22.2
+13.jpg	      0		957	840																			Bryozoa			Open		20000000			18.3
+13.jpg	      0		988	316																			Sponges	Erect forms		Open		10000912			70.1
+13.jpg	      0		719	1243																			Unknown			Limited					31.5
+13.jpg	      0		964	1027																			Octocoral/Black	Branching (3D)		Open		11168902			14.7
+13.jpg	      0		721	1912																			Octocoral/Black	Branching (3D)		Open		11168902			100.0
+13.jpg	      0		975	484																			Invertebrate Complex	Complex 1		Open					52.7
+13.jpg	      0		1024	751																			Bryozoa			Open		20000000			29.9
+13.jpg	      0		709	1889																			Unknown			Open					97.8
+13.jpg	      0		648	1451																			Unknown			Open					54.6
+13.jpg	      0		863	1628																			Unknown			Limited					69.5
+13.jpg	      0		1024	1491																			Sponges	Massive forms		Open		10000903			58.4
+13.jpg	      0		599	355																			Octocoral/Black	Branching (3D)		Open		11168902			69.0
+13.jpg	      0		859	561																			Invertebrate Complex	Complex 1		Open					42.6
+13.jpg	      0		777	804																			Invertebrate Complex	Complex 1		Open					18.2
+13.jpg	      0		792	519																			Invertebrate Complex	Complex 1		Open					47.2
+13.jpg	      0		954	299																			Invertebrate Complex	Complex 1		Open					71.1
+14.jpg	      0		565	1507																			Unknown			Open					47.0
+14.jpg	      0		854	230																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			81.2
+14.jpg	      0		653	1684																			Octocoral/Black	Branching (3D)		Open		11168902			59.8
+14.jpg	      0		725	293																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			75.3
+14.jpg	      0		739	1353																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			27.1
+14.jpg	      0		578	1708																			Unknown			Open					64.1
+14.jpg	      0		1066	1744																			Unknown			Limited					68.7
+14.jpg	      0		749	570																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			48.8
+14.jpg	      0		677	1145																			Unknown			Open					13.5
+14.jpg	      0		587	1285																			Unknown			Open					28.6
+14.jpg	      0		701	1576																			Unknown			Open					48.8
+14.jpg	      0		898	674																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			39.6
+14.jpg	      0		806	32																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+14.jpg	      0		1070	1357																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			37.2
+14.jpg	      0		744	419																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			63.2
+14.jpg	      0		790	1174																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			9.4
+14.jpg	      0		985	1100																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			17.8
+14.jpg	      0		1032	73																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			98.6
+14.jpg	      0		967	1824																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			73.3
+14.jpg	      0		828	1783																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			67.7
+15.jpg	      0		766	235																			Invertebrate Complex	Complex 1		Open					80.1
+15.jpg	      0		574	95																			Sponges	Massive forms		Open		10000903			97.6
+15.jpg	      0		948	727																			Invertebrate Complex	Complex 1		Open					32.8
+15.jpg	      0		892	1638																			Octocoral/Black	Branching (3D)		Open		11168902			68.8
+15.jpg	      0		1049	83																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+15.jpg	      0		823	392																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			63.7
+15.jpg	      0		563	1353																			Unknown			Open					44.8
+15.jpg	      0		983	1727																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			79.9
+15.jpg	      0		723	1302																			Unknown			Open					33.1
+15.jpg	      0		997	1649																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			72.4
+15.jpg	      0		804	940																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			6.0
+15.jpg	      0		588	1819																			Unknown			Open					89.5
+15.jpg	      0		597	1705																			Unknown			Open					77.6
+15.jpg	      0		607	456																			Unknown			Open					60.0
+15.jpg	      0		655	470																			Unknown			Open					57.2
+15.jpg	      0		1053	1456																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			56.0
+15.jpg	      0		711	1378																			Unknown			Open					41.2
+15.jpg	      0		938	933																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			16.9
+15.jpg	      0		723	348																			Sponges	Massive forms		Open		10000903			68.6
+15.jpg	      0		806	1188																			Unknown			Limited					20.5
+16.jpg	      0		656	381																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			21.5
+16.jpg	      0		967	1741																			Unknown			Open					100.0
+16.jpg	      0		783	138																			Unconsolidated	Pebble / gravel (gravel 2-10mm)		Open		82001011			36.7
+16.jpg	      0		545	219																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			38.1
+16.jpg	      0		761	526																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			6.6
+16.jpg	      0		576	544																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			21.4
+16.jpg	      0		863	456																			Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			10.1
+16.jpg	      0		725	29																			Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			46.6
+16.jpg	      0		946	1644																			Unknown			Open					91.6
+16.jpg	      0		888	616																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			6.6
+16.jpg	      0		1069	1269																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			62.7
+16.jpg	      0		998	586																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			14.6
+16.jpg	      0		968	10																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			48.9
+16.jpg	      0		660	484																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			15.8
+16.jpg	      0		660	443																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			17.7
+16.jpg	      0		1048	628																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			19.4
+16.jpg	      0		1016	392																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			21.9
+16.jpg	      0		1032	1014																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			41.5
+16.jpg	      0		681	173																			Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			35.7
+16.jpg	      0		694	83																			Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			42.6
+17.jpg	      0		1021	1570																			Unknown			Limited					70.5
+17.jpg	      0		979	1267																			Invertebrate Complex	Complex 1		Open					38.6
+17.jpg	      0		1034	268																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			75.7
+17.jpg	      0		862	828																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			13.0
+17.jpg	      0		847	1210																			Unknown			Limited					28.7
+17.jpg	      0		594	328																			Unknown			Open					70.2
+17.jpg	      0		570	1235																			Unknown			Open					41.3
+17.jpg	      0		612	33																			Unknown			Open					100.0
+17.jpg	      0		808	980																			Invertebrate Complex	Complex 1		Open					4.3
+17.jpg	      0		955	1288																			Octocoral/Black	Branching (3D)		Open		11168902			39.7
+17.jpg	      0		712	1867																			Unknown			Open					99.7
+17.jpg	      0		917	952																			Octocoral/Black	Branching (3D)		Open		11168902			10.3
+17.jpg	      0		920	438																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			55.0
+17.jpg	      0		581	167																			Unknown			Open					87.0
+17.jpg	      0		866	894																			Invertebrate Complex	Complex 1		Open					7.1
+17.jpg	      0		752	1013																			Unknown			Open					10.6
+17.jpg	      0		1017	708																			Hydroids			Open		11001000			32.8
+17.jpg	      0		786	1845																			Invertebrate Complex	Complex 1		Open					96.7
+17.jpg	      0		574	784																			Unknown			Open					31.4
+17.jpg	      0		1012	1177																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			32.3
+18.jpg	      0		674	757																			Unknown			Open					22.9
+18.jpg	      0		666	1816																			Unknown			Open					100.0
+18.jpg	      0		944	312																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			64.4
+18.jpg	      0		731	233																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			72.5
+18.jpg	      0		1061	1552																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			74.3
+18.jpg	      0		978	684																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			28.1
+18.jpg	      0		1048	753																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			28.2
+18.jpg	      0		601	819																			Unknown			Open					26.2
+18.jpg	      0		716	903																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			12.3
+18.jpg	      0		864	1692																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			85.2
+18.jpg	      0		558	838																			Unknown			Open					30.1
+18.jpg	      0		927	371																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			57.9
+18.jpg	      0		750	12																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			95.9
+18.jpg	      0		801	842																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			7.0
+18.jpg	      0		565	1511																			Unknown			Open					71.6
+18.jpg	      0		1001	1439																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			60.7
+18.jpg	      0		748	697																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			23.6
+18.jpg	      0		1060	193																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			79.9
+18.jpg	      0		985	1370																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			53.2
+18.jpg	      0		936	1210																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			35.2
+19.jpg	      0		897	957																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			11.8
+19.jpg	      0		1040	373																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			73.6
+19.jpg	      0		984	1899																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+19.jpg	      0		638	387																			Unknown			Open					69.6
+19.jpg	      0		701	318																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			75.5
+19.jpg	      0		541	973																			Unknown			Open					28.4
+19.jpg	      0		802	1472																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			51.2
+19.jpg	      0		709	836																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			20.8
+19.jpg	      0		705	1612																			Unknown			Open					67.3
+19.jpg	      0		841	1185																			Unknown			Limited					20.4
+19.jpg	      0		698	1063																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			12.9
+19.jpg	      0		1008	1561																			Unknown			Limited					65.1
+19.jpg	      0		806	1505																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			54.8
+19.jpg	      0		743	672																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			36.7
+19.jpg	      0		775	647																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			39.0
+19.jpg	      0		623	653																			Unknown			Open					42.8
+19.jpg	      0		1046	400																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			71.1
+19.jpg	      0		999	682																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			41.2
+19.jpg	      0		590	1558																			Unknown			Open					64.8
+19.jpg	      0		849	1304																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			33.3
+2.jpg	      0		587	1098																			Unknown			Open					19.9
+2.jpg	      0		1031	1578																			Unknown			Limited					53.7
+2.jpg	      0		715	1453																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			37.0
+2.jpg	      0		1008	846																			Hydroids			Open		11001000			31.0
+2.jpg	      0		781	50																			Hydroids			Open		11001000			100.0
+2.jpg	      0		807	602																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			46.4
+2.jpg	      0		885	982																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			13.2
+2.jpg	      0		1029	1070																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			23.1
+2.jpg	      0		1070	1799																			Unknown			Limited					74.9
+2.jpg	      0		909	1354																			Unknown			Limited					29.0
+2.jpg	      0		613	1133																			Unknown			Open					18.0
+2.jpg	      0		611	1571																			Unknown			Open					50.8
+2.jpg	      0		578	1146																			Unknown			Open					21.7
+2.jpg	      0		800	566																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			50.0
+2.jpg	      0		687	822																			Unknown			Open					27.1
+2.jpg	      0		867	976																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			12.5
+2.jpg	      0		570	1892																			Octocoral/Black	Whip		Open		11168917			81.7
+2.jpg	      0		624	1878																			Unknown			Open					79.2
+2.jpg	      0		708	456																			Unknown			Open					61.1
+2.jpg	      0		944	332																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			74.2
+21.jpg	      0		829	1403																			Unknown			Limited					37.6
+21.jpg	      0		683	1183																			Unknown			Open					19.9
+21.jpg	      0		718	1911																			Unknown			Open					87.9
+21.jpg	      0		874	990																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			7.5
+21.jpg	      0		641	261																			Octocoral/Black	Fan (2D)		Open		11168912			76.5
+21.jpg	      0		694	879																			Unknown			Limited					17.8
+21.jpg	      0		1017	1096																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			22.1
+21.jpg	      0		1000	819																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			27.7
+21.jpg	      0		656	695																			Unknown			Open					35.4
+21.jpg	      0		1002	1425																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			44.2
+21.jpg	      0		709	1800																			Octocoral/Black	Fan (2D)		Open		11168912			77.1
+21.jpg	      0		679	218																			Octocoral/Black	Fan (2D)		Open		11168912			80.1
+21.jpg	      0		796	1412																			Unknown			Limited					38.4
+21.jpg	      0		907	781																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			25.8
+21.jpg	      0		869	1083																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			8.7
+21.jpg	      0		1061	720																			Invertebrate Complex	Complex 1		Open					39.0
+21.jpg	      0		647	331																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			69.7
+21.jpg	      0		1072	1731																			Unknown			Limited					74.6
+21.jpg	      0		541	1687																			Octocoral/Black	Branching (3D)		Open		11168902			70.4
+21.jpg	      0		705	10																			Unknown			Open					100.0
+22.jpg	      0		711	1368																			Unknown			Open					36.7
+22.jpg	      0		922	335																			Invertebrate Complex	Complex 1		Open					75.2
+22.jpg	      0		577	1736																			Unknown			Open					78.0
+22.jpg	      0		634	567																			Unknown			Open					53.8
+22.jpg	      0		787	431																			Sponges	Massive forms		Open		10000903			64.4
+22.jpg	      0		646	1378																			Unknown			Open					40.3
+22.jpg	      0		842	1880																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			88.8
+22.jpg	      0		624	1334																			Unknown			Open					37.6
+22.jpg	      0		827	339																			Sponges	Massive forms		Open		10000903			74.0
+22.jpg	      0		872	1556																			Unknown			Limited					54.8
+22.jpg	      0		970	1213																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			24.0
+22.jpg	      0		647	1104																			Unknown			Open					19.9
+22.jpg	      0		1056	1117																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			25.9
+22.jpg	      0		1056	1588																			Octocoral/Black	Branching (3D)		Open		11168902			62.9
+22.jpg	      0		918	1074																			Invertebrate Complex	Complex 1		Open					10.6
+22.jpg	      0		1036	230																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			88.5
+22.jpg	      0		815	93																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+22.jpg	      0		896	1350																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			33.7
+22.jpg	      0		782	1440																			Invertebrate Complex	Complex 1		Open					42.5
+22.jpg	      0		851	659																			Invertebrate Complex	Complex 1		Open					40.3
+23.jpg	      0		963	1798																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			79.8
+23.jpg	      0		996	989																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			22.0
+23.jpg	      0		955	1378																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			36.1
+23.jpg	      0		855	478																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			64.8
+23.jpg	      0		709	1327																			Unknown			Limited					29.4
+23.jpg	      0		668	363																			Unknown			Open					78.7
+23.jpg	      0		1002	1656																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			66.1
+23.jpg	      0		947	162																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+23.jpg	      0		683	454																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			68.8
+23.jpg	      0		871	632																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			48.4
+23.jpg	      0		1022	1853																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			87.1
+23.jpg	      0		591	1414																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			43.8
+23.jpg	      0		976	1034																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			18.2
+23.jpg	      0		659	1525																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			51.4
+23.jpg	      0		662	517																			Unknown			Open					62.6
+23.jpg	      0		590	564																			Unknown			Open					60.5
+23.jpg	      0		723	1363																			Unknown			Limited					32.6
+23.jpg	      0		598	1626																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			63.9
+23.jpg	      0		807	1032																			Unknown			Limited					4.8
+23.jpg	      0		973	1353																			Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			34.7
+25.jpg	      0		1060	1548																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			72.3
+25.jpg	      0		636	414																			Unknown			Open					38.9
+25.jpg	      0		881	1887																			Invertebrate Complex	Complex 1		Open					100.0
+25.jpg	      0		784	831																			Octocoral/Black	Branching (3D)		Open		11168902			4.3
+25.jpg	      0		834	1193																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			36.3
+25.jpg	      0		781	1082																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			26.2
+25.jpg	      0		585	1002																			Unknown			Open					28.3
+25.jpg	      0		627	1198																			Unknown			Open					40.6
+25.jpg	      0		923	41																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			70.0
+25.jpg	      0		1060	501																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			35.2
+25.jpg	      0		1039	1059																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			31.4
+25.jpg	      0		630	203																			Unknown			Open					57.2
+25.jpg	      0		722	318																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			44.8
+25.jpg	      0		609	1147																			Sponges	Massive forms		Open		10000903			37.3
+25.jpg	      0		801	222																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			52.8
+25.jpg	      0		1030	1279																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			48.3
+25.jpg	      0		758	435																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			33.7
+25.jpg	      0		833	325																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			43.4
+25.jpg	      0		792	295																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			46.1
+25.jpg	      0		958	975																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			20.7
+26.jpg	      0		814	402																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			60.9
+26.jpg	      0		874	661																			Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			33.9
+26.jpg	      0		980	1746																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			82.4
+26.jpg	      0		761	1475																			Unknown			Open					52.8
+26.jpg	      0		1071	1749																			Unknown			Limited					85.0
+26.jpg	      0		912	1715																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			78.0
+26.jpg	      0		623	872																			Unknown			Open					24.5
+26.jpg	      0		924	427																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			59.0
+26.jpg	      0		904	33																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+26.jpg	      0		975	1393																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			46.3
+26.jpg	      0		973	595																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			43.3
+26.jpg	      0		774	114																			Unknown			Open					91.3
+26.jpg	      0		696	530																			Unknown			Open					49.3
+26.jpg	      0		628	1423																			Unknown			Open					51.4
+26.jpg	      0		836	457																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			55.0
+26.jpg	      0		751	1581																			Unknown			Open					64.0
+26.jpg	      0		761	1662																			Unknown			Open					72.3
+26.jpg	      0		593	1593																			Unknown			Open					69.4
+26.jpg	      0		1019	248																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			79.7
+26.jpg	      0		713	905																			Unknown			Open					14.5
+27.jpg	      0		895	1051																			Octocoral/Black	Fan (2D)		Open		11168912			8.6
+27.jpg	      0		833	1493																			Unknown			Limited					41.4
+27.jpg	      0		801	1688																			Unknown			Open					60.1
+27.jpg	      0		767	1460																			Unknown			Open					38.3
+27.jpg	      0		954	307																			Octocoral/Black	Branching (3D)		Open		11168902			74.5
+27.jpg	      0		1027	52																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+27.jpg	      0		840	107																			Octocoral/Black	Branching (3D)		Open		11168902			92.5
+27.jpg	      0		593	1399																			Unknown			Open					38.3
+27.jpg	      0		994	1896																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			82.2
+27.jpg	      0		607	1182																			Octocoral/Black	Fan (2D)		Open		11168912			22.4
+27.jpg	      0		721	174																			Octocoral/Black	Branching (3D)		Open		11168902			86.4
+27.jpg	      0		705	1567																			Unknown			Open					49.5
+27.jpg	      0		831	1329																			Sponges	Hollow forms		Open		10000909			25.6
+27.jpg	      0		620	1426																			Unknown			Open					39.2
+27.jpg	      0		902	1141																			Invertebrate Complex	Complex 1		Open					11.8
+27.jpg	      0		990	875																			Invertebrate Complex	Complex 1		Open					25.4
+27.jpg	      0		781	1253																			Sponges	Hollow forms		Open		10000909			18.3
+27.jpg	      0		834	831																			Octocoral/Black	Fan (2D)		Open		11168912			22.7
+27.jpg	      0		683	1798																			Unknown			Open					71.7
+27.jpg	      0		760	265																			Octocoral/Black	Branching (3D)		Open		11168902			77.3
+3.jpg	      0		799	1679																			Unknown			Open					60.5
+3.jpg	      0		586	1560																			Unknown			Open					54.1
+3.jpg	      0		948	1506																			Sponges	Erect forms		Open		10000912			45.3
+3.jpg	      0		800	405																			Unknown			Open					63.2
+3.jpg	      0		626	44																			Unknown			Open					100.0
+3.jpg	      0		1062	915																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			26.8
+3.jpg	      0		1040	1286																			Octocoral/Black	Fan (2D)		Open		11168912			30.6
+3.jpg	      0		891	1533																			Unknown			Limited					46.7
+3.jpg	      0		781	1786																			Unknown			Open					71.0
+3.jpg	      0		906	1314																			Unknown			Open					26.3
+3.jpg	      0		891	1601																			Unknown			Limited					53.3
+3.jpg	      0		908	1326																			Unknown			Open					27.4
+3.jpg	      0		625	169																			Unknown			Open					88.1
+3.jpg	      0		949	587																			Invertebrate Complex	Complex 1		Open					47.0
+3.jpg	      0		790	388																			Unknown			Open					64.9
+3.jpg	      0		991	704																			Invertebrate Complex	Complex 1		Open					37.7
+3.jpg	      0		749	1097																			Unknown			Limited					8.4
+3.jpg	      0		891	1813																			Invertebrate Complex	Complex 1		Open					73.8
+3.jpg	      0		639	1221																			Unknown			Open					24.1
+3.jpg	      0		622	177																			Unknown			Open					87.4
+4.jpg	      0		762	1521																			Unknown			Open					59.4
+4.jpg	      0		861	627																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			40.2
+4.jpg	      0		595	441																			Octocoral/Black	Branching (3D)		Open		11168902			62.8
+4.jpg	      0		619	658																			Octocoral/Black	Branching (3D)		Open		11168902			39.6
+4.jpg	      0		637	588																			Octocoral/Black	Branching (3D)		Open		11168902			45.9
+4.jpg	      0		636	1450																			Invertebrate Complex	Complex 1		Open					53.9
+4.jpg	      0		965	1298																			Sponges	Massive forms		Open		10000903			40.6
+4.jpg	      0		640	692																			Unknown			Open					35.2
+4.jpg	      0		779	1477																			Unknown			Open					54.5
+4.jpg	      0		793	1458																			Unknown			Open					52.5
+4.jpg	      0		845	1557																			Unknown			Open					63.9
+4.jpg	      0		781	1573																			Invertebrate Complex	Complex 1		Open					65.2
+4.jpg	      0		819	75																			Octocoral/Black	Fan (2D)		Open		11168912			100.0
+4.jpg	      0		989	1546																			Unknown			Limited					66.5
+4.jpg	      0		824	469																			Invertebrate Complex	Complex 1		Open					56.8
+4.jpg	      0		818	1228																			Unknown			Limited					27.5
+4.jpg	      0		892	676																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			36.0
+4.jpg	      0		719	340																			Unknown			Open					70.9
+4.jpg	      0		682	239																			Unknown			Open					82.5
+4.jpg	      0		871	1720																			Unknown			Open					82.0
+5.jpg	      0		567	1317																			Unknown			Open					30.6
+5.jpg	      0		937	1814																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			71.9
+5.jpg	      0		629	91																			Unknown			Open					100.0
+5.jpg	      0		776	1700																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			59.2
+5.jpg	      0		788	388																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			69.6
+5.jpg	      0		663	216																			Unknown			Open					87.4
+5.jpg	      0		740	130																			Unknown			Open					95.0
+5.jpg	      0		884	567																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			52.9
+5.jpg	      0		800	1568																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			46.3
+5.jpg	      0		884	1553																			Unknown			Limited					45.7
+5.jpg	      0		718	1617																			Unknown			Open					51.5
+5.jpg	      0		1034	953																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			28.0
+5.jpg	      0		761	1796																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			68.7
+5.jpg	      0		759	1341																			Unknown			Limited					24.1
+5.jpg	      0		539	1745																			Unknown			Open					68.2
+5.jpg	      0		945	1890																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			79.3
+5.jpg	      0		938	505																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			59.9
+5.jpg	      0		581	840																			Unknown			Open					32.4
+5.jpg	      0		881	137																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			94.7
+5.jpg	      0		936	1776																			Unknown			Limited					68.2
+6.jpg	      0		708	1457																			Unknown			Open					57.5
+6.jpg	      0		791	570																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			49.4
+6.jpg	      0		690	1745																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			92.0
+6.jpg	      0		841	1579																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			73.0
+6.jpg	      0		570	1424																			Unknown			Open					57.0
+6.jpg	      0		795	1730																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			90.3
+6.jpg	      0		962	877																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			29.5
+6.jpg	      0		863	631																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			44.3
+6.jpg	      0		734	144																			Unknown			Open					100.0
+6.jpg	      0		788	197																			Unknown			Open					93.9
+6.jpg	      0		825	1786																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			97.3
+6.jpg	      0		624	310																			Unknown			Open					81.3
+6.jpg	      0		597	960																			Unknown			Open					17.0
+6.jpg	      0		701	1800																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			98.5
+6.jpg	      0		929	1264																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			41.1
+6.jpg	      0		688	316																			Unknown			Open					79.7
+6.jpg	      0		680	217																			Unknown			Open					91.6
+6.jpg	      0		558	1505																			Unknown			Open					66.7
+6.jpg	      0		730	149																			Unknown			Open					99.4
+6.jpg	      0		676	914																			Unknown			Open					10.7
+7.jpg	      0		622	1761																			Unknown			Open					85.4
+7.jpg	      0		625	1080																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			23.1
+7.jpg	      0		939	1690																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			76.8
+7.jpg	      0		920	1601																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			67.3
+7.jpg	      0		725	1081																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			15.3
+7.jpg	      0		828	225																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			76.9
+7.jpg	      0		947	590																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			41.4
+7.jpg	      0		710	9																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			100.0
+7.jpg	      0		617	290																			Unknown			Open					73.1
+7.jpg	      0		1039	1337																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			45.4
+7.jpg	      0		869	967																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			5.8
+7.jpg	      0		623	601																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			42.6
+7.jpg	      0		924	385																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			61.4
+7.jpg	      0		630	1113																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			24.7
+7.jpg	      0		706	143																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			86.2
+7.jpg	      0		901	673																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			31.6
+7.jpg	      0		999	1412																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			50.6
+7.jpg	      0		1027	1532																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			63.2
+7.jpg	      0		920	1345																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			41.2
+7.jpg	      0		700	1440																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			51.0
+8.jpg	      0		731	947																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			22.3
+8.jpg	      0		584	25																			Unknown			Open					64.9
+8.jpg	      0		661	1793																			Unknown			Open					100.0
+8.jpg	      0		887	249																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			43.2
+8.jpg	      0		547	465																			Unknown			Open					30.4
+8.jpg	      0		1021	931																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			30.5
+8.jpg	      0		612	149																			Unknown			Open					53.3
+8.jpg	      0		745	238																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			43.1
+8.jpg	      0		678	481																			Unknown			Open					22.5
+8.jpg	      0		820	411																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			27.5
+8.jpg	      0		819	373																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			30.9
+8.jpg	      0		905	1105																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			38.4
+8.jpg	      0		758	1662																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			87.5
+8.jpg	      0		732	295																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			38.0
+8.jpg	      0		992	533																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			25.5
+8.jpg	      0		717	1604																			Unknown			Open					82.4
+8.jpg	      0		833	441																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			24.9
+8.jpg	      0		1050	1122																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			45.6
+8.jpg	      0		609	966																			Unknown			Open					28.1
+8.jpg	      0		786	353																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			32.4
+9.jpg	      0		556	170																			Unknown			Open					100.0
+9.jpg	      0		823	1167																			Unknown			Open					14.9
+9.jpg	      0		956	1205																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			25.7
+9.jpg	      0		1008	713																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			42.6
+9.jpg	      0		867	1476																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			49.6
+9.jpg	      0		626	1433																			Unknown			Open					48.3
+9.jpg	      0		550	980																			Unknown			Open					28.5
+9.jpg	      0		561	607																			Unknown			Open					54.5
+9.jpg	      0		644	507																			Unknown			Open					61.2
+9.jpg	      0		831	1329																			Unknown			Open					33.0
+9.jpg	      0		1059	1443																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			53.8
+9.jpg	      0		901	1702																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			75.1
+9.jpg	      0		658	802																			Unknown			Open					30.3
+9.jpg	      0		760	322																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			79.4
+9.jpg	      0		715	907																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			17.1
+9.jpg	      0		1060	1616																			Unknown			Open					70.8
+9.jpg	      0		895	537																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			56.3
+9.jpg	      0		843	1734																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			78.0
+9.jpg	      0		909	379																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			74.0
+9.jpg	      0		780	1664																			Unconsolidated	Sand	mud (fine sand)	Open		82001015			70.0

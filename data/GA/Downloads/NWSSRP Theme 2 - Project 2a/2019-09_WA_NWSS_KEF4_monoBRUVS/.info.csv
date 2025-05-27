@@ -1,0 +1,13 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait quantity (g)","1000",FALSE
+"4","Sampling: Bait consistency","Mushed",FALSE
+"5","Sampling: Minimum separation distance of samples (m)","250",FALSE
+"6","Sampling: Frame type","Steel",FALSE
+"7","Annotation: Annotation tool/software","BRUVS1.5.mdb from Australian Institute of
+Marine Science",FALSE
+"8","Annotation: Habitat information from each sample annotated as","Percent cover",FALSE
+"9","Annotation: Habitat information from each sample","Cover of benthos",TRUE
+"10","Annotation: Upload type","Generic",TRUE
+"11","Annotation: Lengths measured for","Selected target fish",TRUE

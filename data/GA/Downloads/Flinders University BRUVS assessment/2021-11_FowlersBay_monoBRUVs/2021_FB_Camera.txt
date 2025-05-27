@@ -1,0 +1,101 @@
+Camera Details
+
+Generated: Monday 06 November 2023 14:39:35
+
+OpCode	TapeReader	Depth	Comment	Habitat	Soak time	FOV	Bias	Vis				Camera	Index	Descriptor	Image rows	Image columns	Focal length (mm)	x pixel size (mm)	y pixel size (mm)	X mm	Y mm	Z mm	Omega (degrees)	Phi (degrees)	Kappa (degrees)
+FB_S1_R1	TClarke	31.0	Starts at 1:22. Camera tilted up	Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R1	TClarke	31.0	Starts at 1:22. Camera tilted up	Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R10	TClarke		Starts at 1:35		60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R10	TClarke		Starts at 1:35		60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R11	TClarke		Starts at 1:01. Tilted up		60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R11	TClarke		Starts at 1:01. Tilted up		60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R12	TClarke		Starts at 1:36. Tilted up		60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R12	TClarke		Starts at 1:36. Tilted up		60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R2	TClarke	30.8	Starts at 0:50	Sand/rubble	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R2	TClarke	30.8	Starts at 0:50	Sand/rubble	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R3	TClarke		Starts at 1:00	Sand/rubble	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R3	TClarke		Starts at 1:00	Sand/rubble	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R4	TClarke		Starts at 1:08. BRUV facing straight up		60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R4	TClarke		Starts at 1:08. BRUV facing straight up		60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R5	TClarke		Starts at 1:36. Facing upwards	Coral/Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R5	TClarke		Starts at 1:36. Facing upwards	Coral/Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R6	TClarke		Starts at 2:16. Tilted up		60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R6	TClarke		Starts at 2:16. Tilted up		60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R7	TClarke		Starts at 0:55. Tiltedupwards. Stopped at 50:48		60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R7	TClarke		Starts at 0:55. Tiltedupwards. Stopped at 50:48		60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R8	TClarke		Starts at 3:06. Coral	Rubble/coral	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R8	TClarke		Starts at 3:06. Coral	Rubble/coral	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R9	TClarke		Starts 0:41. Stops early @ 6:10			60						Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S1_R9	TClarke		Starts 0:41. Stops early @ 6:10			60						Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R1	TClarke		Starts at 2:41	Reef	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R1	TClarke		Starts at 2:41	Reef	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R10	TClarke		Starts at 2:37	Seagrass/kelp	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R10	TClarke		Starts at 2:37	Seagrass/kelp	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R11	TClarke		Startst at 3:00	Kelp	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R11	TClarke		Startst at 3:00	Kelp	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_12	TClarke		Starts at 2:33	Sand/kelp	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_12	TClarke		Starts at 2:33	Sand/kelp	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R2	TClarke		Starts at 2:11	Algae	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R2	TClarke		Starts at 2:11	Algae	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R3	TClarke		Starts at 3:35	Reef/kelp	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R3	TClarke		Starts at 3:35	Reef/kelp	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R4	TClarke		Starts at 2:21	Reef/kelp	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R4	TClarke		Starts at 2:21	Reef/kelp	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R5	TClarke		Starts at 3:12	Kelp/reef	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R5	TClarke		Starts at 3:12	Kelp/reef	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R6	TClarke		Starts at 2:01	Kelp/reef	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R6	TClarke		Starts at 2:01	Kelp/reef	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R7	TClarke		Starts at 1:18	Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R7	TClarke		Starts at 1:18	Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R8	TClarke		Starts at 2:09	Sand/reef	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R8	TClarke		Starts at 2:09	Sand/reef	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R9	TClarke		Starts at 2:56. Facing up	Unknown (kelp?)	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S2_R9	TClarke		Starts at 2:56. Facing up	Unknown (kelp?)	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R1	TClarke		Starts at 0:48	Kelp	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R1	TClarke		Starts at 0:48	Kelp	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R10	TClarke		Starts at 3:03	Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R10	TClarke		Starts at 3:03	Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R11	TClarke		Starts at 0:34	Unknown	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R11	TClarke		Starts at 0:34	Unknown	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R12	TClarke		Starts at 0:44	Reef	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R12	TClarke		Starts at 0:44	Reef	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R2	TClarke		Starts at 0:37	Reef	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R2	TClarke		Starts at 0:37	Reef	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R3	TClarke		Starts at 0:31	Kelp	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R3	TClarke		Starts at 0:31	Kelp	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R4	TClarke		Starts at 1:28	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R4	TClarke		Starts at 1:28	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R5	TClarke 		Starts at 0:41.Tilted up	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R5	TClarke 		Starts at 0:41.Tilted up	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R6	TClarke		Starts at 0:38	Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R6	TClarke		Starts at 0:38	Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R7	TClarke		Starts at 0:33	Sand/Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R7	TClarke		Starts at 0:33	Sand/Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R8	TClarke		Starts at 2:18	Sand/seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R8	TClarke		Starts at 2:18	Sand/seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R9	TClarke		Starts at 5:13	Sand/seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S3_R9	TClarke		Starts at 5:13	Sand/seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R1	TClarke		Starts at 0:29	Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R1	TClarke		Starts at 0:29	Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R10	TClarke		Starts at 1:58	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R10	TClarke		Starts at 1:58	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R11	TClarke		Starts at 2:40	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R11	TClarke		Starts at 2:40	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R12	TClarke		Starts at 1:25	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R12	TClarke		Starts at 1:25	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R2	TClarke		Starts at 2:01	Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R2	TClarke		Starts at 2:01	Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R3	TClarke		Starts at 1:08	Sand/seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R3	TClarke		Starts at 1:08	Sand/seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R4	TClarke		Starts at 0:58	Sand	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R4	TClarke		Starts at 0:58	Sand	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R5	TClarke		Starts at 1:58. Facing up	unknown	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R5	TClarke		Starts at 1:58. Facing up	unknown	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R6	TClarke		Starts at 1:08. Facing up. Obstructed	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R6	TClarke		Starts at 1:08. Facing up. Obstructed	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R7	TClarke		Starts at 0:21	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R7	TClarke		Starts at 0:21	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R8	TClarke		Starts at 1:31	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R8	TClarke		Starts at 1:31	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R9	TClarke		Starts at 1:36	Seagrass	60							Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+FB_S4_R9	TClarke		Starts at 1:36	Seagrass	60							Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000

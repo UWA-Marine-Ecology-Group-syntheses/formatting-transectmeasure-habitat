@@ -1,0 +1,37 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+AR_BTC_R1	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_BTC_R1.EMObs
+AR_BTC_R2	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_BTC_R2.EMObs
+AR_BTC_R3	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_BTC_R3.EMObs
+AR_BTC_R4	1.09	2023 10 31 13:34:39	E:\Honours\Videos\Vids\Main Study\Aldinga Reef Inside (Trip 2) 20.11.16\BTCR4\	AR_BTC_R4.EMObs
+AR_BTC_R5	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_BTC_R5.EMObs
+AR_BTC_R6	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_BTC_R6.EMObs
+AR_CTC_R1_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_CTC_R1_B.EMObs
+AR_CTC_R2_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_CTC_R2_B.EMObs
+AR_CTC_R3_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_CTC_R3_B.EMObs
+AR_CTC_R4_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_CTC_R4_B.EMObs
+AR_CTC_R5_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_CTC_R5_B.EMObs
+AR_CTC_R6_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Aldinga\	AR_CTC_R6_B.EMObs
+BTC_LS_R1	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_BTC_R1.EMObs
+BTC_LS_R2	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_BTC_R2.EMObs
+BTC_LS_R3	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_BTC_R3.EMObs
+BTC_LS_R4	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_BTC_R4.EMObs
+BTC_LS_R5	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_BTC_R5.EMObs
+BTC_LS_R6	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_BTC_R6.EMObs
+CTC_LS_R1_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_CTC_R1_B.EMObs
+CTC_LS_R2_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_CTC_R2_B.EMObs
+CTC_LS_R3_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_CTC_R3_B.EMObs
+CTC_LS_R4_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_CTC_R4_B.EMObs
+CTC_LS_R5_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_CTC_R5_B.EMObs
+CTC_LS_R6_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Long Spit\	LS_CTC_R6_B.EMObs
+BTC_OB_R1	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_BTC_R1.EMObs
+BTC_OB_R2	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_BTC_R2.EMObs
+BTC_OB_R3	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_BTC_R3.EMObs
+BTC_OB_R4	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_BTC_R4.EMObs
+BTC_OB_R5	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_BTC_R5.EMObs
+BTC_OB_R6	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_BTC_R6.EMObs
+CTC_OB_R1_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_CTC_R1_B.EMObs
+CTC_OB_R2_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_CTC_R2_B.EMObs
+CTC_OB_R3_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_CTC_R3_B.EMObs
+CTC_OB_R4_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_CTC_R4_B.EMObs
+CTC_OB_R5_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_CTC_R5_B.EMObs
+CTC_OB_R6_B	1.09	2023 10 31 13:34:39	D:\Honours\Main Study\Orcades Bank\	OB_CTC_R6_B.EMObs

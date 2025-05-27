@@ -1,0 +1,25 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait quantity (g)","800",FALSE
+"4","Sampling: Bait consistency","Mushed",FALSE
+"5","Sampling: Minimum separation distance of samples (m)","250",FALSE
+"6","Sampling: Camera type","Canon Legria HFG25",FALSE
+"7","Sampling: Camera configuration","Stereo",FALSE
+"8","Sampling: Camera separation (mm)","700",FALSE
+"9","Sampling: Camera incidence angle (degrees)","8",FALSE
+"10","Sampling: Camera height above benthos (mm)","500",FALSE
+"11","Sampling: Bait arm length (m)","1.5",FALSE
+"12","Sampling: Frame type","Steel",FALSE
+"13","Sampling: Artificial lighting","Blue",FALSE
+"14","Annotation: Upload type","EventMeasure database output",TRUE
+"15","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"16","Annotation: Taxa that have been ID'd","All fauna",FALSE
+"17","Annotation: Taxonomic resolution","All taxa identified to the lowest possible taxonomic level",FALSE
+"18","Annotation: Observer/Anotator experience (>years)","3",FALSE
+"19","Annotation: Observation/Annotation checked by expert","Yes",FALSE
+"20","Annotation: Lengths measured for","Selected target fish",TRUE
+"21","Annotation: Habitat information in the study area","Multibeam and predictive habtiat map",TRUE
+"22","Annotation: Habitat information from each sample","Cover of benthos and score of complexity",TRUE
+"23","Annotation: Habitat information from each sample annotated as","Point score",FALSE
+"24","Annotation: .EMObs uploaded as .zip","Yes",FALSE

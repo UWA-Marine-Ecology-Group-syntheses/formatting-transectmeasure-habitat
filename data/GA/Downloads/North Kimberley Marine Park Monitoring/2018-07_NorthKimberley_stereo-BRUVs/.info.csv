@@ -1,0 +1,8 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait deployment","Plastic coated wire mesh bag",FALSE
+"4","Sampling: Bait consistency","Mushed",FALSE
+"5","Sampling: Camera separation (mm)","500",FALSE
+"6","Sampling: Camera type","SONY HDRA Full HD Action Cam",FALSE
+"7","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE

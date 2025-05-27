@@ -1,0 +1,6 @@
+"","name","value","is_filter"
+"1","Sampling: Bait type","Pilchards",TRUE
+"2","Sampling: Bait quantity (g)","500",FALSE
+"3","Sampling: Minimum separation distance of samples (m)","250",FALSE
+"4","Sampling: Camera type","GoPro 5 Black medium FOV",FALSE
+"5","Sampling: Deployment duration (min)","60",TRUE

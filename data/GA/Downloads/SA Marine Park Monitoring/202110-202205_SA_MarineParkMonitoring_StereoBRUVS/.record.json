@@ -1,0 +1,83 @@
+{
+  "created_at": ["2023-04-12T00:15:04.953131"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [58],
+  "description": ["2021/22 BRUVs data for SA State Marine Park Monitoring program"],
+  "files": [
+    {
+      "id": 12866,
+      "iscompressed": true,
+      "name": "202110-202205_SA_MarineParkMonitoring_StereoBRUVS_Count.csv",
+      "user_id": 60
+    },
+    {
+      "id": 12867,
+      "iscompressed": true,
+      "name": "202110-202205_SA_MarineParkMonitoring_StereoBRUVS_Length.csv",
+      "user_id": 60
+    },
+    {
+      "id": 12868,
+      "iscompressed": true,
+      "name": "202110-202205_SA_MarineParkMonitoring_StereoBRUVS_Metadata.csv",
+      "user_id": 60
+    }
+  ],
+  "id": [1065],
+  "info": [
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    }
+  ],
+  "name": ["202110-202205_SA_MarineParkMonitoring_StereoBRUVS"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [168],
+    "is_public": [false],
+    "name": ["SA Marine Park Monitoring"]
+  },
+  "project_id": [168],
+  "user": {
+    "email": ["danny.brock@sa.gov.au"],
+    "first_name": ["Daniel"],
+    "id": [60],
+    "is_admin": [false],
+    "last_name": ["Brock"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+BD01-1	Ethan	32.8		Location	Jurien Bay	Date	20210507	Time	7:42:54	Latitude	-30.35606982	Longitude	114.9625714	Cameras	L006_R005				
+BD01-2	Ethan	32.5		Location	Jurien Bay	Date	20210507	Time	7:48:14	Latitude	-30.35803385	Longitude	114.9650664	Cameras	L12_R11				
+BD01-3	Ethan	33.6		Location	Jurien Bay	Date	20210507	Time	7:54:09	Latitude	-30.35966008	Longitude	114.9642764	Cameras	L22_R21				
+BD01-4	Ethan	29.8		Location	Jurien Bay	Date	20210507	Time	8:01:44	Latitude	-30.35629618	Longitude	114.9698275	Cameras	L16_R15				
+BD02-1	Chris Douglas	35.3		Location	Jurien Bay	Date	20210507	Time	08:13:25	Latitude	-30.3522	Longitude	114.9365	Cameras	L14_R13				
+BD02-3	Damon	34.8		Location	Jurien Bay	Date	20210507	Time	08:22:10	Latitude	-30.3509	Longitude	114.934	Cameras	L20_R19				
+BD02-4	Damon	34.2		Location	Jurien Bay	Date	20210507	Time	8:27:29	Latitude	-30.3526238	Longitude	114.9389791	Cameras	L18_R17				
+BD03-1	Chris Douglas	34		Location	Jurien Bay	Date	20210507	Time	10:00:03	Latitude	-30.2572	Longitude	114.9387	Cameras	L18_R17				
+BD03-2	Chris Douglas	35.2		Location	Jurien Bay	Date	20210507	Time	10:05:23	Latitude	-30.2595	Longitude	114.9323	Cameras	L20_R19				
+BD03-3	Chris Douglas	34.7		Location	Jurien Bay	Date	20210507	Time	10:09:21	Latitude	-30.2536	Longitude	114.9261	Cameras	L10_R09				
+BD03-4	Chris Douglas	34.1		Location	Jurien Bay	Date	20210507	Time	10:12:44	Latitude	-30.2503	Longitude	114.9332	Cameras	L14_R13				
+BD04-1	Chris Douglas	34.3		Location	Jurien Bay	Date	20210507	Time	10:19:01	Latitude	-30.2342	Longitude	114.934	Cameras	L16_R15				
+BD04-2	Chris Douglas	33.7		Location	Jurien Bay	Date	20210507	Time	10:22:34	Latitude	-30.2358	Longitude	114.9331	Cameras	L22_R21				
+BD04-3	Chris Douglas	33.6		Location	Jurien Bay	Date	20210507	Time	10:26:07	Latitude	-30.2399	Longitude	114.9337	Cameras	L12_R11				
+BD04-4	Chris Douglas	33.7		Location	Jurien Bay	Date	20210507	Time	10:30:18	Latitude	-30.2406	Longitude	114.9424	Cameras	L06_R05				
+BISZ2-1	Ethan	5		Location	Jurien Bay	Date	20210429	Time	14:01:37	Latitude	-30.34604657	Longitude	115.0375842	Cameras	L12_R11				
+BISZS1-1	Brae	3.4		Location	Jurien Bay	Date	20210501	Time	10:38:10	Latitude	-30.33295247	Longitude	115.003905	Cameras	L12_R11				
+BISZS1-2	Katrina Bornt	2.2		Location	Jurien Bay	Date	20210501	Time	10:42:10	Latitude	-30.3354	Longitude	115.004	Cameras	L18_R17				
+BISZS1-3	Ethan	3.5		Location	Jurien Bay	Date	20210501	Time	10:45:27	Latitude	-30.3383134	Longitude	115.00359	Cameras	L16_R15				
+BISZS1-4	Ethan	3.5		Location	Jurien Bay	Date	20210501	Time	10:49:51	Latitude	-30.34221713	Longitude	115.0020481	Cameras	L22_R21				
+BIZS2-2	Ethan	2.7		Location	Jurien Bay	Date	20210429	Time	14:06:45	Latitude	-30.3447563	Longitude	115.0392594	Cameras	L18_R17				
+BIZS2-3	Ethan	3.8		Location	Jurien Bay	Date	20210429	Time	14:10:23	Latitude	-30.34294962	Longitude	115.0386252	Cameras	L16_R15				
+BIZS2-4	Ethan	1.8		Location	Jurien Bay	Date	20210429	Time	14:15:26	Latitude	-30.34887415	Longitude	115.0408138	Cameras	L22_R21				
+BS03-1	Chris Douglas	20.2		Location	Jurien Bay	Date	20210506	Time	13:44:28	Latitude	-30.1717	Longitude	114.9417	Cameras	L16_R15				
+BS03-2	Chris Douglas	21.8		Location	Jurien Bay	Date	20210506	Time	13:47:07	Latitude	-30.1702	Longitude	114.9411	Cameras	L06_R05				
+BS03-3	Chris Douglas	19.8		Location	Jurien Bay	Date	20210506	Time	13:49:48	Latitude	-30.1672	Longitude	114.9396	Cameras	L22_R21				
+BS03-4	Chris Douglas	22		Location	Jurien Bay	Date	20210506	Time	13:52:23	Latitude	-30.1647	Longitude	114.9386	Cameras	L12_R11				
+BS04-1	Ethan	20.2		Location	Jurien Bay	Date	20210506	Time	13:25:58	Latitude	-30.21152872	Longitude	114.9582607	Cameras	L14_R13				
+BS04-2	Chris Douglas	20.4		Location	Jurien Bay	Date	20210506	Time	13:28:32	Latitude	-30.209	Longitude	114.9567	Cameras	L10_R09				
+BS04-3	Chris Douglas	22.9		Location	Jurien Bay	Date	20210506	Time	13:31:26	Latitude	-30.206	Longitude	114.9546	Cameras	L20_R19				
+BS04-4	Chris Douglas	19.8		Location	Jurien Bay	Date	20210506	Time	13:34:13	Latitude	-30.2035	Longitude	114.9541	Cameras	L18_R17				
+BS05-1	Chris Douglas	17.8		Location	Jurien Bay	Date	20210506	Time	11:50:42	Latitude	-30.2744	Longitude	114.9624	Cameras	L20_R19				
+BS05-2	Chris Douglas	20		Location	Jurien Bay	Date	20210506	Time	11:53:44	Latitude	-30.2715	Longitude	114.9603	Cameras	L10_R09				
+BS05-3	Chris Douglas	18.2		Location	Jurien Bay	Date	20210506	Time	11:57:05	Latitude	-30.268	Longitude	114.9599	Cameras	L14_R13				
+BS05-4	Chris Douglas	17.9		Location	Jurien Bay	Date	20210506	Time	12:00:14	Latitude	-30.263	Longitude	114.9589	Cameras	L06_R05				
+BS06-2	Chris Douglas	21.5		Location	Jurien Bay	Date	20210506	Time	11:31:54	Latitude	-30.3196	Longitude	114.9662	Cameras	L22_R21				
+BS06-4	Damon	21.3		Location	Jurien Bay	Date	20210506	Time	11:37:30	Latitude	-30.3142	Longitude	114.9651	Cameras	L18_R17				
+BS07-1	Ethan	18.7		Location	Jurien Bay	Date	20210506	Time	9:53:22	Latitude	-30.39504478	Longitude	114.975876	Cameras	L16_R15				
+BS07-2	Chris Douglas	21.7		Location	Jurien Bay	Date	20210506	Time	09:56:21	Latitude	-30.3923	Longitude	114.978	Cameras	L22_R21				
+BS07-3	Chris Douglas	20.8		Location	Jurien Bay	Date	20210506	Time	09:59:15	Latitude	-30.3878	Longitude	114.98	Cameras	L18_R17				
+BS07-4	Chris Douglas	20.7		Location	Jurien Bay	Date	20210506	Time	10:02:24	Latitude	-30.3837	Longitude	114.98	Cameras	L12_R11				
+BS08-1	Chris Douglas	23		Location	Jurien Bay	Date	20210506	Time	09:34:43	Latitude	-30.426	Longitude	114.978	Cameras	L06_R05				
+BS08-2	Chris Douglas	25.5		Location	Jurien Bay	Date	20210506	Time	09:38:21	Latitude	-30.4224	Longitude	114.9774	Cameras	L10_R09				
+BS08-3	Damon	23		Location	Jurien Bay	Date	20210506	Time	09:41:32	Latitude	-30.4182	Longitude	114.9775	Cameras	L14_R13				
+BS08-4	Chris Douglas	21		Location	Jurien Bay	Date	20210506	Time	09:46:10	Latitude	-30.4134	Longitude	114.9768	Cameras	L20_R19				
+BS09-1	Chris Douglas	28.5		Location	Jurien Bay	Date	20210506	Time	08:04:18	Latitude	-30.4535	Longitude	114.9827	Cameras	L20_R19				
+BS09-2	Chris Douglas	30		Location	Jurien Bay	Date	20210506	Time	08:09:08	Latitude	-30.4486	Longitude	114.9731	Cameras	L14_R13				
+BS09-3	Chris Douglas	29		Location	Jurien Bay	Date	20210506	Time	08:14:43	Latitude	-30.4424	Longitude	114.9747	Cameras	L10_R09				
+BS09-4	Chris Douglas	21.9		Location	Jurien Bay	Date	20210506	Time	08:22:06	Latitude	-30.4435	Longitude	114.9847	Cameras	L06_R05				
+BS1-1	Chris Douglas	19		Location	Jurien Bay	Date	20210506	Time	15:22:00	Latitude	-30.1121	Longitude	114.9243	Cameras	L18_R17				
+BS1-2	Chris Douglas	22.6		Location	Jurien Bay	Date	20210506	Time	15:24:00	Latitude	-30.1096	Longitude	114.9224	Cameras	L20_R19				
+BS1-3	Chris Douglas	22		Location	Jurien Bay	Date	20210506	Time	15:28:00	Latitude	-30.1067	Longitude	114.9214	Cameras	L10_R09				
+BS1-4	Chris Douglas	20.4		Location	Jurien Bay	Date	20210506	Time	15:30:00	Latitude	-30.1022	Longitude	114.9189	Cameras	L14_R13				
+BS10-1	Chris Douglas	23		Location	Jurien Bay	Date	20210506	Time	07:35:03	Latitude	-30.4816	Longitude	114.994	Cameras	L12_R11				
+BS10-2	Chris Douglas	23.5		Location	Jurien Bay	Date	20210506	Time	07:39:17	Latitude	-30.4785	Longitude	114.9921	Cameras	L18_R17				
+BS10-3	Chris Douglas	22.8		Location	Jurien Bay	Date	20210506	Time	07:44:21	Latitude	-30.4754	Longitude	114.9909	Cameras	L22_R21				
+BS10-4	Chris Douglas	22.3		Location	Jurien Bay	Date	20210506	Time	07:49:25	Latitude	-30.4705	Longitude	114.9891	Cameras	L16_R15				
+BS2-1	Damon	19.3		Location	Jurien Bay	Date	20210506	Time	15:10:00	Latitude	-30.1323	Longitude	114.9318	Cameras	L12_R11				
+BS2-2	Damon	18.6		Location	Jurien Bay	Date	20210506	Time	15:14:00	Latitude	-30.1282	Longitude	114.9306	Cameras	L22_R21				
+BS2-3	Chris Douglas	20.2		Location	Jurien Bay	Date	20210506	Time	15:16:00	Latitude	-30.1247	Longitude	114.9297	Cameras	L06_R05				
+BS2-4	Damon	20.8		Location	Jurien Bay	Date	20210506	Time	15:18:00	Latitude	-30.1216	Longitude	114.9279	Cameras	L16_L16				
+FISPZS2-1	Brae	6.5		Location	Jurien Bay	Date	20210505	Time	10:47:24	Latitude	-30.17107405	Longitude	114.9557608	Cameras	L12_R11				
+FISPZS2-2	Brae	5.9		Location	Jurien Bay	Date	20210505	Time	10:51:34	Latitude	-30.17036705	Longitude	114.9529181	Cameras	L18_R17				
+FISPZS2-3	Damon	6		Location	Jurien Bay	Date	20210505	Time	10:57:03	Latitude	-30.1716	Longitude	114.9513	Cameras	L16_R15				
+FISPZS2-4	Brae	5.4		Location	Jurien Bay	Date	20210505	Time	11:02:32	Latitude	-30.16884012	Longitude	114.9469475	Cameras	L22_R21				
+FISPZS3-1	Brae	4.5		Location	Jurien Bay	Date	20210505	Time	9:10:59	Latitude	-30.15964753	Longitude	114.9699228	Cameras	L22_R21				
+FISPZS3-2	Brae	4.9		Location	Jurien Bay	Date	20210505	Time	9:16:56	Latitude	-30.15658278	Longitude	114.9718401	Cameras	L28_R27				
+FISPZS3-3	Brae	4.8		Location	Jurien Bay	Date	20210505	Time	9:22:20	Latitude	-30.1542477	Longitude	114.9679305	Cameras	L18_R17				
+FISPZS3-4	Brae	5.9		Location	Jurien Bay	Date	20210505	Time	9:26:01	Latitude	-30.1569855	Longitude	114.9671977	Cameras	L12_R11				
+FISPZS4-1	Ethan	6.2		Location	Jurien Bay	Date	20210428	Time	14:29:00	Latitude	-30.1595	Longitude	114.994383	Cameras	L14_R13				
+FISPZS4-2	Ethan	2.2		Location	Jurien Bay	Date	20210428	Time	14:32:00	Latitude	-30.156866	Longitude	114.9955	Cameras	L16_R15				
+FISPZS4-3	Ethan	3.8		Location	Jurien Bay	Date	20210428	Time	14:34:00	Latitude	-30.1541232	Longitude	114.994957	Cameras	L20_R19				
+FISPZS4-4	Damon	3.5		Location	Jurien Bay	Date	20210428	Time	14:38:00	Latitude	-30.1517	Longitude	114.994	Cameras	L10_R09				
+FISZS1-1	Sarah	4.2		Location	Jurien Bay	Date	20210428	Time	12:19:00	Latitude	-30.1341	Longitude	114.948983	Cameras	L12_R11				
+FISZS1-3	Ethan	5.1		Location	Jurien Bay	Date	20210428	Time	12:25:00	Latitude	-30.133183	Longitude	114.952517	Cameras	L22_R21				
+FISZS1-4	Brae	5.2		Location	Jurien Bay	Date	20210505	Time	12:39:39	Latitude	-30.13563127	Longitude	114.9560513	Cameras	L12_R11				
+FISZS2-1	Damon	4.7		Location	Jurien Bay	Date	20210428	Time	12:34:00	Latitude	-30.1347	Longitude	114.9678	Cameras	L10_R09				
+FISZS2-2	Brae	3.3		Location	Jurien Bay	Date	20210505	Time	12:29:06	Latitude	-30.1305699	Longitude	114.9687371	Cameras	L16_R15				
+FISZS2-3	Brae	4.8		Location	Jurien Bay	Date	20210505	Time	12:23:47	Latitude	-30.13488283	Longitude	114.9735998	Cameras	L22_R21				
+FISZS2-4	Damon	4		Location	Jurien Bay	Date	20210505	Time	12:33:26	Latitude	-30.1317	Longitude	114.9668	Cameras	L18_R17				
+GUZ(C)S1-2	Ethan	4.9		Location	Jurien Bay	Date	20210502	Time	7:45:49	Latitude	-30.47730805	Longitude	115.0485144	Cameras	L16_R15				
+GUZ(C)S1-3	Ethan	4.5		Location	Jurien Bay	Date	20210502	Time	7:52:42	Latitude	-30.47508848	Longitude	115.0389348	Cameras	L18_R17				
+GUZ(C)S1-4	Katrina Bornt	5.1		Location	Jurien Bay	Date	20210502	Time	07:58:09	Latitude	-30.4733	Longitude	115.0387	Cameras	L12_R11				
+GUZ(ER)S1-1	Katrina Bornt	6		Location	Jurien Bay	Date	20210501	Time	14:11:13	Latitude	-30.3617	Longitude	115.0038	Cameras	L12_R11				
+GUZ(ER)S1-2	Caprice	4.1		Location	Jurien Bay	Date	20210501	Time	14:17:44	Latitude	-30.35964605	Longitude	115.0021914	Cameras	L18_R17				
+GUZ(ER)S1-3	Caprice	3		Location	Jurien Bay	Date	20210501	Time	14:23:08	Latitude	-30.36076285	Longitude	115.0000704	Cameras	L16_R15				
+GUZ(ER)S1-4	Caprice	3.5		Location	Jurien Bay	Date	20210501	Time	14:27:27	Latitude	-30.35747025	Longitude	114.9987153	Cameras	L22_R21				
+GUZ(ER)S2-1	Ethan	3.6		Location	Jurien Bay	Date	20210429	Time	12:31:15	Latitude	-30.35761263	Longitude	115.0428225	Cameras	L22_R21				
+GUZ(ER)S2-4	Ethan	3.2		Location	Jurien Bay	Date	20210429	Time	12:44:17	Latitude	-30.36689315	Longitude	115.0449604	Cameras	L12_R11				
+GUZ(JB)S1-2	Caprice	2.3		Location	Jurien Bay	Date	20210429	Time	10:44:05	Latitude	-30.25884128	Longitude	115.0368298	Cameras	L18_R17				
+GUZ(JB)S1-4	Caprice	3.3		Location	Jurien Bay	Date	20210429	Time	10:56:39	Latitude	-30.26439578	Longitude	115.0386202	Cameras	L22_R21				
+GUZ(JB)S2-1	Katrina Bornt	3.5		Location	Jurien Bay	Date	20210501	Time	08:29:34	Latitude	-30.2796	Longitude	115.0088	Cameras	L22_R21				
+GUZ(JB)S2-2	Damon	4.6		Location	Jurien Bay	Date	20210501	Time	08:35:39	Latitude	-30.2796	Longitude	115.0051	Cameras	L16_R15				
+GUZ(JB)S2-3	Katrina Bornt	4.5		Location	Jurien Bay	Date	20210501	Time	08:41:46	Latitude	-30.2824	Longitude	115.0061	Cameras	L18_R17				
+GUZ(JB)S2-4	Katrina Bornt	4.5		Location	Jurien Bay	Date	20210501	Time	08:46:55	Latitude	-30.2795	Longitude	115.0022	Cameras	L12_R11				
+GUZ(SC)S1-1	Caprice	4.2		Location	Jurien Bay	Date	20210428	Time	14:54:00	Latitude	-30.1769041	Longitude	114.973288	Cameras	L06_R05				
+GUZ(SC)S1-2	Caprice	5.2		Location	Jurien Bay	Date	20210428	Time	14:58:00	Latitude	-30.1795133	Longitude	114.972468	Cameras	L12_R11				
+GUZ(SC)S1-3	MTaylor	5.5		Location	Jurien Bay	Date	20210428	Time	15:02:00	Latitude	-30.1809407	Longitude	114.969734	Cameras	L18_R17				
+GUZGHS2-1	Ethan	6.1		Location	Jurien Bay	Date	20210428	Time	9:32:00	Latitude	-30.107317	Longitude	114.9657	Cameras	L14_R13				
+GUZGHS2-4	Ethan	4.5		Location	Jurien Bay	Date	20210428	Time	9:57:00	Latitude	-30.103867	Longitude	114.967117	Cameras	L20_R19				
+GUZGHS3-1	Sarah	7.6		Location	Jurien Bay	Date	20210428	Time	10:13:00	Latitude	-30.117833	Longitude	114.952367	Cameras	L18_R17				
+GUZGHS3-2	Sarah	3.6		Location	Jurien Bay	Date	20210428	Time	10:20:00	Latitude	-30.120483	Longitude	114.953667	Cameras	L22_R21				
+GUZGHS3-3	Ethan	4.6		Location	Jurien Bay	Date	20210428	Time	10:25:00	Latitude	-30.12335	Longitude	114.95345	Cameras	L06_R05				
+GUZGHS3-4	Ethan	4.6		Location	Jurien Bay	Date	20210428	Time	10:30:00	Latitude	-30.12335	Longitude	114.949933	Cameras	L12_R11				
+HRSPZS2-1	Katrina Bornt	4.2		Location	Jurien Bay	Date	20210502	Time	09:13:46	Latitude	-30.4393	Longitude	115.0357	Cameras	L12_R11				
+HRSPZS2-2	Ethan	6.6		Location	Jurien Bay	Date	20210502	Time	9:18:26	Latitude	-30.43977938	Longitude	115.0336506	Cameras	L18_R17				
+HRSPZS2-3	Ethan	5.3		Location	Jurien Bay	Date	20210502	Time	9:23:01	Latitude	-30.4376	Longitude	115.0357	Cameras	L16_R15				
+HRSPZS2-4	Ethan	5.3		Location	Jurien Bay	Date	2/05/2021	Time	9:23:01	Latitude	-30.43761868	Longitude	115.035709	Cameras	L16/R15	info11		info12	
+HRSPZS3-1	Brae	6.5		Location	Jurien Bay	Date	20210504	Time	9:16:47	Latitude	-30.43582368	Longitude	115.0005695	Cameras	L22_R21				
+HRSPZS3-2	Brae	5.3		Location	Jurien Bay	Date	20210504	Time	9:25:19	Latitude	-30.44241462	Longitude	114.998684	Cameras	L16_R15				
+HRSPZS3-3	Brae	6.4		Location	Jurien Bay	Date	20210504	Time	9:29:30	Latitude	-30.44497495	Longitude	114.998358	Cameras	L18_R17				
+HRSPZS3-4	Brae	6.9		Location	Jurien Bay	Date	20210504	Time	9:42:06	Latitude	-30.4395328	Longitude	114.9995302	Cameras	L18_R17				
+HRSPZS4-1	Katrina Bornt	4.1		Location	Jurien Bay	Date	20210504	Time	07:52:40	Latitude	-30.4209	Longitude	115.0019	Cameras	L12_R11				
+HRSPZS4-2	Brae	4.9		Location	Jurien Bay	Date	20210504	Time	7:57:17	Latitude	-30.4247823	Longitude	115.0027524	Cameras	L18_R17				
+HRSPZS4-3	Brae	6.8		Location	Jurien Bay	Date	20210504	Time	8:01:16	Latitude	-30.42784305	Longitude	115.0031749	Cameras	L16_R15				
+HRSPZS4-4	Brae	4.9		Location	Jurien Bay	Date	20210504	Time	8:05:15	Latitude	-30.42984877	Longitude	115.0028977	Cameras	L22_R21				
+JC21_JOOR21-2	Brae	5.2		Location	Jurien Bay	Date	20210504	Time	11:55:20	Latitude	-30.2901358	Longitude	114.9725273	Cameras	L18_R17				
+JC21_JOOR21-3	Brae	8		Location	Jurien Bay	Date	20210504	Time	12:00:34	Latitude	-30.2887263	Longitude	114.9727356	Cameras	L16_R15				
+JC21_JOOR21-4	Brae	4.3		Location	Jurien Bay	Date	20210504	Time	12:07:54	Latitude	-30.28902947	Longitude	114.9738519	Cameras	L22_R21				
+JC21_JOOR21_1	Brae	6.9		Location	Jurien Bay	Date	20210504	Time	11:50:02	Latitude	-30.29170635	Longitude	114.9729876	Cameras	L12_R11				
+JMPS5-1	Ethan	4.7		Location	Jurien Bay	Date	20210502	Time	12:50:51	Latitude	-30.32902028	Longitude	114.9920382	Cameras	L22_R21				
+JMPS5-2	Katrina Bornt	4.6		Location	Jurien Bay	Date	20210502	Time	12:55:20	Latitude	-30.3274	Longitude	114.9902	Cameras	L16_R15				
+JMPS5-3	Ethan	4.6		Location	Jurien Bay	Date	20210502	Time	12:59:02	Latitude	-30.3289501	Longitude	114.9895828	Cameras	L18_R17				
+JMPS5-4	Ethan	5.8		Location	Jurien Bay	Date	20210502	Time	13:02:39	Latitude	-30.32935588	Longitude	114.9880427	Cameras	L12/R11				
+JV013-1	Katrina Bornt	6		Location	Jurien Bay	Date	20210501	Time	12:32:37	Latitude	-30.3906	Longitude	114.9949	Cameras	L22_R21				
+JV013-2	Katrina Bornt	3.5		Location	Jurien Bay	Date	20210501	Time	12:37:22	Latitude	-30.3945	Longitude	114.9946	Cameras	L16_R15				
+JV013-3	Katrina Bornt	6		Location	Jurien Bay	Date	20210501	Time	12:46:16	Latitude	-30.3985	Longitude	114.9949	Cameras	L18_R17				
+JV013-4	Katrina Bornt	5.5		Location	Jurien Bay	Date	20210501	Time	12:50:46	Latitude	-30.3988	Longitude	114.9983	Cameras	L12_R11				
+PHSZS1-4	Damon	2.7		Location	Jurien Bay	Date	20210429	Time	09:27:55	Latitude	-30.2398	Longitude	115.0226	Cameras	L12_R11				

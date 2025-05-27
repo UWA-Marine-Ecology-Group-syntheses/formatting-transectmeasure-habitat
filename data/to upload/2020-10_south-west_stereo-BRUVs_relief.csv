@@ -1,0 +1,709 @@
+campaignid,sample,level_1,level_5,level_2,level_3,level_4,level_6,level_7,level_8,family,genus,species,count
+2020-10_south-west_stereo-BRUVs,FH10,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH10,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH102,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,22
+2020-10_south-west_stereo-BRUVs,FH102,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH106,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH106,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,FH106,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH108,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH108,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH108,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,FH109,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH109,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH109,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH11,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH11,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH11,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH11,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH110,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH110,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH110,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH110,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH111,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH111,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH111,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH111,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH113,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH113,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,FH12,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,FH12,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH14,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH14,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,FH14,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH15,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,22
+2020-10_south-west_stereo-BRUVs,FH16,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH16,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,FH16,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH17,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH17,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,FH17,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH18,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH18,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH18,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH18,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH2,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH2,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH2,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH20,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH20,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH20,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH21,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH21,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH23,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH23,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH23,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,FH24,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH24,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,FH25,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH25,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH25,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH26,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH26,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH27,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH27,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH27,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH28,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH28,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH28,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH30,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH30,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,FH31,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH31,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH31,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,FH32,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH32,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH32,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH32,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH33,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH33,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH33,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH34,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH34,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,FH34,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH35,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH35,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH36,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH36,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH37,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,FH37,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH39,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH39,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,FH39,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH40,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH40,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH40,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH40,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH41,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH41,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,27
+2020-10_south-west_stereo-BRUVs,FH42,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH42,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,24
+2020-10_south-west_stereo-BRUVs,FH44,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH44,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH44,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,FH45,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH45,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH45,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH46,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH46,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH46,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH47,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH47,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH48,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH48,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,FH49,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH49,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH5,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH5,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH5,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH50,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,FH51,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH51,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH51,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,25
+2020-10_south-west_stereo-BRUVs,FH52,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH52,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH52,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH54,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,22
+2020-10_south-west_stereo-BRUVs,FH54,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH55,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH55,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH55,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH55,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH56,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH56,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,FH57,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH57,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH57,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,FH58,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH58,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH58,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH59,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH59,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH59,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH6,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH6,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH60,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH60,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH60,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH61,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH61,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,FH62,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH62,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH63,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH63,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH63,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH64,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,25
+2020-10_south-west_stereo-BRUVs,FH65,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH65,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH66,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH66,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,FH67,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,FH68,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH68,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH68,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,FH69,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH69,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH7,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH7,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH70,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH70,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH70,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH71,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH71,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH71,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,26
+2020-10_south-west_stereo-BRUVs,FH72,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH72,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,FH74,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH74,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH74,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,22
+2020-10_south-west_stereo-BRUVs,FH77,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,FH78,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH78,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH79,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH79,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,24
+2020-10_south-west_stereo-BRUVs,FH8,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH8,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FH82,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH82,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH82,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH82,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH83,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH83,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH83,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,FH83,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH84,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH84,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FH84,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,FH85,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH85,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH85,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,FH87,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH87,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH87,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH89,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FH9,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,FH9,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,FH9,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH92,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH92,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH92,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,FH93,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FH93,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,26
+2020-10_south-west_stereo-BRUVs,FH94,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,FH94,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FH94,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FH94,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FH95,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH95,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,FH95,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FH96,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FH96,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,FH96,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,FH99,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,FH99,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,FHA,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FHA,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FHB,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,FHB,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FHB,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,FHC,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,27
+2020-10_south-west_stereo-BRUVs,FHC01,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,FHC01,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,FHC02,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FHC02,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,FHC03,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,FHD,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,FHD,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,FHD,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,FHE,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,25
+2020-10_south-west_stereo-BRUVs,IO1,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO1,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO1,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO1,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO1,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO100,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO100,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO100,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO101,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO101,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO102,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO102,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,26
+2020-10_south-west_stereo-BRUVs,IO105,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO105,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO105,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO107,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO107,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO107,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO108,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO108,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO109,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO109,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO109,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO110,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO110,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO110,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO113,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO115,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IO115,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO115,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO117,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO119,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO119,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO122,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO122,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO123,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO123,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO125,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO125,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO126,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO126,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO130,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO130,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO132,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO132,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO133,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO133,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,24
+2020-10_south-west_stereo-BRUVs,IO134,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO134,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO134,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO145,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO145,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO146,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO146,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO146,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO147,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO147,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO148,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO148,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IO148,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO15,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO15,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO152,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO152,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO152,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO153,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO153,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,22
+2020-10_south-west_stereo-BRUVs,IO153,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO155,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO155,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO155,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO157,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IO157,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO158,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO158,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO158,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO16,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO16,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO16,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO16,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO164,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO164,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO164,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO165,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO165,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO17,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO17,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO17,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO180,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,25
+2020-10_south-west_stereo-BRUVs,IO184,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO184,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO184,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO189,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO189,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO189,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO189,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO191,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO191,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO191,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO192,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,19
+2020-10_south-west_stereo-BRUVs,IO192,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO192,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO194,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO194,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO195,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO195,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO195,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO199,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO199,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO201,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO201,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO201,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO204,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO204,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO204,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO204,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO206,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO206,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO206,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO207,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO207,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO207,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO210,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO210,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO210,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO211,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO211,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,24
+2020-10_south-west_stereo-BRUVs,IO215,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,25
+2020-10_south-west_stereo-BRUVs,IO216,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO216,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO216,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO217,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO217,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,IO217,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO218,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO218,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,24
+2020-10_south-west_stereo-BRUVs,IO220,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO220,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO222,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO222,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO222,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO223,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO223,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO223,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO223,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO224,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO224,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO225,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO225,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,IO226,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO226,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO226,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO227,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO227,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO227,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO228,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO228,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO229,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO229,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO229,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO235,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO235,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO235,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO236,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO236,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,19
+2020-10_south-west_stereo-BRUVs,IO236,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO237,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO239,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,IO239,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO241,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO241,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,24
+2020-10_south-west_stereo-BRUVs,IO244,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO244,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO244,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO245,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO245,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO253,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO253,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO254,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO254,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO254,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO254,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO258,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,19
+2020-10_south-west_stereo-BRUVs,IO259,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO259,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO260,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO260,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO261,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO261,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO261,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO261,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO262,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO262,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO263,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO263,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO264,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO264,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO264,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO266,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO266,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO266,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO267,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO267,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO267,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO267,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO269,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO269,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,19
+2020-10_south-west_stereo-BRUVs,IO272,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO272,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO273,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO273,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO273,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO275,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO275,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO275,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO276,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO276,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IO276,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO277,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO277,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO277,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO278,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO278,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO278,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO280,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO280,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO290,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO290,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IO290,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO290,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO291,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,25
+2020-10_south-west_stereo-BRUVs,IO293,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO293,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO293,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO294,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO294,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,19
+2020-10_south-west_stereo-BRUVs,IO294,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO294,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO295,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO297,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO298,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO298,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO299,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO299,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO3,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO3,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO300,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO300,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IO302,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO306,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO306,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO307,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO307,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO307,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO308,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO308,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO310,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO310,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO310,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO310,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO311,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO311,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO312,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO312,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO312,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO313,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO313,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO319,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO319,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO319,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO319,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO323,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO323,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO324,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO324,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO325,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO325,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO325,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO326,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO326,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO326,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO327,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO327,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO327,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO327,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO328,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO328,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO329,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO330,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO330,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO330,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO331,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,24
+2020-10_south-west_stereo-BRUVs,IO332,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,25
+2020-10_south-west_stereo-BRUVs,IO333,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO333,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO333,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO333 ,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO333 ,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO333 ,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO333 ,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO334,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,23
+2020-10_south-west_stereo-BRUVs,IO334,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO334,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO335,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO335,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO336,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO336,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO337,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,30
+2020-10_south-west_stereo-BRUVs,IO338,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO338,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO338,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO339,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO339,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,22
+2020-10_south-west_stereo-BRUVs,IO339,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO34,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO34,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO343,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO343,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO343,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO343,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO344,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO344,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO344,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO349,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO349,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IO349,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO350,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO350,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO350,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO351,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO351,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO351,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO352,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO352,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO352,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO352,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO353,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO353,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO354,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO354,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,30
+2020-10_south-west_stereo-BRUVs,IO355,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO355,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO355,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO355,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO356,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO356,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO356,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO356,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO357,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO357,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO357,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO357,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO36,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,22
+2020-10_south-west_stereo-BRUVs,IO36,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO361,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO361,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO361,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO361,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO363,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO363,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO363,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO363,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO363,Physical,5,Relief,High,Caves,NA,NA,NA,,,,3
+2020-10_south-west_stereo-BRUVs,IO364,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO364,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO364,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO364,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO365,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO365,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO369,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO369,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO369,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO369,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO37,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO37,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO37,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO370,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO370,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO370,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO370,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO372,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO372,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO372,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO372,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO372,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO374,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO374,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO377,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO378,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO378,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO379,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,16
+2020-10_south-west_stereo-BRUVs,IO379,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO379,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO4,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO4,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO4,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO40,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO40,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,10
+2020-10_south-west_stereo-BRUVs,IO40,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO46,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,19
+2020-10_south-west_stereo-BRUVs,IO46,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO47,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO47,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO49,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO49,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO5,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO5,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO5,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO5,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO58,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO58,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO58,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO59,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,9
+2020-10_south-west_stereo-BRUVs,IO59,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO62,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO62,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO62,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO64,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO64,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO64,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO65,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO65,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO65,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IO65,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO66,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO66,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO66,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO71,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO71,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO72,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO72,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO73,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO73,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO74,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,5
+2020-10_south-west_stereo-BRUVs,IO74,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IO75,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2020-10_south-west_stereo-BRUVs,IO75,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO80,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IO80,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO80,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,18
+2020-10_south-west_stereo-BRUVs,IO81,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO81,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO81,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO91,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IO91,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IO91,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IO92,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,15
+2020-10_south-west_stereo-BRUVs,IO92,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2020-10_south-west_stereo-BRUVs,IO95,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,19
+2020-10_south-west_stereo-BRUVs,IO95,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IO96,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IO96,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,4
+2020-10_south-west_stereo-BRUVs,IO98,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IO98,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2020-10_south-west_stereo-BRUVs,IO98,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IOC04,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,32
+2020-10_south-west_stereo-BRUVs,IOC04,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3
+2020-10_south-west_stereo-BRUVs,IOC05,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IOC05,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,20
+2020-10_south-west_stereo-BRUVs,IOC06,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,12
+2020-10_south-west_stereo-BRUVs,IOC06,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IOCP11-1,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,21
+2020-10_south-west_stereo-BRUVs,IOCP11-1,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IOCP11-2,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2020-10_south-west_stereo-BRUVs,IOCP11-2,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2020-10_south-west_stereo-BRUVs,IOCP11-2,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,17
+2020-10_south-west_stereo-BRUVs,IOCP11-2,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IOCP2311,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2020-10_south-west_stereo-BRUVs,IOCP2311,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,14
+2020-10_south-west_stereo-BRUVs,IOREDO344,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,7
+2020-10_south-west_stereo-BRUVs,IOREDO344,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,3

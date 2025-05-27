@@ -1,0 +1,13 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+NP_R1	MOwens	~ 20 m	1.08	Habitat	Reef														
+NP_R2	MOwens	~ 20 m	Started at 1.06	Habitat	Reef														
+NP_R3	MOwens	Reef	 45s	Habitat	Reef														
+NP_R4	MOwens	~ 20 m	Started at 1.15	Habitat	Seagrass/Macroalgae														
+NP_R5	MOwens	~ 22 m	Started at 1.06	Habitat	Sand														
+NP_R6	MOwens	~ 28	Sarted at 45	Habitat	Reef														
+SP_R1	MOwens	 ~ 20 m	Started at 55	Habitat	Reef														
+SP_R2	LH	~ 10 m		Habitat	Reef														
+SP_R3	MO	~ 25 m	Started at 55s	Habitat	Reef														
+SP_R4	MOwens	~ 15 m	Started at 7.45	Habitat	Reef														
+SP_R5	MOwens	~ 12 m	4.41	Habitat	Reef														
+SP_R6	MOwens	~ 15 m	 Started at 55s	Habitat	Reef														

@@ -1,0 +1,152 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+S10_D2	Adrian Ferguson	23.6																	
+S10_D3	Adrian Ferguson	24.8																	
+S10_D4	Adrian Ferguson	25.8																	
+S10_D5	Adrian Ferguson	25.4																	
+S11_D1	Jason Del	18.3																	
+S11_D2	Adrian Ferguson	21.6																	
+S11_D3	Adrian Ferguson	21.2																	
+S12_D1	Jason Del	24.5																	
+S12_D2	JM	26.3																	
+S12_D3	Adrian Ferguson	28																	
+S13_D1	Adrian Ferguson	21																	
+S13_D2	Adrian Ferguson	20.4																	
+S13_D3	JM	20.9																	
+S14_D1	JM	23.6																	
+S14_D2	JM	20.9																	
+S14_D3	Adrian Ferguson	24.8																	
+S15_D1	Jason Del	18.5																	
+S15_D2_Repeat	JM	20.5																	
+S15_D3	Jason Del	20.4																	
+S16_D1	JM	36.3																	
+S16_D2	Jason Del	33.0																	
+S16_D3	JM	23.4																	
+S17_D1	JM	38.5																	
+S17_D2	JM	31.3																	
+S17_D3	JM	25.6																	
+S18_D1	JM	28.1																	
+S18_D2	JM	24.4																	
+S18_D3	JM	21.7																	
+S19_D1_Repeat	JM	25																	
+S19_D2	JM	17.4																	
+S19_D3_Repeat	JM	25.4																	
+S1_D1	JM	22.7																	
+S1_D2	JM	28.3																	
+S1_D3	JDAY	24.3																	
+S20_D1	JM	18.5																	
+S20_D2	JM	17.3																	
+S20_D3_Repeat	JM	20.9																	
+S21_D1	JM	40.2																	
+S21_D2	JM	36.6																	
+S21_D3	JM	28.2																	
+S22_D1	JM	31.8																	
+S22_D2	JM	32.3																	
+S22_D3	JM	36.5																	
+S23_D1	JM	18.8																	
+S23_D2	Jason Del	18.9																	
+S23_D3	JM	21.1																	
+S24_D1	Jason Del	25.1																	
+S24_D2	JM	31.4																	
+S24_D3	Jason Del	32.7																	
+S25_D1	Jason Del	18.1																	
+S25_D2	JM	20.7																	
+S25_D3	Jason Del	22.1																	
+S26_D1	JM	34.1																	
+S26_D2	Jason Del	35.9																	
+S26_D3	JM	34.1																	
+S27_D1	JM	17.9																	
+S27_D2	JM	13.7																	
+S27_D3	JM																		
+S28_D1	GH																		
+S28_D2	GH	30.3																	
+S28_D3	GH																		
+S2_D1	Adrian Ferguson	14.8																	
+S2_D2	Adrian Ferguson	24.7																	
+S2_D3	Adrian Ferguson	29.2																	
+S30_D1	JM	31.5																	
+S30_D2	GH																		
+S30_D3	GH																		
+S31_D1	GH																		
+S31_D2	GH																		
+S31_D3	GH																		
+S32_D1	JM	20.7																	
+S32_D2	GH																		
+S32_D3	JM	25																	
+S33_D1	GH																		
+S33_D2	JM	28.9																	
+S33_D3	GH																		
+S34_D1	JM	24.7																	
+S34_D2	JM	28.3																	
+S34_D3	GH																		
+S35_D1	JM	25.8																	
+S35_D2	JM	23.7																	
+S35_D3	JM	18.8																	
+S36_D1	JM	22.1																	
+S36_D2	JM	20.3																	
+S36_D3	JM	20.2																	
+S37_D1	JM	21.5																	
+S37_D3	JM	22.3																	
+S38_D1	GH																		
+S38_D2	JM	26.4																	
+S38_D3	JM	33.1																	
+S39_D1	JM	21.7																	
+S39_D2	JM	32.8																	
+S39_D3	GH																		
+S3_D1	Adrian Ferguson	32																	
+S3_D2	Adrian Ferguson	27																	
+S3_D3	Adrian Ferguson	22																	
+S40_D1	GH																		
+S40_D2	JM	22.9																	
+S40_D3	JM	16.5																	
+S41_D1	JM	34.2																	
+S41_D2	JM	29.6																	
+S41_D3	JM	29.4																	
+S42_D1	JM	24.2																	
+S42_D2	JM	27.8																	
+S42_D3	JM	30.2																	
+S43_D1	JM																		
+S43_D3	JM	37																	
+S44_D1	GH																		
+S44_D2	JM	17.8																	
+S44_D3	GH																		
+S45_D1	GH																		
+S45_D2	JM	17.2																	
+S45_D3	GH																		
+S46_D1	JM	24.8																	
+S46_D2	GH																		
+S46_D3	JM	23.7																	
+S47_D1	GH																		
+S47_D2	JM	31.7																	
+S47_D3	GH																		
+S48_D1	JM	27.1																	
+S48_D2	GH																		
+S48_D3	JM	24.8																	
+S49_D1	GH																		
+S49_D2	JM	21.1																	
+S49_D3	GH																		
+S4_D1	JM	40.3																	
+S4_D2	JM	35																	
+S4_D3	Adrian Ferguson	29.8																	
+S50_D1	JM	27.1																	
+S50_D2	GH																		
+S50_D3	JM	21.7																	
+S51_D1	GH	26.7																	
+S51_D2	GH	24.5																	
+S51_D3	GH	22.5																	
+S5_D1	Adrian Ferguson	32.9																	
+S5_D2	Jason Del	29.8																	
+S5_D3	JM	29.8																	
+S6_D1	JM	19.5																	
+S6_D2	Adrian Ferguson	19.5																	
+S6_D3	Adrian Ferguson	23.3																	
+S7_D1	Adrian Ferguson	33.8																	
+S7_D2	Jason Del	33.8																	
+S7_D3	Adrian Ferguson	37.8																	
+S8_D1	Adrian Ferguson	24.5																	
+S8_D2	Adrian Ferguson	27.3																	
+S8_D3	Adrian Ferguson	19.4																	
+S9_D1	Adrian Ferguson	38.5																	
+S9_D2	Adrian Ferguson	35.2																	
+S9_D3	Adrian Ferguson	36.5																	
+S9_D4	Adrian Ferguson	32.7																	
+S9_D5	Adrian Ferguson	30.8																	

@@ -1,0 +1,1266 @@
+Dot Point Measurements
+
+Generated: Tuesday 24 January 2023 14:53:08
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	BROAD	MORPHOLOGY	TYPE	RELIEF	CODE				Radius %
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		139	196													10	1													100.0
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		406	196													10	1													89.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		674	196													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		941	196													10	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		139	578													10	1													64.2
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		406	578													10	1													46.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		674	578													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		941	578													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		139	960													10	1													46.5
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		406	960													10	1													15.5
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		674	960													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		941	960													10	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		139	1342													10	1													64.2
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		406	1342													10	1													46.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		674	1342													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		941	1342													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		139	1724													10	1													100.0
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		406	1724													10	1													89.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		674	1724													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+10_1_01_Left_MAH00329.MP4_0043644.jpg	      0		941	1724													10	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		139	196													11	1													100.0
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		406	196													11	1													89.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		674	196													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		941	196													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		139	578													11	1													64.2
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		406	578													11	1													46.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		674	578													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		941	578													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		139	960													11	1													46.5
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		406	960													11	1													15.5
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		674	960													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		941	960													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		139	1342													11	1													64.2
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		406	1342													11	1													46.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		674	1342													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		941	1342													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		139	1724													11	1													100.0
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		406	1724													11	1													89.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		674	1724													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+11_1_01_Left_MAH01231.MP4_0068793.jpg	      0		941	1724													11	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		139	196													12	1													100.0
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		406	196													12	1													89.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		674	196													12	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		941	196													12	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		139	578													12	1													64.2
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		406	578													12	1													46.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		674	578													12	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		941	578													12	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		139	960													12	1													46.5
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		406	960													12	1													15.5
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		674	960													12	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		941	960													12	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		139	1342													12	1													64.2
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		406	1342													12	1													46.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		674	1342													12	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		941	1342													12	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		139	1724													12	1													100.0
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		406	1724													12	1													89.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		674	1724													12	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+12_1_01_Left_MAH01218.MP4_0059569.jpg	      0		941	1724													12	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		139	196													13	1													100.0
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		406	196													13	1													89.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		674	196													13	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		941	196													13	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					100.0
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		139	578													13	1													64.2
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		406	578													13	1													46.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		674	578													13	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		941	578													13	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		139	960													13	1													46.5
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		406	960													13	1													15.5
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		674	960													13	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		941	960													13	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		139	1342													13	1													64.2
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		406	1342													13	1													46.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		674	1342													13	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		941	1342													13	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		139	1724													13	1													100.0
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		406	1724													13	1													89.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		674	1724													13	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+13_1_01_Left_MAH00240.MP4_0068872.jpg	      0		941	1724													13	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		139	196													14	1													100.0
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		406	196													14	1													89.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		674	196													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		941	196													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		139	578													14	1													64.2
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		406	578													14	1													46.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		674	578													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		941	578													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		139	960													14	1													46.5
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		406	960													14	1													15.5
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		674	960													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		941	960													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		139	1342													14	1													64.2
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		406	1342													14	1													46.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		674	1342													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		941	1342													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		139	1724													14	1													100.0
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		406	1724													14	1													89.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		674	1724													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+14_1_01_Left_MAH00242.MP4_0071408.jpg	      0		941	1724													14	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		139	196													15	1													100.0
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		406	196													15	1													89.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		674	196													15	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		941	196													15	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		139	578													15	1													64.2
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		406	578													15	1													46.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		674	578													15	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		941	578													15	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		139	960													15	1													46.5
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		406	960													15	1													15.5
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		674	960													15	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		941	960													15	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		139	1342													15	1													64.2
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		406	1342													15	1													46.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		674	1342													15	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		941	1342													15	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		139	1724													15	1													100.0
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		406	1724													15	1													89.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		674	1724													15	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+15_1_01_Left_MAH00243.MP4_0023747.jpg	      0		941	1724													15	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		139	196													16	1													100.0
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		406	196													16	1													89.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		674	196													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		941	196													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		139	578													16	1													64.2
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		406	578													16	1													46.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		674	578													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		941	578													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		139	960													16	1													46.5
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		406	960													16	1													15.5
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		674	960													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		941	960													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		139	1342													16	1													64.2
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		406	1342													16	1													46.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		674	1342													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		941	1342													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		139	1724													16	1													100.0
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		406	1724													16	1													89.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		674	1724													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+16_1_01_Left_MAH00192.MP4_0075691.jpg	      0		941	1724													16	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		139	196													17														100.0
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		406	196													17														89.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		674	196													17									.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		941	196													17									.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					100.0
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		139	578													17														64.2
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		406	578													17														46.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		674	578													17									.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		941	578													17									.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		139	960													17														46.5
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		406	960													17														15.5
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		674	960													17									.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		941	960													17									.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		139	1342													17														64.2
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		406	1342													17														46.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		674	1342													17									.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		941	1342													17									.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		139	1724													17														100.0
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		406	1724													17														89.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		674	1724													17									.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+17__01_Left_MAH01244.MP4_0026664.jpg	      0		941	1724													17									".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		139	196													18	1													100.0
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		406	196													18	1													89.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		674	196													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		941	196													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		139	578													18	1													64.2
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		406	578													18	1													46.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		674	578													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		941	578													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		139	960													18	1													46.5
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		406	960													18	1													15.5
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		674	960													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		941	960													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		139	1342													18	1													64.2
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		406	1342													18	1													46.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		674	1342													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		941	1342													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		139	1724													18	1													100.0
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		406	1724													18	1													89.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		674	1724													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+18__01_Left_MAH00236.MP4_0023340.jpg	      0		941	1724													18	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		139	196													19	1													100.0
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		406	196													19	1													89.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		674	196													19	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		941	196													19	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		139	578													19	1													64.2
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		406	578													19	1													46.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		674	578													19	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		941	578													19	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		139	960													19	1													46.5
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		406	960													19	1													15.5
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		674	960													19	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		941	960													19	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.5
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		139	1342													19	1													64.2
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		406	1342													19	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		674	1342													19	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		941	1342													19	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		139	1724													19	1													100.0
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		406	1724													19	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		674	1724													19	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+19_1_01_Left_MAH00255.MP4_0005732.jpg	      0		941	1724													19	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		139	196													1	1													100.0
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		406	196													1	1													89.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		674	196													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		941	196													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		139	578													1	1													64.2
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		406	578													1	1													46.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		674	578													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		941	578													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		139	960													1	1													46.5
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		406	960													1	1													15.5
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		674	960													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		941	960													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		139	1342													1	1													64.2
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		406	1342													1	1													46.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		674	1342													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		941	1342													1	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		139	1724													1	1													100.0
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		406	1724													1	1													89.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		674	1724													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+1_1_01_Left_MAH00204.MP4_0007677.jpg	      0		941	1724													1	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		139	196													20	1													100.0
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		406	196													20	1													89.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		674	196													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		941	196													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		139	578													20	1													64.2
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		406	578													20	1													46.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		674	578													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		941	578													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		139	960													20	1													46.5
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		406	960													20	1													15.5
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		674	960													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		941	960													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		139	1342													20	1													64.2
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		406	1342													20	1													46.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		674	1342													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		941	1342													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		139	1724													20	1													100.0
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		406	1724													20	1													89.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		674	1724													20	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+20_1_01_Left_MAH00217.MP4_0057366.jpg	      0		941	1724													20	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		139	196													21	1													100.0
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		406	196													21	1													89.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		674	196													21	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		941	196													21	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		139	578													21	1													64.2
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		406	578													21	1													46.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		674	578													21	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		941	578													21	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		139	960													21	1													46.5
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		406	960													21	1													15.5
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		674	960													21	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		941	960													21	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		139	1342													21	1													64.2
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		406	1342													21	1													46.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		674	1342													21	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		941	1342													21	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		139	1724													21	1													100.0
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		406	1724													21	1													89.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		674	1724													21	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+21_1_01_Left_MAH00248.MP4_0072127.jpg	      0		941	1724													21	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					100.0
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		139	196													22	1													100.0
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		406	196													22	1													89.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		674	196													22	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		941	196													22	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					100.0
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		139	578													22	1													64.2
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		406	578													22	1													46.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		674	578													22	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		941	578													22	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		139	960													22	1													46.5
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		406	960													22	1													15.5
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		674	960													22	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		941	960													22	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		139	1342													22	1													64.2
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		406	1342													22	1													46.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		674	1342													22	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		941	1342													22	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		139	1724													22	1													100.0
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		406	1724													22	1													89.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		674	1724													22	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+22__01_Left_MAH00223.MP4_0012615.jpg	      0		941	1724													22	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		139	196													23	1													100.0
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		406	196													23	1													89.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		674	196													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		941	196													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		139	578													23	1													64.2
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		406	578													23	1													46.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		674	578													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		941	578													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		139	960													23	1													46.5
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		406	960													23	1													15.5
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		674	960													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		941	960													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		139	1342													23	1													64.2
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		406	1342													23	1													46.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		674	1342													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		941	1342													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		139	1724													23	1													100.0
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		406	1724													23	1													89.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		674	1724													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+23_1_01_Left_MAH01224.MP4_0080198.jpg	      0		941	1724													23	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		139	196													24	1													100.0
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		406	196													24	1													89.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		674	196													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		941	196													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		139	578													24	1													64.2
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		406	578													24	1													46.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		674	578													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		941	578													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		139	960													24	1													46.5
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		406	960													24	1													15.5
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		674	960													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		941	960													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		139	1342													24	1													64.2
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		406	1342													24	1													46.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		674	1342													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		941	1342													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		139	1724													24	1													100.0
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		406	1724													24	1													89.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		674	1724													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+24_1_01_Left_MAH00206.MP4_0039157.jpg	      0		941	1724													24	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		139	196													25	1													100.0
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		406	196													25	1													89.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		674	196													25	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		941	196													25	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		139	578													25	1													64.2
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		406	578													25	1													46.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		674	578													25	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		941	578													25	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		139	960													25	1													46.5
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		406	960													25	1													15.5
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		674	960													25	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		941	960													25	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		139	1342													25	1													64.2
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		406	1342													25	1													46.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		674	1342													25	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		941	1342													25	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		139	1724													25	1													100.0
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		406	1724													25	1													89.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		674	1724													25	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+25_1_01_Left_MAH00238.MP4_0024958.jpg	      0		941	1724													25	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		139	196													26	1													100.0
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		406	196													26	1													89.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		674	196													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		941	196													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		139	578													26	1													64.2
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		406	578													26	1													46.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		674	578													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		941	578													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		139	960													26	1													46.5
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		406	960													26	1													15.5
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		674	960													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		941	960													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		139	1342													26	1													64.2
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		406	1342													26	1													46.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		674	1342													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		941	1342													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		139	1724													26	1													100.0
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		406	1724													26	1													89.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		674	1724													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+26_1_01_Left_MAH01213.MP4_0043517.jpg	      0		941	1724													26	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		139	196													27	1													100.0
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		406	196													27	1													89.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		674	196													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		941	196													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		139	578													27	1													64.2
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		406	578													27	1													46.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		674	578													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		941	578													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		139	960													27	1													46.5
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		406	960													27	1													15.5
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		674	960													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		941	960													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		139	1342													27	1													64.2
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		406	1342													27	1													46.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		674	1342													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		941	1342													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		139	1724													27	1													100.0
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		406	1724													27	1													89.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		674	1724													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+27_1_01_Left_MAH00230.MP4_0005279.jpg	      0		941	1724													27	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		139	196													28	1													100.0
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		406	196													28	1													89.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		674	196													28	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		941	196													28	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		139	578													28	1													64.2
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		406	578													28	1													46.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		674	578													28	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		941	578													28	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		139	960													28	1													46.5
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		406	960													28	1													15.5
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		674	960													28	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		941	960													28	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		139	1342													28	1													64.2
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		406	1342													28	1													46.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		674	1342													28	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		941	1342													28	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		139	1724													28	1													100.0
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		406	1724													28	1													89.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		674	1724													28	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+28_1_01_Left_MAH00232.MP4_0006614.jpg	      0		941	1724													28	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		139	196													29	1													100.0
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		406	196													29	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		674	196													29	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		941	196													29	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		139	578													29	1													64.2
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		406	578													29	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		674	578													29	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		941	578													29	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		139	960													29	1													46.5
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		406	960													29	1								.3. Good relief structure with some overhangs. >45 substrate slope.					15.5
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		674	960													29	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		941	960													29	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		139	1342													29	1													64.2
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		406	1342													29	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		674	1342													29	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		941	1342													29	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		139	1724													29	1													100.0
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		406	1724													29	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		674	1724													29	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+29_1_01_Left_MAH00236.MP4_0074742.jpg	      0		941	1724													29	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		139	196													2	1													100.0
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		406	196													2	1													89.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		674	196													2	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		941	196													2	1								.3. Good relief structure with some overhangs. >45 substrate slope.					100.0
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		139	578													2	1													64.2
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		406	578													2	1													46.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		674	578													2	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		941	578													2	1								.3. Good relief structure with some overhangs. >45 substrate slope.					64.2
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		139	960													2	1													46.5
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		406	960													2	1													15.5
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		674	960													2	1								.3. Good relief structure with some overhangs. >45 substrate slope.					15.5
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		941	960													2	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.5
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		139	1342													2	1													64.2
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		406	1342													2	1													46.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		674	1342													2	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		941	1342													2	1								.3. Good relief structure with some overhangs. >45 substrate slope.					64.2
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		139	1724													2	1													100.0
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		406	1724													2	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		674	1724													2	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+2_1_01_Left_MAH00217.MP4_0048702.jpg	      0		941	1724													2	1								.3. Good relief structure with some overhangs. >45 substrate slope.					100.0
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		139	196													30	1													100.0
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		406	196													30	1													89.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		674	196													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		941	196													30	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		139	578													30	1													64.2
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		406	578													30	1													46.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		674	578													30	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		941	578													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		139	960													30	1													46.5
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		406	960													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		674	960													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		941	960													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		139	1342													30	1													64.2
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		406	1342													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		674	1342													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		941	1342													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		139	1724													30	1													100.0
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		406	1724													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		674	1724													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+30_1_01_Left_MAH00225.MP4_0017778.jpg	      0		941	1724													30	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		139	196													31	1													100.0
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		406	196													31	1													89.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		674	196													31	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		941	196													31	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		139	578													31	1													64.2
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		406	578													31	1													46.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		674	578													31	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		941	578													31	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		139	960													31	1													46.5
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		406	960													31	1													15.5
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		674	960													31	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		941	960													31	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		139	1342													31	1													64.2
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		406	1342													31	1													46.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		674	1342													31	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		941	1342													31	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		139	1724													31	1													100.0
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		406	1724													31	1													89.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		674	1724													31	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+31_1_01_Left_MAH00199.MP4_0062072.jpg	      0		941	1724													31	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		139	196													32	1													100.0
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		406	196													32	1													89.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		674	196													32	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		941	196													32	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		139	578													32	1													64.2
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		406	578													32	1													46.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		674	578													32	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		941	578													32	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		139	960													32	1													46.5
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		406	960													32	1													15.5
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		674	960													32	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		941	960													32	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		139	1342													32	1													64.2
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		406	1342													32	1													46.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		674	1342													32	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		941	1342													32	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		139	1724													32	1													100.0
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		406	1724													32	1													89.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		674	1724													32	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+32_1_01_Left_MAH00230.MP4_0075533.jpg	      0		941	1724													32	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		139	196													33	1													100.0
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		406	196													33	1													89.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		674	196													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		941	196													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		139	578													33	1													64.2
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		406	578													33	1													46.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		674	578													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		941	578													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		139	960													33	1													46.5
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		406	960													33	1													15.5
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		674	960													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		941	960													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		139	1342													33	1													64.2
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		406	1342													33	1													46.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		674	1342													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		941	1342													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		139	1724													33	1													100.0
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		406	1724													33	1													89.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		674	1724													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+33_1_01_Left_MAH00231.MP4_0018349.jpg	      0		941	1724													33	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		139	196													34	1													100.0
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		406	196													34	1													89.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		674	196													34	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		941	196													34	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		139	578													34	1													64.2
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		406	578													34	1													46.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		674	578													34	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		941	578													34	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		139	960													34	1													46.5
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		406	960													34	1													15.5
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		674	960													34	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		941	960													34	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		139	1342													34	1													64.2
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		406	1342													34	1													46.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		674	1342													34	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		941	1342													34	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		139	1724													34	1													100.0
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		406	1724													34	1													89.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		674	1724													34	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+34_1_01_Left_MAH00248.MP4_0061121.jpg	      0		941	1724													34	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		139	196													35	1													100.0
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		406	196													35	1													89.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		674	196													35	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		941	196													35	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		139	578													35	1													64.2
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		406	578													35	1													46.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		674	578													35	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		941	578													35	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		139	960													35	1													46.5
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		406	960													35	1													15.5
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		674	960													35	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		941	960													35	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		139	1342													35	1													64.2
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		406	1342													35	1													46.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		674	1342													35	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		941	1342													35	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		139	1724													35	1													100.0
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		406	1724													35	1													89.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		674	1724													35	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+35_1_01_Left_MAH00342.MP4_0039941.jpg	      0		941	1724													35	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		139	196													36	1													100.0
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		406	196													36	1													89.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		674	196													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		941	196													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		139	578													36	1													64.2
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		406	578													36	1													46.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		674	578													36	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		941	578													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		139	960													36	1													46.5
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		406	960													36	1													15.5
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		674	960													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		941	960													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		139	1342													36	1													64.2
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		406	1342													36	1													46.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		674	1342													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		941	1342													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		139	1724													36	1													100.0
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		406	1724													36	1													89.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		674	1724													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+36_1_01_Left_MAH00222.MP4_0072233.jpg	      0		941	1724													36	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		139	196													37	1													91.3
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		406	196													37	1								.3. Good relief structure with some overhangs. >45 substrate slope.					81.4
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		674	196													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					81.8
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		941	196													37	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					92.2
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		139	578													37	1													57.7
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		406	578													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					40.4
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		674	578													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					41.1
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		941	578													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					59.1
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		139	960													37	1													43.8
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		406	960													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					14.6
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		674	960													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					16.4
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		941	960													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					45.6
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		139	1342													37	1													63.9
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		406	1342													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					48.8
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		674	1342													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					49.3
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		941	1342													37	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					65.2
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		139	1724													37	1													99.2
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		406	1724													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					90.2
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		674	1724													37	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					90.5
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		941	1724													37	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+37_1_01_Left_MAH00216.MP4_0073378.jpg	      0		366	121													37	1													90.4
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		139	196													38	1													100.0
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		406	196													38	1													89.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		674	196													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		941	196													38	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		139	578													38	1													64.2
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		406	578													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		674	578													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		941	578													38	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		139	960													38	1													46.5
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		406	960													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		674	960													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		941	960													38	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		139	1342													38	1													64.2
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		406	1342													38	1													46.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		674	1342													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		941	1342													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		139	1724													38	1													100.0
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		406	1724													38	1													89.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		674	1724													38	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+38_1_01_Left_MAH00254.MP4_0077993.jpg	      0		941	1724													38	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		139	196													39	1													100.0
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		406	196													39	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		674	196													39	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		941	196													39	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		139	578													39	1													64.2
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		406	578													39	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		674	578													39	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		941	578													39	1													64.2
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		139	960													39	1													46.5
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		406	960													39	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		674	960													39	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		941	960													39	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		139	1342													39	1													64.2
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		406	1342													39	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		674	1342													39	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		941	1342													39	1													64.2
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		139	1724													39	1													100.0
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		406	1724													39	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		674	1724													39	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+39_1_01_Left_MAH00236.MP4_0013093.jpg	      0		941	1724													39	1								.3. Good relief structure with some overhangs. >45 substrate slope.					100.0
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		139	196													3	1													100.0
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		406	196													3	1													89.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		674	196													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		941	196													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		139	578													3	1													64.2
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		406	578													3	1													46.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		674	578													3	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		941	578													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		139	960													3	1													46.5
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		406	960													3	1													15.5
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		674	960													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		941	960													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		139	1342													3	1													64.2
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		406	1342													3	1													46.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		674	1342													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		941	1342													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		139	1724													3	1													100.0
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		406	1724													3	1													89.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		674	1724													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+3_1_01_Left_MAH00209.MP4_0050761.jpg	      0		941	1724													3	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		139	196													40	1													100.0
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		406	196													40	1													89.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		674	196													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		941	196													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		139	578													40	1													64.2
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		406	578													40	1													46.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		674	578													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		941	578													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		139	960													40	1													46.5
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		406	960													40	1													15.5
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		674	960													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		941	960													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		139	1342													40	1													64.2
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		406	1342													40	1													46.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		674	1342													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		941	1342													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		139	1724													40	1													100.0
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		406	1724													40	1													89.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		674	1724													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+40__01_Left_MAH00186.MP4_0020550.jpg	      0		941	1724													40	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		139	196													41	1													100.0
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		406	196													41	1													89.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		674	196													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		941	196													41	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		139	578													41	1													64.2
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		406	578													41	1													46.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		674	578													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		941	578													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		139	960													41	1													46.5
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		406	960													41	1													15.5
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		674	960													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		941	960													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		139	1342													41	1													64.2
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		406	1342													41	1													46.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		674	1342													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		941	1342													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		139	1724													41	1													100.0
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		406	1724													41	1													89.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		674	1724													41	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+41_1_01_Left_MAH00335.MP4_0020819.jpg	      0		941	1724													41	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		139	196													42	1													100.0
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		406	196													42	1													89.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		674	196													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		941	196													42	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		139	578													42	1													64.2
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		406	578													42	1													46.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		674	578													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		941	578													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		139	960													42	1													46.5
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		406	960													42	1													15.5
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		674	960													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		941	960													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		139	1342													42	1													64.2
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		406	1342													42	1													46.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		674	1342													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		941	1342													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		139	1724													42	1													100.0
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		406	1724													42	1													89.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		674	1724													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+42_1_01_Left_MAH00243.MP4_0022269.jpg	      0		941	1724													42	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		139	196													43	1													100.0
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		406	196													43	1													89.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		674	196													43	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		941	196													43	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		139	578													43	1													64.2
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		406	578													43	1													46.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		674	578													43	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		941	578													43	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		139	960													43	1													46.5
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		406	960													43	1													15.5
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		674	960													43	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		941	960													43	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		139	1342													43	1													64.2
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		406	1342													43	1													46.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		674	1342													43	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		941	1342													43	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		139	1724													43	1													100.0
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		406	1724													43	1													89.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		674	1724													43	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+43_1_01_Left_MAH00198.MP4_0035733.jpg	      0		941	1724													43	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		139	196													44	1													100.0
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		406	196													44	1													89.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		674	196													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		941	196													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		139	578													44	1													64.2
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		406	578													44	1													46.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		674	578													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		941	578													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		139	960													44	1													46.5
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		406	960													44	1													15.5
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		674	960													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		941	960													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		139	1342													44	1													64.2
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		406	1342													44	1													46.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		674	1342													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		941	1342													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		139	1724													44	1													100.0
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		406	1724													44	1													89.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		674	1724													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+44_1_01_Left_MAH00316.MP4_0048432.jpg	      0		941	1724													44	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+45.jpg	      0		139	196													45	1													100.0
+45.jpg	      0		406	196													45	1													89.9
+45.jpg	      0		674	196													45	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+45.jpg	      0		941	196													45	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+45.jpg	      0		139	578													45	1													64.2
+45.jpg	      0		406	578													45	1													46.9
+45.jpg	      0		674	578													45	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+45.jpg	      0		941	578													45	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+45.jpg	      0		139	960													45	1													46.5
+45.jpg	      0		406	960													45	1													15.5
+45.jpg	      0		674	960													45	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+45.jpg	      0		941	960													45	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+45.jpg	      0		139	1342													45	1													64.2
+45.jpg	      0		406	1342													45	1													46.9
+45.jpg	      0		674	1342													45	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+45.jpg	      0		941	1342													45	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+45.jpg	      0		139	1724													45	1													100.0
+45.jpg	      0		406	1724													45	1													89.9
+45.jpg	      0		674	1724													45	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+45.jpg	      0		941	1724													45	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		139	196													46	1													100.0
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		406	196													46	1													89.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		674	196													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		941	196													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					100.0
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		139	578													46	1													64.2
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		406	578													46	1													46.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		674	578													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		941	578													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					64.2
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		139	960													46	1													46.5
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		406	960													46	1													15.5
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		674	960													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					15.5
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		941	960													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.5
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		139	1342													46	1													64.2
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		406	1342													46	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		674	1342													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		941	1342													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					64.2
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		139	1724													46	1													100.0
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		406	1724													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		674	1724													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					89.9
+46_1_01_Left_MAH00347.MP4_0079806.jpg	      0		941	1724													46	1								.3. Good relief structure with some overhangs. >45 substrate slope.					100.0
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		139	196													47	1													100.0
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		406	196													47	1													89.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		674	196													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		941	196													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		139	578													47	1													64.2
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		406	578													47	1													46.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		674	578													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		941	578													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		139	960													47	1													46.5
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		406	960													47	1													15.5
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		674	960													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		941	960													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		139	1342													47	1													64.2
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		406	1342													47	1													46.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		674	1342													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		941	1342													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		139	1724													47	1													100.0
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		406	1724													47	1													89.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		674	1724													47	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+47_1_01_Left_MAH00230.MP4_0000500.jpg	      0		941	1724													47	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		139	196													48	1													100.0
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		406	196													48	1													89.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		674	196													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		941	196													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		139	578													48	1													64.2
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		406	578													48	1													46.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		674	578													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		941	578													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		139	960													48	1													46.5
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		406	960													48	1													15.5
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		674	960													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		941	960													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		139	1342													48	1													64.2
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		406	1342													48	1													46.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		674	1342													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		941	1342													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		139	1724													48	1													100.0
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		406	1724													48	1													89.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		674	1724													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+48_1_01_Left_MAH00243.MP4_0058192.jpg	      0		941	1724													48	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		139	196													4	1													100.0
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		406	196													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		674	196													4	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		941	196													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		139	578													4	1													64.2
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		406	578													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		674	578													4	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		941	578													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		139	960													4	1													46.5
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		406	960													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		674	960													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		941	960													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		139	1342													4	1													64.2
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		406	1342													4	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		674	1342													4	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		941	1342													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		139	1724													4	1													100.0
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		406	1724													4	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		674	1724													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+4_1_01_Left_MAH00213.MP4_0039336.jpg	      0		941	1724													4	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		139	196													50	1													100.0
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		406	196													50	1													89.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		674	196													50	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		941	196													50	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		139	578													50	1													64.2
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		406	578													50	1													46.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		674	578													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		941	578													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		139	960													50	1													46.5
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		406	960													50	1													15.5
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		674	960													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		941	960													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		139	1342													50	1													64.2
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		406	1342													50	1													46.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		674	1342													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		941	1342													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		139	1724													50	1													100.0
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		406	1724													50	1													89.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		674	1724													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+50_1_01_Left_MAH01237.MP4_0008514.jpg	      0		941	1724													50	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		139	196													51	1													100.0
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		406	196													51	1													89.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		674	196													51	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		941	196													51	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		139	578													51	1													64.2
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		406	578													51	1													46.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		674	578													51	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		941	578													51	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		139	960													51	1													46.5
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		406	960													51	1													15.5
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		674	960													51	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		941	960													51	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		139	1342													51	1													64.2
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		406	1342													51	1													46.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		674	1342													51	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		941	1342													51	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		139	1724													51	1													100.0
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		406	1724													51	1													89.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		674	1724													51	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+51_1_01_Left_MAH00234.MP4_0067622.jpg	      0		941	1724													51	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		139	196													52	1													100.0
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		406	196													52	1													89.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		674	196													52	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		941	196													52	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		139	578													52	1													64.2
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		406	578													52	1													46.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		674	578													52	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		941	578													52	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		139	960													52	1													46.5
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		406	960													52	1													15.5
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		674	960													52	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		941	960													52	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		139	1342													52	1													64.2
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		406	1342													52	1													46.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		674	1342													52	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		941	1342													52	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		139	1724													52	1													100.0
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		406	1724													52	1													89.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		674	1724													52	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+52_1_01_Left_MAH00204.MP4_0041100.jpg	      0		941	1724													52	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		139	196													53	1													100.0
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		406	196													53	1													89.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		674	196													53	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		941	196													53	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					100.0
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		139	578													53	1													64.2
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		406	578													53	1													46.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		674	578													53	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		941	578													53	1													64.2
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		139	960													53	1													46.5
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		406	960													53	1													15.5
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		674	960													53	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		941	960													53	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.5
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		139	1342													53	1													64.2
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		406	1342													53	1													46.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		674	1342													53	1								.3. Good relief structure with some overhangs. >45 substrate slope.					46.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		941	1342													53	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		139	1724													53	1													100.0
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		406	1724													53	1													89.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		674	1724													53	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+53_1_01_Left_MAH00354.MP4_0013423.jpg	      0		941	1724													53	1								.3. Good relief structure with some overhangs. >45 substrate slope.					100.0
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		139	196													54	1													100.0
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		406	196													54	1													89.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		674	196													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		941	196													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		139	578													54	1													64.2
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		406	578													54	1													46.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		674	578													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		941	578													54	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		139	960													54	1													46.5
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		406	960													54	1													15.5
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		674	960													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		941	960													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		139	1342													54	1													64.2
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		406	1342													54	1													46.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		674	1342													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		941	1342													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		139	1724													54	1													100.0
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		406	1724													54	1													89.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		674	1724													54	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+54_1_01_Left_MAH00176.MP4_0065119.jpg	      0		941	1724													54	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+55.jpg	      0		139	196													55	1													100.0
+55.jpg	      0		406	196													55	1													89.9
+55.jpg	      0		674	196													55	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+55.jpg	      0		941	196													55	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					100.0
+55.jpg	      0		139	578													55	1													64.2
+55.jpg	      0		406	578													55	1													46.9
+55.jpg	      0		674	578													55	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+55.jpg	      0		941	578													55	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+55.jpg	      0		139	960													55	1													46.5
+55.jpg	      0		406	960													55	1													15.5
+55.jpg	      0		674	960													55	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+55.jpg	      0		941	960													55	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+55.jpg	      0		139	1342													55	1													64.2
+55.jpg	      0		406	1342													55	1													46.9
+55.jpg	      0		674	1342													55	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+55.jpg	      0		941	1342													55	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+55.jpg	      0		139	1724													55	1													100.0
+55.jpg	      0		406	1724													55	1													89.9
+55.jpg	      0		674	1724													55	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+55.jpg	      0		941	1724													55	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		139	196													56	1													100.0
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		406	196													56	1													89.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		674	196													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		941	196													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		139	578													56	1													64.2
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		406	578													56	1													46.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		674	578													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		941	578													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		139	960													56	1													46.5
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		406	960													56	1													15.5
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		674	960													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		941	960													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		139	1342													56	1													64.2
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		406	1342													56	1													46.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		674	1342													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		941	1342													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		139	1724													56	1													100.0
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		406	1724													56	1													89.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		674	1724													56	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+56_1_01_Left_MAH00196.MP4_0066092.jpg	      0		941	1724													56	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		139	196													57	1													100.0
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		406	196													57	1													89.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		674	196													57	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		941	196													57	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		139	578													57	1													64.2
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		406	578													57	1													46.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		674	578													57	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		941	578													57	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		139	960													57	1													46.5
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		406	960													57	1													15.5
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		674	960													57	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		941	960													57	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		139	1342													57	1													64.2
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		406	1342													57	1													46.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		674	1342													57	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		941	1342													57	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		139	1724													57	1													100.0
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		406	1724													57	1													89.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		674	1724													57	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+57_1_01_Left_MAH00223.MP4_0015861.jpg	      0		941	1724													57	1								.3. Good relief structure with some overhangs. >45 substrate slope.					100.0
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		139	196													58	1													100.0
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		406	196													58	1													89.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		674	196													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		941	196													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		139	578													58	1													64.2
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		406	578													58	1													46.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		674	578													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		941	578													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		139	960													58	1													46.5
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		406	960													58	1													15.5
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		674	960													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		941	960													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		139	1342													58	1													64.2
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		406	1342													58	1													46.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		674	1342													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		941	1342													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		139	1724													58	1													100.0
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		406	1724													58	1													89.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		674	1724													58	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+58_1_01_Left_MAH00212.MP4_0013011.jpg	      0		941	1724													58	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		139	196													59	1													100.0
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		406	196													59	1													89.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		674	196													59	1													89.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		941	196													59	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		139	578													59	1													64.2
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		406	578													59	1													46.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		674	578													59	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		941	578													59	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		139	960													59	1													46.5
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		406	960													59	1													15.5
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		674	960													59	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		941	960													59	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		139	1342													59	1													64.2
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		406	1342													59	1													46.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		674	1342													59	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		941	1342													59	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		139	1724													59	1													100.0
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		406	1724													59	1													89.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		674	1724													59	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+59_1_01_Left_MAH00203.MP4_0047147.jpg	      0		941	1724													59	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		139	196													5	1													100.0
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		406	196													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		674	196													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		941	196													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		139	578													5	1													64.2
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		406	578													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		674	578													5	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		941	578													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		139	960													5	1													46.5
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		406	960													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		674	960													5	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		941	960													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		139	1342													5	1													64.2
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		406	1342													5	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		674	1342													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		941	1342													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		139	1724													5	1													100.0
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		406	1724													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		674	1724													5	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+5_1_01_Left_MAH00219.MP4_0038996.jpg	      0		941	1724													5	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		139	196													60	1													100.0
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		406	196													60	1													89.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		674	196													60	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		941	196													60	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		139	578													60	1													64.2
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		406	578													60	1													46.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		674	578													60	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		941	578													60	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		139	960													60	1													46.5
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		406	960													60	1													15.5
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		674	960													60	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		941	960													60	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.5
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		139	1342													60	1													64.2
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		406	1342													60	1													46.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		674	1342													60	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		941	1342													60	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		139	1724													60	1													100.0
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		406	1724													60	1													89.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		674	1724													60	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+60_1_01_Left_MAH00213.MP4_0029546.jpg	      0		941	1724													60	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		139	196													61	1													100.0
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		406	196													61	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		674	196													61	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		941	196													61	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		139	578													61	1													64.2
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		406	578													61	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		674	578													61	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		941	578													61	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					64.2
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		139	960													61	1													46.5
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		406	960													61	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					15.5
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		674	960													61	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		941	960													61	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		139	1342													61	1													64.2
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		406	1342													61	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		674	1342													61	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		941	1342													61	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		139	1724													61	1													100.0
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		406	1724													61	1													89.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		674	1724													61	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+61_1_01_Left_MAH01257.MP4_0016360.jpg	      0		941	1724													61	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		139	196													62	1													100.0
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		406	196													62	1													89.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		674	196													62	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		941	196													62	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		139	578													62	1													64.2
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		406	578													62	1													46.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		674	578													62	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		941	578													62	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		139	960													62	1													46.5
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		406	960													62	1													15.5
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		674	960													62	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					15.5
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		941	960													62	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.5
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		139	1342													62	1													64.2
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		406	1342													62	1													46.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		674	1342													62	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					46.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		941	1342													62	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		139	1724													62	1													100.0
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		406	1724													62	1													89.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		674	1724													62	1								.2. Mostly relief features amongst some flat substrate or rubble. ~45 substrate slope.					89.9
+62_1_01_Left_MAH00219.MP4_0074355.jpg	      0		941	1724													62	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		139	196													63	1													100.0
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		406	196													63	1													89.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		674	196													63	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		941	196													63	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		139	578													63	1													64.2
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		406	578													63	1													46.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		674	578													63	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		941	578													63	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		139	960													63	1													46.5
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		406	960													63	1													15.5
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		674	960													63	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		941	960													63	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		139	1342													63	1													64.2
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		406	1342													63	1													46.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		674	1342													63	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		941	1342													63	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		139	1724													63	1													100.0
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		406	1724													63	1													89.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		674	1724													63	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+63_1_01_Left_MAH00249.MP4_0016335.jpg	      0		941	1724													63	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		139	196													64	1													100.0
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		406	196													64	1													89.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		674	196													64	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		941	196													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		139	578													64	1													64.2
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		406	578													64	1													46.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		674	578													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		941	578													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		139	960													64	1													46.5
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		406	960													64	1													15.5
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		674	960													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		941	960													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		139	1342													64	1													64.2
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		406	1342													64	1													46.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		674	1342													64	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		941	1342													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		139	1724													64	1													100.0
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		406	1724													64	1													89.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		674	1724													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+64_1_01_Left_MAH00223.MP4_0070278.jpg	      0		941	1724													64	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		139	196													6	1													100.0
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		406	196													6	1													89.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		674	196													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		941	196													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		139	578													6	1													64.2
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		406	578													6	1													46.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		674	578													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		941	578													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		139	960													6	1													46.5
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		406	960													6	1													15.5
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		674	960													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		941	960													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		139	1342													6	1													64.2
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		406	1342													6	1													46.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		674	1342													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		941	1342													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		139	1724													6	1													100.0
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		406	1724													6	1													89.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		674	1724													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+6_1_01_Left_MAH00218.MP4_0003539.jpg	      0		941	1724													6	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		139	196													7	1													100.0
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		406	196													7	1													89.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		674	196													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		941	196													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		139	578													7	1													64.2
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		406	578													7	1													46.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		674	578													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		941	578													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		139	960													7	1													46.5
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		406	960													7	1													15.5
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		674	960													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		941	960													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		139	1342													7	1													64.2
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		406	1342													7	1													46.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		674	1342													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		941	1342													7	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					64.2
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		139	1724													7	1													100.0
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		406	1724													7	1													89.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		674	1724													7	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+7_1_01_Left_MAH00209.MP4_0038966.jpg	      0		941	1724													7	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		139	196													8	1													100.0
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		406	196													8	1													89.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		674	196													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		941	196													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		139	578													8	1													64.2
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		406	578													8	1													46.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		674	578													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		941	578													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		139	960													8	1													46.5
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		406	960													8	1													15.5
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		674	960													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		941	960													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		139	1342													8	1													64.2
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		406	1342													8	1													46.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		674	1342													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		941	1342													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		139	1724													8	1													100.0
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		406	1724													8	1													89.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		674	1724													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					89.9
+8_1_01_Left_MAH00225.MP4_0045311.jpg	      0		941	1724													8	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		139	196													9	1													100.0
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		406	196													9	1													89.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		674	196													9	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		941	196													9	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					100.0
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		139	578													9	1													64.2
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		406	578													9	1													46.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		674	578													9	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					46.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		941	578													9	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		139	960													9	1													46.5
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		406	960													9	1													15.5
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		674	960													9	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					15.5
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		941	960													9	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.5
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		139	1342													9	1													64.2
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		406	1342													9	1													46.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		674	1342													9	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					46.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		941	1342													9	1								".0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."					64.2
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		139	1724													9	1													100.0
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		406	1724													9	1													89.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		674	1724													9	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					89.9
+9_1_01_Left_MAH01249.MP4_0063046.jpg	      0		941	1724													9	1								.1. Some relief features amongst mostly flat substrate/sand/rubble. <45 degree substrate slope.					100.0

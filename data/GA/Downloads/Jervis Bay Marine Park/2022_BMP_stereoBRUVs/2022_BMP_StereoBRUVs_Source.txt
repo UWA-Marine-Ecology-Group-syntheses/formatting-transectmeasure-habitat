@@ -1,0 +1,106 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+S10_44	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S10_44.EMObs
+S10_46	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S10_46.EMObs
+S10_46a	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S10_46a.EMObs
+S10_55	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S10_55.EMObs
+S11_167	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S11_167.EMObs
+S11_48	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S11_48.EMObs
+S11_50	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S11_50.EMObs
+S11_58	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S11_58.EMObs
+S13_63	1.09	2024 04 05 15:05:55	Z:\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S13_63.EMObs
+S13_65	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S13_65.EMObs
+S13_66	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S13_66.EMObs
+S13_67	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S13_67.EMObs
+S14_67	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S14_67.EMObs
+S14_68	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S14_68.EMObs
+S14_69	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S14_69.EMObs
+S14_70	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S14_70.EMObs
+S16_102	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S16_102.EMObs
+S16_103	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S16_103.EMObs
+S16_94	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S16_94.EMObs
+S16_95	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S16_95.EMObs
+S17_59	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S17_59.EMObs
+S17_60	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S17_60.EMObs
+S17_61	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S17_61.EMObs
+S17_62	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S17_62.EMObs
+S18_100	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S18_100.EMObs
+S18_14	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S18_14.EMObs
+S18_15	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S18_15.EMObs
+S19_86	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S19_86.EMObs
+S19_88	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S19_88.EMObs
+S19_89	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S19_89.EMObs
+S19_93	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S19_93.EMObs
+S1_18	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S1_18.EMObs
+S1_19	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S1_19.EMObs
+S1_20	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S1_20.EMObs
+S1_21	1.09	2024 04 05 15:05:55	D:\BRUVs_Statewide_2022\	S1_21.EMObs
+S20_85	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S20_85.EMObs
+S20_91	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S20_91.EMObs
+S20_98	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S20_98.EMObs
+S20_99	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S20_99.EMObs
+S22_175	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S22_175.EMObs
+S22_176	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S22_176.EMObs
+S22_177	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S22_177.EMObs
+S22_178	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S22_178.EMObs
+S23_173	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S23_173.EMObs
+S23_174	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S23_174.EMObs
+S23_185	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S23_185.EMObs
+S23_186	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S23_186.EMObs
+S23_D5	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S23_D5.EMObs
+S23_D6	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S23_D6.EMObs
+S25_151	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S25_151.EMObs
+S25_152	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S25_152.EMObs
+S25_153	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S25_153.EMObs
+S25_154	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S25_154.EMObs
+S26_147	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S26_147.EMObs
+S26_148	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S26_148.EMObs
+S26_149	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S26_149.EMObs
+S26_150	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S26_150.EMObs
+S28_200	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S28_200.EMObs
+S28_203	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S28_203.EMObs
+S28_204	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S28_204.EMObs
+S28_205	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S28_205.EMObs
+S29_206	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S29_206.EMObs
+S29_207	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S29_207.EMObs
+S29_208	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S29_208.EMObs
+S29_209	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S29_209.EMObs
+S2_23	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S2_23.EMObs
+S2_24	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S2_24.EMObs
+S2_25	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S2_25.EMObs
+S2_26	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S2_26.EMObs
+S30_250	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S30_250.EMObs
+S30_251	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S30_251.EMObs
+S30_253a	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S30_253a.EMObs
+S30_D6	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S30_D6.EMObs
+S31_254	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S31_254.EMObs
+S31_255	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S31_255.EMObs
+S31_256	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S31_256.EMObs
+S31_257	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S31_257.EMObs
+S32_258	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S32_258.EMObs
+S32_259	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S32_259.EMObs
+S32_260	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S32_260.EMObs
+S32_261	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S32_261.EMObs
+S33_300	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S33_300.EMObs
+S33_301	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S33_301.EMObs
+S33_302	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S33_302.EMObs
+S33_304	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S33_304.EMObs
+S34_305	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S34_305.EMObs
+S34_306	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S34_306.EMObs
+S34_307	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S34_307.EMObs
+S34_308	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S34_308.EMObs
+S4_34	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S4_34.EMObs
+S4_35	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S4_35.EMObs
+S4_36	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S4_36.EMObs
+S4_37	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S4_37.EMObs
+S5_116	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S5_116.EMObs
+S5_39	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S5_39.EMObs
+S5_40	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S5_40.EMObs
+S5_48	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S5_48.EMObs
+S8_124	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S8_124.EMObs
+S8_126	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S8_126.EMObs
+S8_157	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S8_157.EMObs
+S8_259	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S8_259.EMObs
+S9_159	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S9_159.EMObs
+S9_161	1.09	2024 04 05 15:05:55	F:\2022_StateWide_BRUV_Footage\	S9_161.EMObs
+S9_165	1.09	2024 04 05 15:05:55	E:\BRUVs_Statewide_2022\	S9_165.EMObs
+S9_166	1.09	2024 04 05 15:05:55	Z:\Statewide subtidal reef monitoring BRUVs\2022 Statewide BRUVs monitoring of reef fishes (MIMP)\	S9_166.EMObs

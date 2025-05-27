@@ -1,0 +1,265 @@
+{
+  "created_at": ["2023-11-09T05:13:55.104662"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [158],
+  "description": ["Stereo BRUV monitoring of rocky reef fish assemblages throughout the Greater Sydney Region funded by the NSW Government's Marine Estate Management Strategy"],
+  "files": [
+    {
+      "id": 12819,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_Info.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12820,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_Lengths.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12822,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_MovieSeq.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12823,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_Period.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12824,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_Points.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12825,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_Source.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12826,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_3DPoints.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12827,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_Camera.txt",
+      "user_id": 55
+    },
+    {
+      "id": 12828,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_ImagePtPair.txt",
+      "user_id": 55
+    },
+    {
+      "id": 13346,
+      "iscompressed": true,
+      "name": "2022_GSR_StereoBRUVs_Metadata.csv",
+      "user_id": 55
+    }
+  ],
+  "id": [1116],
+  "info": [
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 30,
+      "id": 145,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "30"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 158,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 175,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 37,
+      "id": 193,
+      "property": {
+        "id": 37,
+        "is_filter": false,
+        "name": "Sampling: Camera configuration"
+      },
+      "value": "Stereo"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 219,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "EventMeasure database output"
+    },
+    {
+      "campaigninfoprop_id": 43,
+      "id": 214,
+      "property": {
+        "id": 43,
+        "is_filter": false,
+        "name": "Sampling: Artificial lighting"
+      },
+      "value": "None"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 221,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "EventMeasure-stereo"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 226,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "TransectMeasure"
+    },
+    {
+      "campaigninfoprop_id": 46,
+      "id": 227,
+      "property": {
+        "id": 46,
+        "is_filter": false,
+        "name": "Annotation: Taxa that have been ID'd"
+      },
+      "value": "Fish only"
+    },
+    {
+      "campaigninfoprop_id": 47,
+      "id": 233,
+      "property": {
+        "id": 47,
+        "is_filter": false,
+        "name": "Annotation: Taxonomic resolution"
+      },
+      "value": "All taxa identified to the lowest possible taxonomic level"
+    },
+    {
+      "campaigninfoprop_id": 41,
+      "id": 207,
+      "property": {
+        "id": 41,
+        "is_filter": false,
+        "name": "Sampling: Bait arm length (m)"
+      },
+      "value": "1.5"
+    },
+    {
+      "campaigninfoprop_id": 48,
+      "id": 238,
+      "property": {
+        "id": 48,
+        "is_filter": false,
+        "name": "Annotation: Observer/Anotator experience (>years)"
+      },
+      "value": "3"
+    },
+    {
+      "campaigninfoprop_id": 51,
+      "id": 259,
+      "property": {
+        "id": 51,
+        "is_filter": false,
+        "name": "Annotation: Type of Length measure"
+      },
+      "value": "Fork length"
+    },
+    {
+      "campaigninfoprop_id": 52,
+      "id": 264,
+      "property": {
+        "id": 52,
+        "is_filter": false,
+        "name": "Annotation: Maximum range annotations were made (m)"
+      },
+      "value": "5"
+    }
+  ],
+  "name": ["2022_GSR_stereoBRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [285],
+    "is_public": [false],
+    "name": ["Greater Sydney region reef biodiversity project"]
+  },
+  "project_id": [285],
+  "user": {
+    "email": ["matthew.rees@dpi.nsw.gov.au"],
+    "first_name": ["Matt"],
+    "id": [55],
+    "is_admin": [false],
+    "last_name": ["Rees"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+S10_44	JM	22.4																	
+S10_46	JM	25.6																	
+S10_46a	Jason  Del	28.9																	
+S10_55	JM	30.3																	
+S11_167	JM	21.3																	
+S11_48	JM	26.4																	
+S11_50	Jason Del	17.4																	
+S11_58	Jason Del	31.4																	
+S13_63	Jason Del	24.7																	
+S13_65	JM	27.5																	
+S13_66	Jason Del	33.1																	
+S13_67	JM	34																	
+S14_67	JM	32.1																	
+S14_68	Jason Del	33.3																	
+S14_69	JM	36.3																	
+S14_70	JM	33.6																	
+S16_102	JM	26.8																	
+S16_103	Jason Del	23.5																	
+S16_94	Jason Del	19.3																	
+S16_95	JM	19.9																	
+S17_59	Jason Del	21.0																	
+S17_60	JM	13.8																	
+S17_61	Jason Del	25.9																	
+S17_62	JM	25.4																	
+S18_100	JM	30.1																	
+S18_14	Jason Del	27.1																	
+S18_15	JM	29.4																	
+S19_86	JM	20.5																	
+S19_88	JM	29.6																	
+S19_89	JM	27.5																	
+S19_93	Jason Del	22.5																	
+S1_18	Adrian Ferguson	19.9																	
+S1_19	Jason Del	25.7																	
+S1_20	Adrian Ferguson	19.7																	
+S1_21	JM	26.6																	
+S20_85	JM	24.1																	
+S20_91	Jason Del	25.5																	
+S20_98	JM	20.5																	
+S20_99	Jason Del	21.8																	
+S22_175	JM	23.3																	
+S22_176	Jason Del	22.5																	
+S22_177	Jason Del	19.6																	
+S22_178	JM	20.1																	
+S23_173	Jason Del	30.7																	
+S23_174	JM	30.8																	
+S23_185	JM	32.4																	
+S23_186	Adrian Ferguson	35.2																	
+S23_D5	Adrian Ferguson	28.8																	
+S23_D6	Adrian Ferguson	30.4																	
+S25_151	Jason Del	34.3																	
+S25_152	JM	33.3																	
+S25_153	Jason Del	30.9																	
+S25_154	Jason Del	26.9																	
+S26_147	Jason Del	36.6																	
+S26_148	JM	36.5																	
+S26_149	Jason Del	26.7																	
+S26_150	JM	23																	
+S28_200	JM	24.1																	
+S28_203	Jason Del	26.2																	
+S28_204	Jason Del	21.9																	
+S28_205	JM	19.8																	
+S29_206	Jason Del	20.0																	
+S29_207	JM	20.7																	
+S29_208	Jason Del	22.2																	
+S29_209	JM	19.1																	
+S2_23	JM	25.8																	
+S2_24	Jason Del	29.5																	
+S2_25	JM	33.9																	
+S2_26	JM	37.4																	
+S30_250	Adrian Ferguson	23.5																	
+S30_251	Adrian Ferguson	17.6																	
+S30_253a	Adrian Ferguson	22.8																	
+S30_D6	Adrian Ferguson	21.3																	
+S31_254	Adrian Ferguson	34.1																	
+S31_255	Adrian Ferguson	32.2																	
+S31_256	Adrian Ferguson	29.2																	
+S31_257	Adrian Ferguson	28.2																	
+S32_258	Jason Del	21.8																	
+S32_259	JM	23.3																	
+S32_260	JM	28.1																	
+S32_261	Adrian Ferguson	27.8																	
+S33_300	Jason Del	28.0																	
+S33_301	JM	31.7																	
+S33_302	Jason Del	26.6																	
+S33_304	JM	34.8																	
+S34_305	JM	21.2																	
+S34_306	JM	24.9																	
+S34_307	Jason Del	28.8																	
+S34_308	Jason Del	26.1																	
+S4_34	JM	25.2																	
+S4_35	Jason Del	28.9																	
+S4_36	JM	25.2																	
+S4_37	JM	22.4																	
+S5_116	Jason Del	31.7																	
+S5_39	JM	27.6																	
+S5_40	JM	27.5																	
+S5_48	Jason Del	23.5																	
+S8_124	Jason Del	25.3																	
+S8_126	Jason Del	25.3																	
+S8_157	JM	31.7																	
+S8_259	JM	26.2																	
+S9_159	JM	18.7																	
+S9_161	Jason Del	26.0																	
+S9_165	JM	29.5																	
+S9_166	JM	36																	

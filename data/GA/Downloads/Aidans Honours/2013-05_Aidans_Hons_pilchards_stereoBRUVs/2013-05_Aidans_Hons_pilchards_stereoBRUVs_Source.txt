@@ -1,0 +1,24 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+Inside_1_15_Pilchard	1.07	2017 12 07 15:11:10	G:\Xvid\	INSIDE_1_15_PILCHARDS.EMObs
+Inside_1_25_pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	INSIDE_1_25_PILCHARDS.EMObs
+Inside_1_5_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	INSIDE_1_5_PILCHARDS.EMObs
+Inside_2_15_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_2_15_Pilchards.EMObs
+INSIDE_2_25_PILCHARDS	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_2_25_Pilchards.EMObs
+Inside_2_5_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_2_5_Pilchards.EMObs
+Inside_3_15_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_3_15_pilchards.EMObs
+Inside_3_25_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_3_25_Pilchards.EMObs
+Inside_3_5_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_3_5_Pilchards.EMObs
+Inside_4_15_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_4_15_Pilchards.EMObs
+Inside_4_25_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_4_25_Pilchards.EMObs
+Inside_4_5_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Inside_4_5_Pilchards.EMObs
+Outside_1_15_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_1_15_Pilchards.EMObs
+Outside_1_25_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_1_25_Pilchards.EMObs
+Outside_2_15_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_2_15_Pilchards.EMObs
+Outside_2_25_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_2_25_Pilchards.EMObs
+Outside_2_5_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_2_5_Pilchards.EMObs
+Outside_3_15_Pilchard	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_3_15_Pilchards.EMObs
+Outside_3_25_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_3_25_Pilchards.EMObs
+Outside_3_5_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_3_5_Pilchards.EMObs
+Outside_4_15_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_4_15_Pilchards.EMObs
+Outside_4_25_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_4_25_Pilchards.EMObs
+Outside_4_5_Pilchards	1.07	2017 12 07 15:11:10	G:\Xvid\	Outside_4_5_Pilchards.EMObs

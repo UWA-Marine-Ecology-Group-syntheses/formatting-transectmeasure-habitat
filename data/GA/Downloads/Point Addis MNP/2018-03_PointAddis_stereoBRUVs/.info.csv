@@ -1,0 +1,25 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait quantity (g)","800",FALSE
+"4","Sampling: Bait deployment","Plastic mesh bag",FALSE
+"5","Sampling: Bait consistency","Mushed",FALSE
+"6","Sampling: Camera configuration","Stereo",FALSE
+"7","Sampling: Camera separation (mm)","700",FALSE
+"8","Sampling: Camera incidence angle (degrees)","8",FALSE
+"9","Sampling: Bait arm length (m)","1.2",FALSE
+"10","Sampling: Frame type","Steel",FALSE
+"11","Sampling: Artificial lighting","None",FALSE
+"12","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"13","Annotation: Taxa that have been ID'd","All fauna",FALSE
+"14","Annotation: Taxonomic resolution","All taxa identified to the lowest possible taxonomic level",FALSE
+"15","Annotation: Observer/Anotator experience (>years)","3",FALSE
+"16","Annotation: Observation/Annotation checked by expert","Yes",FALSE
+"17","Annotation: Lengths measured for","All fish",TRUE
+"18","Annotation: Type of Length measure","Total length",FALSE
+"19","Annotation: Habitat information in the study area","Multibeam",TRUE
+"20","Annotation: Habitat information from each sample","Cover of benthos and score of complexity",TRUE
+"21","Annotation: Habitat information from each sample annotated as","Point score",FALSE
+"22","Annotation: Habitat information from each sample annotated as","Percent cover",FALSE
+"23","Annotation: Habitat information from each sample annotated as","Classes",FALSE
+"24","Sampling: Minimum separation distance of samples (m)","250",FALSE

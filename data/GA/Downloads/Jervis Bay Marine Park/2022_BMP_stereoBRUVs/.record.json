@@ -1,0 +1,265 @@
+{
+  "created_at": ["2023-11-14T08:57:07.576383"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [108],
+  "description": [""],
+  "files": [
+    {
+      "id": 12790,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_MovieSeq.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12791,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_Period.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12792,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_Points.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12793,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_Source.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12794,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_3DPoints.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12795,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_Camera.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12796,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_ImagePtPair.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12797,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_Info.txt",
+      "user_id": 13
+    },
+    {
+      "id": 12798,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_Lengths.txt",
+      "user_id": 13
+    },
+    {
+      "id": 13348,
+      "iscompressed": true,
+      "name": "2022_BMP_StereoBRUVs_Metadata.csv",
+      "user_id": 13
+    }
+  ],
+  "id": [1122],
+  "info": [
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 30,
+      "id": 145,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "30"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 158,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 37,
+      "id": 193,
+      "property": {
+        "id": 37,
+        "is_filter": false,
+        "name": "Sampling: Camera configuration"
+      },
+      "value": "Stereo"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 219,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "EventMeasure database output"
+    },
+    {
+      "campaigninfoprop_id": 43,
+      "id": 214,
+      "property": {
+        "id": 43,
+        "is_filter": false,
+        "name": "Sampling: Artificial lighting"
+      },
+      "value": "None"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 221,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "EventMeasure-stereo"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 226,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "TransectMeasure"
+    },
+    {
+      "campaigninfoprop_id": 46,
+      "id": 227,
+      "property": {
+        "id": 46,
+        "is_filter": false,
+        "name": "Annotation: Taxa that have been ID'd"
+      },
+      "value": "Fish only"
+    },
+    {
+      "campaigninfoprop_id": 47,
+      "id": 233,
+      "property": {
+        "id": 47,
+        "is_filter": false,
+        "name": "Annotation: Taxonomic resolution"
+      },
+      "value": "All taxa identified to the lowest possible taxonomic level"
+    },
+    {
+      "campaigninfoprop_id": 41,
+      "id": 207,
+      "property": {
+        "id": 41,
+        "is_filter": false,
+        "name": "Sampling: Bait arm length (m)"
+      },
+      "value": "1.5"
+    },
+    {
+      "campaigninfoprop_id": 48,
+      "id": 238,
+      "property": {
+        "id": 48,
+        "is_filter": false,
+        "name": "Annotation: Observer/Anotator experience (>years)"
+      },
+      "value": "3"
+    },
+    {
+      "campaigninfoprop_id": 51,
+      "id": 259,
+      "property": {
+        "id": 51,
+        "is_filter": false,
+        "name": "Annotation: Type of Length measure"
+      },
+      "value": "Fork length"
+    },
+    {
+      "campaigninfoprop_id": 52,
+      "id": 264,
+      "property": {
+        "id": 52,
+        "is_filter": false,
+        "name": "Annotation: Maximum range annotations were made (m)"
+      },
+      "value": "5"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 173,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "200"
+    }
+  ],
+  "name": ["2022_BMP_stereoBRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [42],
+    "is_public": [false],
+    "name": ["Jervis Bay Marine Park"]
+  },
+  "project_id": [42],
+  "user": {
+    "email": ["nathan.knott@dpi.nsw.gov.au"],
+    "first_name": ["Nathan"],
+    "id": [13],
+    "is_admin": [false],
+    "last_name": ["Knott"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

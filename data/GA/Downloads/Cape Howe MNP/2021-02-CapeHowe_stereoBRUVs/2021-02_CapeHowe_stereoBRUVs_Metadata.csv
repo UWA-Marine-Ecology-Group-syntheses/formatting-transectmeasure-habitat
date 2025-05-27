@@ -1,0 +1,88 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,Others,Comments
+Howe_001,-37.5078,149.98027,20210301,10:28:00,Cape Howe,No-take,Cape Howe,15,Scott Gray,Yes,Yes,NA,Barren
+Howe_002,-37.50908,149.97547,20210301,10:34:00,Cape Howe,No-take,Cape Howe,11.71,Scott Gray,Yes,Yes,NA,Good-Kelp
+Howe_003,-37.50945,149.98413,20210301,10:23:00,Cape Howe,No-take,Cape Howe,27,Scott Gray,Yes,Yes,NA,Beautiful
+Howe_004,-37.51173,149.985,20210301,10:18:00,Cape Howe,No-take,Cape Howe,31,Scott Gray,Yes,No,NA,Magic but 6R fail
+Howe_005,-37.51254,149.99086,20210301,10:12:00,Cape Howe,No-take,Cape Howe,40,Scott Gray,Yes,Yes,NA,Magic drop - Esp RHS
+Howe_006,-37.51574,149.99355,20210303,9:06:00,Cape Howe,No-take,Cape Howe,49.77,Scott Gray,Yes,Yes,NA,very nice
+Howe_007,-37.51697,150.00045,20210303,8:51:00,Cape Howe,No-take,Cape Howe,60.86,Scott Gray,Yes,Yes,NA,"very nice, wobby"
+Howe_008,-37.51948,149.96777,20210228,13:23:00,Cape Howe,Fished,Cape Howe,13.74,Scott Gray,Yes,Yes,NA,Sand
+Howe_009,-37.5193,149.9957,20210303,9:00:00,Cape Howe,No-take,Cape Howe,56.2,Scott Gray,Yes,Yes,NA,Sand
+Howe_010,-37.52074,149.95424,20210228,13:33:00,Cape Howe,Fished,Cape Howe,9.61,Scott Gray,Yes,Yes,NA,Sand
+Howe_011,-37.52232,149.95993,20210228,13:29:00,Cape Howe,Fished,Cape Howe,13.21,Scott Gray,Yes,Yes,NA,Sand
+Howe_012,-37.52139,150.00286,20210303,9:25:00,Cape Howe,No-take,Cape Howe,75.46,Scott Gray,Yes,Yes,NA,Lights Beautiful
+Howe_013,-37.52422,149.95315,20210228,13:36:00,Cape Howe,Fished,Cape Howe,23.22,Scott Gray,Yes,Yes,NA,Sand
+Howe_014,-37.52381,149.96757,20210228,13:20:00,Cape Howe,Fished,Cape Howe,21.19,Scott Gray,Yes,Yes,NA,Nice - Gummy's
+Howe_015,-37.52564,149.95875,20210228,13:40:00,Cape Howe,Fished,Cape Howe,13.15,Scott Gray,Yes,Yes,NA,Barren Gummy's
+Howe_016,-37.524,150.0095,20210303,11:32:00,Cape Howe,No-take,Cape Howe,87.43,Scott Gray,Yes,Yes,NA,Lights
+Howe_017,-37.52882,149.96108,20210228,13:43:00,Cape Howe,Fished,Cape Howe,16.05,Scott Gray,No,No,NA,Fail - Horror urchin Barren @ End
+Howe_018,-37.52816,150.00586,20210303,11:28:00,Cape Howe,No-take,Cape Howe,87.74,Scott Gray,Yes,Yes,NA,Lights
+Howe_019,-37.52872,150.01764,20210303,11:19:00,Cape Howe,No-take,Cape Howe,89.89,Scott Gray,Yes,Yes,NA,Lights
+Howe_022,-37.53618,150.01553,20210303,11:14:00,Cape Howe,No-take,Cape Howe,93.31,Scott Gray,Yes,Yes,NA,Lights
+Howe_029,-37.557599,149.902271,20210228,15:47:00,Cape Howe,Fished,Cape Howe,24.53,Scott Gray,Yes,Yes,NA,"Uchin barrens, sick grey nurse"
+Howe_025,-37.55713,149.87493,20210227,15:42:00,Cape Howe,Fished,Cape Howe,28.47,Scott Gray,Yes,Yes,NA,Boring sand
+Howe_026,-37.56038,149.82162,20210227,15:08:00,Cape Howe,Fished,Cape Howe,29.69,Scott Gray,Yes,Yes,NA,"Gummy's, YTK (Barren murky)"
+Howe_028,-37.55976,149.84225,20210227,15:18:00,Cape Howe,Fished,Cape Howe,18.9,Scott Gray,Yes,Yes,NA,"Drag/Snag - Bent swap out. Octopus, gummies, nice reef"
+Howe_030,-37.56106,149.85091,20210227,15:23:00,Cape Howe,Fished,Cape Howe,15.88,Scott Gray,Yes,Yes,NA,Good reef_barren
+Howe_032,-37.56032,149.92018,20210228,16:14:00,Cape Howe,Fished,Cape Howe,21.6,Scott Gray,Yes,Yes,NA,Sand
+Howe_033,-37.56565,149.85623,20210227,15:32:00,Cape Howe,Fished,Cape Howe,23.77,Scott Gray,Yes,Yes,NA,Fail - fell off ledge onto back
+Howe_034,-37.56752,149.82743,20210227,15:00:00,Cape Howe,Fished,Cape Howe,19.25,Scott Gray,Yes,Yes,NA,Hit Batwing (Pulled out) (Barren Murky)
+Howe_035,-37.56529,149.88794,20210227,15:50:00,Cape Howe,Fished,Cape Howe,32.49,Scott Gray,Yes,Yes,NA,Slight pull
+Howe_036,-37.56692,149.84982,20210227,15:28:00,Cape Howe,Fished,Cape Howe,20.48,Scott Gray,Yes,Yes,NA,Bait bag snapped off. Barren.
+Howe_037,-37.56492,149.9029,20210228,15:52:00,Cape Howe,Fished,Cape Howe,26.58,Scott Gray,Yes,Yes,NA,Good
+Howe_038,-37.56488,149.91939,20210228,16:10:00,Cape Howe,Fished,Cape Howe,16.33,Scott Gray,No,No,NA,Semi-readable RHS only
+Howe_039,-37.56532,149.93802,20210304,8:50:00,Cape Howe,Fished,Cape Howe,39.55,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_040,-37.56744,149.92305,20210228,16:07:00,Cape Howe,Fished,Cape Howe,25.61,Scott Gray,Yes,Yes,NA,Barren
+Howe_041,-37.56988,149.90782,20210228,15:57:00,Cape Howe,Fished,Cape Howe,25.23,Scott Gray,Yes,Yes,NA,Barren
+Howe_042,-37.5693,149.93889,20210304,8:54:00,Cape Howe,Fished,Cape Howe,41.54,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_043,-37.57096,149.91303,20210228,16:00:00,Cape Howe,Fished,Cape Howe,18.91,Scott Gray,Yes,Yes,NA,"Barren, eel city"
+Howe_044,-37.57223,149.91923,20210228,16:04:00,Cape Howe,Fished,Cape Howe,14.42,Scott Gray,Yes,Yes,NA,Fail - Landed on ledge until end. Urchin barrens great view
+Howe_045,-37.57205,149.94306,20210304,8:58:00,Cape Howe,Fished,Cape Howe,59.81,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_046,-37.57413,149.92448,20210304,9:19:00,Cape Howe,Fished,Cape Howe,41.13,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_047,-37.57435,149.93361,20210304,9:04:00,Cape Howe,Fished,Cape Howe,60,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_048,-37.57642,149.89667,20210304,9:33:00,Cape Howe,Fished,Cape Howe,41.98,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_050,-37.57751,149.91727,20210304,9:24:00,Cape Howe,Fished,Cape Howe,47.32,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_051,-37.57932,149.92513,20210304,9:13:00,Cape Howe,Fished,Cape Howe,56.58,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_058,-37.513,149.9763,20210301,10:38:00,Cape Howe,No-take,Cape Howe,21.03,Scott Gray,Yes,Yes,NA,Sand- Good
+Howe_060,-37.546,149.9317,20210301,14:15:00,Cape Howe,No-take,Cape Howe,29.05,Scott Gray,Yes,Yes,NA,Sand
+Howe_061,-37.5298,149.9971,20210303,9:31:00,Cape Howe,No-take,Cape Howe,74.72,Scott Gray,Yes,Yes,NA,Lights. Nice Drop. Lobsters/silver dory
+Howe_062,-37.5375,149.9913,20210303,9:44:00,Cape Howe,No-take,Cape Howe,75.28,Scott Gray,Yes,Yes,NA,Lights. Majic drop - crays
+Howe_063,-37.5333,149.9946,20210303,9:39:00,Cape Howe,No-take,Cape Howe,75.01,Scott Gray,Yes,Yes,NA,"Lights, NZ Screw Shells - Good"
+Howe_064,-37.5447,149.9637,20210301,14:51:00,Cape Howe,No-take,Cape Howe,39.45,Scott Gray,Yes,Yes,NA,very nice
+Howe_065,-37.5534,149.9592,20210304,11:38:00,Cape Howe,No-take,Cape Howe,48.9,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_066,-37.5215,149.9847,20210303,9:14:00,Cape Howe,No-take,Cape Howe,45.54,Scott Gray,Yes,Yes,NA,very nice
+Howe_067,-37.5567,149.9516,20210304,11:34:00,Cape Howe,No-take,Cape Howe,43.57,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_071,-37.524,149.994,20210303,11:49:00,Cape Howe,No-take,Cape Howe,58.43,Scott Gray,Yes,Yes,NA,
+Howe_072,-37.5394,149.9748,20210303,13:41:00,Cape Howe,No-take,Cape Howe,50.42,Scott Gray,Yes,Yes,NA,
+Howe_075,-37.5669,149.9754,20210304,12:15:00,Cape Howe,No-take,Cape Howe,92.06,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_076,-37.5666,149.9703,20210304,13:31:00,Cape Howe,No-take,Cape Howe,92.09,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_078,-37.5301,149.9862,20210303,13:26:00,Cape Howe,No-take,Cape Howe,60.7,Scott Gray,Yes,Yes,NA,
+Howe_079,-37.5349,149.9837,20210303,13:32:00,Cape Howe,No-take,Cape Howe,65.07,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_081,-37.5267,149.9936,20210303,11:44:00,Cape Howe,No-take,Cape Howe,60.68,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_082,-37.5432,149.9788,20210304,11:52:00,Cape Howe,No-take,Cape Howe,62.77,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_083,-37.5399,149.9707,20210301,14:57:00,Cape Howe,No-take,Cape Howe,43.32,Scott Gray,Yes,Yes,NA,"Moved slightly, very nice, 37°32.33' 149°58.20'"
+Howe_084,-37.5334,149.9715,20210301,15:01:00,Cape Howe,No-take,Cape Howe,40.2,Scott Gray,Yes,Yes,NA,Spectacular drop
+Howe_085,-37.5444,149.941,20210301,14:25:00,Cape Howe,No-take,Cape Howe,32.6,Scott Gray,Yes,Yes,NA,Sand
+Howe_086,-37.5251,149.9731,20210301,11:50:00,Cape Howe,No-take,Cape Howe,37.82,Scott Gray,Yes,Yes,NA,Very nice
+Howe_087,-37.5195,149.9798,20210301,10:00:00,Cape Howe,No-take,Cape Howe,38.44,Scott Gray,Yes,Yes,NA,Good
+Howe_088,-37.5415,149.9616,20210301,12:05:00,Cape Howe,No-take,Cape Howe,33.73,Scott Gray,Yes,Yes,NA,Barren
+Howe_089,-37.5337,149.9648,20210301,11:58:00,Cape Howe,No-take,Cape Howe,23.09,Scott Gray,Yes,Yes,NA,Ok
+Howe_090,-37.548,149.9892,20210303,14:03:00,Cape Howe,No-take,Cape Howe,88.71,Sasha Whitmarsh,Yes,Yes,NA,Lights in Rig 3
+Howe_091,-37.5428,149.9892,20210303,14:06:00,Cape Howe,No-take,Cape Howe,81.31,Sasha Whitmarsh,Yes,Yes,NA,Lights in Rig 2
+Howe_092,-37.5608,149.9714,20210304,12:08:00,Cape Howe,No-take,Cape Howe,85.28,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_093,-37.5258,149.9865,20210303,11:56:00,Cape Howe,No-take,Cape Howe,52.15,Sasha Whitmarsh,Yes,Yes,NA,very nice - silver dory
+Howe_094,-37.5444,149.9703,20210304,11:46:00,Cape Howe,No-take,Cape Howe,50.83,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_095,-37.5238,149.9893,20210303,11:52:00,Cape Howe,No-take,Cape Howe,50.09,Sasha Whitmarsh,Yes,Yes,NA,035 on  clapper
+Howe_096,-37.5294,149.9725,20210301,15:05:00,Cape Howe,No-take,Cape Howe,38.95,Scott Gray,Yes,Yes,NA,Spectacular drop
+Howe_097,-37.5275,149.9779,20210303,13:20:00,Cape Howe,No-take,Cape Howe,47.14,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_100,-37.5375,149.9866,20210303,14:14:00,Cape Howe,No-take,Cape Howe,71.23,Sasha Whitmarsh,Yes,Yes,NA,"Lights in Rig 4, camera 1 in Rig 10"
+Howe_101,-37.546,149.9822,20210303,13:55:00,Cape Howe,No-take,Cape Howe,77.37,Sasha Whitmarsh,Yes,Yes,NA,"Lights in Rig 1, camera 10 in Rig 1"
+Howe_102,-37.5505,149.9785,20210304,11:59:00,Cape Howe,No-take,Cape Howe,78.54,Sasha Whitmarsh,Yes,Yes,NA,
+Howe_103,-37.5407,149.9379,20210301,14:28:00,Cape Howe,No-take,Cape Howe,29.12,Scott Gray,Yes,Yes,NA,Barren. Blue groper
+Howe_104,-37.5282,149.969,20210228,13:48:00,Cape Howe,No-take,Cape Howe,27.95,Scott Gray,Yes,Yes,NA,Very nice
+Howe_105,-37.5161,149.9868,20210301,10:08:00,Cape Howe,No-take,Cape Howe,36.18,Scott Gray,Yes,Yes,NA,Magic drop - Esp RHS
+Howe_107,-37.53597,149.939,20210301,14:33:00,Cape Howe,No-take,Cape Howe,18.92,Scott Gray,Yes,Yes,NA,Barren very nice
+Howe_108,-37.53622,149.95339,20210301,12:12:00,Cape Howe,No-take,Cape Howe,31.32,Scott Gray,Yes,Yes,NA,Very Nice
+Howe_109,-37.53275,149.95594,20210301,12:16:00,Cape Howe,No-take,Cape Howe,17.61,Scott Gray,Yes,Yes,NA,Good
+Howe_110,-37.53887,149.95779,20210301,12:09:00,Cape Howe,No-take,Cape Howe,33.78,Scott Gray,Yes,Yes,NA,Barren
+Howe_111,-37.53775,149.96458,20210301,12:00:00,Cape Howe,No-take,Cape Howe,23.34,Scott Gray,Yes,Yes,NA,Barren

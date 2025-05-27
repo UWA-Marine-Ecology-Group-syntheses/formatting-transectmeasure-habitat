@@ -1,0 +1,70 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+S101_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S101_D1.EMObs
+S101_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S101_D2.EMObs
+S101_D3	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S101_D3.EMObs
+S101_D4	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S101_D4.EMObs
+S102_D1	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S102_D1.EMObs
+S102_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S102_D2.EMObs
+S102_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S102_D3.EMObs
+S102_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S102_D4.EMObs
+S103_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S103_D1.EMObs
+S103_D2	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S103_D2.EMObs
+S103_D3	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S103_D3.EMObs
+S103_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S103_D4.EMObs
+S104_D1	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S104_D1.EMObs
+S104_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S104_D2.EMObs
+S104_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S104_D3.EMObs
+S104_D4	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S104_D4.EMObs
+S10_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S10_D1.EMObs
+S10_D2	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S10_D2.EMObs
+S10_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S10_D3.EMObs
+S10_D3_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S10_D3_R.EMObs
+S10_D4_R	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S10_D4_R.EMObs
+S11_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S11_D1.EMObs
+S11_D2	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S11_D2.EMObs
+S11_D3_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S11_D3_R.EMObs
+S11_D4	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S11_D4.EMObs
+S12_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S12_D3.EMObs
+S12_D4	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S12_D4.EMObs
+S13_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S13_D1.EMObs
+S13_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S13_D2.EMObs
+S13_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S13_D3.EMObs
+S13_D4	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S13_D4.EMObs
+S18_D1_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S18_D1_R.EMObs
+S18_D3_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S18_D3_R.EMObs
+S18_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S18_D4.EMObs
+S19_D1	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S19_D1.EMObs
+S19_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S19_D2.EMObs
+S19_D3_R	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S19_D3_R.EMObs
+S19_D4_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S19_D4_R.EMObs
+S201_D1	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S201_D1.EMObs
+S201_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S201_D2.EMObs
+S201_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S201_D3.EMObs
+S201_D4	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S201_D4.EMObs
+S202_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S202_D1.EMObs
+S202_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S202_D2.EMObs
+S202_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S202_D3.EMObs
+S202_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S202_D4.EMObs
+S203_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S203_D1.EMObs
+S203_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S203_D2.EMObs
+S203_D3	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S203_D3.EMObs
+S203_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S203_D4.EMObs
+S203_D5	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S203_D5.EMObs
+S204_D1	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S204_D1.EMObs
+S204_D2	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S204_D2.EMObs
+S204_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S204_D3.EMObs
+S204_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S204_D4.EMObs
+S6_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S6_D1.EMObs
+S6_D3	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S6_D3.EMObs
+S6_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S6_D4.EMObs
+S7_D1	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S7_D1.EMObs
+S7_D2	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S7_D2.EMObs
+S7_D3	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S7_D3.EMObs
+S7_D4	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S7_D4.EMObs
+S8_D1_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S8_D1_R.EMObs
+S8_D2_R	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S8_D2_R.EMObs
+S8_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S8_D3.EMObs
+S8_D4_R	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S8_D4_R.EMObs
+S9_D2_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S9_D2_R.EMObs
+S9_D3	1.09	2024 04 04 11:50:56	G:\Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S9_D3.EMObs
+S9_D4_R	1.09	2024 04 04 11:50:56	Z:\Statewide subtidal reef monitoring BRUVs\2021 Statewide BRUVs monitoring of reef fishes (MIMP)\Footage 2021\	S9_D4_R.EMObs

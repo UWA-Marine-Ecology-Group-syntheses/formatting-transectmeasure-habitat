@@ -1,0 +1,625 @@
+Dot Point Measurements
+
+Generated: Monday 21 August 2023 13:46:52
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare									Radius %
+PCB13.JPG	      0		139	196																					100.0
+PCB13.JPG	      0		406	196																					89.9
+PCB13.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB13.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB13.JPG	      0		139	578																					64.2
+PCB13.JPG	      0		406	578																					46.9
+PCB13.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB13.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB13.JPG	      0		139	960																					46.5
+PCB13.JPG	      0		406	960																					15.5
+PCB13.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB13.JPG	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCB13.JPG	      0		139	1342																					64.2
+PCB13.JPG	      0		406	1342																					46.9
+PCB13.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCB13.JPG	      0		941	1342													Relief	High	High (>3m)	3			82003006		64.2
+PCB13.JPG	      0		139	1724																					100.0
+PCB13.JPG	      0		406	1724																					89.9
+PCB13.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB13.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB16.JPG	      0		139	196																					100.0
+PCB16.JPG	      0		406	196																					89.9
+PCB16.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB16.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB16.JPG	      0		139	578																					64.2
+PCB16.JPG	      0		406	578																					46.9
+PCB16.JPG	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCB16.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB16.JPG	      0		139	960																					46.5
+PCB16.JPG	      0		406	960																					15.5
+PCB16.JPG	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCB16.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB16.JPG	      0		139	1342																					64.2
+PCB16.JPG	      0		406	1342																					46.9
+PCB16.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCB16.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB16.JPG	      0		139	1724																					100.0
+PCB16.JPG	      0		406	1724																					89.9
+PCB16.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB16.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB18.JPG	      0		139	196																					100.0
+PCB18.JPG	      0		406	196																					89.9
+PCB18.JPG	      0		674	196													Relief	High	High (>3m)	3			82003006		89.9
+PCB18.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB18.JPG	      0		139	578																					64.2
+PCB18.JPG	      0		406	578																					46.9
+PCB18.JPG	      0		674	578													Relief	High	Wall	4			82003007		46.9
+PCB18.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB18.JPG	      0		139	960																					46.5
+PCB18.JPG	      0		406	960																					15.5
+PCB18.JPG	      0		674	960													Relief	High	Caves	5			82003008		15.5
+PCB18.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB18.JPG	      0		139	1342																					64.2
+PCB18.JPG	      0		406	1342																					46.9
+PCB18.JPG	      0		674	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCB18.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB18.JPG	      0		139	1724																					100.0
+PCB18.JPG	      0		406	1724																					89.9
+PCB18.JPG	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB18.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB21.JPG	      0		139	196																					100.0
+PCB21.JPG	      0		406	196																					89.9
+PCB21.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB21.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB21.JPG	      0		139	578																					64.2
+PCB21.JPG	      0		406	578																					46.9
+PCB21.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB21.JPG	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCB21.JPG	      0		139	960																					46.5
+PCB21.JPG	      0		406	960																					15.5
+PCB21.JPG	      0		674	960																					15.5
+PCB21.JPG	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCB21.JPG	      0		139	1342																					64.2
+PCB21.JPG	      0		406	1342																					46.9
+PCB21.JPG	      0		674	1342																					46.9
+PCB21.JPG	      0		941	1342													Relief	High	High (>3m)	3			82003006		64.2
+PCB21.JPG	      0		139	1724																					100.0
+PCB21.JPG	      0		406	1724																					89.9
+PCB21.JPG	      0		674	1724																					89.9
+PCB21.JPG	      0		941	1724													Relief	High	High (>3m)	3			82003006		100.0
+PCB28.JPG	      0		139	196																					100.0
+PCB28.JPG	      0		406	196																					89.9
+PCB28.JPG	      0		674	196													Relief	High	High (>3m)	3			82003006		89.9
+PCB28.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB28.JPG	      0		139	578																					64.2
+PCB28.JPG	      0		406	578																					46.9
+PCB28.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB28.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB28.JPG	      0		139	960																					46.5
+PCB28.JPG	      0		406	960																					15.5
+PCB28.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB28.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB28.JPG	      0		139	1342																					64.2
+PCB28.JPG	      0		406	1342																					46.9
+PCB28.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB28.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCB28.JPG	      0		139	1724																					100.0
+PCB28.JPG	      0		406	1724																					89.9
+PCB28.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB28.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB3.JPG	      0		139	196																					100.0
+PCB3.JPG	      0		406	196																					89.9
+PCB3.JPG	      0		674	196																					89.9
+PCB3.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB3.JPG	      0		139	578																					64.2
+PCB3.JPG	      0		406	578																					46.9
+PCB3.JPG	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCB3.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB3.JPG	      0		139	960																					46.5
+PCB3.JPG	      0		406	960																					15.5
+PCB3.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB3.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB3.JPG	      0		139	1342																					64.2
+PCB3.JPG	      0		406	1342																					46.9
+PCB3.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB3.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB3.JPG	      0		139	1724																					100.0
+PCB3.JPG	      0		406	1724																					89.9
+PCB3.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB3.JPG	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB9.JPG	      0		139	196																					100.0
+PCB9.JPG	      0		406	196																					89.9
+PCB9.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB9.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB9.JPG	      0		139	578																					64.2
+PCB9.JPG	      0		406	578																					46.9
+PCB9.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB9.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB9.JPG	      0		139	960																					46.5
+PCB9.JPG	      0		406	960																					15.5
+PCB9.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB9.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB9.JPG	      0		139	1342																					64.2
+PCB9.JPG	      0		406	1342																					46.9
+PCB9.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB9.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB9.JPG	      0		139	1724																					100.0
+PCB9.JPG	      0		406	1724																					89.9
+PCB9.JPG	      0		674	1724													Relief	Flat		0			82003001		89.9
+PCB9.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP10.JPG	      0		139	196																					100.0
+PCBP10.JPG	      0		406	196																					89.9
+PCBP10.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP10.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP10.JPG	      0		139	578																					64.2
+PCBP10.JPG	      0		406	578													Relief	High	Caves	5			82003008		46.9
+PCBP10.JPG	      0		674	578													Relief	High	Wall	4			82003007		46.9
+PCBP10.JPG	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP10.JPG	      0		139	960																					46.5
+PCBP10.JPG	      0		406	960													Relief	High	Caves	5			82003008		15.5
+PCBP10.JPG	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBP10.JPG	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCBP10.JPG	      0		139	1342																					64.2
+PCBP10.JPG	      0		406	1342													Relief	High	Wall	4			82003007		46.9
+PCBP10.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP10.JPG	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP10.JPG	      0		139	1724																					100.0
+PCBP10.JPG	      0		406	1724													Relief	High	Wall	4			82003007		89.9
+PCBP10.JPG	      0		674	1724													Relief	High	High (>3m)	3			82003006		89.9
+PCBP10.JPG	      0		941	1724													Relief	High	High (>3m)	3			82003006		100.0
+PCBP17.JPG	      0		139	196																					100.0
+PCBP17.JPG	      0		406	196																					89.9
+PCBP17.JPG	      0		674	196													Relief	High	Caves	5			82003008		89.9
+PCBP17.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP17.JPG	      0		139	578																					64.2
+PCBP17.JPG	      0		406	578																					46.9
+PCBP17.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP17.JPG	      0		941	578													Relief	High	High (>3m)	3			82003006		64.2
+PCBP17.JPG	      0		139	960																					46.5
+PCBP17.JPG	      0		406	960																					15.5
+PCBP17.JPG	      0		674	960													Relief	High	High (>3m)	3			82003006		15.5
+PCBP17.JPG	      0		941	960													Relief	High	High (>3m)	3			82003006		46.5
+PCBP17.JPG	      0		139	1342																					64.2
+PCBP17.JPG	      0		406	1342																					46.9
+PCBP17.JPG	      0		674	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCBP17.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP17.JPG	      0		139	1724																					100.0
+PCBP17.JPG	      0		406	1724																					89.9
+PCBP17.JPG	      0		674	1724																					89.9
+PCBP17.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP3.JPG	      0		139	196																					100.0
+PCBP3.JPG	      0		406	196																					89.9
+PCBP3.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP3.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP3.JPG	      0		139	578																					64.2
+PCBP3.JPG	      0		406	578																					46.9
+PCBP3.JPG	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP3.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP3.JPG	      0		139	960																					46.5
+PCBP3.JPG	      0		406	960																					15.5
+PCBP3.JPG	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBP3.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP3.JPG	      0		139	1342																					64.2
+PCBP3.JPG	      0		406	1342																					46.9
+PCBP3.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP3.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP3.JPG	      0		139	1724																					100.0
+PCBP3.JPG	      0		406	1724																					89.9
+PCBP3.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP3.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP8.JPG	      0		139	196																					100.0
+PCBP8.JPG	      0		406	196																					89.9
+PCBP8.JPG	      0		674	196																					89.9
+PCBP8.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP8.JPG	      0		139	578																					64.2
+PCBP8.JPG	      0		406	578																					46.9
+PCBP8.JPG	      0		674	578																					46.9
+PCBP8.JPG	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP8.JPG	      0		139	960																					46.5
+PCBP8.JPG	      0		406	960																					15.5
+PCBP8.JPG	      0		674	960																					15.5
+PCBP8.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP8.JPG	      0		139	1342																					64.2
+PCBP8.JPG	      0		406	1342																					46.9
+PCBP8.JPG	      0		674	1342																					46.9
+PCBP8.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP8.JPG	      0		139	1724																					100.0
+PCBP8.JPG	      0		406	1724																					89.9
+PCBP8.JPG	      0		674	1724																					89.9
+PCBP8.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV1.JPG	      0		139	196																					100.0
+PCBRUV1.JPG	      0		406	196																					89.9
+PCBRUV1.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV1.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBRUV1.JPG	      0		139	578																					64.2
+PCBRUV1.JPG	      0		406	578																					46.9
+PCBRUV1.JPG	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV1.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV1.JPG	      0		139	960																					46.5
+PCBRUV1.JPG	      0		406	960																					15.5
+PCBRUV1.JPG	      0		674	960													Relief	High	High (>3m)	3			82003006		15.5
+PCBRUV1.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV1.JPG	      0		139	1342																					64.2
+PCBRUV1.JPG	      0		406	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV1.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV1.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV1.JPG	      0		139	1724																					100.0
+PCBRUV1.JPG	      0		406	1724													Relief	High	High (>3m)	3			82003006		89.9
+PCBRUV1.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV1.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV10.JPG	      0		139	196																					100.0
+PCBRUV10.JPG	      0		406	196																					89.9
+PCBRUV10.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV10.JPG	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBRUV10.JPG	      0		139	578																					64.2
+PCBRUV10.JPG	      0		406	578																					46.9
+PCBRUV10.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV10.JPG	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV10.JPG	      0		139	960																					46.5
+PCBRUV10.JPG	      0		406	960																					15.5
+PCBRUV10.JPG	      0		674	960													Relief	Flat		0			82003001		15.5
+PCBRUV10.JPG	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV10.JPG	      0		139	1342																					64.2
+PCBRUV10.JPG	      0		406	1342																					46.9
+PCBRUV10.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV10.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV10.JPG	      0		139	1724																					100.0
+PCBRUV10.JPG	      0		406	1724																					89.9
+PCBRUV10.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV10.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV14.JPG	      0		139	196																					100.0
+PCBRUV14.JPG	      0		406	196																					89.9
+PCBRUV14.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV14.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV14.JPG	      0		139	578																					64.2
+PCBRUV14.JPG	      0		406	578																					46.9
+PCBRUV14.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV14.JPG	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV14.JPG	      0		139	960																					46.5
+PCBRUV14.JPG	      0		406	960																					15.5
+PCBRUV14.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV14.JPG	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV14.JPG	      0		139	1342																					64.2
+PCBRUV14.JPG	      0		406	1342																					46.9
+PCBRUV14.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV14.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV14.JPG	      0		139	1724																					100.0
+PCBRUV14.JPG	      0		406	1724																					89.9
+PCBRUV14.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV14.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV15.JPG	      0		139	196																					100.0
+PCBRUV15.JPG	      0		406	196																					89.9
+PCBRUV15.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV15.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBRUV15.JPG	      0		139	578																					64.2
+PCBRUV15.JPG	      0		406	578																					46.9
+PCBRUV15.JPG	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV15.JPG	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBRUV15.JPG	      0		139	960																					46.5
+PCBRUV15.JPG	      0		406	960																					15.5
+PCBRUV15.JPG	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBRUV15.JPG	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCBRUV15.JPG	      0		139	1342																					64.2
+PCBRUV15.JPG	      0		406	1342																					46.9
+PCBRUV15.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV15.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV15.JPG	      0		139	1724																					100.0
+PCBRUV15.JPG	      0		406	1724																					89.9
+PCBRUV15.JPG	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV15.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV18.JPG	      0		139	196																					100.0
+PCBRUV18.JPG	      0		406	196																					89.9
+PCBRUV18.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV18.JPG	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBRUV18.JPG	      0		139	578																					64.2
+PCBRUV18.JPG	      0		406	578																					46.9
+PCBRUV18.JPG	      0		674	578																					46.9
+PCBRUV18.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV18.JPG	      0		139	960																					46.5
+PCBRUV18.JPG	      0		406	960																					15.5
+PCBRUV18.JPG	      0		674	960																					15.5
+PCBRUV18.JPG	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV18.JPG	      0		139	1342																					64.2
+PCBRUV18.JPG	      0		406	1342																					46.9
+PCBRUV18.JPG	      0		674	1342																					46.9
+PCBRUV18.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV18.JPG	      0		139	1724																					100.0
+PCBRUV18.JPG	      0		406	1724																					89.9
+PCBRUV18.JPG	      0		674	1724																					89.9
+PCBRUV18.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV19.JPG	      0		139	196																					100.0
+PCBRUV19.JPG	      0		406	196																					89.9
+PCBRUV19.JPG	      0		674	196																					89.9
+PCBRUV19.JPG	      0		941	196													Relief	High	Wall	4			82003007		100.0
+PCBRUV19.JPG	      0		139	578																					64.2
+PCBRUV19.JPG	      0		406	578																					46.9
+PCBRUV19.JPG	      0		674	578																					46.9
+PCBRUV19.JPG	      0		941	578													Relief	High	Caves	5			82003008		64.2
+PCBRUV19.JPG	      0		139	960																					46.5
+PCBRUV19.JPG	      0		406	960																					15.5
+PCBRUV19.JPG	      0		674	960													Relief	High	Wall	4			82003007		15.5
+PCBRUV19.JPG	      0		941	960													Relief	High	High (>3m)	3			82003006		46.5
+PCBRUV19.JPG	      0		139	1342																					64.2
+PCBRUV19.JPG	      0		406	1342																					46.9
+PCBRUV19.JPG	      0		674	1342													Relief	High	Caves	5			82003008		46.9
+PCBRUV19.JPG	      0		941	1342													Relief	High	High (>3m)	3			82003006		64.2
+PCBRUV19.JPG	      0		139	1724																					100.0
+PCBRUV19.JPG	      0		406	1724																					89.9
+PCBRUV19.JPG	      0		674	1724													Relief	High	Caves	5			82003008		89.9
+PCBRUV19.JPG	      0		941	1724													Relief	High	High (>3m)	3			82003006		100.0
+PCBRUV20.JPG	      0		139	196																					100.0
+PCBRUV20.JPG	      0		406	196																					89.9
+PCBRUV20.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV20.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV20.JPG	      0		139	578																					64.2
+PCBRUV20.JPG	      0		406	578																					46.9
+PCBRUV20.JPG	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV20.JPG	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV20.JPG	      0		139	960																					46.5
+PCBRUV20.JPG	      0		406	960																					15.5
+PCBRUV20.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV20.JPG	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV20.JPG	      0		139	1342																					64.2
+PCBRUV20.JPG	      0		406	1342																					46.9
+PCBRUV20.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV20.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV20.JPG	      0		139	1724																					100.0
+PCBRUV20.JPG	      0		406	1724																					89.9
+PCBRUV20.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV20.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV22.JPG	      0		139	196																					100.0
+PCBRUV22.JPG	      0		406	196																					89.9
+PCBRUV22.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV22.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBRUV22.JPG	      0		139	578																					64.2
+PCBRUV22.JPG	      0		406	578																					46.9
+PCBRUV22.JPG	      0		674	578													Relief	Flat		0			82003001		46.9
+PCBRUV22.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV22.JPG	      0		139	960																					46.5
+PCBRUV22.JPG	      0		406	960																					15.5
+PCBRUV22.JPG	      0		674	960													Relief	Flat		0			82003001		15.5
+PCBRUV22.JPG	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV22.JPG	      0		139	1342																					64.2
+PCBRUV22.JPG	      0		406	1342																					46.9
+PCBRUV22.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV22.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV22.JPG	      0		139	1724																					100.0
+PCBRUV22.JPG	      0		406	1724																					89.9
+PCBRUV22.JPG	      0		674	1724													Relief	Flat		0			82003001		89.9
+PCBRUV22.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV23.JPG	      0		139	196																					100.0
+PCBRUV23.JPG	      0		406	196																					89.9
+PCBRUV23.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV23.JPG	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBRUV23.JPG	      0		139	578																					64.2
+PCBRUV23.JPG	      0		406	578																					46.9
+PCBRUV23.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV23.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV23.JPG	      0		139	960																					46.5
+PCBRUV23.JPG	      0		406	960																					15.5
+PCBRUV23.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV23.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV23.JPG	      0		139	1342																					64.2
+PCBRUV23.JPG	      0		406	1342																					46.9
+PCBRUV23.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV23.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV23.JPG	      0		139	1724																					100.0
+PCBRUV23.JPG	      0		406	1724																					89.9
+PCBRUV23.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV23.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV24.JPG	      0		139	196																					100.0
+PCBRUV24.JPG	      0		406	196																					89.9
+PCBRUV24.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV24.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV24.JPG	      0		139	578																					64.2
+PCBRUV24.JPG	      0		406	578																					46.9
+PCBRUV24.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV24.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV24.JPG	      0		139	960																					46.5
+PCBRUV24.JPG	      0		406	960																					15.5
+PCBRUV24.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV24.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV24.JPG	      0		139	1342																					64.2
+PCBRUV24.JPG	      0		406	1342																					46.9
+PCBRUV24.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV24.JPG	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBRUV24.JPG	      0		139	1724																					100.0
+PCBRUV24.JPG	      0		406	1724																					89.9
+PCBRUV24.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV24.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV26.JPG	      0		139	196																					100.0
+PCBRUV26.JPG	      0		406	196																					89.9
+PCBRUV26.JPG	      0		674	196													Relief	High	Caves	5			82003008		89.9
+PCBRUV26.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBRUV26.JPG	      0		139	578																					64.2
+PCBRUV26.JPG	      0		406	578																					46.9
+PCBRUV26.JPG	      0		674	578													Relief	High	Wall	4			82003007		46.9
+PCBRUV26.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV26.JPG	      0		139	960																					46.5
+PCBRUV26.JPG	      0		406	960																					15.5
+PCBRUV26.JPG	      0		674	960													Relief	High	Wall	4			82003007		15.5
+PCBRUV26.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV26.JPG	      0		139	1342																					64.2
+PCBRUV26.JPG	      0		406	1342																					46.9
+PCBRUV26.JPG	      0		674	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCBRUV26.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV26.JPG	      0		139	1724																					100.0
+PCBRUV26.JPG	      0		406	1724																					89.9
+PCBRUV26.JPG	      0		674	1724													Relief	High	Wall	4			82003007		89.9
+PCBRUV26.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV27.JPG	      0		139	196																					100.0
+PCBRUV27.JPG	      0		406	196																					89.9
+PCBRUV27.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV27.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV27.JPG	      0		139	578																					64.2
+PCBRUV27.JPG	      0		406	578																					46.9
+PCBRUV27.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV27.JPG	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV27.JPG	      0		139	960																					46.5
+PCBRUV27.JPG	      0		406	960																					15.5
+PCBRUV27.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV27.JPG	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV27.JPG	      0		139	1342																					64.2
+PCBRUV27.JPG	      0		406	1342																					46.9
+PCBRUV27.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV27.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV27.JPG	      0		139	1724																					100.0
+PCBRUV27.JPG	      0		406	1724																					89.9
+PCBRUV27.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV27.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV5.JPG	      0		139	196																					100.0
+PCBRUV5.JPG	      0		406	196																					89.9
+PCBRUV5.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV5.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV5.JPG	      0		139	578																					64.2
+PCBRUV5.JPG	      0		406	578																					46.9
+PCBRUV5.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV5.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV5.JPG	      0		139	960																					46.5
+PCBRUV5.JPG	      0		406	960																					15.5
+PCBRUV5.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV5.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV5.JPG	      0		139	1342																					64.2
+PCBRUV5.JPG	      0		406	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV5.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV5.JPG	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBRUV5.JPG	      0		139	1724																					100.0
+PCBRUV5.JPG	      0		406	1724													Relief	High	High (>3m)	3			82003006		89.9
+PCBRUV5.JPG	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV5.JPG	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBRUV7.JPG	      0		139	196																					100.0
+PCBRUV7.JPG	      0		406	196																					89.9
+PCBRUV7.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV7.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV7.JPG	      0		139	578																					64.2
+PCBRUV7.JPG	      0		406	578																					46.9
+PCBRUV7.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV7.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV7.JPG	      0		139	960																					46.5
+PCBRUV7.JPG	      0		406	960																					15.5
+PCBRUV7.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV7.JPG	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCBRUV7.JPG	      0		139	1342																					64.2
+PCBRUV7.JPG	      0		406	1342																					46.9
+PCBRUV7.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV7.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV7.JPG	      0		139	1724																					100.0
+PCBRUV7.JPG	      0		406	1724																					89.9
+PCBRUV7.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV7.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV8.JPG	      0		139	196																					100.0
+PCBRUV8.JPG	      0		406	196																					89.9
+PCBRUV8.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV8.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV8.JPG	      0		139	578																					64.2
+PCBRUV8.JPG	      0		406	578																					46.9
+PCBRUV8.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV8.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV8.JPG	      0		139	960																					46.5
+PCBRUV8.JPG	      0		406	960																					15.5
+PCBRUV8.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV8.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV8.JPG	      0		139	1342																					64.2
+PCBRUV8.JPG	      0		406	1342																					46.9
+PCBRUV8.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV8.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV8.JPG	      0		139	1724																					100.0
+PCBRUV8.JPG	      0		406	1724																					89.9
+PCBRUV8.JPG	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV8.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF12.JPG	      0		139	196																					100.0
+PCPREF12.JPG	      0		406	196																					89.9
+PCPREF12.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF12.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF12.JPG	      0		139	578																					64.2
+PCPREF12.JPG	      0		406	578																					46.9
+PCPREF12.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCPREF12.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF12.JPG	      0		139	960																					46.5
+PCPREF12.JPG	      0		406	960																					15.5
+PCPREF12.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCPREF12.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCPREF12.JPG	      0		139	1342																					64.2
+PCPREF12.JPG	      0		406	1342																					46.9
+PCPREF12.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF12.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCPREF12.JPG	      0		139	1724																					100.0
+PCPREF12.JPG	      0		406	1724																					89.9
+PCPREF12.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCPREF12.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF2.JPG	      0		139	196																					100.0
+PCPREF2.JPG	      0		406	196																					89.9
+PCPREF2.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF2.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF2.JPG	      0		139	578																					64.2
+PCPREF2.JPG	      0		406	578																					46.9
+PCPREF2.JPG	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF2.JPG	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCPREF2.JPG	      0		139	960																					46.5
+PCPREF2.JPG	      0		406	960																					15.5
+PCPREF2.JPG	      0		674	960													Relief	High	High (>3m)	3			82003006		15.5
+PCPREF2.JPG	      0		941	960													Relief	High	High (>3m)	3			82003006		46.5
+PCPREF2.JPG	      0		139	1342																					64.2
+PCPREF2.JPG	      0		406	1342																					46.9
+PCPREF2.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCPREF2.JPG	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCPREF2.JPG	      0		139	1724																					100.0
+PCPREF2.JPG	      0		406	1724																					89.9
+PCPREF2.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCPREF2.JPG	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCPREF3.JPG	      0		139	196																					100.0
+PCPREF3.JPG	      0		406	196																					89.9
+PCPREF3.JPG	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF3.JPG	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF3.JPG	      0		139	578																					64.2
+PCPREF3.JPG	      0		406	578																					46.9
+PCPREF3.JPG	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF3.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF3.JPG	      0		139	960																					46.5
+PCPREF3.JPG	      0		406	960																					15.5
+PCPREF3.JPG	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCPREF3.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCPREF3.JPG	      0		139	1342																					64.2
+PCPREF3.JPG	      0		406	1342																					46.9
+PCPREF3.JPG	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF3.JPG	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCPREF3.JPG	      0		139	1724																					100.0
+PCPREF3.JPG	      0		406	1724																					89.9
+PCPREF3.JPG	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF3.JPG	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCPREF4.JPG	      0		139	196																					100.0
+PCPREF4.JPG	      0		406	196																					89.9
+PCPREF4.JPG	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCPREF4.JPG	      0		941	196													Relief	Flat		0			82003001		100.0
+PCPREF4.JPG	      0		139	578																					64.2
+PCPREF4.JPG	      0		406	578																					46.9
+PCPREF4.JPG	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCPREF4.JPG	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCPREF4.JPG	      0		139	960																					46.5
+PCPREF4.JPG	      0		406	960																					15.5
+PCPREF4.JPG	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCPREF4.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCPREF4.JPG	      0		139	1342																					64.2
+PCPREF4.JPG	      0		406	1342																					46.9
+PCPREF4.JPG	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCPREF4.JPG	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCPREF4.JPG	      0		139	1724																					100.0
+PCPREF4.JPG	      0		406	1724																					89.9
+PCPREF4.JPG	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCPREF4.JPG	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCPREF5.JPG	      0		139	196																					100.0
+PCPREF5.JPG	      0		406	196																					89.9
+PCPREF5.JPG	      0		674	196													Relief	High	Caves	5			82003008		89.9
+PCPREF5.JPG	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCPREF5.JPG	      0		139	578																					64.2
+PCPREF5.JPG	      0		406	578																					46.9
+PCPREF5.JPG	      0		674	578													Relief	High	Caves	5			82003008		46.9
+PCPREF5.JPG	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF5.JPG	      0		139	960																					46.5
+PCPREF5.JPG	      0		406	960													Relief	High	Caves	5			82003008		15.5
+PCPREF5.JPG	      0		674	960													Relief	High	High (>3m)	3			82003006		15.5
+PCPREF5.JPG	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCPREF5.JPG	      0		139	1342																					64.2
+PCPREF5.JPG	      0		406	1342													Relief	High	Caves	5			82003008		46.9
+PCPREF5.JPG	      0		674	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCPREF5.JPG	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF5.JPG	      0		139	1724																					100.0
+PCPREF5.JPG	      0		406	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF5.JPG	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF5.JPG	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0

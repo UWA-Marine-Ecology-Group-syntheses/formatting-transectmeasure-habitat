@@ -1,0 +1,19 @@
+"","name","value","is_filter"
+"1","Sampling: Bait type","Pilchards",TRUE
+"2","Sampling: Deployment duration (min)","30",TRUE
+"3","Sampling: Bait quantity (g)","1000",FALSE
+"4","Sampling: Bait consistency","Mushed",FALSE
+"5","Sampling: Minimum separation distance of samples (m)","200",FALSE
+"6","Sampling: Camera configuration","Stereo",FALSE
+"7","Annotation: Upload type","EventMeasure database output",TRUE
+"8","Sampling: Artificial lighting","None",FALSE
+"9","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"10","Annotation: Annotation tool/software","TransectMeasure",FALSE
+"11","Annotation: Taxa that have been ID'd","Fish, Sharks, Rays and sea snakes",FALSE
+"12","Annotation: Taxonomic resolution","All taxa identified to the lowest possible taxonomic level",FALSE
+"13","Sampling: Bait arm length (m)","1.5",FALSE
+"14","Annotation: Observer/Anotator experience (>years)","5",FALSE
+"15","Annotation: Type of Length measure","Fork length",FALSE
+"16","Annotation: Maximum range annotations were made (m)","5",FALSE
+"17","Annotation: Observation/Annotation checked by expert","Yes",FALSE
+"18","Annotation: Lengths measured for","All fish",TRUE

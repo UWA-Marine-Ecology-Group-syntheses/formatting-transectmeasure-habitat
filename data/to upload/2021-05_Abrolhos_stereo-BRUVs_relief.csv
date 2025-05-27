@@ -1,0 +1,94 @@
+campaignid,sample,level_1,level_5,level_2,level_3,level_4,level_6,level_7,level_8,family,genus,species,count
+2021-05_Abrolhos_stereo-BRUVs,npz6.10,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz6.12,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz6.13,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,6
+2021-05_Abrolhos_stereo-BRUVs,npz6.13,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,6
+2021-05_Abrolhos_stereo-BRUVs,npz6.13,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,9
+2021-05_Abrolhos_stereo-BRUVs,npz6.14,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2021-05_Abrolhos_stereo-BRUVs,npz6.14,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,22
+2021-05_Abrolhos_stereo-BRUVs,npz6.15,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz6.17,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7
+2021-05_Abrolhos_stereo-BRUVs,npz6.17,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2021-05_Abrolhos_stereo-BRUVs,npz6.17,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz6.18,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz6.2,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,13
+2021-05_Abrolhos_stereo-BRUVs,npz6.2,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,11
+2021-05_Abrolhos_stereo-BRUVs,npz6.20,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2021-05_Abrolhos_stereo-BRUVs,npz6.20,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2021-05_Abrolhos_stereo-BRUVs,npz6.21,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,22
+2021-05_Abrolhos_stereo-BRUVs,npz6.21,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,4
+2021-05_Abrolhos_stereo-BRUVs,npz6.22,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,4
+2021-05_Abrolhos_stereo-BRUVs,npz6.22,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,24
+2021-05_Abrolhos_stereo-BRUVs,npz6.24,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,24
+2021-05_Abrolhos_stereo-BRUVs,npz6.26,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,23
+2021-05_Abrolhos_stereo-BRUVs,npz6.26,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,2
+2021-05_Abrolhos_stereo-BRUVs,npz6.27,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,26
+2021-05_Abrolhos_stereo-BRUVs,npz6.28,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,16
+2021-05_Abrolhos_stereo-BRUVs,npz6.28,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz6.28,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz6.36,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,2
+2021-05_Abrolhos_stereo-BRUVs,npz6.36,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,15
+2021-05_Abrolhos_stereo-BRUVs,npz6.36,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,5
+2021-05_Abrolhos_stereo-BRUVs,npz6.36,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,4
+2021-05_Abrolhos_stereo-BRUVs,npz6.4,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz6.5,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,8
+2021-05_Abrolhos_stereo-BRUVs,npz6.5,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,10
+2021-05_Abrolhos_stereo-BRUVs,npz6.5,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2021-05_Abrolhos_stereo-BRUVs,npz6.5,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz6.6,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,12
+2021-05_Abrolhos_stereo-BRUVs,npz6.8,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz6.9,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,25
+2021-05_Abrolhos_stereo-BRUVs,npz6.BOSS41,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2021-05_Abrolhos_stereo-BRUVs,npz6.BOSS41,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2021-05_Abrolhos_stereo-BRUVs,npz6.BOSS41,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,6
+2021-05_Abrolhos_stereo-BRUVs,npz6.BOSS41,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz6.C01,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz6.C02,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz9.1,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,5
+2021-05_Abrolhos_stereo-BRUVs,npz9.1,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,13
+2021-05_Abrolhos_stereo-BRUVs,npz9.1,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,5
+2021-05_Abrolhos_stereo-BRUVs,npz9.10,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,25
+2021-05_Abrolhos_stereo-BRUVs,npz9.11,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2021-05_Abrolhos_stereo-BRUVs,npz9.11,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2021-05_Abrolhos_stereo-BRUVs,npz9.11,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz9.12,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,23
+2021-05_Abrolhos_stereo-BRUVs,npz9.13,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,24
+2021-05_Abrolhos_stereo-BRUVs,npz9.13,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz9.14,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,25
+2021-05_Abrolhos_stereo-BRUVs,npz9.16,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz9.16,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,24
+2021-05_Abrolhos_stereo-BRUVs,npz9.17,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_Abrolhos_stereo-BRUVs,npz9.17,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,18
+2021-05_Abrolhos_stereo-BRUVs,npz9.17,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,2
+2021-05_Abrolhos_stereo-BRUVs,npz9.18,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,15
+2021-05_Abrolhos_stereo-BRUVs,npz9.18,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,5
+2021-05_Abrolhos_stereo-BRUVs,npz9.19,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,24
+2021-05_Abrolhos_stereo-BRUVs,npz9.2,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,22
+2021-05_Abrolhos_stereo-BRUVs,npz9.21,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,18
+2021-05_Abrolhos_stereo-BRUVs,npz9.21,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2021-05_Abrolhos_stereo-BRUVs,npz9.22,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz9.24,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,6
+2021-05_Abrolhos_stereo-BRUVs,npz9.24,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,10
+2021-05_Abrolhos_stereo-BRUVs,npz9.24,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,3
+2021-05_Abrolhos_stereo-BRUVs,npz9.25,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,18
+2021-05_Abrolhos_stereo-BRUVs,npz9.25,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,2
+2021-05_Abrolhos_stereo-BRUVs,npz9.26,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2021-05_Abrolhos_stereo-BRUVs,npz9.26,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,9
+2021-05_Abrolhos_stereo-BRUVs,npz9.27,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,24
+2021-05_Abrolhos_stereo-BRUVs,npz9.28,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz9.29,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz9.3,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz9.30,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz9.30,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,19
+2021-05_Abrolhos_stereo-BRUVs,npz9.4,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,4
+2021-05_Abrolhos_stereo-BRUVs,npz9.4,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,18
+2021-05_Abrolhos_stereo-BRUVs,npz9.5,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,13
+2021-05_Abrolhos_stereo-BRUVs,npz9.5,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,8
+2021-05_Abrolhos_stereo-BRUVs,npz9.5,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,3
+2021-05_Abrolhos_stereo-BRUVs,npz9.7,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz9.8,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz9.8,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,20
+2021-05_Abrolhos_stereo-BRUVs,npz9.8,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz9.8,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_stereo-BRUVs,npz9.9,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,17
+2021-05_Abrolhos_stereo-BRUVs,npz9.9,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,7

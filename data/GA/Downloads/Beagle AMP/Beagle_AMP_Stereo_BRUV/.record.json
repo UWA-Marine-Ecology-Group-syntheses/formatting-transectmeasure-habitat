@@ -1,0 +1,354 @@
+{
+  "created_at": ["2020-11-30T05:52:28.631886"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [125],
+  "description": ["Stereo BRUV sampling of fish by IMAS researchers in and around Beagle AMP using NESP BRUV and Sampling field manuals (https://marine-sampling-field-manual.github.io/). Sampling was done using a BAS spatially balanced design as per detailed in Barrett, N, Monk, J., Nichol, S., Falster, G., Carroll, A., Siwabessy, J., Deane, A., Nanson, R., Picard, K., Dando, N., Hulls, J., and Evans, H. (2020). Beagle Marine Park: Post Survey Report. Report to the National Environmental Science Program, Marine Biodiversity Hub. University of Tasmania."],
+  "files": [
+    {
+      "id": 10724,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_hack_file_do_not_use_Camera.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10737,
+      "iscompressed": true,
+      "name": "Beagle_AMP_Stereo_BRUV_Metadata.csv",
+      "user_id": 5
+    },
+    {
+      "id": 10725,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_MovieSeq.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10726,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_Period.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10728,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_Source.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10729,
+      "iscompressed": true,
+      "name": "Beagle_AMP_Stereo_BRUV_Habitat.csv",
+      "user_id": 5
+    },
+    {
+      "id": 10731,
+      "iscompressed": false,
+      "name": "Beagle_EM_files.zip",
+      "user_id": 5
+    },
+    {
+      "id": 10732,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_3DPoints.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10733,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_ImagePtPair.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10734,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_Info.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10739,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_Points.txt",
+      "user_id": 5
+    },
+    {
+      "id": 10740,
+      "iscompressed": true,
+      "name": "BeagleAMP_2018_Lengths.txt",
+      "user_id": 5
+    }
+  ],
+  "id": [989],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 161,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "1000"
+    },
+    {
+      "campaigninfoprop_id": 33,
+      "id": 163,
+      "property": {
+        "id": 33,
+        "is_filter": false,
+        "name": "Sampling: Bait deployment"
+      },
+      "value": "Plastic coated wire mesh bag"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 174,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "250"
+    },
+    {
+      "campaigninfoprop_id": 36,
+      "id": 183,
+      "property": {
+        "id": 36,
+        "is_filter": false,
+        "name": "Sampling: Camera type"
+      },
+      "value": "Canon Legria HFG25"
+    },
+    {
+      "campaigninfoprop_id": 37,
+      "id": 193,
+      "property": {
+        "id": 37,
+        "is_filter": false,
+        "name": "Sampling: Camera configuration"
+      },
+      "value": "Stereo"
+    },
+    {
+      "campaigninfoprop_id": 40,
+      "id": 205,
+      "property": {
+        "id": 40,
+        "is_filter": false,
+        "name": "Sampling: Camera height above benthos (mm)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 41,
+      "id": 207,
+      "property": {
+        "id": 41,
+        "is_filter": false,
+        "name": "Sampling: Bait arm length (m)"
+      },
+      "value": "1.5"
+    },
+    {
+      "campaigninfoprop_id": 42,
+      "id": 210,
+      "property": {
+        "id": 42,
+        "is_filter": false,
+        "name": "Sampling: Frame type"
+      },
+      "value": "Steel"
+    },
+    {
+      "campaigninfoprop_id": 43,
+      "id": 213,
+      "property": {
+        "id": 43,
+        "is_filter": false,
+        "name": "Sampling: Artificial lighting"
+      },
+      "value": "Blue"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 219,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "EventMeasure database output"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 221,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "EventMeasure-stereo"
+    },
+    {
+      "campaigninfoprop_id": 47,
+      "id": 233,
+      "property": {
+        "id": 47,
+        "is_filter": false,
+        "name": "Annotation: Taxonomic resolution"
+      },
+      "value": "All taxa identified to the lowest possible taxonomic level"
+    },
+    {
+      "campaigninfoprop_id": 48,
+      "id": 245,
+      "property": {
+        "id": 48,
+        "is_filter": false,
+        "name": "Annotation: Observer/Anotator experience (>years)"
+      },
+      "value": "10"
+    },
+    {
+      "campaigninfoprop_id": 49,
+      "id": 251,
+      "property": {
+        "id": 49,
+        "is_filter": false,
+        "name": "Annotation: Observation/Annotation checked by expert"
+      },
+      "value": "Yes"
+    },
+    {
+      "campaigninfoprop_id": 50,
+      "id": 254,
+      "property": {
+        "id": 50,
+        "is_filter": true,
+        "name": "Annotation: Lengths measured for"
+      },
+      "value": "All fish"
+    },
+    {
+      "campaigninfoprop_id": 51,
+      "id": 259,
+      "property": {
+        "id": 51,
+        "is_filter": false,
+        "name": "Annotation: Type of Length measure"
+      },
+      "value": "Fork length"
+    },
+    {
+      "campaigninfoprop_id": 54,
+      "id": 270,
+      "property": {
+        "id": 54,
+        "is_filter": true,
+        "name": "Annotation: Habitat information in the study area"
+      },
+      "value": "Multibeam"
+    },
+    {
+      "campaigninfoprop_id": 55,
+      "id": 276,
+      "property": {
+        "id": 55,
+        "is_filter": true,
+        "name": "Annotation: Habitat information from each sample"
+      },
+      "value": "Cover of benthos and score of complexity"
+    },
+    {
+      "campaigninfoprop_id": 56,
+      "id": 281,
+      "property": {
+        "id": 56,
+        "is_filter": false,
+        "name": "Annotation: Habitat information from each sample annotated as"
+      },
+      "value": "Percent cover"
+    },
+    {
+      "campaigninfoprop_id": 57,
+      "id": 283,
+      "property": {
+        "id": 57,
+        "is_filter": false,
+        "name": "Annotation: .EMObs uploaded as .zip"
+      },
+      "value": "Yes"
+    }
+  ],
+  "name": ["Beagle_AMP_Stereo_BRUV"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [260],
+    "is_public": [true],
+    "name": ["Beagle AMP"]
+  },
+  "project_id": [260],
+  "user": {
+    "email": ["jacquomo.monk@utas.edu.au"],
+    "first_name": ["Jacquomo"],
+    "id": [5],
+    "is_admin": [false],
+    "last_name": ["Monk"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    },
+    {
+      "current_user_is_member": false,
+      "current_user_is_owner": true,
+      "id": 278,
+      "is_public": false,
+      "name": "Di Mclean"
+    }
+  ]
+}

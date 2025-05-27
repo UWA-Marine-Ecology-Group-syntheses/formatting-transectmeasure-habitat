@@ -1,0 +1,104 @@
+{
+  "created_at": ["2023-08-22T02:08:54.725134"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [131],
+  "description": ["Stereo-BRUV surveys of natural habitat communities (pipeline specific deployments omitted) in Australia's remote north-north west."],
+  "files": [
+    {
+      "id": 11626,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_ImagePtPair.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11627,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_Info.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11628,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_Lengths.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11629,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_Metadata.csv",
+      "user_id": 9
+    },
+    {
+      "id": 11630,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_MovieSeq.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11631,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_Period.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11632,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_Points.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11633,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_Source.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11634,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_3DPoints.txt",
+      "user_id": 9
+    },
+    {
+      "id": 11635,
+      "iscompressed": true,
+      "name": "Bayu Undan BRUVs_Camera.txt",
+      "user_id": 9
+    }
+  ],
+  "id": [1091],
+  "info": [],
+  "name": ["Bayu Undan BRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [324],
+    "is_public": [false],
+    "name": ["Bayu Undan BRUVs"]
+  },
+  "project_id": [324],
+  "user": {
+    "email": ["d.mclean@aims.gov.au"],
+    "first_name": ["Dianne"],
+    "id": [9],
+    "is_admin": [false],
+    "last_name": ["McLean"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

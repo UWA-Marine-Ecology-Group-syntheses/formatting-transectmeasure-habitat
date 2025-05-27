@@ -1,0 +1,128 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+PPB001	Scott Gray	5		Latitude	-38.196919	Longitude	144.71415	Date	17/02/2022	Time	8:55	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB002	Scott Gray	4.5		Latitude	-37.866336	Longitude	144.875823	Date	4/04/2022	Time	13:20	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, algae
+PPB003	Scott Gray	1.1		Latitude	-38.359357	Longitude	144.790212	Date	15/02/2022	Time	15:24	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB004	Scott Gray	6.4		Latitude	-38.29667168	Longitude	144.61299	Date	9/04/2022	Time	13:22	MPAStatus	Not recorded	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB005	Scott Gray	7.8		Latitude	-38.29406433	Longitude	144.59827	Date	9/04/2022	Time	13:15	MPAStatus	Not recorded	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB006	Scott Gray	9.2		Latitude	-38.29636099	Longitude	144.60595	Date	9/04/2022	Time	13:19	MPAStatus	Not recorded	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB007	Darcy Cutter	13.2		Latitude	-38.32010002	Longitude	144.65013	Date	04/03/2022	Time	11.01	MPAStatus	No Take 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB008	Darcy Cutter	16		Latitude	-38.32656179	Longitude	144.67468	Date	04/03/2022	Time	10:44	MPAStatus	Fished 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB009	Darcy Cutter	15		Latitude	-38.32521433	Longitude	144.66387	Date	04/03/2022	Time	10:47	MPAStatus	Fished 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB010	Darcy Cutter	12.4		Latitude	-38.32011068	Longitude	144.66498	Date	04/03/2022	Time	10:54	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB011	Darcy Cutter	13		Latitude	-38.32349749	Longitude	144.65847	Date	04/03/2022	Time	10:51	MPAStatus	Fished 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB012	Scott Gray	1.6		Latitude	-38.273679	Longitude	144.775763	Date	1/03/2022	Time	9:35	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Seagrass
+PPB013	Scott Gray	2		Latitude	-38.043506	Longitude	144.545736	Date	17/02/2022	Time	12:54	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB014	Scott Gray	2.5		Latitude	-37.868668	Longitude	144.913185	Date	4/04/2022	Time	13:41	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, algae
+PPB015	Scott Gray	3		Latitude	-38.34413	Longitude	144.75908	Date	15/02/2022	Time	14:59	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, rubble
+PPB016	Scott Gray	2		Latitude	-38.13380203	Longitude	144.4151828	Date	17/02/2022	Time	15:11	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB017	Darcy Cutter	3		Latitude	-38.30412315	Longitude	144.65585	Date	03/03/2022	Time	15:13	MPAStatus	No Take 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB018	Darcy Cutter	2.5		Latitude	-38.32786	Longitude	144.741	Date	03/03/2022	Time	15:35	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB019	Scott Gray	3		Latitude	-38.02771	Longitude	144.58116	Date	17/02/2022	Time	12:39	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, barren
+PPB020	Scott Gray	3		Latitude	-38.02847555	Longitude	144.59	Date	17/02/2022	Time	12:41	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, barren
+PPB021	Scott Gray	3		Latitude	-37.8697	Longitude	144.8882	Date	4/04/2022	Time	13:26	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef
+PPB022	Scott Gray	3		Latitude	-38.11639695	Longitude	144.695	Date	17/02/2022	Time	9:12	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, rubble, algae
+PPB023	Scott Gray	3		Latitude	-38.13972774	Longitude	144.4417729	Date	17/02/2022	Time	14:58	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Seagrass
+PPB024	Scott Gray	3.5		Latitude	-38.30482895	Longitude	144.67278	Date	15/02/2022	Time	9:22	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB025	Scott Gray	3		Latitude	-37.9251	Longitude	144.8011	Date	4/04/2022	Time	10:35	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand, reef, algae
+PPB026	Scott Gray	2.7	Poor visbility 3m	Latitude	-37.90846	Longitude	144.9807	Date	5/04/2022	Time	14:18	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, rubble, algae
+PPB027	Scott Gray	3		Latitude	-38.12259395	Longitude	144.6020712	Date	17/02/2022	Time	9:35	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB028	Scott Gray	2		Latitude	-37.897224	Longitude	144.983936	Date	5/04/2022	Time	14:12	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB029	Scott Gray	3.5		Latitude	-38.36617	Longitude	144.82295	Date	15/02/2022	Time	15:36	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Pier, sand
+PPB031	Scott Gray	4.5		Latitude	-38.15294378	Longitude	144.729	Date	16/02/2022	Time	13:15	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand,rubble, algae
+PPB033	Darcy Cutter	4		Latitude	-38.306316	Longitude	144.66453	Date	03/03/2022	Time	15:16	MPAStatus	No Take 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB034	Darcy Cutter	3.4		Latitude	-37.99739	Longitude	145.02948	Date	02/03/2022	Time	14:54	MPAStatus	No Take 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB035	Scott Gray	3.4		Latitude	-37.9427	Longitude	144.7561	Date	4/04/2022	Time	10:19	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, seagrass, reef
+PPB036	Darcy Cutter	9.5		Latitude	-38.211584	Longitude	145.035213	Date	2/03/2022	Time	9:48	MPAStatus	Fished 	Site	PPB ROV Sampling	Year	2022	Spare	
+PPB037	Scott Gray	3.6		Latitude	-37.91762	Longitude	144.98252	Date	5/04/2022	Time	14:23	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Rubble, sand, algae
+PPB038	Scott Gray	5		Latitude	-38.3559	Longitude	144.7741	Date	15/02/2022	Time	15:13	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, pier, breakwall
+PPB039	Scott Gray	2.5		Latitude	-38.30422645	Longitude	144.65929	Date	15/02/2022	Time	9:05	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, sand
+PPB040	Scott Gray	4		Latitude	-38.04236308	Longitude	144.561696	Date	17/02/2022	Time	12:50	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB041	Scott Gray	5		Latitude	-38.12097441	Longitude	144.731	Date	16/02/2022	Time	12:59	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef
+PPB042	Scott Gray	9	Poor visibility 3m	Latitude	-38.11977	Longitude	144.42425	Date	17/02/2022	Time	15:05	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB043	Scott Gray	5		Latitude	-38.28298327	Longitude	144.61985	Date	1/03/2022	Time	12:06	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB044	Scott Gray	4.5		Latitude	-38.30407154	Longitude	144.66736	Date	15/02/2022	Time	9:19	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB045	Darcy Cutter	4.5		Latitude	-38.266	Longitude	145.006	Date	02/03/2022	Time	9:25	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	
+PPB046	Scott Gray	4.1		Latitude	-37.899	Longitude	144.818	Date	4/04/2022	Time	12:57	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, reef, algae
+PPB047	Darcy Cutter	3.2		Latitude	-37.952	Longitude	144.996	Date	02/03/2022	Time	14:36	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB048	Scott Gray	5		Latitude	-38.31774	Longitude	144.71334	Date	16/02/2022	Time	13:49	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Jetty, pier
+PPB049	Scott Gray	3		Latitude	-38.30691797	Longitude	144.80102	Date	1/03/2022	Time	13:58	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef
+PPB050	Scott Gray	4.8		Latitude	-38.07083427	Longitude	144.549	Date	10/04/2022	Time	9:42	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB051	Scott Gray	5		Latitude	-37.877	Longitude	144.835	Date	4/04/2022	Time	13:08	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, reef, algae
+PPB052	Scott Gray	4	Poor visibility 3m	Latitude	-38.110561	Longitude	144.6513	Date	17/02/2022	Time	9:20	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, Mud
+PPB055	Scott Gray	5.5		Latitude	-37.946	Longitude	144.769	Date	4/04/2022	Time	10:24	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, barren
+PPB056	Scott Gray	6		Latitude	-38.27866588	Longitude	144.62151	Date	1/03/2022	Time	12:08	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand, reef, macroalgae
+PPB057	Scott Gray	5.7		Latitude	-38.07710338	Longitude	144.538	Date	10/04/2022	Time	9:38	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB058	Scott Gray	5		Latitude	-38.2731412	Longitude	144.8092353	Date	1/03/2022	Time	9:20	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, sponge
+PPB059	Darcy Cutter	5.5		Latitude	-38.30163849	Longitude	144.65852	Date	03/03/2022	Time	15:10	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	
+PPB060	Scott Gray	6.5		Latitude	-37.882	Longitude	144.864	Date	4/04/2022	Time	13:15	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, algae
+PPB061	Scott Gray	6		Latitude	-38.01931667	Longitude	144.6624667	Date	17/02/2022	Time	10:15	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB062	Scott Gray	6.1		Latitude	-38.24	Longitude	145.024	Date	2/03/2022	Time	9:34	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, algae
+PPB063	Scott Gray	6		Latitude	-38.249	Longitude	145.025	Date	2/03/2022	Time	9:30	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB065	Darcy Cutter	4.4		Latitude	-37.98900806	Longitude	145.0213526	Date	02/03/2022	Time	14:51	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB066	Scott Gray	7		Latitude	-38.23125	Longitude	144.80047	Date	1/03/2022	Time	9:08	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB068	Scott Gray	6.3		Latitude	-38.27864489	Longitude	144.63372	Date	15/02/2022	Time	13:02	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB069	Darcy Cutter	7		Latitude	-38.29374722	Longitude	144.6213	Date	03/03/2022	Time	14:54	MPAStatus	No Take 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB070	Scott Gray	7		Latitude	-38.29011756	Longitude	144.62258	Date	1/03/2022	Time	11:56	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef
+PPB071	Darcy Cutter	8.4		Latitude	-38.28302156	Longitude	144.63434	Date	03/03/2022	Time	15:04	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB072	Scott Gray	7		Latitude	-38.28802068	Longitude	144.6253	Date	1/03/2022	Time	11:59	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand, macroalgae
+PPB073	Scott Gray	10		Latitude	-38.27695679	Longitude	144.69781	Date	5/04/2022	Time	11:47	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef
+PPB074	Scott Gray	7.5		Latitude	-38.28016609	Longitude	144.62507	Date	1/03/2022	Time	12:12	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB075	darcy cutter	7		Latitude	-37.95323333	Longitude	144.9897	Date	02/03/2022	Time	14:32	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB076	Scott Gray	7		Latitude	-38.24655	Longitude	144.71818	Date	16/02/2022	Time	16:28	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB077	Darcy Cutter	6.7		Latitude	-37.958	Longitude	144.989	Date	02/03/2022	Time	14:41	MPAStatus	Fished 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB078	Darcy Cutter	8.3		Latitude	-38.154533	Longitude	145.0907	Date	02/03/2022	Time	10:06	MPAStatus	Fished 	Site	Port Phillip bay	Year	2022	Spare	
+PPB079	Scott Gray	8		Latitude	-38.2873349	Longitude	144.62	Date	1/03/2022	Time	12:02	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB080	Darcy Cutter	7.7 		Latitude	-38.144	Longitude	145.1	Date	02/03/2022	Time	10:10	MPAStatus	Fished	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB081	Scott Gray	8.1		Latitude	-38.357642	Longitude	144.854897	Date	15/02/2022	Time	15:44	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, shell, sponge
+PPB082	Scott Gray	7.2		Latitude	-38.3273243	Longitude	144.9500444	Date	15/02/2022	Time	16:02	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef
+PPB083	Scott Gray	7.6		Latitude	-38.28636769	Longitude	144.62963	Date	15/02/2022	Time	12:43	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB084	Scott Gray	7		Latitude	-38.28342646	Longitude	144.62407	Date	1/03/2022	Time	12:15	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB085	Scott Gray	7.8		Latitude	-38.27528186	Longitude	144.65549	Date	15/02/2022	Time	13:07	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB086	Scott Gray	7.5		Latitude	-37.88045	Longitude	144.84585	Date	10/04/2022	Time	13:24	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB087	Scott Gray	8		Latitude	-38.02293	Longitude	144.67144	Date	17/02/2022	Time	10:10	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB088	Darcy Cutter	7.7		Latitude	-38.00165	Longitude	145.061367	Date	02/03/2022	Time	12:21	MPAStatus	Fished	Site	Port Phillip bay	Year	2022	Spare	
+PPB089	Darcy Cutter	10		Latitude	-38.28473282	Longitude	144.63653	Date	03/03/2022	Time	15:01	MPAStatus	Fished 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB090	Darcy Cutter	8	Re pulled (9:55) Yakkas	Latitude	-38.19	Longitude	145.065	Date	02/03/2022	Time	9:57	MPAStatus	Fished 	Site	Port Phillip Bay	Year	2022	Spare	
+PPB091	Darcy Cutter	7		Latitude	-37.98	Longitude	145.006	Date	02/03/2022	Time	14:47	MPAStatus	Fished	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB092	Scott Gray	7.9		Latitude	-37.8866	Longitude	144.9426	Date	5/04/2022	Time	14:04	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB093	Scott Gray	8		Latitude	-38.30606	Longitude	144.64868	Date	5/04/2022	Time	11:19	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB094	Scott Gray	8.5		Latitude	-37.925	Longitude	144.819	Date	4/04/2022	Time	10:41	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, sponge
+PPB095	Scott Gray	9		Latitude	-38.20507	Longitude	144.746	Date	16/02/2022	Time	16:17	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB096	Scott Gray	8.8		Latitude	-38.3284953	Longitude	144.9433552	Date	15/02/2022	Time	15:57	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, Sponge
+PPB097	Scott Gray	10		Latitude	-38.29031372	Longitude	144.62858	Date	1/03/2022	Time	11:53	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB098	Scott Gray	8.6	Poor visibility 3m	Latitude	-37.943	Longitude	144.786	Date	4/04/2022	Time	10:29	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB099	Scott Gray	11		Latitude	-38.29701025	Longitude	144.61856	Date	9/04/2022	Time	13:25	MPAStatus	No Take 	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB100	Scott Gray	9.2		Latitude	-38.320501	Longitude	144.962665	Date	15/02/2022	Time	16:07	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, seagrass
+PPB101	Darcy Cutter	8.9		Latitude	-38.00255	Longitude	145.0336167	Date	02/03/2022	Time	14:57	MPAStatus	Fished	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB102	Scott Gray	8.2		Latitude	-37.898404	Longitude	144.946303	Date	5/04/2022	Time	14:00	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB103	Scott Gray	10		Latitude	-38.03653333	Longitude	144.6864333	Date	17/02/2022	Time	10:03	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB104	Scott Gray	11		Latitude	-38.31293797	Longitude	144.71249	Date	16/02/2022	Time	13:58	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB105	Scott Gray	10		Latitude	-38.30374041	Longitude	144.6788	Date	15/02/2022	Time	9:26	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand, rubble
+PPB107	Scott Gray	11		Latitude	-38.30209336	Longitude	144.64177	Date	5/04/2022	Time	11:16	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, reef, algae
+PPB108	Scott Gray	10.1		Latitude	-37.8968	Longitude	144.8544	Date	4/04/2022	Time	13:03	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB109	Scott Gray	11		Latitude	-38.31381786	Longitude	144.70908	Date	16/02/2022	Time	13:54	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB111	Darcy Cutter	11		Latitude	-38.1314	Longitude	145.097267	Date	02/03/2022	Time	11:41	MPAStatus	Fished 	Site	Port Phillip bay	Year	2022	Spare	
+PPB113	Darcy Cutter	11		Latitude	-38.0874167	Longitude	145.0992167	Date	02/03/2022	Time	11:54	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB114	Darcy Cutter	11.3		Latitude	-38.0998833	Longitude	145.098367	Date	02/03/2022	Time	11:49	MPAStatus	Fished	Site	Port Phillip bay 	Year	2022	Spare	
+PPB115	Scott Gray	11		Latitude	-37.92902	Longitude	144.83612	Date	4/04/2022	Time	10:48	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud
+PPB117	Scott Gray	11.5		Latitude	-38.34105	Longitude	144.8532187	Date	1/03/2022	Time	10:04	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, algae
+PPB119	Darcy Cutter	12	Just readable 	Latitude	-38.215	Longitude	145.026	Date	02/03/2022	Time	9:40	MPAStatus	Fished 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB120	Darcy Cutter	11.5		Latitude	-38.1413833	Longitude	145.0913167	Date	02/03/2022	Time	11:36	MPAStatus	Fished 	Site	Frankston AR	Year	2022	Spare	
+PPB123	Scott Gray	13		Latitude	-38.30954	Longitude	144.71446	Date	16/02/2022	Time	14:04	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB124	Darcy Cutter	12.2		Latitude	-38.31449034	Longitude	144.64858	Date	04/03/2022	Time	11:07	MPAStatus	No Take 	Site	Port Phillip Bay 	Year	2022	Spare	
+PPB125	Darcy Cutter	12.7		Latitude	-38.31892921	Longitude	144.65535	Date	04/03/2022	Time	10:58	MPAStatus	No Take 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB126	Scott Gray	13		Latitude	-38.1455	Longitude	144.750542	Date	16/02/2022	Time	13:09	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB127	Scott Gray	13.3		Latitude	-38.28176565	Longitude	144.63952	Date	15/02/2022	Time	12:58	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef
+PPB129	Scott Gray	13.9		Latitude	-38.28886255	Longitude	144.6318	Date	15/02/2022	Time	12:35	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB130	Darcy Cutter			Latitude	-38.31433617	Longitude	144.65517	Date	04/03/2022	Time	11:04	MPAStatus	No Take 	Site	Port Phillip bay 	Year	2022	Spare	
+PPB131	Scott Gray	16		Latitude	-38.311298	Longitude	144.710714	Date	16/02/2022	Time	14:01	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand, next to heavy reef
+PPB132	Scott Gray	16.2		Latitude	-38.30727867	Longitude	144.64562	Date	5/04/2022	Time	11:22	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB133	Scott Gray	15		Latitude	-38.31120127	Longitude	144.65041	Date	5/04/2022	Time	11:31	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB134	Scott Gray	15		Latitude	-38.30717713	Longitude	144.6884	Date	15/02/2022	Time	9:32	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, macroalgae
+PPB136	Scott Gray	16		Latitude	-38.32152	Longitude	144.83592	Date	1/03/2022	Time	9:56	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB139	Scott Gray	17		Latitude	-38.30728215	Longitude	144.64223	Date	5/04/2022	Time	11:25	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB140	Scott Gray	18		Latitude	-38.25529	Longitude	144.9551528	Date	1/03/2022	Time	14:19	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Sand, mud, algae
+PPB142	Scott Gray	17.5	Poor visibility 3m	Latitude	-37.993904	Longitude	144.800275	Date	16/02/2022	Time	10:00	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Mud
+PPB143	Scott Gray	18.7		Latitude	-38.28681842	Longitude	144.63566	Date	15/02/2022	Time	12:47	MPAStatus	Fished	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae
+PPB150	Scott Gray	26		Latitude	-38.31047267	Longitude	144.6444	Date	5/04/2022	Time	11:28	MPAStatus	No Take	Site	Port Phillip Bay	Year	2022	Spare	Sand
+PPB151	Scott Gray	9.2		Latitude	-38.298759	Longitude	144.62303	Date	9/04/2022	Time	13:36	MPAStatus	No Take 	Site	Port Phillip Bay	Year	2022	Spare	Reef, macroalgae

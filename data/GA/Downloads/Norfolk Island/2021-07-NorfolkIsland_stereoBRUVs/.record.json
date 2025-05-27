@@ -1,0 +1,201 @@
+{
+  "created_at": ["2022-05-11T00:35:23.805897"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [42],
+  "description": [""],
+  "files": [
+    {
+      "id": 11753,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_Info.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11754,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_Lengths.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11756,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_MovieSeq.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11757,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_Period.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11758,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_Points.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11759,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_Source.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11765,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_Metadata.csv",
+      "user_id": 15
+    },
+    {
+      "id": 11137,
+      "iscompressed": true,
+      "name": "2021-07-NorfolkIsland_stereoBRUVs._detailed.habitat.csv",
+      "user_id": 15
+    },
+    {
+      "id": 11138,
+      "iscompressed": true,
+      "name": "2021-07-NorfolkIsland_stereoBRUVs._broad.habitat.csv",
+      "user_id": 15
+    },
+    {
+      "id": 11751,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_3DPoints.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11752,
+      "iscompressed": true,
+      "name": "2021-07_NorfolkIsland_stereoBRUVs_ImagePtPair.txt",
+      "user_id": 15
+    }
+  ],
+  "id": [1023],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 174,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "250"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 221,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "EventMeasure-stereo"
+    },
+    {
+      "campaigninfoprop_id": 46,
+      "id": 229,
+      "property": {
+        "id": 46,
+        "is_filter": false,
+        "name": "Annotation: Taxa that have been ID'd"
+      },
+      "value": "All fauna"
+    },
+    {
+      "campaigninfoprop_id": 47,
+      "id": 233,
+      "property": {
+        "id": 47,
+        "is_filter": false,
+        "name": "Annotation: Taxonomic resolution"
+      },
+      "value": "All taxa identified to the lowest possible taxonomic level"
+    },
+    {
+      "campaigninfoprop_id": 51,
+      "id": 260,
+      "property": {
+        "id": 51,
+        "is_filter": false,
+        "name": "Annotation: Type of Length measure"
+      },
+      "value": "Total length"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 161,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "1000"
+    }
+  ],
+  "name": ["2021-07-NorfolkIsland_stereoBRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [300],
+    "is_public": [true],
+    "name": ["Norfolk Island"]
+  },
+  "project_id": [300],
+  "user": {
+    "email": ["iero@deakin.edu.au"],
+    "first_name": ["Daniel"],
+    "id": [15],
+    "is_admin": [false],
+    "last_name": ["Ierodiaconou"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

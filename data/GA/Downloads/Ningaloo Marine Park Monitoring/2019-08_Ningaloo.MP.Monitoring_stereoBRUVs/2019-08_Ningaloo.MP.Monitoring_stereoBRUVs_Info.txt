@@ -1,0 +1,210 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+NMP_20190803_MF-10_BRUV	Lauren Peel	50		Date	3/08/2019	Time	9:29:28 AM	Location	NMP	Site	MF-10	Status	FISHED	Latitude	-21.88972833	Longitude	113.9318083	Visibility	
+NMP_20190803_MF-11_BRUV	Lauren Peel	42		Date	3/08/2019	Time	11:03:48 AM	Location	NMP	Site	MF-11	Status	FISHED	Latitude	-21.89799667	Longitude	113.9279433	Visibility	
+NMP_20190803_MF-12_BRUV	Lauren Peel	43		Date	3/08/2019	Time	11:10:02 AM	Location	NMP	Site	MF-12	Status	FISHED	Latitude	-21.90555333	Longitude	113.9240483	Visibility	
+NMP_20190803_MF-13_BRUV	Lauren Peel	46		Date	3/08/2019	Time	11:15:24 AM	Location	NMP	Site	MF-13	Status	FISHED	Latitude	-21.91364667	Longitude	113.918365	Visibility	
+NMP_20190803_MF-14_BRUV	Lauren Peel	43		Date	3/08/2019	Time	11:19:48 AM	Location	NMP	Site	MF-14	Status	FISHED	Latitude	-21.92100833	Longitude	113.917395	Visibility	
+NMP_20190803_MF-15_BRUV	Lauren Peel	40	L8 camera was in housing 10. R7 camera was in housing 9.	Date	3/08/2019	Time	11:23:24 AM	Location	NMP	Site	MF-15	Status	FISHED	Latitude	-21.92575667	Longitude	113.916935	Visibility	
+NMP_20190803_MF-16_BRUV	Lauren Peel	96	R9 camera was in housing 5. L10 housing was in housing 6	Date	3/08/2019	Time	11:26:21 AM	Location	NMP	Site	MF-16	Status	FISHED	Latitude	-21.92843667	Longitude	113.916125	Visibility	
+NMP_20190803_MF-17_BRUV	Lauren Peel	32	R5 camera was in R3 housing. L6 camera was in L2 housing6; BRUV wobbling on reef	Date	3/08/2019	Time	11:30:43 AM	Location	NMP	Site	MF-17	Status	FISHED	Latitude	-21.931295	Longitude	113.91543	Visibility	
+NMP_20190803_MF-18_BRUV	Lauren Peel	30	R3 camera was in R7 housing. L2 camera was in R8 housing	Date	3/08/2019	Time	11:35:58 AM	Location	NMP	Site	MF-18	Status	FISHED	Latitude	-21.93718833	Longitude	113.913145	Visibility	
+NMP_20190803_MF-19_BRUV	Lauren Peel	50		Date	3/08/2019	Time	11:44:01 AM	Location	NMP	Site	MF-19	Status	FISHED	Latitude	-21.94151	Longitude	113.90777	Visibility	
+NMP_20190803_MF-1_BRUV	Lauren Peel	40		Date	3/08/2019	Time	8:31:49 AM	Location	NMP	Site	MF-1	Status	FISHED	Latitude	-21.85064667	Longitude	113.9680767	Visibility	
+NMP_20190803_MF-20_BRUV	Lauren Peel	62		Date	3/08/2019	Time	11:52:18 AM	Location	NMP	Site	MF-20	Status	FISHED	Latitude	-21.93491833	Longitude	113.9035283	Visibility	
+NMP_20190803_MF-21_BRUV	Lauren Peel	45		Date	3/08/2019	Time	1:54:35 PM	Location	NMP	Site	MF-21	Status	FISHED	Latitude	-21.953475	Longitude	113.9067083	Visibility	
+NMP_20190803_MF-22_BRUV	Lauren Peel	40		Date	3/08/2019	Time	1:58:19 PM	Location	NMP	Site	MF-22	Status	FISHED	Latitude	-21.961065	Longitude	113.9080317	Visibility	
+NMP_20190803_MF-23_BRUV	Lauren Peel	41	Wobbling slightly on seabed	Date	3/08/2019	Time	2:02:10 PM	Location	NMP	Site	MF-23	Status	FISHED	Latitude	-21.968485	Longitude	113.9061867	Visibility	
+NMP_20190803_MF-24_BRUV	Lauren Peel	43	BRUV wobbling slightly on seabed; bait bag empty 27 min	Date	3/08/2019	Time	2:06:33 PM	Location	NMP	Site	MF-24	Status	FISHED	Latitude	-21.97598833	Longitude	113.9055667	Visibility	
+NMP_20190803_MF-25_BRUV	Lauren Peel	45		Date	3/08/2019	Time	2:10:39 PM	Location	NMP	Site	MF-25	Status	FISHED	Latitude	-21.984065	Longitude	113.9044517	Visibility	
+NMP_20190803_MF-26_BRUV	Lauren Peel	45	BRUV flips to RHS in current at 4.1425 min	Date	3/08/2019	Time	2:15:08 PM	Location	NMP	Site	MF-26	Status	FISHED	Latitude	-21.99113833	Longitude	113.90129	Visibility	
+NMP_20190803_MF-27_BRUV	Lauren Peel	46	BRUV bouncing on seabed	Date	3/08/2019	Time	2:18:49 PM	Location	NMP	Site	MF-27	Status	FISHED	Latitude	-21.99774833	Longitude	113.8968267	Visibility	
+NMP_20190803_MF-28_BRUV	Lauren Peel	53		Date	3/08/2019	Time	2:23:10 PM	Location	NMP	Site	MF-28	Status	FISHED	Latitude	-22.00078167	Longitude	113.8938083	Visibility	
+NMP_20190803_MF-29_BRUV	Lauren Peel	50	BRUV rocking forward and back on bottom	Date	3/08/2019	Time	2:26:48 PM	Location	NMP	Site	MF-29	Status	FISHED	Latitude	-22.008195	Longitude	113.8928267	Visibility	
+NMP_20190803_MF-2_BRUV	Lauren Peel	40		Date	3/08/2019	Time	8:43:54 AM	Location	NMP	Site	MF-2	Status	FISHED	Latitude	-21.858355	Longitude	113.9645683	Visibility	
+NMP_20190803_MF-30_BRUV	Lauren Peel	42	In camera recording R527 was named R528.	Date	3/08/2019	Time	2:30:19 PM	Location	NMP	Site	MF-30	Status	FISHED	Latitude	-22.012965	Longitude	113.8921033	Visibility	
+NMP_20190803_MF-3_BRUV	Lauren Peel	35		Date	3/08/2019	Time	8:51:14 AM	Location	NMP	Site	MF-3	Status	FISHED	Latitude	-21.86092667	Longitude	113.9649233	Visibility	
+NMP_20190803_MF-4_BRUV	Lauren Peel	24	BRUV teetering on reef	Date	3/08/2019	Time	8:58:01 AM	Location	NMP	Site	MF-4	Status	FISHED	Latitude	-21.86490833	Longitude	113.9648517	Visibility	
+NMP_20190803_MF-5_BRUV	Lauren Peel	30	in camera reording the left camera was labeled R10	Date	3/08/2019	Time	9:03:11 AM	Location	NMP	Site	MF-5	Status	FISHED	Latitude	-21.870815	Longitude	113.9619917	Visibility	
+NMP_20190803_MF-7_BRUV	Lauren Peel	40		Date	3/08/2019	Time	9:13:14 AM	Location	NMP	Site	MF-7	Status	FISHED	Latitude	-21.87870167	Longitude	113.950965	Visibility	
+NMP_20190803_MF-8_BRUV	Lauren Peel	38	R4B slight leak; BRUV wobbles from 11 min onwards; facing slightly upwards	Date	3/08/2019	Time	9:18:18 AM	Location	NMP	Site	MF-8	Status	FISHED	Latitude	-21.88000167	Longitude	113.946535	Visibility	
+NMP_20190803_MF-9_BRUV	Lauren Peel	40		Date	3/08/2019	Time	9:24:22 AM	Location	NMP	Site	MF-9	Status	FISHED	Latitude	-21.88604167	Longitude	113.9400933	Visibility	
+NMP_20190804_MF-31_BRUV	Lauren Peel	51		Date	4/08/2019	Time	8:35:18 AM	Location	NMP	Site	MF-31	Status	FISHED	Latitude	-22.01779	Longitude	113.8869967	Visibility	
+NMP_20190804_MF-32_BRUV	Brae	48		Date	4/08/2019	Time	8:39:27 AM	Location	NMP	Site	MF-32	Status	FISHED	Latitude	-22.02023333	Longitude	113.8870033	Visibility	
+NMP_20190804_MF-33_BRUV	Brae	49		Date	4/08/2019	Time	8:43:32 AM	Location	NMP	Site	MF-33	Status	FISHED	Latitude	-22.024505	Longitude	113.8867917	Visibility	
+NMP_20190804_MF-34_BRUV	Brae	52		Date	4/08/2019	Time	8:47:50 AM	Location	NMP	Site	MF-34	Status	FISHED	Latitude	-22.02891333	Longitude	113.88609	Visibility	
+NMP_20190804_MF-35_BRUV	Brae	50		Date	4/08/2019	Time	8:52:55 AM	Location	NMP	Site	MF-35	Status	FISHED	Latitude	-22.03459833	Longitude	113.8869667	Visibility	
+NMP_20190804_MF-36_BRUV	Brae	44		Date	4/08/2019	Time	8:56:06 AM	Location	NMP	Site	MF-36	Status	FISHED	Latitude	-22.039375	Longitude	113.8866533	Visibility	
+NMP_20190804_MF-37_BRUV	Brae	52		Date	4/08/2019	Time	9:00:15 AM	Location	NMP	Site	MF-37	Status	FISHED	Latitude	-22.04504	Longitude	113.8839183	Visibility	
+NMP_20190804_MF-38_BRUV	Brae	51		Date	4/08/2019	Time	9:03:50 AM	Location	NMP	Site	MF-38	Status	FISHED	Latitude	-22.05051	Longitude	113.8825867	Visibility	
+NMP_20190804_MF-39_BRUV	Brae	60		Date	4/08/2019	Time	9:08:43 AM	Location	NMP	Site	MF-39	Status	FISHED	Latitude	-22.05834833	Longitude	113.87737	Visibility	
+NMP_20190804_MF-40_BRUV	Brae	46		Date	4/08/2019	Time	9:12:55 AM	Location	NMP	Site	MF-40	Status	FISHED	Latitude	-22.06538667	Longitude	113.8793433	Visibility	
+NMP_20190804_MS-41_BRUV	Brae	50		Date	4/08/2019	Time	10:53:29 AM	Location	NMP	Site	MS-41	Status	SANCTUARY	Latitude	-22.07819	Longitude	113.8747883	Visibility	
+NMP_20190804_MS-42_BRUV	Lauren Peel	40		Date	4/08/2019	Time	10:57:21 AM	Location	NMP	Site	MS-42	Status	SANCTUARY	Latitude	-22.08299833	Longitude	113.8746767	Visibility	
+NMP_20190804_MS-43_BRUV	Brae	55		Date	4/08/2019	Time	11:02:31 AM	Location	NMP	Site	MS-43	Status	SANCTUARY	Latitude	-22.08835333	Longitude	113.8688167	Visibility	
+NMP_20190804_MS-44_BRUV	Brae	55		Date	4/08/2019	Time	11:06:23 AM	Location	NMP	Site	MS-44	Status	SANCTUARY	Latitude	-22.09067167	Longitude	113.8672233	Visibility	
+NMP_20190804_MS-45_BRUV	Brae	51		Date	4/08/2019	Time	11:14:22 AM	Location	NMP	Site	MS-45	Status	SANCTUARY	Latitude	-22.093865	Longitude	113.8671667	Visibility	
+NMP_20190804_MS-46_BRUV	Brae	50		Date	4/08/2019	Time	11:17:27 AM	Location	NMP	Site	MS-46	Status	SANCTUARY	Latitude	-22.09875	Longitude	113.8659167	Visibility	
+NMP_20190804_MS-47_BRUV	Brae	49		Date	4/08/2019	Time	11:23:04 AM	Location	NMP	Site	MS-47	Status	SANCTUARY	Latitude	-22.10586667	Longitude	113.8638367	Visibility	
+NMP_20190804_MS-48_BRUV	Brae	52		Date	4/08/2019	Time	11:26:45 AM	Location	NMP	Site	MS-48	Status	SANCTUARY	Latitude	-22.11167667	Longitude	113.8627433	Visibility	
+NMP_20190804_MS-49_BRUV	Brae	46		Date	4/08/2019	Time	11:30:48 AM	Location	NMP	Site	MS-49	Status	SANCTUARY	Latitude	-22.11762667	Longitude	113.8643917	Visibility	
+NMP_20190804_MS-50_BRUV	Lauren Peel	45		Date	4/08/2019	Time	11:34:23 AM	Location	NMP	Site	MS-50	Status	SANCTUARY	Latitude	-22.12221333	Longitude	113.8644017	Visibility	
+NMP_20190804_MS-51_BRUV	Brae	30		Date	4/08/2019	Time	1:11:49 PM	Location	NMP	Site	MS-51	Status	SANCTUARY	Latitude	-22.124105	Longitude	113.8659217	Visibility	
+NMP_20190804_MS-52_BRUV	Brae	36		Date	4/08/2019	Time	1:14:23 PM	Location	NMP	Site	MS-52	Status	SANCTUARY	Latitude	-22.12713	Longitude	113.8646367	Visibility	
+NMP_20190804_MS-53_BRUV	Brae	36		Date	4/08/2019	Time	1:16:20 PM	Location	NMP	Site	MS-53	Status	SANCTUARY	Latitude	-22.129795	Longitude	113.8638983	Visibility	
+NMP_20190804_MS-54_BRUV	Brae	38		Date	4/08/2019	Time	1:19:49 PM	Location	NMP	Site	MS-54	Status	SANCTUARY	Latitude	-22.13241	Longitude	113.8610317	Visibility	
+NMP_20190804_MS-55_BRUV	Brae	38		Date	4/08/2019	Time	1:24:43 PM	Location	NMP	Site	MS-55	Status	SANCTUARY	Latitude	-22.13917333	Longitude	113.85809	Visibility	
+NMP_20190804_MS-56_BRUV	Brae	34		Date	4/08/2019	Time	1:29:20 PM	Location	NMP	Site	MS-56	Status	SANCTUARY	Latitude	-22.14118667	Longitude	113.8573517	Visibility	
+NMP_20190804_MS-57_BRUV	Brae	53		Date	4/08/2019	Time	1:33:32 PM	Location	NMP	Site	MS-57	Status	SANCTUARY	Latitude	-22.14555333	Longitude	113.8504267	Visibility	
+NMP_20190804_MS-58_BRUV	Brae	60		Date	4/08/2019	Time	1:36:22 PM	Location	NMP	Site	MS-58	Status	SANCTUARY	Latitude	-22.147	Longitude	113.8480733	Visibility	
+NMP_20190804_MS-59_BRUV	Brae	50		Date	4/08/2019	Time	1:38:54 PM	Location	NMP	Site	MS-59	Status	SANCTUARY	Latitude	-22.14939333	Longitude	113.84923	Visibility	
+NMP_20190804_MS-60_BRUV	Brae	35		Date	4/08/2019	Time	1:42:09 PM	Location	NMP	Site	MS-60	Status	SANCTUARY	Latitude	-22.15430833	Longitude	113.85122	Visibility	
+NMP_20190805_MF-61_BRUV	Brae	54		Date	5/08/2019	Time	8:25:12 AM	Location	NMP	Site	MF-61	Status	FISHED	Latitude	-22.16391333	Longitude	113.8429817	Visibility	
+NMP_20190805_MF-62_BRUV	Brae	52		Date	5/08/2019	Time	8:30:07 AM	Location	NMP	Site	MF-62	Status	FISHED	Latitude	-22.16808667	Longitude	113.8408783	Visibility	
+NMP_20190805_MF-63_BRUV	Brae	42		Date	5/08/2019	Time	8:33:41 AM	Location	NMP	Site	MF-63	Status	FISHED	Latitude	-22.173385	Longitude	113.84209	Visibility	
+NMP_20190805_MF-64_BRUV	Brae	42		Date	5/08/2019	Time	8:37:56 AM	Location	NMP	Site	MF-64	Status	FISHED	Latitude	-22.17870167	Longitude	113.838515	Visibility	
+NMP_20190805_MF-65_BRUV	Brae	42		Date	5/08/2019	Time	8:41:39 AM	Location	NMP	Site	MF-65	Status	FISHED	Latitude	-22.18232333	Longitude	113.8380867	Visibility	
+NMP_20190805_MF-66_BRUV	Brae	44		Date	5/08/2019	Time	8:45:16 AM	Location	NMP	Site	MF-66	Status	FISHED	Latitude	-22.18753333	Longitude	113.8345917	Visibility	
+NMP_20190805_MF-67_BRUV	Brae	40		Date	5/08/2019	Time	8:50:10 AM	Location	NMP	Site	MF-67	Status	FISHED	Latitude	-22.19811667	Longitude	113.8309833	Visibility	
+NMP_20190805_MF-68_BRUV	Brae	43		Date	5/08/2019	Time	8:53:52 AM	Location	NMP	Site	MF-68	Status	FISHED	Latitude	-22.205335	Longitude	113.829105	Visibility	
+NMP_20190805_MF-69_BRUV	Brae	46		Date	5/08/2019	Time	8:57:21 AM	Location	NMP	Site	MF-69	Status	FISHED	Latitude	-22.21160167	Longitude	113.8257383	Visibility	
+NMP_20190805_MF-70_BRUV	Brae	47		Date	5/08/2019	Time	9:00:13 AM	Location	NMP	Site	MF-70	Status	FISHED	Latitude	-22.21728667	Longitude	113.82475	Visibility	
+NMP_20190805_OF-21_BRUV	Brae	36		Date	5/08/2019	Time	2:49:21 PM	Location	NMP	Site	OF-21	Status	FISHED	Latitude	-22.32857167	Longitude	113.7585267	Visibility	
+NMP_20190805_OF-22_BRUV	Brae	34		Date	5/08/2019	Time	2:51:47 PM	Location	NMP	Site	OF-22	Status	FISHED	Latitude	-22.33231	Longitude	113.756325	Visibility	
+NMP_20190805_OF-23_BRUV	Brae	40		Date	5/08/2019	Time	2:54:08 PM	Location	NMP	Site	OF-23	Status	FISHED	Latitude	-22.33612	Longitude	113.7546083	Visibility	
+NMP_20190805_OF-24_BRUV	Brae	36		Date	5/08/2019	Time	2:56:18 PM	Location	NMP	Site	OF-24	Status	FISHED	Latitude	-22.34050833	Longitude	113.7542233	Visibility	
+NMP_20190805_OF-25_BRUV	Brae	32		Date	5/08/2019	Time	2:58:17 PM	Location	NMP	Site	OF-25	Status	FISHED	Latitude	-22.34389167	Longitude	113.753305	Visibility	
+NMP_20190805_OF-26_BRUV	Brae	38		Date	5/08/2019	Time	3:00:31 PM	Location	NMP	Site	OF-26	Status	FISHED	Latitude	-22.348	Longitude	113.751805	Visibility	
+NMP_20190805_OF-27_BRUV	Brae	30		Date	5/08/2019	Time	3:02:40 PM	Location	NMP	Site	OF-27	Status	FISHED	Latitude	-22.35206833	Longitude	113.7506633	Visibility	
+NMP_20190805_OF-28_BRUV	Brae	39		Date	5/08/2019	Time	3:05:04 PM	Location	NMP	Site	OF-28	Status	FISHED	Latitude	-22.35503333	Longitude	113.7473967	Visibility	
+NMP_20190805_OF-29_BRUV	Brae	40		Date	5/08/2019	Time	3:08:38 PM	Location	NMP	Site	OF-29	Status	FISHED	Latitude	-22.360925	Longitude	113.7442567	Visibility	
+NMP_20190805_OF-30_BRUV	Brae	42		Date	5/08/2019	Time	3:10:40 PM	Location	NMP	Site	OF-30	Status	FISHED	Latitude	-22.36321833	Longitude	113.741345	Visibility	
+NMP_20190805_OS-10_BRUV	Brae	29		Date	5/08/2019	Time	11:26:21 AM	Location	NMP	Site	OS-10	Status	SANCTUARY	Latitude	-22.26947833	Longitude	113.8059933	Visibility	
+NMP_20190805_OS-11_BRUV	Brae	27		Date	5/08/2019	Time	12:53:41 PM	Location	NMP	Site	OS-11	Status	SANCTUARY	Latitude	-22.28027333	Longitude	113.8021833	Visibility	
+NMP_20190805_OS-12_BRUV	Brae	27		Date	5/08/2019	Time	12:56:56 PM	Location	NMP	Site	OS-12	Status	SANCTUARY	Latitude	-22.284365	Longitude	113.7986767	Visibility	
+NMP_20190805_OS-13_BRUV	Brae	34		Date	5/08/2019	Time	1:00:34 PM	Location	NMP	Site	OS-13	Status	SANCTUARY	Latitude	-22.28970167	Longitude	113.794875	Visibility	
+NMP_20190805_OS-14_BRUV	Brae	32		Date	5/08/2019	Time	1:04:37 PM	Location	NMP	Site	OS-14	Status	SANCTUARY	Latitude	-22.29588	Longitude	113.7921067	Visibility	
+NMP_20190805_OS-15_BRUV	Brae	28		Date	5/08/2019	Time	1:08:45 PM	Location	NMP	Site	OS-15	Status	SANCTUARY	Latitude	-22.30273833	Longitude	113.7892017	Visibility	
+NMP_20190805_OS-16_BRUV	Brae	35		Date	5/08/2019	Time	1:11:31 PM	Location	NMP	Site	OS-16	Status	SANCTUARY	Latitude	-22.30661	Longitude	113.78536	Visibility	
+NMP_20190805_OS-17_BRUV	Brae	32		Date	5/08/2019	Time	1:14:51 PM	Location	NMP	Site	OS-17	Status	SANCTUARY	Latitude	-22.31067	Longitude	113.7798917	Visibility	
+NMP_20190805_OS-18_BRUV	Brae	34		Date	5/08/2019	Time	1:17:32 PM	Location	NMP	Site	OS-18	Status	SANCTUARY	Latitude	-22.314285	Longitude	113.7766783	Visibility	
+NMP_20190805_OS-19_BRUV	Brae	25		Date	5/08/2019	Time	1:19:59 PM	Location	NMP	Site	OS-19	Status	SANCTUARY	Latitude	-22.317195	Longitude	113.7737933	Visibility	
+NMP_20190805_OS-1_BRUV	Brae	41		Date	5/08/2019	Time	10:48:46 AM	Location	NMP	Site	OS-1	Status	SANCTUARY	Latitude	-22.22258	Longitude	113.8245667	Visibility	
+NMP_20190805_OS-20_BRUV	Brae	30		Date	5/08/2019	Time	1:22:35 PM	Location	NMP	Site	OS-20	Status	SANCTUARY	Latitude	-22.31902333	Longitude	113.768875	Visibility	
+NMP_20190805_OS-2_BRUV	Brae	50		Date	5/08/2019	Time	10:55:09 AM	Location	NMP	Site	OS-2	Status	SANCTUARY	Latitude	-22.22980833	Longitude	113.8180783	Visibility	
+NMP_20190805_OS-3_BRUV	Brae	46		Date	5/08/2019	Time	10:58:45 AM	Location	NMP	Site	OS-3	Status	SANCTUARY	Latitude	-22.23574167	Longitude	113.8168417	Visibility	
+NMP_20190805_OS-4_BRUV	Brae	42		Date	5/08/2019	Time	11:01:55 AM	Location	NMP	Site	OS-4	Status	SANCTUARY	Latitude	-22.241735	Longitude	113.8159033	Visibility	
+NMP_20190805_OS-5_BRUV	Brae	52		Date	5/08/2019	Time	11:05:42 AM	Location	NMP	Site	OS-5	Status	SANCTUARY	Latitude	-22.24329333	Longitude	113.813965	Visibility	
+NMP_20190805_OS-6_BRUV	Brae	48		Date	5/08/2019	Time	11:09:03 AM	Location	NMP	Site	OS-6	Status	SANCTUARY	Latitude	-22.24846167	Longitude	113.8117183	Visibility	
+NMP_20190805_OS-7_BRUV	Brae	34	On camera recording it is named O-6	Date	5/08/2019	Time	11:13:28 AM	Location	NMP	Site	OS-7	Status	SANCTUARY	Latitude	-22.25571833	Longitude	113.8133917	Visibility	
+NMP_20190805_OS-8_BRUV	Brae	35		Date	5/08/2019	Time	11:16:32 AM	Location	NMP	Site	OS-8	Status	SAMCTUARY	Latitude	-22.25905833	Longitude	113.8102667	Visibility	
+NMP_20190805_OS-9_BRUV	Jordan			Date		Time		Location		Site		Status		Latitude		Longitude		Visibility	
+NMP_20190806_CS-10_BRUV	Brae	38		Date	6/08/2019	Time	3:31:10 PM	Location	NMP	Site	CS-10	Status	SANCTUARY	Latitude	-22.71105333	Longitude	113.6069417	Visibility	
+NMP_20190806_CS-11_BRUV	Brae	34		Date	6/08/2019	Time	3:36:53 PM	Location	NMP	Site	CS-11	Status	SANCTUARY	Latitude	-22.72044333	Longitude	113.6126667	Visibility	
+NMP_20190806_CS-12_BRUV	Brae	38		Date	6/08/2019	Time	3:40:52 PM	Location	NMP	Site	CS-12	Status	SANCTUARY	Latitude	-22.72812167	Longitude	113.6163683	Visibility	
+NMP_20190806_CS-13_BRUV	Brae	35		Date	6/08/2019	Time	3:46:51 PM	Location	NMP	Site	CS-13	Status	SANCTUARY	Latitude	-22.741845	Longitude	113.6237583	Visibility	
+NMP_20190806_CS-14_BRUV	Brae	46		Date	06/08/2019	Time	3:52:30 PM	Location	NMP	Site	CS-14	Status	SANCTUARY	Latitude	-22.75613833	Longitude	113.6265633	Visibility	
+NMP_20190806_CS-15_BRUV	Brae	50		Date	6/08/2019	Time	3:57:32 PM	Location	NMP	Site	CS-15	Status	SANCTUARY	Latitude	-22.76428833	Longitude	113.6291633	Visibility	
+NMP_20190806_CS-1_BRUV	Brae	52		Date	6/08/2019	Time	11:59:29 AM	Location	NMP	Site	CS-1	Status	SANCTUARY	Latitude	-22.58903667	Longitude	113.623625	Visibility	
+NMP_20190806_CS-2_BRUV	Brae	50		Date	6/08/2019	Time	12:05:25 PM	Location	NMP	Site	CS-2	Status	SANCTUARY	Latitude	-22.60180833	Longitude	113.616315	Visibility	
+NMP_20190806_CS-3_BRUV	Brae	54		Date	6/08/2019	Time	12:12:17 PM	Location	NMP	Site	CS-3	Status	SANCTUARY	Latitude	-22.617345	Longitude	113.608305	Visibility	
+NMP_20190806_CS-4_BRUV	Brae	54	R525 was lost during recording	Date	6/08/2019	Time	12:17:21 PM	Location	NMP	Site	CS-4	Status	SANCTUARY	Latitude	-22.62793833	Longitude	113.6046317	Visibility	
+NMP_20190806_CS-5_BRUV	Brae	50		Date	6/08/2019	Time	12:24:13 PM	Location	NMP	Site	CS-5	Status	SANCTUARY	Latitude	-22.64425833	Longitude	113.602185	Visibility	
+NMP_20190806_CS-6_BRUV	Brae	44		Date	6/08/2019	Time	3:03:18 PM	Location	NMP	Site	CS-6	Status	SANCTUARY	Latitude	-22.65615	Longitude	113.5969933	Visibility	
+NMP_20190806_CS-7_BRUV	Brae	44	Right Camera lost in previous drop	Date	6/08/2019	Time	3:10:05 PM	Location	NMP	Site	CS-7	Status	SANCTUARY	Latitude	-22.668835	Longitude	113.5918883	Visibility	
+NMP_20190806_CS-8_BRUV	Brae	50		Date	6/08/2019	Time	3:17:43 PM	Location	NMP	Site	CS-8	Status	SANCTUARY	Latitude	-22.68370667	Longitude	113.5926333	Visibility	
+NMP_20190806_CS-9_BRUV	Brae	42		Date	6/08/2019	Time	3:24:54 PM	Location	NMP	Site	CS-9	Status	SANCTUARY	Latitude	-22.69782333	Longitude	113.5982283	Visibility	
+NMP_20190806_OF-31_BRUV	Brae	50		Date	6/08/2019	Time	8:12:14 AM	Location	NMP	Site	OF-31	Status	FISHED	Latitude	-22.381005	Longitude	113.7292267	Visibility	
+NMP_20190806_OF-32_BRUV	Brae	52		Date	6/08/2019	Time	8:19:04 AM	Location	NMP	Site	OF-32	Status	FISHED	Latitude	-22.395535	Longitude	113.7231083	Visibility	
+NMP_20190806_OF-33_BRUV	Brae	52		Date	6/08/2019	Time	8:25:25 AM	Location	NMP	Site	OF-33	Status	FISHED	Latitude	-22.409015	Longitude	113.7167467	Visibility	
+NMP_20190806_OF-34_BRUV	Brae	40		Date	6/08/2019	Time	8:31:01 AM	Location	NMP	Site	OF-34	Status	FISHED	Latitude	-22.42259667	Longitude	113.71068	Visibility	
+NMP_20190806_OF-35_BRUV	Brae	48		Date	6/08/2019	Time	8:36:47 AM	Location	NMP	Site	OF-35	Status	FISHED	Latitude	-22.435755	Longitude	113.7014783	Visibility	
+NMP_20190806_OF-36_BRUV	Brae	55		Date	6/08/2019	Time	8:43:02 AM	Location	NMP	Site	OF-36	Status	FISHED	Latitude	-22.449675	Longitude	113.6934733	Visibility	
+NMP_20190806_OF-37_BRUV	Brae	52		Date	6/08/2019	Time	8:49:46 AM	Location	NMP	Site	OF-37	Status	FISHED	Latitude	-22.46486167	Longitude	113.6875117	Visibility	
+NMP_20190806_OF-38_BRUV	Brae	36		Date	6/08/2019	Time	8:55:59 AM	Location	NMP	Site	OF-38	Status	FISHED	Latitude	-22.47819833	Longitude	113.6820767	Visibility	
+NMP_20190806_OF-39_BRUV	Brae	41		Date	6/08/2019	Time	9:02:19 AM	Location	NMP	Site	OF-39	Status	FISHED	Latitude	-22.48728167	Longitude	113.6688683	Visibility	
+NMP_20190806_OF-40_BRUV	Brae	55		Date	6/08/2019	Time	9:07:17 AM	Location	NMP	Site	OF-40	Status	FISHED	Latitude	-22.496445	Longitude	113.6593483	Visibility	
+NMP_20190806_OF-41_BRUV	Brae	47	On camera recording R527 was recorded as L528. The first recording of the two is R527	Date	6/08/2019	Time	11:15:12 AM	Location	NMP	Site	OF-41	Status	FISHED	Latitude	-22.513525	Longitude	113.6533517	Visibility	
+NMP_20190806_OF-42_BRUV	Brae	60	BRUV was pulled up and thrown in again straight away due to a tangle in the rope.	Date	6/08/2019	Time	11:22:37 AM	Location	NMP	Site	OF-42	Status	FISHED	Latitude	-22.52988167	Longitude	113.6430317	Visibility	
+NMP_20190806_OF-43_BRUV	Brae	56		Date	6/08/2019	Time	11:37:16 AM	Location	NMP	Site	OF-43	Status	FISHED	Latitude	-22.543605	Longitude	113.63977	Visibility	
+NMP_20190806_OF-44_BRUV	Brae	52		Date	6/08/2019	Time	11:44:45 AM	Location	NMP	Site	OF-44	Status	FISHED	Latitude	-22.561735	Longitude	113.6358117	Visibility	
+NMP_20190806_OF-45_BRUV	Brae	45		Date	6/08/2019	Time	11:51:40 AM	Location	NMP	Site	OF-45	Status	FISHED	Latitude	-22.57472167	Longitude	113.63371	Visibility	
+NMP_20190808_PF-10_BRUV	Brae	33		Date	8/08/2019	Time	9:54:13 AM	Location	NMP	Site	PF-10	Status	FISHED	Latitude	-23.18173667	Longitude	113.73828	Visibility	
+NMP_20190808_PF-11_BRUV	Brae	35		Date	8/08/2019	Time	11:59:08 AM	Location	NMP	Site	PF-11	Status	FISHED	Latitude	-23.20527167	Longitude	113.74229	Visibility	
+NMP_20190808_PF-12_BRUV	Brae	35		Date	8/08/2019	Time	12:05:38 PM	Location	NMP	Site	PF-12	Status	FISHED	Latitude	-23.21348667	Longitude	113.745255	Visibility	
+NMP_20190808_PF-13_BRUV	Brae	40		Date	8/08/2019	Time	12:11:36 PM	Location	NMP	Site	PF-13	Status	FISHED	Latitude	-23.22320833	Longitude	113.7428333	Visibility	
+NMP_20190808_PF-14_BRUV	Brae	40		Date	8/08/2019	Time	12:17:57 PM	Location	NMP	Site	PF-14	Status	FISHED	Latitude	-23.23261167	Longitude	113.7444483	Visibility	
+NMP_20190808_PF-15_BRUV	Brae	40		Date	8/08/2019	Time	12:22:37 PM	Location	NMP	Site	PF-15	Status	FISHED	Latitude	-23.236865	Longitude	113.7447167	Visibility	
+NMP_20190808_PF-16_BRUV	Brae	41		Date	8/08/2019	Time	12:29:27 PM	Location	NMP	Site	PF-16	Status	FISHED	Latitude	-23.24539167	Longitude	113.7447717	Visibility	
+NMP_20190808_PF-17_BRUV	Brae	40	R3 camera has still been swapped as it wasn't working	Date	8/08/2019	Time	12:34:59 PM	Location	NMP	Site	PF-17	Status	FISHED	Latitude	-23.25376167	Longitude	113.7452417	Visibility	
+NMP_20190808_PF-18_BRUV	Brae	42		Date	8/08/2019	Time	12:41:53 PM	Location	NMP	Site	PF-18	Status	FISHED	Latitude	-23.267065	Longitude	113.7463717	Visibility	
+NMP_20190808_PF-19_BRUV	Brae	43		Date	8/08/2019	Time	12:49:45 PM	Location	NMP	Site	PF-19	Status	FISHED	Latitude	-23.28061333	Longitude	113.7516267	Visibility	
+NMP_20190808_PF-1_BRUV	Brae	46		Date	8/08/2019	Time	8:53:28 AM	Location	NMP	Site	PF-1	Status	FISHED	Latitude	-23.072925	Longitude	113.71645	Visibility	
+NMP_20190808_PF-20_BRUV	Brae	32		Date	8/08/2019	Time	12:58:50 PM	Location	NMP	Site	PF-20	Status	FISHED	Latitude	-23.292195	Longitude	113.753505	Visibility	
+NMP_20190808_PF-2_BRUV	Brae	45		Date	8/08/2019	Time	9:01:04 AM	Location	NMP	Site	PF-2	Status	FISHED	Latitude	-23.087065	Longitude	113.718165	Visibility	
+NMP_20190808_PF-3_BRUV	Brae	47		Date	8/08/2019	Time	9:08:14 AM	Location	NMP	Site	PF-3	Status	FISHED	Latitude	-23.093885	Longitude	113.7183567	Visibility	
+NMP_20190808_PF-4_BRUV	Brae	45	Swapped R3 camera as it wasn't  working	Date	8/08/2019	Time	9:15:06 AM	Location	NMP	Site	PF-4	Status	FISHED	Latitude	-23.10742	Longitude	113.721385	Visibility	
+NMP_20190808_PF-5_BRUV	Brae	49		Date	8/08/2019	Time	9:20:40 AM	Location	NMP	Site	PF-5	Status	FISHED	Latitude	-23.117745	Longitude	113.7237233	Visibility	
+NMP_20190808_PF-6_BRUV	Brae	45		Date	8/08/2019	Time	9:27:07 AM	Location	NMP	Site	PF-6	Status	FISHED	Latitude	-23.128575	Longitude	113.7261633	Visibility	
+NMP_20190808_PF-7_BRUV	Brae	42		Date	8/08/2019	Time	9:35:37 AM	Location	NMP	Site	PF-7	Status	FISHED	Latitude	-23.14430333	Longitude	113.7297033	Visibility	
+NMP_20190808_PF-8_BRUV	Brae	46		Date	8/08/2019	Time	9:40:10 AM	Location	NMP	Site	PF-8	Status	FISHED	Latitude	-23.152715	Longitude	113.73056	Visibility	
+NMP_20190808_PF-9_BRUV	Brae	36	Camera and housing R525 was lost and replaced with R533	Date	8/08/2019	Time	9:47:17 AM	Location	NMP	Site	PF-9	Status	FISHED	Latitude	-23.16707	Longitude	113.7364	Visibility	
+NMP_20190809_PF-41_BRUV	Brae	44		Date	9/08/2019	Time	12:26:14 PM	Location	NMP	Site	PF-41	Status	FISHED	Latitude	-23.44314333	Longitude	113.741545	Visibility	
+NMP_20190809_PF-42_BRUV	Brae	45		Date	9/08/2019	Time	12:33:02 PM	Location	NMP	Site	PF-42	Status	FISHED	Latitude	-23.455915	Longitude	113.7409433	Visibility	
+NMP_20190809_PF-43_BRUV	Brae	44		Date	9/08/2019	Time	12:36:09 PM	Location	NMP	Site	PF-43	Status	FISHED	Latitude	-23.45928667	Longitude	113.7392367	Visibility	
+NMP_20190809_PF-44_BRUV	Brae	44		Date	9/08/2019	Time	12:44:10 PM	Location	NMP	Site	PF-44	Status	FISHED	Latitude	-23.46988833	Longitude	113.7285367	Visibility	
+NMP_20190809_PF-45_BRUV	Brae	44		Date	9/08/2019	Time	12:52:29 PM	Location	NMP	Site	PF-45	Status	FISHED	Latitude	-23.48224	Longitude	113.7185	Visibility	
+NMP_20190809_PF-46_BRUV	Brae	46		Date	9/08/2019	Time	12:59:44 PM	Location	NMP	Site	PF-46	Status	FISHED	Latitude	-23.49438167	Longitude	113.709905	Visibility	
+NMP_20190809_PF-47_BRUV	Brae	46		Date	9/08/2019	Time	1:06:30 PM	Location	NMP	Site	PF-47	Status	FISHED	Latitude	-23.50507833	Longitude	113.69711	Visibility	
+NMP_20190809_PF-48_BRUV	Brae	47		Date	9/08/2019	Time	1:13:58 PM	Location	NMP	Site	PF-48	Status	FISHED	Latitude	-23.511955	Longitude	113.69	Visibility	
+NMP_20190809_PF-49_BRUV	Brae	42		Date	9/08/2019	Time	1:18:19 PM	Location	NMP	Site	PF-49	Status	FISHED	Latitude	-23.52033833	Longitude	113.6893033	Visibility	
+NMP_20190809_PF-50_BRUV	Brae	46		Date	9/08/2019	Time	1:25:42 PM	Location	NMP	Site	PF-50	Status	FISHED	Latitude	-23.52870333	Longitude	113.6761667	Visibility	
+NMP_20190809_PS-21_BRUV	Sasha	36		Date	9/08/2019	Time	7:53:58 AM	Location	NMP	Site	PS-21	Status	SANCTUARY	Latitude	-23.29452167	Longitude	113.7532333	Visibility	
+NMP_20190809_PS-22_BRUV	Lauren Peel	43		Date	9/08/2019	Time	7:58:34 AM	Location	NMP	Site	PS-22	Status	SANCTUARY	Latitude	-23.29841	Longitude	113.7505433	Visibility	
+NMP_20190809_PS-23_BRUV	Sasha	45		Date	9/08/2019	Time	8:02:20 AM	Location	NMP	Site	PS-23	Status	SANCTUARY	Latitude	-23.30278167	Longitude	113.75005	Visibility	
+NMP_20190809_PS-24_BRUV	Sasha	42	R3 camera has still been swapped as it wasn't working	Date	9/08/2019	Time	8:05:33 AM	Location	NMP	Site	PS-24	Status	SANCTUARY	Latitude	-23.30652833	Longitude	113.75521	Visibility	
+NMP_20190809_PS-25_BRUV	Sasha	35		Date	9/08/2019	Time	8:09:33 AM	Location	NMP	Site	PS-25	Status	SANCTUARY	Latitude	-23.311715	Longitude	113.7607467	Visibility	
+NMP_20190809_PS-26_BRUV	Sasha	34		Date	9/08/2019	Time	8:13:44 AM	Location	NMP	Site	PS-26	Status	SANCTUARYT	Latitude	-23.31866167	Longitude	113.7632633	Visibility	
+NMP_20190809_PS-27_BRUV	Sasha	35		Date	9/08/2019	Time	8:18:50 AM	Location	NMP	Site	PS-27	Status	SANCTUARY	Latitude	-23.32889	Longitude	113.76655	Visibility	
+NMP_20190809_PS-28_BRUV	Sasha	32		Date	9/08/2019	Time	8:25:11 AM	Location	NMP	Site	PS-28	Status	SANCTUARY	Latitude	-23.340685	Longitude	113.7686167	Visibility	
+NMP_20190809_PS-29_BRUV	Sasha	32		Date	9/08/2019	Time	8:28:38 AM	Location	NMP	Site	PS-29	Status	SANCTUARY	Latitude	-23.34767333	Longitude	113.7679983	Visibility	
+NMP_20190809_PS-30_BRUV	Sasha	33		Date	9/08/2019	Time	8:33:03 AM	Location	NMP	Site	PS-30	Status	SANCTUARY	Latitude	-23.35703333	Longitude	113.76698	Visibility	
+NMP_20190809_PS-31_BRUV	Sasha	30		Date	9/08/2019	Time	10:01:11 AM	Location	NMP	Site	PS-31	Status	SANCTUARY	Latitude	-23.36423333	Longitude	113.7673	Visibility	
+NMP_20190809_PS-32_BRUV	Sasha	28		Date	9/08/2019	Time	10:03:56 AM	Location	NMP	Site	PS-32	Status	SANCTUARY	Latitude	-23.36707833	Longitude	113.767495	Visibility	
+NMP_20190809_PS-33_BRUV	Sasha	28		Date	9/08/2019	Time	10:09:30 AM	Location	NMP	Site	PS-33	Status	SANCTUARY	Latitude	-23.37685333	Longitude	113.765905	Visibility	
+NMP_20190809_PS-34_BRUV	Sasha	35		Date	9/08/2019	Time	10:14:14 AM	Location	NMP	Site	PS-34	Status	SANCTUARY	Latitude	-23.38499333	Longitude	113.7592633	Visibility	
+NMP_20190809_PS-35_BRUV	Sasha	40		Date	9/08/2019	Time	10:18:18 AM	Location	NMP	Site	PS-35	Status	SANCTUARY	Latitude	-23.393095	Longitude	113.754305	Visibility	
+NMP_20190809_PS-36_BRUV	Sasha	42		Date	9/08/2019	Time	10:23:10 AM	Location	NMP	Site	PS-36	Status	SANCTUARY	Latitude	-23.400645	Longitude	113.7539017	Visibility	
+NMP_20190809_PS-37_BRUV	Sasha	43	R3 camera has still been swapped as it wasn't working	Date	9/08/2019	Time	10:28:08 AM	Location	NMP	Site	PS-37	Status	SANCTUARY	Latitude	-23.41045667	Longitude	113.7536967	Visibility	
+NMP_20190809_PS-38_BRUV	Sasha	47		Date	9/08/2019	Time	10:37:48 AM	Location	NMP	Site	PS-38	Status	SANCTUARY	Latitude	-23.416635	Longitude	113.7445033	Visibility	
+NMP_20190809_PS-39_BRUV	Sasha	47		Date	9/08/2019	Time	10:42:43 AM	Location	NMP	Site	PS-39	Status	SANCTUARY	Latitude	-23.42540667	Longitude	113.7418883	Visibility	
+NMP_20190809_PS-40_BRUV	Sasha	46		Date	9/08/2019	Time	10:48:46 AM	Location	NMP	Site	PS-40	Status	SANCTUARY	Latitude	-23.43531167	Longitude	113.7404317	Visibility	
+NMP_20190810_CF-16_BRUV	Sasha	46		Date	10/08/2019	Time	8:00:52 AM	Location	NMP	Site	CF-16	Status	FISHED	Latitude	-23.05473333	Longitude	113.716385	Visibility	
+NMP_20190810_CF-17_BRUV	Sasha	40		Date	10/08/2019	Time	8:06:46 AM	Location	NMP	Site	CF-17	Status	FISHED	Latitude	-23.04659167	Longitude	113.71641	Visibility	
+NMP_20190810_CF-18_BRUV	Sasha	36		Date	10/08/2019	Time	8:11:31 AM	Location	NMP	Site	CF-18	Status	FISHED	Latitude	-23.03834833	Longitude	113.7171967	Visibility	
+NMP_20190810_CF-19_BRUV	Sasha	50		Date	10/08/2019	Time	8:17:44 AM	Location	NMP	Site	CF-19	Status	FISHED	Latitude	-23.026805	Longitude	113.71665	Visibility	
+NMP_20190810_CF-20_BRUV	Sasha	47		Date	10/08/2019	Time	8:24:08 AM	Location	NMP	Site	CF-20	Status	FISHED	Latitude	-23.01685167	Longitude	113.71435	Visibility	
+NMP_20190810_CF-21_BRUV	Sasha	45		Date	10/08/2019	Time	8:31:22 AM	Location	NMP	Site	CF-21	Status	FISHED	Latitude	-23.00642333	Longitude	113.7162783	Visibility	
+NMP_20190810_CF-22_BRUV	Sasha	52	R3 camera has still been swapped as it wasn't working	Date	10/08/2019	Time	8:37:09 AM	Location	NMP	Site	CF-22	Status	FISHED	Latitude	-22.99428167	Longitude	113.721895	Visibility	
+NMP_20190810_CF-23_BRUV	Sasha	53		Date	10/08/2019	Time	8:44:28 AM	Location	NMP	Site	CF-23	Status	FISHED	Latitude	-22.98148333	Longitude	113.7260583	Visibility	
+NMP_20190810_CF-24_BRUV	Sasha	43		Date	10/08/2019	Time	8:50:49 AM	Location	NMP	Site	CF-24	Status	FISHED	Latitude	-22.97133667	Longitude	113.7275567	Visibility	
+NMP_20190810_CF-25_BRUV	Sasha	35		Date	10/08/2019	Time	8:58:10 AM	Location	NMP	Site	CF-25	Status	FISHED	Latitude	-22.96295833	Longitude	113.7278867	Visibility	
+NMP_20190810_CF-26_BRUV	Sasha	36		Date	10/08/2019	Time	10:52:07 AM	Location	NMP	Site	CF-26	Status	FISHED	Latitude	-22.95107	Longitude	113.7238433	Visibility	
+NMP_20190810_CF-27_BRUV	Sasha	44		Date	10/08/2019	Time	10:56:57 AM	Location	NMP	Site	CF-27	Status	FISHED	Latitude	-22.94293667	Longitude	113.7243067	Visibility	
+NMP_20190810_CF-28_BRUV	Sasha	45		Date	10/08/2019	Time	11:01:09 AM	Location	NMP	Site	CF-28	Status	FISHED	Latitude	-22.93584333	Longitude	113.7290783	Visibility	
+NMP_20190810_CF-29_BRUV	Sasha	45	R3 camera has still been swapped as it wasn't working	Date	10/08/2019	Time	11:05:38 AM	Location	NMP	Site	CF-29	Status	FISHED	Latitude	-22.92557	Longitude	113.7304883	Visibility	
+NMP_20190810_CF-30_BRUV	Sasha	47	RB4 Camera flooded	Date	10/08/2019	Time	11:10:39 AM	Location	NMP	Site	CF-30	Status	FISHED	Latitude	-22.91375667	Longitude	113.7317933	Visibility	
+NMP_20190810_CS-31_BRUV	Sasha	42		Date	10/08/2019	Time	11:16:25 AM	Location	NMP	Site	CS-31	Status	SANCTUARY	Latitude	-22.90573833	Longitude	113.7305983	Visibility	
+NMP_20190810_CS-32_BRUV	Sasha	39		Date	10/08/2019	Time	11:20:44 AM	Location	NMP	Site	CS-32	Status	SANCTUARY	Latitude	-22.89801	Longitude	113.726595	Visibility	
+NMP_20190810_CS-33_BRUV	Sasha	37	Briefly featured in video file L526; RHS vids from file R533	Date	10/08/2019	Time	11:24:57 AM	Location	NMP	Site	CS-33	Status	SANCTUARY	Latitude	-22.889405	Longitude	113.72326	Visibility	
+NMP_20190810_CS-34_BRUV	Sasha	30		Date	10/08/2019	Time	11:28:31 AM	Location	NMP	Site	CS-34	Status	SANCTUARY	Latitude	-22.88670167	Longitude	113.7198817	Visibility	
+NMP_20190810_CS-35_BRUV	Sasha	44		Date	10/08/2019	Time	11:34:33 AM	Location	NMP	Site	CS-35	Status	SANCTUARY	Latitude	-22.88209333	Longitude	113.7111983	Visibility	
+NMP_20190810_CS-36_BRUV	Sasha	40		Date	10/08/2019	Time	1:00:15 PM	Location	NMP	Site	CS-36	Status	SANCTUARY	Latitude	-22.87311167	Longitude	113.7050817	Visibility	
+NMP_20190810_CS-37_BRUV	Sasha	46		Date	10/08/2019	Time	1:05:58 PM	Location	NMP	Site	CS-37	Status	SANCTUARY	Latitude	-22.86135167	Longitude	113.7007217	Visibility	
+NMP_20190810_CS-38_BRUV	Sasha	45		Date	10/08/2019	Time	1:10:31 PM	Location	NMP	Site	CS-38	Status	SANCTUARY	Latitude	-22.85289667	Longitude	113.696155	Visibility	
+NMP_20190810_CS-39_BRUV	Sasha	50		Date	10/08/2019	Time	1:13:35 PM	Location	NMP	Site	CS-39	Status	SANCTUARY	Latitude	-22.85016333	Longitude	113.693145	Visibility	
+NMP_20190810_CS-40_BRUV	Sasha	40		Date	10/08/2019	Time	1:19:55 PM	Location	NMP	Site	CS-40	Status	SANCTUARY	Latitude	-22.83915833	Longitude	113.6832917	Visibility	
+NMP_20190810_CS-41_BRUV	Sasha	44	Only camera L1B was used as camera R4B was flooded in last drop	Date	10/08/2019	Time	1:25:22 PM	Location	NMP	Site	CS-41	Status	SAMCTUARY	Latitude	-22.83082167	Longitude	113.6779217	Visibility	
+NMP_20190810_CS-42_BRUV	Sasha	48	R3 camera has still been swapped as it wasn't working	Date	10/08/2019	Time	1:31:32 PM	Location	NMP	Site	CS-42	Status	SANCTUARY	Latitude	-22.81997333	Longitude	113.6715067	Visibility	
+NMP_20190810_CS-43_BRUV	Sasha	45		Date	10/08/2019	Time	1:36:27 PM	Location	NMP	Site	CS-43	Status	SANCTUARY	Latitude	-22.80998667	Longitude	113.664795	Visibility	
+NMP_20190810_CS-44_BRUV	Sasha	44		Date	10/08/2019	Time	1:41:02 PM	Location	NMP	Site	CS-44	Status	SANCTUARY	Latitude	-22.80067667	Longitude	113.6592433	Visibility	
+NMP_20190810_CS-45_BRUV	Sasha	47		Date	10/08/2019	Time	1:45:40 PM	Location	NMP	Site	CS-45	Status	SANCTUARY	Latitude	-22.79173333	Longitude	113.6549567	Visibility	

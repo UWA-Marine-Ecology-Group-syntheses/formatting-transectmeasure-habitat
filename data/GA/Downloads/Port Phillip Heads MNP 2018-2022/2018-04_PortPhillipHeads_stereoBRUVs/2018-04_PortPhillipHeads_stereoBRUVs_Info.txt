@@ -1,0 +1,57 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+PPH_01	Sasha Whitmarsh	-6.764999866		Latitude	-38.28636769	Longitude	144.62963	Date	07/04/18	Time	14:23	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_02	Sasha Whitmarsh	-5.846000195		Latitude	-38.28016609	Longitude	144.62507	Date	07/04/18	Time	11:26	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_03	Sasha Whitmarsh	-7.485000134		Latitude	-38.2873349	Longitude	144.62	Date	07/04/18	Time	11:33	MPAStatus	Inside	Site	PPH	Year	2018		
+PPH_04	Sasha Whitmarsh	-5.170000076		Latitude	-38.29011756	Longitude	144.62258	Date	07/04/18	Time	14:19	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_05	Sasha Whitmarsh	-5.771999836	Watched re-do; obscured by algae	Latitude	-38.29667168	Longitude	144.61299	Date	08/04/18	Time	11:15	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_06	Sasha Whitmarsh	-7.624000072	Lots of algae, sometimes obscured	Latitude	-38.29461679	Longitude	144.61027	Date	08/04/18	Time	11:20	MPAStatus	Inside	Site	PPH	Year	2018		
+PPH_07	Sasha Whitmarsh	-9.491	Tipped up at 31 min	Latitude	-38.28473282	Longitude	144.63653	Date	7/04/18	Time	14:32	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_08	Sasha Whitmarsh	-5.169000149	Diode not on	Latitude	-38.28302156	Longitude	144.63434	Date	07/04/18	Time	14:32	MPAStatus	Outside	Site	PPH	Year	2018		
+PPH_09	Sasha Whitmarsh	-7.198999882		Latitude	-38.27528186	Longitude	144.65549	Date	08/04/18	Time	09:48	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_10	Sasha Whitmarsh	-4.505000114		Latitude	-38.30163849	Longitude	144.65852	Date	08/04/18	Time	08:10	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_11	Sasha Whitmarsh	-2.545000076		Latitude	-38.30422645	Longitude	144.65929	Date	08/04/18	Time	09:32	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_12	Sasha Whitmarsh	-0.4534		Latitude	-38.30412315	Longitude	144.65585	Date	8/04/18	Time	09:35	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_13	Sasha Whitmarsh	-7.113999844		Latitude	-38.29406433	Longitude	144.59827	Date	08/04/18	Time	11:26	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_14	Sasha Whitmarsh	-5.599999905		Latitude	-38.29019422	Longitude	144.58883	Date	08/04/18	Time	11:29	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_15	Sasha Whitmarsh	-10.15	Very green, undaria	Latitude	-38.29287752	Longitude	144.62568	Date	7/04/18	Time	12:56	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_16	Sasha Whitmarsh	-13.39000034	Poor vis	Latitude	-38.28886255	Longitude	144.6318	Date	14/05/18	Time	12:55	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_18	Sasha Whitmarsh	-8.98900032		Latitude	-38.29875923	Longitude	144.62303	Date	07/04/18	Time	12:48	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_19	Sasha Whitmarsh	-7.675000191	Murky - low vis	Latitude	-38.29031372	Longitude	144.62858	Date	07/04/18	Time	12:59	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_20	Sasha Whitmarsh	-5.445000172		Latitude	-38.28802068	Longitude	144.6253	Date	07/04/18	Time	11:36	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_21	Sasha Whitmarsh	-6.127		Latitude	-38.29374722	Longitude	144.6213	Date	7/04/18	Time	12:54	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_22	Sasha Whitmarsh	-10.59000015	LJ spawning/courtship at 36.4? SO many wrasse	Latitude	-38.29701025	Longitude	144.61856	Date	07/04/18	Time	12:52	MPAStatus	Inside	Site	PPH	Year	2018		
+PPH_23	Sasha Whitmarsh	-6.691	Bait arm bent	Latitude	-38.29332888	Longitude	144.60545	Date	8/04/18	Time	11:25	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_24	Sasha Whitmarsh	-6.805		Latitude	-38.28342646	Longitude	144.62407	Date	7/04/18	Time	11:28	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_25	Sasha Whitmarsh	-4.051	scored 173	Latitude	-38.28298327	Longitude	144.61985	Date	7/04/18	Time	11:30	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_26	Sasha Whitmarsh	-5.15899992		Latitude	-38.27866588	Longitude	144.62151	Date	07/04/18	Time	11:23	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_28	Sasha Whitmarsh	-4.78		Latitude	-38.27864489	Longitude	144.63372	Date	8/04/18	Time	09:44	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_29	Sasha Whitmarsh	-5.15500021		Latitude	-38.27643445	Longitude	144.63761	Date	08/04/18	Time	09:46	MPAStatus	Outside	Site	PPH	Year	2018		
+PPH_30	Sasha Whitmarsh	-17.99	Flipped at 15 mins	Latitude	-38.28681842	Longitude	144.63566	Date	7/04/18	Time	14:27	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_31	Sasha Whitmarsh	-12.72999954		Latitude	-38.28176565	Longitude	144.63952	Date	07/04/18	Time	14:35	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_32	Sasha Whitmarsh	-6.989999771		Latitude	-38.31374326	Longitude	144.6595	Date	08/04/18	Time	16:09	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_33	Sasha Whitmarsh		heavily obscured, tipped forward ~20mins	Latitude	-38.31035201	Longitude	144.65443	Date	8/04/18	Time	16:03	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_34	Sasha Whitmarsh	-7.241000175	Poor vis	Latitude	-38.30606	Longitude	144.64868	Date	08/04/18	Time	16:00	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_35	Sasha Whitmarsh	-8.350999832		Latitude	-38.30423	Longitude	144.64608	Date	08/04/18	Time	15:58	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_36	Sasha Whitmarsh	-14.27999973		Latitude	-38.30727867	Longitude	144.64562	Date	08/04/18	Time	13:44	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_37	Sasha Whitmarsh	-14.28999996		Latitude	-38.31120127	Longitude	144.65041	Date	8/4/18	Time	13:49	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_38	Sasha Whitmarsh	-11.85000038		Latitude	-38.31449034	Longitude	144.64858	Date	08/04/18	Time	13:53	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_39	Sasha Whitmarsh	-12.97		Latitude	-38.31433617	Longitude	144.65517	Date	8/04/18	Time	16:08	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_40	Sasha Whitmarsh	-11.69999981	Very sandy sometimes	Latitude	-38.31892921	Longitude	144.65535	Date	08/04/18	Time	13:54	MPAStatus	Inside	Site	PPH	Year	2018		
+PPH_41	Sasha Whitmarsh	-12.05000019	Very sandy sometimes	Latitude	-38.32010002	Longitude	144.65013	Date	08/04/18	Time	16:13	MPAStatus	Inside	Site	PPH	Spare		Spare	
+PPH_42	Sasha Whitmarsh	-16.32999992		Latitude	-38.30728215	Longitude	144.64223	Date	08/04/18	Time	13:41	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_43	Sasha Whitmarsh	-26.64	salmon with bent back	Latitude	-38.31047267	Longitude	144.6444	Date	8/04/18	Time	13:46	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_44	Sasha Whitmarsh	-2.638999939		Latitude	-38.306558	Longitude	144.6636	Date	08/04/18	Time	09:27	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_45	Sasha Whitmarsh	-9.661000252		Latitude	-38.30374041	Longitude	144.6788	Date	08/04/18	Time	07:55	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_46	Sasha Whitmarsh	-3.693000078	camera labels switched?	Latitude	-38.30407154	Longitude	144.66736	Date	08/04/18	Time	08:05	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_47	Sasha Whitmarsh	-2.557	part a missing on left, thus not scored	Latitude	-38.30482895	Longitude	144.67278	Date	8/04/18	Time	08:00	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_48	Sasha Whitmarsh	-21.79000092	Good crab and fiddler footage throughout	Latitude	-38.30512545	Longitude	144.68505	Date	08/04/18	Time	07:50	MPAStatus	Inside	Site	PPH	Year	2018		
+PPH_50	Sasha Whitmarsh	-15.36999989	Facing down	Latitude	-38.32656179	Longitude	144.67468	Date	07/04/18	Time	09:40	MPAStatus	Outside	Site	PPH	Year	2018		
+PPH_51	Sasha Whitmarsh	-15.07999992	some sand obscuration, sand bank in view	Latitude	-38.32521433	Longitude	144.66387	Date	07/04/18	Time	09:43	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_52	Sasha Whitmarsh	-10.34000015		Latitude	-38.32011068	Longitude	144.66498	Date	7/4/18	Time	09:50	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_53	Sasha Whitmarsh	-12.54		Latitude	-38.32349749	Longitude	144.65847	Date	7/04/18	Time	09:48	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_54	Sasha Whitmarsh	-15.82999992	Facing up	Latitude	-38.31084146	Longitude	144.71034	Date	14/05/18	Time	13:25	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_55	Sasha Whitmarsh	-9.470999718		Latitude	-38.31293797	Longitude	144.71249	Date	14/05/19	Time	13:28	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_57	Sasha Whitmarsh	-14.46000004		Latitude	-38.30717713	Longitude	144.6884	Date	8/4/18	Time	07:46	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_58	Sasha Whitmarsh	-8.505	no part a on the right	Latitude	-38.29636	Longitude	144.60595	Date	8/4/18	Time	11:32	MPAStatus	Outside	Site	PPH	Year	2018	Spare	
+PPH_59	Sasha Whitmarsh	-8.909999847	poor vis	Latitude	-38.27695679	Longitude	144.69781	Date	14/05/18	Time	13:10	MPAStatus	Inside	Site	PPH	Year	2018	Spare	
+PPH_61	Sasha Whitmarsh	-5.261000156	partly obscured	Latitude	-38.30691797	Longitude	144.80102	Date	14/05/18	Time	13:43	MPAStatus	Outside	Site	PPH	Year	2018	Spare	

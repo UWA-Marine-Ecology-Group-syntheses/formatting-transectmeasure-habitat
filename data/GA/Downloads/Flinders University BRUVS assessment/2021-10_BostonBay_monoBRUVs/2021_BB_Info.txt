@@ -1,0 +1,25 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+S1_R1	JDennis	13.5 m	Video start 1:48																
+S1_R2	JDennis	12.5																	
+S1_R3	JDennis	13.5																	
+S1_R4	JDennis	13m																	
+S1_R5	JDennis	10.5																	
+S1_R6	JDennis	12m																	
+S1_R7	JDennis	12.8 m																	
+S1_R8	JDennis	12.9m																	
+S2_R1	JDennis	10.5m	Southern site																
+S2_R2	JDennis	9.4m	Southern Site																
+S2_R3	JDennis	12.3	Southern site																
+S2_R4	JDennis	11m	Southern site																
+S2_R5	JDennis	12m	Southern site																
+S2_R6	JDennis	11.6m	Southern Site																
+S2_R7	JDennis	10.7m	Southern site																
+S2_R8	JDennis	10.7m	Southern site																
+S3_R1	JDennis	15.6m	Northern site																
+S3_R2	JDennis	16m	Northern site																
+S3_R3	JDennis	15m	Northern site																
+S3_R4	JDennis	14.8m	Northern sites																
+S3_R5	JDennis	15m	Northern site																
+S3_R6	JDennis	14.3m	Northern site																
+S3_R7	JDennis	15.5m	Northern site																
+S3_R8	JDennis	15.5	Northern site																

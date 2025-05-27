@@ -1,0 +1,9 @@
+﻿Campaign.ID,Sample,Latitude,Longitude,Date,Time,Site,Location,Status,Depth,Successful.count,Successful.length,Observer.count,Observer.length,MarinePark,Location_ID,Location_name,MP Zoning,Rep_ID,Set.duration,Observer
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp1_20230914,-29.6988,153.39842,20230914,10:15:00,Pimp1,Pimp,No-take,43,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp1,30,Art Schultz
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp2_20230914,-29.69863,153.39631,20230914,10:11:00,Pimp2,Pimp,No-take,40,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp2,30,Art Schultz
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp3_20230914,-29.69604,153.39764,20230914,10:02:00,Pimp3,Pimp,No-take,39,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp3,30,Art Schultz
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp4_20230914,-29.69725,153.39862,20230914,9:55:00,Pimp4,Pimp,No-take,40,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp4,30,Art Schultz
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp1_20231103,-29.6988,153.39842,20231103,9:48:00,Pimp1,Pimp,No-take,43,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp1,30,Art Schultz
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp2_20231103,-29.69863,153.39631,20231103,9:11:00,Pimp2,Pimp,No-take,41,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp2,30,Art Schultz
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp3_20231103,-29.69604,153.39764,20231103,9:24:00,Pimp3,Pimp,No-take,42,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp3,30,Art Schultz
+2023-09-SIMR.pimpernel.rock-stereoBRUVs,Pimp4_20231103,-29.69725,153.39862,20231103,9:32:00,Pimp4,Pimp,No-take,42,Yes,Yes,Art Schultz,Art Schultz,SIMR,Pimp,Pimpernel Rock,NoTake,Pimp4,30,Art Schultz

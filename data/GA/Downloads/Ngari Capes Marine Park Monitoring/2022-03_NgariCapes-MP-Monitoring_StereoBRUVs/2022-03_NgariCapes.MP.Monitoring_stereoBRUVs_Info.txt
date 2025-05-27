@@ -1,0 +1,176 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+NCMP_01052022_CL1-1_BRUV	Kye Adams	26		Date	2022-05-01	Time		Location	NCMP	Site	CL1	Status	Fished	Latitude	-34.35738465	Longitude	115.0641301	Visibility	
+NCMP_01052022_CL1-2_BRUV	Kye Adams	28		Date	2022-05-01	Time		Location	NCMP	Site	CL1	Status	Fishes	Latitude	-34.3555034	Longitude	115.061750483333	Visibility	6.3
+NCMP_01052022_CL1-3_BRUV	Kye Adams	30		Date	2022-05-01	Time		Location	NCMP	Site	CL1	Status	Fished	Latitude	-34.3584267	Longitude	115.06149465	Visibility	5.5
+NCMP_01052022_CL1-4_BRUV	Kye Adams	22		Date	2022-05-01	Time		Location	NCMP	Site	CL1	Status	Fished	Latitude	-34.3553346166667	Longitude	115.065745916667	Visibility	3.7
+NCMP_01052022_CL1-5_BRUV	Kye Adams	22		Date	2022-05-01	Time		Location	NCMP	Site	CL1	Status	Fished	Latitude	-34.3576920166667	Longitude	115.0671867	Visibility	2.3
+NCMP_01052022_CL2-3_BRUV	Kye Adams	22		Date	2022-05-01	Time		Location	NCMP	Site	CL2	Status	Fished	Latitude	-34.3638339666667	Longitude	115.075832883333	Visibility	2.2
+NCMP_01052022_CL2-4_BRUV	Kye Adams	29		Date	2022-05-01	Time		Location	NCMP	Site	CL2	Status	Fished	Latitude	-34.3636511333333	Longitude	115.070117666667	Visibility	4.0
+NCMP_01052022_CL2-5_BRUV	Kye Adams	29		Date	2022-05-01	Time		Location	NCMP	Site	CL2	Status	Fished	Latitude	-34.3663211333333	Longitude	115.070622766667	Visibility	5.7
+NCMP_01052022_CL3-1_BRUV	Kye Adams	27		Date	2022-05-01	Time		Location	NCMP	Site	CL3	Status	No-take	Latitude	-34.3788001333333	Longitude	115.088466433333	Visibility	5.0
+NCMP_01052022_CL3-2_BRUV	Kye Adams	24		Date	2022-05-01	Time		Location	NCMP	Site	CL3	Status	No-take	Latitude	-34.3780261333333	Longitude	115.085734	Visibility	2.9
+NCMP_01052022_CL3-3_BRUV	Kye Adams	28		Date	2022-05-01	Time		Location	NCMP	Site	CL3	Status	No-take	Latitude	-34.3802343833333	Longitude	115.0860879	Visibility	4.0
+NCMP_01052022_CL3-4_BRUV	Kye Adams	27		Date	2022-05-01	Time		Location	NCMP	Site	CL3	Status	No-take	Latitude	-34.3802118166667	Longitude	115.090915683333	Visibility	4.0
+NCMP_01052022_CL4-3_BRUV	Kye Adams	28		Date	2022-05-01	Time		Location	NCMP	Site	CL4	Status	No-take	Latitude	-34.3857924166667	Longitude	115.09552885	Visibility	2.3
+NCMP_01052022_CL4-5_BRUV	Kye Adams	29		Date	2022-05-01	Time		Location	NCMP	Site	CL4	Status	No-take	Latitude	-34.3880188	Longitude	115.096795383333	Visibility	4.2
+NCMP_01052022_CL5-2_BRUV	Kye Adams	27		Date	2022-05-01	Time		Location	NCMP	Site	CL5	Status	No-take	Latitude	-34.3906587166667	Longitude	115.109540483333	Visibility	2.2
+NCMP_01052022_CL5-3_BRUV	Kye Adams	30		Date	2022-05-01	Time		Location	NCMP	Site	CL5	Status	No-take	Latitude	-34.39271745	Longitude	115.1074262	Visibility	6.5
+NCMP_01052022_CL5-4_BRUV	Kye Adams	27		Date	2022-05-01	Time		Location	NCMP	Site	CL5	Status	No-take	Latitude	-34.3908032333333	Longitude	115.113073166667	Visibility	5.0
+NCMP_01052022_CL5-5_BRUV	Kye Adams	28		Date	2022-05-01	Time		Location	NCMP	Site	CL5	Status	No-take	Latitude	-34.3933505333333	Longitude	115.11358125	Visibility	3.3
+NCMP_01052022_CL6-1_BRUV	Kye Adams	30		Date	2022-05-01	Time		Location	NCMP	Site	CL6	Status	Fished	Latitude	-34.4082551333333	Longitude	115.121620383333	Visibility	5.1
+NCMP_01052022_CL6-2_BRUV	Kye Adams	30		Date	2022-05-01	Time		Location	NCMP	Site	CL6	Status	Fished	Latitude	-34.4065293	Longitude	115.124366866667	Visibility	4.4
+NCMP_01052022_CL6-3_BRUV	Kye Adams	30		Date	2022-05-01	Time		Location	NCMP	Site	CL6	Status	Fished	Latitude	-34.405634	Longitude	115.120143366667	Visibility	3.2
+NCMP_01052022_CL6-4_BRUV	Kye Adams	24		Date	2022-05-01	Time		Location	NCMP	Site	CL6	Status	Fished	Latitude	-34.41037335	Longitude	115.119124816667	Visibility	7.2
+NCMP_01052022_CL7-2_BRUV	Kye Adams	31		Date	2022-05-01	Time		Location	NCMP	Site	CL7	Status	Fished	Latitude	-34.4132384333333	Longitude	115.12931735	Visibility	5.6
+NCMP_01052022_CL7-3_BRUV	Kye Adams	33		Date	2022-05-01	Time		Location	NCMP	Site	CL7	Status	Fished	Latitude	-34.4152868666667	Longitude	115.1261604	Visibility	7.1
+NCMP_01052022_CL7-4_BRUV	Kye Adams	31		Date	2022-05-01	Time		Location	NCMP	Site	CL7	Status	Fished	Latitude	-34.4158435666667	Longitude	115.1332605	Visibility	5.2
+NCMP_01052022_CL7-5_BRUV	Kye Adams	31		Date	2022-05-01	Time		Location	NCMP	Site	CL7	Status	Fished	Latitude	-34.4186997666667	Longitude	115.12940475	Visibility	5.0
+NCMP_17032022_CNB1-1_BRUV	Kye	19.5		Date	2022-03-17	Time	7:43:41	Location	NCMP	Site	CNB1	Status		Latitude	-33.51978357	Longitude	115.0228597	Visibility	
+NCMP_17032022_CNB1-2_BRUV		18.5		Date	2022-03-17	Time	7:38:14	Location	NCMP	Site	CNB1	Status		Latitude	-33.52205977	Longitude	115.0235979	Visibility	
+NCMP_17032022_CNB1-3_BRUV	Kye Adams	23		Date	2022-03-17	Time	7:50:14	Location	NCMP	Site	CNB1	Status	Fished	Latitude	-33.51885253	Longitude	115.0250843	Visibility	
+NCMP_17032022_CNB1-4_BRUV		24.5		Date	2022-03-17	Time	7:56:36	Location	NCMP	Site	CNB1	Status		Latitude	-33.51740382	Longitude	115.023227	Visibility	
+NCMP_17032022_CNB1-5_BRUV	Kye Adams	18		Date	2022-03-17	Time	7:31:09	Location	NCMP	Site	CNB1	Status		Latitude	-33.52133433	Longitude	115.0262314	Visibility	
+NCMP_17032022_CNB2-4_BRUV		25		Date	2022-03-17	Time	8:27:30	Location	NCMP	Site	CNB2	Status		Latitude	-33.51702638	Longitude	115.0163857	Visibility	
+NCMP_17032022_CNB3-3_BRUV	Kye Adams	26		Date	2022-03-17	Time	10:03:03	Location	NCMP	Site	CNB3	Status		Latitude	-33.52249608	Longitude	115.0077131	Visibility	
+NCMP_17032022_CNB5-1_BRUV		25.5		Date	2022-03-17	Time	12:48:55	Location	NCMP	Site	CNB5	Status		Latitude	-33.53450073	Longitude	114.9962645	Visibility	
+NCMP_17032022_CNB5-2_BRUV		30.5		Date	2022-03-17	Time	12:58:37	Location	NCMP	Site	CNB5	Status		Latitude	-33.53514062	Longitude	114.993411	Visibility	
+NCMP_17032022_CNB5-3_BRUV	Kye Adams	26		Date	2022-03-17	Time	12:55:37	Location	NCMP	Site	CNB5	Status		Latitude	-33.53697522	Longitude	114.9964261	Visibility	
+NCMP_17032022_CNB5-4_BRUV	Kye Adams	19		Date	2022-03-17	Time	12:52:37	Location	NCMP	Site	CNB5	Status		Latitude	-33.53523867	Longitude	114.9988185	Visibility	
+NCMP_17032022_CNB5-5_BRUV		22		Date	2022-03-17	Time	12:45:12	Location	NCMP	Site	CNB5	Status		Latitude	-33.53242062	Longitude	114.9969027	Visibility	
+NCMP_17032022_CNB6-1_BRUV		27		Date	2022-03-17	Time	14:37:29	Location	NCMP	Site	CNB6	Status		Latitude	-33.54517237	Longitude	114.9958984	Visibility	
+NCMP_17032022_CNB6-2_BRUV	Kye Adams	24		Date	2022-03-17	Time	14:26:28	Location	NCMP	Site	CNB6	Status	Fished	Latitude	-33.54587145	Longitude	114.9982351	Visibility	4.9
+NCMP_17032022_CNB6-3_BRUV	Kye Adams	24		Date	2022-03-17	Time	14:34:06	Location	NCMP	Site	CNB6	Status		Latitude	-33.5480154	Longitude	114.9986032	Visibility	
+NCMP_17032022_CNB6-4_BRUV	Kye Adams	21		Date	2022-03-17	Time	14:30:21	Location	NCMP	Site	CNB6	Status		Latitude	-33.54532763	Longitude	115.0004986	Visibility	
+NCMP_17032022_CNB6-5_BRUV	Kye Adams	24		Date	2022-03-17	Time	14:22:11	Location	NCMP	Site	CNB6	Status		Latitude	-33.54352365	Longitude	114.9983021	Visibility	
+NCMP_17032022_CNB7-1_BRUV	Kye Adams	27		Date	2022-03-17	Time	14:44:18	Location	NCMP	Site	CNB7	Status		Latitude	-33.55372773	Longitude	114.9992249	Visibility	
+NCMP_17032022_CNB7-2_BRUV	Kye Adams	26.5		Date	2022-03-17	Time	14:50:15	Location	NCMP	Site	CNB7	Status		Latitude	-33.55606945	Longitude	114.9994355	Visibility	
+NCMP_17032022_CNB7-3_BRUV		33		Date	2022-03-17	Time	14:53:28	Location	NCMP	Site	CNB7	Status		Latitude	-33.55471805	Longitude	114.997052	Visibility	
+NCMP_17032022_CNB7-4_BRUV		20.5		Date	2022-03-17	Time	14:47:23	Location	NCMP	Site	CNB7	Status		Latitude	-33.55378433	Longitude	115.0014148	Visibility	
+NCMP_17032022_CNB7-5_BRUV	Kye Adams	26.5		Date	2022-03-17	Time	14:41:35	Location	NCMP	Site	CNB7	Status		Latitude	-33.55220888	Longitude	114.9987435	Visibility	
+NCMP_18032022_INB1-1_BRUV	Kye Adams	24.5		Date	2022-03-18	Time	14:21:29	Location	NCMP	Site	INB1	Status		Latitude	-33.66312987	Longitude	114.9890145	Visibility	
+NCMP_18032022_INB1-2_BRUV	Kye Adams	23		Date	2022-03-18	Time	14:23:47	Location	NCMP	Site	INB1	Status		Latitude	-33.66333507	Longitude	114.992826	Visibility	
+NCMP_18032022_INB1-3_BRUV	Kye Adams	30		Date	2022-03-18	Time	14:19:06	Location	NCMP	Site	INB1	Status		Latitude	-33.66426748	Longitude	114.9866598	Visibility	
+NCMP_18032022_INB1-4_BRUV	Kye Adams	16.5		Date	2022-03-18	Time	14:26:37	Location	NCMP	Site	INB1	Status		Latitude	-33.6604254	Longitude	114.9935376	Visibility	
+NCMP_18032022_INB1-5_BRUV	Kye Adams	22		Date	2022-03-18	Time	14:16:29	Location	NCMP	Site	INB1	Status		Latitude	-33.66485188	Longitude	114.9904999	Visibility	
+NCMP_18032022_INB2-1_BRUV	Kye Adams	28		Date	2022-03-18	Time	12:35:44	Location	NCMP	Site	INB2	Status		Latitude	-33.66963428	Longitude	114.981671	Visibility	
+NCMP_18032022_INB2-2_BRUV	Kye Adams	30		Date	2022-03-18	Time	12:33:32	Location	NCMP	Site	INB2	Status		Latitude	-33.67126085	Longitude	114.9816604	Visibility	
+NCMP_18032022_INB2-3_BRUV	Kye Adams	22		Date	2022-03-18	Time	12:31:05	Location	NCMP	Site	INB2	Status		Latitude	-33.67037273	Longitude	114.984414	Visibility	
+NCMP_18032022_INB2-4_BRUV		20.5		Date	2022-03-18	Time	12:28:57	Location	NCMP	Site	INB2	Status		Latitude	-33.672677	Longitude	114.9849698	Visibility	
+NCMP_18032022_INB2-5_BRUV	Kye Adams	21		Date	2022-03-18	Time	12:38:23	Location	NCMP	Site	INB2	Status		Latitude	-33.66866308	Longitude	114.9856247	Visibility	
+NCMP_18032022_INB3-1_BRUV	Kye Adams	25.5		Date	2022-03-18	Time	12:16:19	Location	NCMP	Site	INB3	Status		Latitude	-33.683028	Longitude	114.9766089	Visibility	
+NCMP_18032022_INB3-2_BRUV	Kye Adams	25.5		Date	2022-03-18	Time	12:24:00	Location	NCMP	Site	INB3	Status		Latitude	-33.68101345	Longitude	114.9778536	Visibility	
+NCMP_18032022_INB3-3_BRUV	Kye Adams	25		Date	2022-03-18	Time	12:21:30	Location	NCMP	Site	INB3	Status		Latitude	-33.6805811	Longitude	114.9741334	Visibility	
+NCMP_18032022_INB3-4_BRUV	Kye Adams	31		Date	2022-03-18	Time	12:18:22	Location	NCMP	Site	INB3	Status		Latitude	-33.6828053	Longitude	114.9735079	Visibility	
+NCMP_18032022_INB3-5_BRUV	Kye Adams	26		Date	2022-03-18	Time	12:13:52	Location	NCMP	Site	INB3	Status	No-take	Latitude	-33.68389773	Longitude	114.9792161	Visibility	1.7
+NCMP_18032022_INB4-1_BRUV	Kye Adams	22		Date	2022-03-18	Time	10:26:36	Location	NCMP	Site	INB4	Status		Latitude	-33.69028333	Longitude	114.9761281	Visibility	
+NCMP_18032022_INB4-2_BRUV	Kye Adams	30		Date	2022-03-18	Time	10:23:29	Location	NCMP	Site	INB4	Status		Latitude	-33.68890772	Longitude	114.9715645	Visibility	
+NCMP_18032022_INB4-3_BRUV	Kye Adams	22		Date	2022-03-18	Time	10:26:36	Location	NCMP	Site	INB4	Status	No-take	Latitude	-33.69028333	Longitude	114.9761281	Visibility	3.7
+NCMP_18032022_INB4-4_BRUV	Kye Adams	28.5		Date	2022-03-18	Time	10:21:23	Location	NCMP	Site	INB4	Status		Latitude	-33.69125598	Longitude	114.9703655	Visibility	
+NCMP_18032022_INB4-5_BRUV	Kye Adams	22		Date	2022-03-18	Time	10:33:01	Location	NCMP	Site	INB4	Status		Latitude	-33.69265693	Longitude	114.974742	Visibility	
+NCMP_18032022_INB5-1_BRUV	Kye Adams	30		Date	2022-03-18	Time	10:13:34	Location	NCMP	Site	INB5	Status	No-take	Latitude	-33.69808267	Longitude	114.9641429	Visibility	6.2
+NCMP_18032022_INB5-2_BRUV	Kye Adams	31.5		Date	2022-03-18	Time	10:11:02	Location	NCMP	Site	INB5	Status		Latitude	-33.6997646	Longitude	114.9630486	Visibility	
+NCMP_18032022_INB5-3_BRUV	Kye Adams	29		Date	2022-03-18	Time	10:16:09	Location	NCMP	Site	INB5	Status		Latitude	-33.69621397	Longitude	114.9648675	Visibility	
+NCMP_18032022_INB5-4_BRUV	Kye Adams	19		Date	2022-03-18	Time	12:52:37	Location	NCMP	Site	INB5	Status	No-take	Latitude	-33.53523867	Longitude	114.9988185	Visibility	
+NCMP_18032022_INB5-5_BRUV	Kye Adams	25		Date	2022-03-18	Time	10:04:53	Location	NCMP	Site	INB5	Status		Latitude	-33.69757037	Longitude	114.9689167	Visibility	
+NCMP_18032022_INB6-1_BRUV		28		Date	2022-03-18	Time	8:26:26	Location	NCMP	Site	INB6	Status		Latitude	-33.71183617	Longitude	114.9574219	Visibility	
+NCMP_18032022_INB6-2_BRUV	Kye Adams	25		Date	2022-03-18	Time	8:23:40	Location	NCMP	Site	INB6	Status		Latitude	-33.71091458	Longitude	114.9604536	Visibility	
+NCMP_18032022_INB6-3_BRUV		23.5		Date	2022-03-18	Time	8:18:20	Location	NCMP	Site	INB6	Status		Latitude	-33.71186433	Longitude	114.9627918	Visibility	
+NCMP_18032022_INB6-4_BRUV	Kye Adams	37.5		Date	2022-03-18	Time	8:29:21	Location	NCMP	Site	INB6	Status		Latitude	-33.70893655	Longitude	114.9588364	Visibility	
+NCMP_18032022_INB7-1_BRUV	Kye Adams	29		Date	2022-03-18	Time	8:09:30	Location	NCMP	Site	INB7	Status		Latitude	-33.7206069	Longitude	114.9672253	Visibility	
+NCMP_18032022_INB7-2_BRUV	Belle Mullins	21		Date	2022-03-18	Time	8:06:47	Location	NCMP	Site	INB7	Status	Fished	Latitude	-33.72047042	Longitude	114.9712369	Visibility	
+NCMP_18032022_INB7-3_BRUV	Kye Adams	25		Date	2022-03-18	Time	8:06:47	Location	NCMP	Site	INB7	Status		Latitude	-33.72047042	Longitude	114.9712369	Visibility	
+NCMP_18032022_INB7-4_BRUV	Kye Adams	27		Date	2022-03-18	Time	8:04:14	Location	NCMP	Site	INB7	Status	Fished	Latitude	-33.72263667	Longitude	114.9705126	Visibility	3.8
+NCMP_18032022_INB7-5_BRUV		21		Date	2022-03-18	Time	8:00:44	Location	NCMP	Site	INB7	Status		Latitude	-33.72330625	Longitude	114.9740059	Visibility	
+NCMP_18032023_INB6-5_BRUV		26		Date	2023-03-18	Time	8:21:06	Location	NCMP	Site	INB6	Status		Latitude	-33.7131113	Longitude	114.9608291	Visibility	
+NCMP_20032022_CNB2-1_BRUV	Kye Adams	16		Date	2022-03-20	Time	8:06:24	Location	NCMP	Site	CNB2	Status	Fished	Latitude	-33.51996472	Longitude	115.0172369	Visibility	
+NCMP_20032022_CNB2-2_BRUV	Kye Adams	27		Date	2022-03-17	Time	8:39:44	Location	NCMP	Site	CNB2	Status	Fished	Latitude	-33.51540768	Longitude	115.0164612	Visibility	
+NCMP_20032022_CNB2-3_BRUV	Kye Adams	22.5		Date	2022-03-17	Time	8:11:57	Location	NCMP	Site	CNB2	Status	Fished	Latitude	-33.51849915	Longitude	115.0149171	Visibility	
+NCMP_20032022_CNB2-4_BRUV		22		Date	2022-03-20	Time	10:39:23	Location	NCMP	Site	CNB2	Status		Latitude	-33.51828915	Longitude	115.0178716	Visibility	
+NCMP_20032022_CNB2-5_BRUV	Kye Adams	21		Date	2022-03-17	Time	8:19:03	Location	NCMP	Site	CNB2	Status		Latitude	-33.51834947	Longitude	115.0178793	Visibility	
+NCMP_20032022_CNB3-1_BRUV	Belle	31		Date	2022-03-17	Time	10:11:44	Location	NCMP	Site	CNB3	Status	No-take	Latitude	-33.51832875	Longitude	115.0065274	Visibility	5.7
+NCMP_20032022_CNB3-2_BRUV	Belle Mullins	27.5		Date	2022-03-17	Time	10:15:41	Location	NCMP	Site	CNB3	Status	No-take	Latitude	-33.5206632	Longitude	115.0054391	Visibility	2.9
+NCMP_20032022_CNB3-3_BRUV		26		Date	2022-03-20	Time	8:19:12	Location	NCMP	Site	CNB3	Status		Latitude	-33.52244453	Longitude	115.0068306	Visibility	
+NCMP_20032022_CNB3-4_BRUV	Belle Mullins	21		Date	2022-03-17	Time	9:57:33	Location	NCMP	Site	CNB3	Status	No-take	Latitude	-33.52230382	Longitude	115.0099662	Visibility	3.3
+NCMP_20032022_CNB3-5_BRUV	Belle Mullins	25		Date	2022-03-17	Time	10:06:41	Location	NCMP	Site	CNB3	Status	No-take	Latitude	-33.52015832	Longitude	115.0085303	Visibility	4.2
+NCMP_20032022_CNB4-1_BRUV	Belle Mullins	33		Date	2022-03-17	Time	10:31:56	Location	NCMP	Site	CNB4	Status	No-take	Latitude	-33.52311485	Longitude	114.9952899	Visibility	8.5
+NCMP_20032022_CNB4-2_BRUV	Belle Mullins	27.5		Date	2022-03-17	Time	10:26:59	Location	NCMP	Site	CNB4	Status	No-take	Latitude	-33.52218338	Longitude	114.9985913	Visibility	
+NCMP_20032022_CNB4-3_BRUV	Belle Mullins	36		Date	2022-03-17	Time	10:36:43	Location	NCMP	Site	CNB4	Status	No-take	Latitude	-33.52149703	Longitude	114.9932208	Visibility	
+NCMP_20032022_CNB4-4_BRUV	Belle Mullins	29		Date	2022-03-17	Time	10:21:58	Location	NCMP	Site	CNB4	Status	No-take	Latitude	-33.5242123	Longitude	114.9975288	Visibility	
+NCMP_20032022_CNB4-5_BRUV	Belle Mullins	41		Date	2022-03-17	Time	10:41:30	Location	NCMP	Site	CNB4	Status	No-take	Latitude	-33.52086908	Longitude	114.9957293	Visibility	
+NCMP_21032022_EGB1-1_BRUV		8.7		Date	2022-03-21	Time	8:14:54	Location	NCMP	Site	EGB1	Status		Latitude	-33.54529332	Longitude	115.4419216	Visibility	
+NCMP_21032022_EGB1-2_BRUV	Kye Adams	9.2		Date	2022-03-21	Time	8:17:45	Location	NCMP	Site	EGB1	Status		Latitude	-33.54296577	Longitude	115.4428865	Visibility	
+NCMP_21032022_EGB1-3_BRUV	Kye Adams	9.3		Date	2022-03-21	Time	8:20:11	Location	NCMP	Site	EGB1	Status		Latitude	-33.54031053	Longitude	115.4419603	Visibility	
+NCMP_21032022_EGB1-4_BRUV		9.7		Date	2022-03-21	Time	8:23:38	Location	NCMP	Site	EGB1	Status		Latitude	-33.54129337	Longitude	115.4383108	Visibility	
+NCMP_21032022_EGB1-5_BRUV	Kye Adams	9.3		Date	2022-03-21	Time	9:08:03	Location	NCMP	Site	EGB1	Status		Latitude	-33.54413868	Longitude	115.4385439	Visibility	
+NCMP_21032022_EGB2-1_BRUV	Kye Adams	9.3		Date	2022-03-21	Time	9:23:03	Location	NCMP	Site	EGB2	Status		Latitude	-33.55359325	Longitude	115.4321362	Visibility	
+NCMP_21032022_EGB2-2_BRUV	Kye Adams	9.5		Date	2022-03-21	Time	9:25:13	Location	NCMP	Site	EGB2	Status		Latitude	-33.5515647	Longitude	115.4298752	Visibility	
+NCMP_21032022_EGB2-3_BRUV	Kye Adams	8.8		Date	2022-03-21	Time	9:20:08	Location	NCMP	Site	EGB2	Status		Latitude	-33.55267185	Longitude	115.4356581	Visibility	
+NCMP_21032022_EGB2-4_BRUV	Kye Adams	9.5		Date	2022-03-21	Time	9:15:37	Location	NCMP	Site	EGB2	Status		Latitude	-33.54821633	Longitude	115.4334877	Visibility	
+NCMP_21032022_EGB2-5_BRUV	Kye Adams	9		Date	2022-03-21	Time	9:12:39	Location	NCMP	Site	EGB2	Status		Latitude	-33.55003265	Longitude	115.4366994	Visibility	
+NCMP_21032022_EGB3-1_BRUV	Kye Adams	9		Date	2022-03-21	Time	10:55:49	Location	NCMP	Site	EGB3	Status		Latitude	-33.56573005	Longitude	115.420758	Visibility	
+NCMP_21032022_EGB3-2_BRUV	Kye Adams	9.2		Date	2022-03-21	Time	10:52:49	Location	NCMP	Site	EGB3	Status	No-take	Latitude	-33.56324087	Longitude	115.4204043	Visibility	
+NCMP_21032022_EGB3-3_BRUV	Kye Adams	9.2		Date	2022-03-21	Time	10:49:39	Location	NCMP	Site	EGB3	Status		Latitude	-33.5615862	Longitude	115.422044	Visibility	
+NCMP_21032022_EGB3-4_BRUV	Kye Adams	8.6		Date	2022-03-21	Time	10:47:10	Location	NCMP	Site	EGB3	Status		Latitude	-33.56319973	Longitude	115.4258741	Visibility	
+NCMP_21032022_EGB3-5_BRUV	Kye Adams	8.3		Date	2022-03-21	Time	10:45:21	Location	NCMP	Site	EGB3	Status		Latitude	-33.56517355	Longitude	115.4252296	Visibility	
+NCMP_21032022_EGB4-2_BRUV	Kye Adams	8.8		Date	2022-03-21	Time	11:00:01	Location	NCMP	Site	EGB4	Status		Latitude	-33.57043642	Longitude	115.4172535	Visibility	
+NCMP_21032022_EGB4-3_BRUV	Kye Adams	9		Date	2022-03-21	Time	11:02:19	Location	NCMP	Site	EGB4	Status		Latitude	-33.56974488	Longitude	115.4142255	Visibility	
+NCMP_21032022_EGB4-4_BRUV	Kye Adams	9.8		Date	2022-03-21	Time	11:04:58	Location	NCMP	Site	EGB4	Status		Latitude	-33.57045922	Longitude	115.4108778	Visibility	
+NCMP_21032022_EGB4-5_BRUV	Kye Adams	9.2		Date	2022-03-21	Time	11:08:27	Location	NCMP	Site	EGB4	Status		Latitude	-33.5729353	Longitude	115.4116703	Visibility	
+NCMP_21032022_EGB5-1_BRUV	Kye Adams	8.4		Date	2022-03-21	Time	12:24:51	Location	NCMP	Site	EGB5	Status		Latitude	-33.57807797	Longitude	115.4120231	Visibility	
+NCMP_21032022_EGB5-2_BRUV	Kye Adams	8.9		Date	2022-03-21	Time	12:26:49	Location	NCMP	Site	EGB5	Status		Latitude	-33.57552807	Longitude	115.4120205	Visibility	
+NCMP_21032022_EGB5-3_BRUV	Kye Adams	8.4		Date	2022-03-21	Time	12:22:31	Location	NCMP	Site	EGB5	Status		Latitude	-33.57821195	Longitude	115.4149929	Visibility	
+NCMP_21032022_EGB5-4_BRUV	Kye Adams	9		Date	2022-03-21	Time	12:29:49	Location	NCMP	Site	EGB5	Status		Latitude	-33.57787585	Longitude	115.4091256	Visibility	
+NCMP_21032022_EGB5-5_BRUV	Kye Adams	8.4		Date	2022-03-21	Time	12:32:30	Location	NCMP	Site	EGB5	Status		Latitude	-33.58032588	Longitude	115.4119017	Visibility	
+NCMP_21032022_EGB6-1_BRUV	Kye Adams	8.6		Date	2022-03-21	Time	13:59:49	Location	NCMP	Site	EGB6	Status		Latitude	-33.59734442	Longitude	115.3961421	Visibility	
+NCMP_21032022_EGB6-2_BRUV	Kye Adams	7.6		Date	2022-03-21	Time	13:57:36	Location	NCMP	Site	EGB6	Status		Latitude	-33.60066907	Longitude	115.3965634	Visibility	
+NCMP_21032022_EGB6-3_BRUV	Kye Adams	7.4		Date	2022-03-21	Time	14:08:13	Location	NCMP	Site	EGB6	Status		Latitude	-33.60180595	Longitude	115.3921489	Visibility	
+NCMP_21032022_EGB6-4_BRUV	Kye Adams	8		Date	2022-03-21	Time	14:05:35	Location	NCMP	Site	EGB6	Status		Latitude	-33.59817108	Longitude	115.3893229	Visibility	
+NCMP_21032022_EGB6-5_BRUV	Kye Adams	8.3		Date	2022-03-21	Time	14:02:29	Location	NCMP	Site	EGB6	Status		Latitude	-33.59490473	Longitude	115.3923756	Visibility	
+NCMP_21032022_EGB7-2_BRUV	Kye Adams	8.2		Date	2022-03-21	Time	14:20:48	Location	NCMP	Site	EGB7	Status		Latitude	-33.60504792	Longitude	115.3736502	Visibility	
+NCMP_21032022_EGB7-3_BRUV	Kye Adams	8.3		Date	2022-03-21	Time	14:18:02	Location	NCMP	Site	EGB7	Status		Latitude	-33.60293803	Longitude	115.3755594	Visibility	
+NCMP_21032022_EGB7-4_BRUV	Kye Adams	8.3		Date	2022-03-21	Time	14:15:14	Location	NCMP	Site	EGB7	Status		Latitude	-33.6041989	Longitude	115.3797951	Visibility	
+NCMP_21032022_EGB7-5_BRUV	Kye Adams	8		Date	2022-03-21	Time	14:13:16	Location	NCMP	Site	EGB7	Status		Latitude	-33.60752718	Longitude	115.3798749	Visibility	
+NCMP_22032022_EBS1-1_BRUV	Belle Mullins	22.7		Date	2022-03-22	Time	8:02:19	Location	NCMP	Site	EBS1	Status		Latitude	-33.55009572	Longitude	115.0787307	Visibility	
+NCMP_22032022_EBS1-2_BRUV	Belle Mullins	21.1		Date	2022-03-22	Time	8:05:37	Location	NCMP	Site	EBS1	Status		Latitude	-33.5507574	Longitude	115.07702	Visibility	
+NCMP_22032022_EBS1-3_BRUV	Belle Mullins	21		Date	2022-03-22	Time	8:07:50	Location	NCMP	Site	EBS1	Status		Latitude	-33.54970647	Longitude	115.075357	Visibility	
+NCMP_22032022_EBS1-4_BRUV	Belle Mullins	23.3		Date	2022-03-22	Time	8:10:13	Location	NCMP	Site	EBS1	Status		Latitude	-33.5487259	Longitude	115.0769919	Visibility	
+NCMP_22032022_EBS1-5_BRUV	Belle Mullins	22.2		Date	2022-03-22	Time	8:12:43	Location	NCMP	Site	EBS1	Status		Latitude	-33.5482612	Longitude	115.0749117	Visibility	
+NCMP_22032022_EBS2-1_BRUV	Belle Mullins	23.5		Date	2022-03-22	Time	8:16:09	Location	NCMP	Site	EBS2	Status		Latitude	-33.54542788	Longitude	115.0722313	Visibility	
+NCMP_22032022_EBS2-2_BRUV	Belle Mullins	26.1		Date	2022-03-22	Time	8:18:35	Location	NCMP	Site	EBS2	Status		Latitude	-33.54408383	Longitude	115.0731474	Visibility	
+NCMP_22032022_EBS2-3_BRUV		25.7		Date	2022-03-22	Time	8:21:13	Location	NCMP	Site	EBS2	Status		Latitude	-33.54315353	Longitude	115.0713669	Visibility	
+NCMP_22032022_EBS2-4_BRUV	Belle Mullins	23.5		Date	2022-03-22	Time	8:23:36	Location	NCMP	Site	EBS2	Status		Latitude	-33.54324867	Longitude	115.0695015	Visibility	
+NCMP_23032022_CF1-1_BRUV	Kye Adams	33		Date	2022-03-23	Time	8:21:08	Location	NCMP	Site	CF1	Status		Latitude	-34.03166108	Longitude	114.9629088	Visibility	
+NCMP_23032022_CF1-2_BRUV	Kye Adams	34		Date	2022-03-23	Time	8:23:55	Location	NCMP	Site	CF1	Status		Latitude	-34.0346851	Longitude	114.9619263	Visibility	
+NCMP_23032022_CF1-3_BRUV	Kye Adams	31.5		Date	2022-03-23	Time	8:14:59	Location	NCMP	Site	CF1	Status		Latitude	-34.02834628	Longitude	114.9645828	Visibility	
+NCMP_23032022_CF1-4_BRUV	Kye Adams	34		Date	2022-03-23	Time	8:18:08	Location	NCMP	Site	CF1	Status		Latitude	-34.03029455	Longitude	114.959695	Visibility	
+NCMP_23032022_CF1-5_BRUV	Kye Adams	32		Date	2022-03-23	Time	8:12:10	Location	NCMP	Site	CF1	Status		Latitude	-34.03141173	Longitude	114.9672311	Visibility	
+NCMP_23032022_CF2-1_BRUV	Kye Adams	33.5		Date	2022-03-23	Time	8:31:13	Location	NCMP	Site	CF2	Status		Latitude	-34.04872455	Longitude	114.9614798	Visibility	
+NCMP_23032022_CF2-2_BRUV	Kye Adams	33		Date	2022-03-23	Time	8:39:18	Location	NCMP	Site	CF2	Status		Latitude	-34.04889718	Longitude	114.9582991	Visibility	
+NCMP_23032022_CF2-3_BRUV	Kye Adams	32.8		Date	2022-03-23	Time	8:29:02	Location	NCMP	Site	CF2	Status		Latitude	-34.0460525	Longitude	114.961371	Visibility	
+NCMP_23032022_CF2-4_BRUV	Kye Adams	31		Date	2022-03-23	Time	8:36:50	Location	NCMP	Site	CF2	Status		Latitude	-34.05183095	Longitude	114.9615728	Visibility	
+NCMP_23032022_CF2-5_BRUV	Kye Adams	31		Date	2022-03-23	Time	8:34:10	Location	NCMP	Site	CF2	Status		Latitude	-34.05020162	Longitude	114.9644332	Visibility	
+NCMP_23032022_CF3-1_BRUV	Kye Adams	32		Date	2022-03-23	Time	10:14:07	Location	NCMP	Site	CF3	Status		Latitude	-34.0735326	Longitude	114.9589464	Visibility	
+NCMP_23032022_CF3-2_BRUV	Kye Adams	31.5		Date	2022-03-23	Time	10:07:10	Location	NCMP	Site	CF3	Status	No-take	Latitude	-34.07070775	Longitude	114.9638959	Visibility	7.8
+NCMP_23032022_CF3-3_BRUV	Kye Adams	31		Date	2022-03-23	Time	10:17:36	Location	NCMP	Site	CF3	Status		Latitude	-34.07024612	Longitude	114.9558554	Visibility	5.6
+NCMP_23032022_CF3-4_BRUV	Kye Adams	25.5		Date	2022-03-23	Time	10:21:21	Location	NCMP	Site	CF3	Status	No-take	Latitude	-34.0676556	Longitude	114.9593023	Visibility	2.2
+NCMP_23032022_CF3-5_BRUV	Kye Adams	33		Date	2022-03-23	Time	10:10:16	Location	NCMP	Site	CF3	Status	No-take	Latitude	-34.07060207	Longitude	114.9600575	Visibility	2.5
+NCMP_23032022_CF4-1_BRUV	Kye Adams	32		Date	2022-03-23	Time	10:37:25	Location	NCMP	Site	CF4	Status	No-take	Latitude	-34.08755383	Longitude	114.9633727	Visibility	7.4
+NCMP_23032022_CF4-2_BRUV	Kye Adams	32		Date	2022-03-23	Time	10:40:03	Location	NCMP	Site	CF4	Status	No-take	Latitude	-34.08805938	Longitude	114.9597142	Visibility	4.7
+NCMP_23032022_CF4-3_BRUV	Kye Adams	33		Date	2022-03-23	Time	10:28:06	Location	NCMP	Site	CF4	Status	No-take	Latitude	-34.08485145	Longitude	114.9608801	Visibility	6.6
+NCMP_23032022_CF4-4_BRUV	Kye Adams	32		Date	2022-03-23	Time	10:31:19	Location	NCMP	Site	CF4	Status		Latitude	-34.08601758	Longitude	114.9668214	Visibility	
+NCMP_23032022_CF4-5_BRUV	Kye Adams	30.5		Date	2022-03-23	Time	10:35:00	Location	NCMP	Site	CF4	Status	No-take	Latitude	-34.08982547	Longitude	114.96576	Visibility	5.9
+NCMP_23032022_CF5-1_BRUV	Kye Adams	36.5		Date	2022-03-23	Time	12:14:42	Location	NCMP	Site	CF5	Status	No-take	Latitude	-34.10278852	Longitude	114.9567564	Visibility	2.2
+NCMP_23032022_CF5-2_BRUV	Kye Adams	30		Date	2022-03-23	Time	12:11:23	Location	NCMP	Site	CF5	Status	No-take	Latitude	-34.10416345	Longitude	114.959906	Visibility	2.7
+NCMP_23032022_CF5-3_BRUV	Kye Adams	38		Date	2022-03-23	Time	12:21:50	Location	NCMP	Site	CF5	Status	No-take	Latitude	-34.10787372	Longitude	114.9564425	Visibility	9.1
+NCMP_23032022_CF5-4_BRUV	Kye Adams	32		Date	2022-03-23	Time	12:24:41	Location	NCMP	Site	CF5	Status	No-take	Latitude	-34.10724253	Longitude	114.9596127	Visibility	2.3
+NCMP_23032022_CF5-5_BRUV	Kye Adams	38		Date	2022-03-23	Time	12:18:56	Location	NCMP	Site	CF5	Status	No-take	Latitude	-34.1051382	Longitude	114.954206	Visibility	8.3
+NCMP_24032022_CF6-1_BRUV	Kye Adams	31.5		Date	2022-03-24	Time	8:02:51	Location	NCMP	Site	CF6	Status	Fished	Latitude	-34.12756248	Longitude	114.9704047	Visibility	5.7
+NCMP_24032022_CF6-2_BRUV	Kye Adams	36.5		Date	2022-03-24	Time		Location	NCMP	Site	CF6	Status	Fished	Latitude	-34.13094698	Longitude	114.9650267	Visibility	
+NCMP_24032022_CF6-3_BRUV	Kye Adams	31.5		Date	2022-03-24	Time	8:15:13	Location	NCMP	Site	CF6	Status	Fished	Latitude	-34.13104532	Longitude	114.9706631	Visibility	5.9
+NCMP_24032022_CF6-4_BRUV	Kye Adams	34		Date	2022-03-24	Time	8:05:34	Location	NCMP	Site	CF6	Status	Fishes	Latitude	-34.12848473	Longitude	114.967434	Visibility	5.4
+NCMP_24032022_CF6-5_BRUV	Kye Adams	36.5		Date	2022-03-24	Time	8:08:26	Location	NCMP	Site	CF6	Status	Fished	Latitude	-34.12698628	Longitude	114.9640798	Visibility	2.6
+NCMP_24032022_CF7-1_BRUV	Kye Adams	33		Date	2022-03-24	Time	8:24:14	Location	NCMP	Site	CF7	Status	Fished	Latitude	-34.1445138	Longitude	114.9775833	Visibility	2.5
+NCMP_24032022_CF7-2_BRUV	Kye Adams	33		Date	2022-03-24	Time	8:30:24	Location	NCMP	Site	CF7	Status	Fished	Latitude	-34.14779685	Longitude	114.977377	Visibility	6.0
+NCMP_24032022_CF7-3_BRUV	Kye Adams	31		Date	2022-03-24	Time	8:26:50	Location	NCMP	Site	CF7	Status	Fished	Latitude	-34.14588513	Longitude	114.9814175	Visibility	4.8
+NCMP_24032022_CF7-4_BRUV	Kye Adams	33		Date	2022-03-24	Time	8:32:57	Location	NCMP	Site	CF7	Status		Latitude	-34.14468725	Longitude	114.9736007	Visibility	
+NCMP_24032022_CF7-5_BRUV	Kye Adams	31		Date	2022-03-24	Time	8:21:12	Location	NCMP	Site	CF7	Status	Fished	Latitude	-34.14150068	Longitude	114.9791419	Visibility	4.0

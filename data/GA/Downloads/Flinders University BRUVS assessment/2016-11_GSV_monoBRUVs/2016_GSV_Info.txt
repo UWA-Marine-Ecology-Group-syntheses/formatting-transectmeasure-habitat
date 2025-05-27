@@ -1,0 +1,37 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+AR_BTC_R1	Tom		Starts at 1:34, facing slightly upwards, poor vis	Habitat	Rocky reef														
+AR_BTC_R2	Tom		Starts at 0:51	Habitat	Rocky reef														
+AR_BTC_R3	Tom		Starts at 1:00, turns on side at 1:48	Habitat	Sandy														
+AR_BTC_R4	Tom		Starts at 0:54	Habitat	Rocky reef														
+AR_BTC_R5	Tom		Starts at 1:16	Habitat	Rocky reef														
+AR_BTC_R6	Tom		Starts at 1:15	Habitat	Rocky reef														
+AR_CTC_R1_B	Tom		Starts at 2:07	Habitat	Sany/rocky														
+AR_CTC_R2_B	Tom		Starts at 1:30	Habitat	Sandy/reefy														
+AR_CTC_R3_B	Tom		Starts at 1:41	Habitat	Sandy/Rocky reef														
+AR_CTC_R4_B	Tom		Starts at 2:18, on side, cant see bait bag	Habitat	Rocky reef														
+AR_CTC_R5_B	Tom		Starts at 1:53	Habitat	Rocky reef														
+AR_CTC_R6_B	Tom		Starts at 0:54	Habitat	Rocky reef														
+BTC_LS_R1	Tom		Starts at 0:32	Habitat	Seagrass														
+BTC_LS_R2	Tom		Starts at 0:27	Habitat	Seagrass														
+BTC_LS_R3	Tom		Starts at 0:51	Habitat	Seagrass														
+BTC_LS_R4	Tom		Starts at 1:21, algae covering FOV from 0:56 onwards	Habitat	Seagrass														
+BTC_LS_R5	Tom		Starts at 0:43	Habitat	Seagrass														
+BTC_LS_R6	Tom		Starts at 0:27, seagrass blocking FOV from 2:05	Habitat	Seagrass														
+CTC_LS_R1_B	Tom		Starts at 1:47	Habitat	Seagrass														
+CTC_LS_R2_B	Tom		Starts at 0:55	Habitat	Seagrass														
+CTC_LS_R3_B	Tom		Starts at 0:57	Habitat	Seagrass														
+CTC_LS_R4_B	Tom		Starts at 0:54, view obstructed 1:33	Habitat	Seagrass														
+CTC_LS_R5_B	Tom		Starts at 0:50	Habitat	Seagrass														
+CTC_LS_R6_B	Tom		Starts at 0:47, poor vis at 1:24:41, squid chasing fish	Habitat	Seagrass														
+BTC_OB_R1	Tom		Starts at 2:54, Turned on side at 1:24	Habitat	Rocky reef														
+BTC_OB_R2	Tom		Starts at 1:09	Habitat	Rocky reef/sponge														
+BTC_OB_R3	Tom		Starts at 1:55, on side at 8:54	Habitat	Rocky reef														
+BTC_OB_R4	Tom		Starts at 2:20	Habitat	Sandy/Sponge														
+BTC_OB_R5	Tom		Starts at 2:04, facing slightly downwards	Habitat	Sandy/Sponge														
+BTC_OB_R6	Tom		Starts at 1:30	Habitat	Rocky reef/sandy														
+CTC_OB_R1_B	Tom		Starts at 3:26	Habitat	Sandy/sponge														
+CTC_OB_R2_B	Tom		Starts at 9:06, flips on top at 11:24	Habitat	Rocky reef														
+CTC_OB_R3_B	Tom		Starts at 2:33	Habitat	Sandy														
+CTC_OB_R4_B	Tom		Starts at 0:1:59	Habitat	Sandy/Sponge (Pyura)														
+CTC_OB_R5_B	Tom		Starts at 1:54, pauses from 16:29 - 19:55, pulled up 5 min early, mackerel on way up	Habitat	Rocky reef														
+CTC_OB_R6_B	Tom		Starts at 1:51	Habitat	Sandy/Sponge														

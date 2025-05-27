@@ -1,0 +1,11 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait consistency","Mushed",FALSE
+"4","Sampling: Minimum separation distance of samples (m)","250",FALSE
+"5","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"6","Annotation: Taxa that have been ID'd","All fauna",FALSE
+"7","Annotation: Taxonomic resolution","All taxa identified to the lowest possible taxonomic level",FALSE
+"8","Annotation: Observer/Anotator experience (>years)","4",FALSE
+"9","Annotation: Type of Length measure","Total length",FALSE
+"10","Sampling: Bait quantity (g)","1000",FALSE

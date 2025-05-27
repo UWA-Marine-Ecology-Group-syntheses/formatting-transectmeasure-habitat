@@ -1,0 +1,14 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait quantity (g)","1000",FALSE
+"4","Sampling: Minimum separation distance of samples (m)","500",FALSE
+"5","Sampling: Camera type","SONY HDRA Full HD Action Cam",FALSE
+"6","Sampling: Camera configuration","Stereo",FALSE
+"7","Sampling: Camera separation (mm)","500",FALSE
+"8","Sampling: Camera incidence angle (degrees)","5",FALSE
+"9","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"10","Annotation: Type of Length measure","Fork length",FALSE
+"11","Annotation: Maximum range annotations were made (m)","8",FALSE
+"12","Annotation: .EMObs uploaded as .zip","Yes",FALSE
+"13","Sampling: Frame type","Steel",FALSE

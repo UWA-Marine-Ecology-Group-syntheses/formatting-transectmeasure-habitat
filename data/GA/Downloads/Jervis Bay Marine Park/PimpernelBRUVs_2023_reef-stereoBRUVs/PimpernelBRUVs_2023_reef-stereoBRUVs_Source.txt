@@ -1,0 +1,9 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+Pimp1_20230914	1.09	2024 03 15 14:13:47	O:\2023 BRUVs\Pimpernel Rock_BRUVs 14 September 2023\Unit 1\	Pimp1_20230914.EMObs
+Pimp1_20231103	1.09	2024 03 15 14:13:47	N:\2023\Pimpernel Rock-BRUVs 3 November 2023\Unit 1\	Pimp1_20231103.EMObs
+Pimp2_20230914	1.09	2024 03 15 14:13:47	N:\2023\Pimpernel Rock_BRUVs 14 September 2023\Unit 2\	Pimp2_20230914.EMObs
+Pimp2_20231103	1.09	2024 03 15 14:13:47	N:\2023\Pimpernel Rock-BRUVs 3 November 2023\Unit 2\	Pimp2_20231103.EMObs
+Pimp3_20230914	1.09	2024 03 15 14:13:47	O:\2023 BRUVs\Pimpernel Rock_BRUVs 14 September 2023\Unit 3\	Pimp3_20230914.EMObs
+Pimp3_20231103	1.09	2024 03 15 14:13:47	N:\2023\Pimpernel Rock-BRUVs 3 November 2023\Unit 3\	Pimp3_20231103.EMObs
+Pimp4_20230914	1.09	2024 03 15 14:13:47	E:\2023 BRUVs\Pimpernel Rock_BRUVs 14 September 2023\Unit 4\	Pimp4_20230914.EMObs
+Pimp4_20231103	1.09	2024 03 15 14:13:47	N:\2023\Pimpernel Rock-BRUVs 3 November 2023\Unit 4\	Pimp4_20231103.EMObs

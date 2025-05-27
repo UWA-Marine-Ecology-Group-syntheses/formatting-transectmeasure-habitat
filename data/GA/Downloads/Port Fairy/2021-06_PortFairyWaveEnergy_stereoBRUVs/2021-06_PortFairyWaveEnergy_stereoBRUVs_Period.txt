@@ -1,0 +1,25 @@
+OpCode	PeriodIndex	Period	FilenameStart	FrameStart	TimeStart	FilenameEnd	FrameEnd	TimeEnd	HasEnd
+WE01	0	Analysis	20210603_Port_Fairy_Wave_WE01_Rig6_6L (1).MP4	10424	5.79690				0
+WE02	0	Analysis	20210603_Port_Fairy_Wave_WE02_Rig3_3L (1).MP4	3397	1.88911				0
+WE05	0	Analysis	20210603_Port_Fairy_Wave_WE05_Rig6_6L (1).MP4	4061	2.25837				0
+WE06	0	Analysis	20210603_Port_Fairy_Wave_WE06_Rig7_7L (1).MP4	3108	1.72839				0
+WE07	0	Analysis	20210603_Port_Fairy_Wave_WE07_Rig9_9L (1).MP4	10017	5.57057				0
+WE09	0	Analysis	20210603_Port_Fairy_Wave_WE09_Rig7_7L (1).MP4	5396	3.00078				0
+WE10	0	Analysis	20210603_Port_Fairy_Wave_WE10_Rig6_6L (1).MP4	4674	2.59926				0
+WE11	0	Analysis	20210603_Port_Fairy_Wave_WE11_Rig4_4L (1).MP4	3686	2.04983				0
+WE12	0	Analysis	20210603_Port_Fairy_Wave_WE12_Rig5_5L (1).MP4	6081	3.38171				0
+WE13	0	Analysis	20210603_Port_Fairy_Wave_WE13_Rig3_3L (1).MP4	4374	2.43243				0
+WE14	0	Analysis	20210603_Port_Fairy_Wave_WE14_Rig2_2L (1).MP4	4897	2.72328				0
+WE15	0	Analysis	20210603_Port_Fairy_Wave_WE15_Rig1_1L (1).MP4	5084	2.82727				0
+WE16	0	Analysis	20210603_Port_Fairy_Wave_WE16_Rig3_3L (1).MP4	7608	4.23089				0
+WE17	0	Analysis	20210603_Port_Fairy_Wave_WE17_Rig5_5L (1).MP4	4632	2.57591				0
+WE18	0	Analysis	20210603_Port_Fairy_Wave_WE18_Rig4_4L (1).MP4	4225	2.34957				0
+WE19	0	Analysis	20210603_Port_Fairy_Wave_WE19_Rig10_10L (1).MP4	4144	2.30452				0
+WE20	0	Analysis	20210603_Port_Fairy_Wave_WE20_Rig9_9L (1).MP4	3942	2.19219				0
+WE21	0	Analysis	20210603_Port_Fairy_Wave_WE21_Rig8_8L (1).MP4	6931	3.85441				0
+WE22	0	Analysis	20210603_Port_Fairy_Wave_WE22_Rig1_1L (1).MP4	6165	3.42842				0
+WE23	0	Analysis	20210603_Port_Fairy_Wave_WE23_Rig10_10L (1).MP4	5259	2.92459				0
+WE24	0	Analysis	20210603_Port_Fairy_Wave_WE24_Rig1_1L (1).MP4	7187	3.99677				0
+WE25	0	Analysis	20210603_Port_Fairy_Wave_WE25_Rig2_2L (1).MP4	7761	4.31598				0
+WEER1	0	Analysis	20210603_Port_Fairy_Wave_WEER1_Rig8_8L (1).MP4	5170	2.87509				0
+WEER2	0	Analysis	20210603_Port_Fairy_Wave_WEER2_Rig5_5L (1).MP4	5723	3.18262				0

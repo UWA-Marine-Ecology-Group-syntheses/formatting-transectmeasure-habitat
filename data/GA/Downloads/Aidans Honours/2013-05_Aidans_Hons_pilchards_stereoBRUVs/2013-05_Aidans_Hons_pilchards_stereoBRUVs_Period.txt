@@ -1,0 +1,25 @@
+OpCode	PeriodIndex	Period	FilenameStart	FrameStart	TimeStart	FilenameEnd	FrameEnd	TimeEnd	HasEnd
+Inside_1_15_Pilchard	0	START	Inside_1_15_Pilchard_left.avi	8526	5.68400	Inside_1_15_Pilchard_left.avi	97603	65.06867	1
+Inside_1_25_pilchards	0	START	Inside_1_25_pilchards_left.avi	20730	13.82000	Inside_1_25_pilchards_left.avi	109610	73.07333	1
+Inside_1_5_Pilchards	0	START	Inside_1_5_Pilchards_left.avi	13014	8.67600				0
+Inside_1_5_Pilchards	1	END	Inside_1_5_Pilchards_left.avi	102051	68.03400				0
+Inside_2_15_Pilchards	0	Start	Inside_2_15_Pilchards_Right.avi	4609	3.07267	Inside_2_15_Pilchards_Right.avi	94703	63.13533	1
+INSIDE_2_25_PILCHARDS	0	START	Inside_2_25_Pilchards_left.avi	16055	10.70333	Inside_2_25_Pilchards_left.avi	105576	70.38400	1
+Inside_2_5_Pilchards	0	Start	Inside_2_5_Pilchards_Right.avi	8653	5.76867	Inside_2_5_Pilchards_Right.avi	98661	65.77400	1
+Inside_3_15_Pilchards	0	Start	Inside_3_15_Pilchards_left.avi	10344	6.89600	Inside_3_15_Pilchards_left.avi	100572	67.04800	1
+Inside_3_25_Pilchards	0	Start	Inside_3_25_Pilchards_left.avi	12322	8.21467	Inside_3_25_Pilchards_left.avi	102493	68.32867	1
+Inside_3_5_Pilchards	0	START	Inside_3_5_Pilchards_left.avi	12425	8.28333	Inside_3_5_Pilchards_left.avi	98464	65.64267	1
+Inside_4_15_Pilchards	0	START	Inside_4_15_Pilchards_left.avi	7401	4.93400	Inside_4_15_Pilchards_left.avi	96740	64.49333	1
+Inside_4_25_Pilchards	0	Start	Inside_4_25_Pilchards_left.avi	22243	14.82867	Inside_4_25_Pilchards_left.avi	112732	75.15467	1
+Inside_4_5_Pilchards	0	Start	Inside_4_5_Pilchards_Left (2).avi	5618	3.74533	Inside_4_5_Pilchards_Left (2).avi	95076	63.38400	1
+Outside_1_15_Pilchards	0	Start	Outside_1_15_Pilchards_left.avi	3797	2.53133	Outside_1_15_Pilchards_left.avi	93965	62.64333	1
+Outside_1_25_Pilchards	0	Start	Outside_1_25_Pilchards.avi	15472	10.31467	Outside_1_25_Pilchards.avi	64453	42.96867	1
+Outside_2_15_Pilchards	0	Start	Outside_2_15_Pilchards_left(1).avi	7353	4.90200	Outside_2_15_Pilchards_left(1).avi	96010	64.00667	1
+Outside_2_25_Pilchards	0	Start	Outside_2_25_Pilchards_left.avi	10481	6.98733	Outside_2_25_Pilchards_left.avi	100600	67.06667	1
+Outside_2_5_Pilchards	0	Start	Outside_2_5_Pilchards_right.avi	15157	10.10467	Outside_2_5_Pilchards_right.avi	103715	69.14333	1
+Outside_3_15_Pilchard	0	Start	Outside_3_15_Pilchards_left.avi	6273	4.18200	Outside_3_15_Pilchards_left.avi	97131	64.75400	1
+Outside_3_25_Pilchards	0	Start	Outside_3_25_Pilchards_left.avi	3173	2.11533	Outside_3_25_Pilchards_left.avi	93491	62.32733	1
+Outside_3_5_Pilchards	0	Start	Outside_3_5_Pilchards_left.avi	4348	2.89867	Outside_3_5_Pilchards_left.avi	94846	63.23067	1
+Outside_4_15_Pilchards	0	Start	Outside_4_15_Pilchards_left.avi	5175	3.45000	Outside_4_15_Pilchards_left.avi	5175	3.45000	1
+Outside_4_25_Pilchards	0	Start	Outside_4_25_Pilchards_left.avi	11673	7.78200				0
+Outside_4_5_Pilchards	0	Start	Outside_4_5_Pilchards_Right.avi	11230	7.48667	Outside_4_5_Pilchards_Right.avi	95775	63.85000	1

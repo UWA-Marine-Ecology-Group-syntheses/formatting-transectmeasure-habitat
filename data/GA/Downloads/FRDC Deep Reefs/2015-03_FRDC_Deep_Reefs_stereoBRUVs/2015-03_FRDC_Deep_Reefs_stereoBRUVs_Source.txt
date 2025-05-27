@@ -1,0 +1,122 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+DeepReef_Butlers_01_24032015	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_01_24032015.EMObs
+DeepReef_Butlers_02_24032015	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_02_24032015.EMObs
+DeepReef_Butlers_03_26032015	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_03_26032015_JH.EMObs
+DeepReef_Butlers_04_09032015	1.07	2017 12 07 09:07:20	R:\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_04_09032015.EMObs
+DeepReef_Butlers_05_26032015	1.07	2017 12 07 09:07:20	R:\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_05_26032015.EMObs
+DeepReef_Butlers_06	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_06_09032015_JH.EMObs
+DeepReef_Butlers_07	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_07_26032015.EMObs
+DeepReef_Butlers_08	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_08_24032015.EMObs
+DeepReef_Butlers_09	1.07	2017 12 07 09:07:20	R:\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_09_09032015_JH.EMObs
+DeepReef_Butlers_10	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_10_25032015.EMObs
+DeepReef_Butlers_11	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_11_25032015.EMObs
+DeepReef_Butlers_12	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_12_25032015_JH.EMObs
+DeepReef_Butlers_13	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_13_25032015.EMObs
+DeepReef_Butlers_14	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_14_10032015.EMObs
+DeepReef_Butlers_16	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_16_25032015_JH.EMObs
+DeepReef_Butlers_17	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_17_25032015.EMObs
+DeepReef_Butlers_18	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_18_26032015.EMObs
+DeepReef_Butlers_19	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_19_09032015.EMObs
+DeepReef_Butlers_20	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_20_10032015.EMObs
+DeepReef_Butlers_21	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_21_24032015.EMObs
+DeepReef_Butlers_22	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_22_24032015_JH.EMObs
+DeepReef_Butlers_23	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_23_24032015.EMObs
+DeepReef_Butlers_24	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_24_26032015.EMObs
+DeepReef_Butlers_25	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_25_24032015_JH.EMObs
+DeepReef_Butlers_26	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_26_10032015.EMObs
+DeepReef_Butlers_27	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_27_24032015.EMObs
+DeepReef_Butlers_28	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_28_25032015.EMObs
+DeepReef_Butlers_29	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_29_24032015.EMObs
+DeepReef_Butlers_30	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_30_25032015_JH.EMObs
+DeepReef_Butlers_31	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_31_26032015_JH.EMObs
+DeepReef_Butlers_32	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_32_24032015_JH.EMObs
+DeepReef_Butlers_33	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_33_26032015_JH.EMObs
+DeepReef_Butlers_34	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_34_24032015_JH.EMObs
+DeepReef_Butlers_35	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_35_24032015_JH.EMObs
+DeepReef_Butlers_36	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_36_26032015_JH.EMObs
+DeepReef_Butlers_37	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_37_26032015.EMObs
+DeepReef_Butlers_38	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_38_25032015_JH.EMObs
+DeepReef_Butlers_39	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_39_26032015_JH.EMObs
+DeepReef_Butlers_40	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_40_24032015.EMObs
+DeepReef_Butlers_42	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_41_10032015_JH.EMObs
+DeepReef_Butlers_43	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_43_10032015_JH.EMObs
+DeepReef_Butlers_44	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_44_26032015_JH.EMObs
+DeepReef_Butlers_45	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_45_25032015_JH.EMObs
+DeepReef_Butlers_46	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_46_10032015_JH.EMObs
+DeepReef_Butlers_47	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_47_26032015_JH.EMObs
+DeepReef_Butlers_48	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_48_26032015_JH.EMObs
+DeepReef_Butlers_49	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_49_10032015_JH.EMObs
+DeepReef_Butlers_50	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_50_10032015.EMObs
+DeepReef_Butlers_51	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_51_26032015.EMObs
+DeepReef_Butlers_52	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_52_10032015.EMObs
+DeepReef_Butlers_53	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_53_10032015_JH.EMObs
+DeepReef_Butlers_54	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_54_09032015.EMObs
+DeepReef_Butlers_55	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_55_25032015_JH.EMObs
+DeepReef_Butlers_56	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_56_26032015_JH.EMObs
+DeepReef_Butlers_57	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_57_25032015.EMObs
+DeepReef_Butlers_58	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_58_09032015_JH.EMObs
+DeepReef_Butlers_59	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_59_25032015.EMObs
+DeepReef_Butlers_60	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_60_26032015.EMObs
+DeepReef_Butlers_61	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_61_09032015.EMObs
+DeepReef_Butlers_62	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_62_26032015.EMObs
+DeepReef_Butlers_63	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Butlers Pt\all_avi\	DeepReef_Butlers_63_25032015_JH.EMObs
+DR_Firars_1	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_01_20150415_JH.EMObs
+DR_Firars_2	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_02_20150415_JH.EMObs
+DR_Firars_3	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_03_20150316_JH.EMObs
+DR_Firars_4	1.07	2017 12 07 09:07:20	R:\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_04_20150410_JH.EMObs
+DR_Firars_5	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_05_20150316_JH.EMObs
+DR_Firars_6	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_06_20150421_JH.EMObs
+DR_Firars_7	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_07_20150415_JH.EMObs
+DR_Firars_8	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_08_20150415_JH.EMObs
+DR_Firars_9	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_09_20150421_JH.EMObs
+DR_Firars_10	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_10_20150415_JH.EMObs
+DR_Firars_11	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_11_20150415_JH.EMObs
+DR_Firars_12	1.07	2017 12 07 09:07:20	R:\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_12_20150316_JH.EMObs
+DR_Firars_13	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_13_20150415_JH.EMObs
+DR_Firars_14	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_14_20150410_JH.EMObs
+DR_Firars_15	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_15_20150421_JH.EMObs
+DR_Firars_16	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_16_20150421_JH.EMObs
+DR_Firars_17	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_17_20150410_JH.EMObs
+DR_Firars_18	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_18_20150316_JH.EMObs
+DR_Firars_19	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_19_20150415_JH.EMObs
+DR_Firars_20	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_20_20150415_JH.EMObs
+DR_Firars_21	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_21_20150415_JH.EMObs
+DR_Firars_22	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_22_20150316_JH.EMObs
+DR_Firars_23	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_23_20150410_JH.EMObs
+DR_Firars_24	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_24_20150421_JH.EMObs
+DR_Firars_25	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_25_20150415_JH.EMObs
+DR_Firars_26	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_26_20150415_JH.EMObs
+DR_Firars_27	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_27_20150316_JH.EMObs
+DR_Firars_28	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_28_20150410_JH.EMObs
+DR_Firars_29	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_29_20150316_JH.EMObs
+DR_Firars_30	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_30_20150421_JH.EMObs
+DR_Firars_31	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_31_20150415_JH.EMObs
+DR_Firars_32	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_32_20150415_JH.EMObs
+DR_Firars_33	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_33_20150316_JH.EMObs
+DR_Firars_34	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_34_20150316_JH.EMObs
+DR_Firars_35	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_35_20150316_JH.EMObs
+DR_Firars_36	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_36_20150410_JH.EMObs
+DR_Firars_37	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_37_20150421_JH.EMObs
+DR_Firars_38	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_38_20150421_JH.EMObs
+DR_Firars_39	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_39_20150410_JH.EMObs
+DR_Firars_40	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_40_20150316_JH.EMObs
+DR_Firars_41	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_41_20150410_JH.EMObs
+DR_Firars_42	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_42_20150415_JH.EMObs
+DR_Firars_43	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_43_20150421_JH.EMObs
+DR_Firars_44	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_44_20150415_JH.EMObs
+DR_Firars_45	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_45_20150415_JH.EMObs
+DR_Firars_46	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_46_20150410_JH.EMObs
+DR_Firars_47	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_47_20150410_JH.EMObs
+DR_Firars_48	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_48_20150421_JH.EMObs
+DR_Firars_49	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_49_20150415_JH.EMObs
+DR_Firars_50	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_50_20150421_JH.EMObs
+DR_Firars_51	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_51_20150421_JH.EMObs
+DR_Firars_52	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_52_20150316_JH.EMObs
+DR_Firars_53	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_53_20150410_JH.EMObs
+DR_Firars_54	1.07	2017 12 07 09:07:20	\\tafidata.its.utas.edu.au\Research\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_54_20150415_JH.EMObs
+DR_Firars_55	1.07	2017 12 07 09:07:20	T:\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_55_20150415_JH.EMObs
+DR_Firars_56	1.07	2017 12 07 09:07:20	\\tafidata.its.utas.edu.au\Research\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_56_20150415_JH.EMObs
+DR_Firars_57	1.07	2017 12 07 09:07:20	\\tafidata.its.utas.edu.au\Research\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_57_20150410_JH.EMObs
+DR_Firars_58	1.07	2017 12 07 09:07:20	\\tafidata.its.utas.edu.au\Research\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_58_20150410_JH.EMObs
+DR_Firars_59	1.07	2017 12 07 09:07:20	\\tafidata.its.utas.edu.au\Research\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_59_20150316_JH.EMObs
+DR_Firars_60	1.07	2017 12 07 09:07:20	\\tafidata.its.utas.edu.au\Research\TAFI\Data\FRDC_DEEP_REEF\BRUV Footage N Cal\Friars\All_Converted\	DeepReep_Friars_60_20150410_JH.EMObs

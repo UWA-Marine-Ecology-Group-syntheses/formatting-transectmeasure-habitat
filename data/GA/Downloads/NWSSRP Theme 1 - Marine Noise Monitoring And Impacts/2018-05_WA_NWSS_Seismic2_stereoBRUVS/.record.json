@@ -1,0 +1,173 @@
+{
+  "created_at": ["2023-11-25T03:39:35.846683"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [80],
+  "description": ["BRUVS deployed to investigate selected potential impacts of exposure to a seismic survey on demersal fishes, across different spatial and temporal scales. These samples are from pre-seismic experiment only. "],
+  "files": [
+    {
+      "id": 12839,
+      "iscompressed": true,
+      "name": "2018-05_WA_NWSS_Seismic2_stereoBRUVS_Length.csv",
+      "user_id": 18
+    },
+    {
+      "id": 12840,
+      "iscompressed": true,
+      "name": "2018-05_WA_NWSS_Seismic2_stereoBRUVS_Metadata.csv",
+      "user_id": 18
+    },
+    {
+      "id": 12841,
+      "iscompressed": true,
+      "name": "2018-05_WA_NWSS_Seismic2_stereoBRUVS_Count.csv",
+      "user_id": 18
+    }
+  ],
+  "id": [1141],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 161,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "1000"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 174,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "250"
+    },
+    {
+      "campaigninfoprop_id": 42,
+      "id": 210,
+      "property": {
+        "id": 42,
+        "is_filter": false,
+        "name": "Sampling: Frame type"
+      },
+      "value": "Steel"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 224,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "BRUVS1.5.mdb from Australian Institute of\nMarine Science"
+    },
+    {
+      "campaigninfoprop_id": 56,
+      "id": 281,
+      "property": {
+        "id": 56,
+        "is_filter": false,
+        "name": "Annotation: Habitat information from each sample annotated as"
+      },
+      "value": "Percent cover"
+    },
+    {
+      "campaigninfoprop_id": 55,
+      "id": 275,
+      "property": {
+        "id": 55,
+        "is_filter": true,
+        "name": "Annotation: Habitat information from each sample"
+      },
+      "value": "Cover of benthos"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 218,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "Generic"
+    },
+    {
+      "campaigninfoprop_id": 50,
+      "id": 253,
+      "property": {
+        "id": 50,
+        "is_filter": true,
+        "name": "Annotation: Lengths measured for"
+      },
+      "value": "Selected target fish"
+    }
+  ],
+  "name": ["2018-05_WA_NWSS_Seismic2_stereoBRUVS"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [340],
+    "is_public": [false],
+    "name": ["NWSSRP Theme 1 - Marine Noise Monitoring And Impacts"]
+  },
+  "project_id": [340],
+  "user": {
+    "email": ["l.currey@aims.gov.au"],
+    "first_name": ["Leanne"],
+    "id": [18],
+    "is_admin": [false],
+    "last_name": ["Currey-Randall"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

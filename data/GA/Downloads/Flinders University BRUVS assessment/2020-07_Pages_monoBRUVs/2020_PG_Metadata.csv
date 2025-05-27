@@ -1,0 +1,13 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,Comments
+NP_R1,-35.76025,138.2983167,20200717,14:25:00,North Pages,No-take,North Pages,20,Tom Clarke,Yes,No,NA
+NP_R2,-35.76201667,138.3016667,20200717,14:30:00,North Pages,No-take,North Pages,20,Tom Clarke,Yes,No,NA
+NP_R3,-35.75955,138.3045833,20200717,14:35:00,North Pages,No-take,North Pages,15,Tom Clarke,Yes,No,NA
+NP_R4,-35.75675,138.3032,20200717,14:50:00,North Pages,No-take,North Pages,20,Tom Clarke,Yes,No,NA
+NP_R5,-35.7562,138.30015,20200717,14:55:00,North Pages,No-take,North Pages,22,Tom Clarke,Yes,No,NA
+NP_R6,-35.75773333,138.29745,20200717,15:00:00,North Pages,No-take,North Pages,28,Tom Clarke,Yes,No,NA
+SP_R1,-35.77445,138.2914167,20200717,10:01:00,South Pages,Fished,South Pages,20,Tom Clarke,Yes,No,NA
+SP_R2,-35.77696667,138.2893333,20200717,10:10:00,South Pages,Fished,South Pages,10,Tom Clarke,Yes,No,NA
+SP_R3,-35.78213333,138.2873167,20200717,10:15:00,South Pages,Fished,South Pages,25,Tom Clarke,Yes,No,NA
+SP_R4,-35.77523333,138.2950833,20200717,10:50:00,South Pages,Fished,South Pages,15,Tom Clarke,Yes,No,NA
+SP_R5,-35.77763333,138.2948,20200717,10:55:00,South Pages,Fished,South Pages,12,Tom Clarke,Yes,No,NA
+SP_R6,-35.78025,138.2927667,20200717,11:05:00,South Pages,Fished,South Pages,15,Tom Clarke,Yes,No,NA

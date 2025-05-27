@@ -1,0 +1,24 @@
+OpCode	Camera	MovieSeqIndex	StartTimeOffset	Format	Filename	Frames	Rate
+Inside_1_15_Pilchard	0	0	0.00000	0	Inside_1_15_Pilchard_left.avi	107481	25.00000
+Inside_1_25_pilchards	0	0	0.00000	0	Inside_1_25_pilchards_left.avi	129046	25.00000
+Inside_1_5_Pilchards	0	0	0.00000	0	Inside_1_5_Pilchards_left.avi	138345	25.00000
+Inside_2_15_Pilchards	0	0	0.00000	0	Inside_2_15_Pilchards_Right.avi	101855	25.00000
+INSIDE_2_25_PILCHARDS	0	0	0.00000	0	Inside_2_25_Pilchards_left.avi	121689	25.00000
+Inside_2_5_Pilchards	0	0	0.00000	0	Inside_2_5_Pilchards_Right.avi	114612	25.00000
+Inside_3_15_Pilchards	0	0	0.00000	0	Inside_3_15_Pilchards_left.avi	121665	25.00000
+Inside_3_25_Pilchards	0	0	0.00000	0	Inside_3_25_Pilchards_left.avi	134553	25.00000
+Inside_3_5_Pilchards	0	0	0.00000	0	Inside_3_5_Pilchards_left.avi	121677	25.00000
+Inside_4_15_Pilchards	0	0	0.00000	0	Inside_4_15_Pilchards_left.avi	121665	25.00000
+Inside_4_25_Pilchards	0	0	0.00000	0	Inside_4_25_Pilchards_left.avi	149722	25.00000
+Inside_4_5_Pilchards	0	0	0.00000	0	Inside_4_5_Pilchards_Left (2).avi	119506	25.00000
+Outside_1_15_Pilchards	0	0	0.00000	0	Outside_1_15_Pilchards_left.avi	100843	25.00000
+Outside_1_25_Pilchards	0	0	0.00000	0	Outside_1_25_Pilchards.avi	64620	25.00000
+Outside_2_15_Pilchards	0	0	0.00000	0	Outside_2_15_Pilchards_left(1).avi	103712	25.00000
+Outside_2_25_Pilchards	0	0	0.00000	0	Outside_2_25_Pilchards_left.avi	142928	25.00000
+Outside_2_5_Pilchards	0	0	0.00000	0	Outside_2_5_Pilchards_right.avi	121733	25.00000
+Outside_3_15_Pilchard	0	0	0.00000	0	Outside_3_15_Pilchards_left.avi	105093	25.00000
+Outside_3_25_Pilchards	0	0	0.00000	0	Outside_3_25_Pilchards_left.avi	109688	25.00000
+Outside_3_5_Pilchards	0	0	0.00000	0	Outside_3_5_Pilchards_left.avi	95078	25.00000
+Outside_4_15_Pilchards	0	0	0.00000	0	Outside_4_15_Pilchards_left.avi	98000	25.00000
+Outside_4_25_Pilchards	0	0	0.00000	0	Outside_4_25_Pilchards_left.avi	102824	25.00000
+Outside_4_5_Pilchards	0	0	0.00000	0	Outside_4_5_Pilchards_Right.avi	111424	25.00000

@@ -1,0 +1,166 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+SBMP_20180325_S10_1_BRUV	Tanika	7.5		Date	20180325	Time	8:28:00	Location	SBMP	Site	S10	Status		Latitude	-26.068061	Longitude	113.406057	Visibility	
+SBMP_20180325_S11_4_BRUV	Tanika	3		Date	20180325	Time		Location	SBMP	Site	S11	Status		Latitude	-26.199154	Longitude	113.486472	Visibility	
+SBMP_20180325_S10_3_BRUV	Tanika	7.5		Date	20180325	Time	8:32:00	Location	SBMP	Site	S10	Status		Latitude	-26.072054	Longitude	113.411004	Visibility	
+SBMP_20180325_S10_4_BRUV	Tanika	7.5		Date	20180325	Time	8:35:00	Location	SBMP	Site	S10	Status		Latitude	-26.074413	Longitude	113.412503	Visibility	
+SBMP_20180325_S10_5_BRUV	Tanika	7.5		Date	20180325	Time	8:37:00	Location	SBMP	Site	S10	Status		Latitude	-26.077316	Longitude	113.41393	Visibility	
+SBMP_20180325_S11_1_BRUV	Tanika	3		Date	20180325	Time	10:50:00	Location	SBMP	Site	S11	Status		Latitude	-26.194838	Longitude	113.478213	Visibility	
+SBMP_20180325_S11_2_BRUV	Tanika	3		Date	20180325	Time	10:53:00	Location	SBMP	Site	S11	Status		Latitude	-26.196211	Longitude	113.480186	Visibility	
+SBMP_20180325_S11_3_BRUV	Tanika	3		Date	20180325	Time	10:55:00	Location	SBMP	Site	S11	Status		Latitude	-26.197978	Longitude	113.482446	Visibility	
+SBMP_20180325_S10_2_BRUV	Tanika	7.5		Date	20180325	Time	8:30:00	Location	SBMP	Site	S10	Status		Latitude	-26.070276	Longitude	113.407434	Visibility	
+SBMP_20180325_S11_5_BRUV	Tanika	3		Date	20180325	Time	11:01:00	Location	SBMP	Site	S11	Status		Latitude	-26.20099	Longitude	113.48887	Visibility	
+SBMP_20180325_S12_1_BRUV	Tanika	4		Date	20180325	Time	11:12:00	Location	SBMP	Site	S12	Status		Latitude	-26.214646	Longitude	113.498504	Visibility	
+SBMP_20180325_S12_2_BRUV	Tanika	4		Date	20180325	Time	11:15:00	Location	SBMP	Site	S12	Status		Latitude	-26.217165	Longitude	113.497846	Visibility	
+SBMP_20180325_S12_3_BRUV	Tanika	4		Date	20180325	Time	11:18:00	Location	SBMP	Site	S12	Status		Latitude	-26.219992	Longitude	113.498406	Visibility	
+SBMP_20180325_S12_4_BRUV	Tanika	4		Date	20180325	Time	11:20:00	Location	SBMP	Site	S12	Status		Latitude	-26.220207	Longitude	113.501778	Visibility	
+SBMP_20180325_S12_5_BRUV	Tanika	4		Date	20180325	Time	11:22:00	Location	SBMP	Site	S12	Status		Latitude	-26.222686	Longitude	113.503128	Visibility	
+SBMP_20180325_S13_1_BRUV	Tanika	10		Date	20180325	Time	14:38:00	Location	SBMP	Site	S13	Status		Latitude	-26.310953	Longitude	113.581201	Visibility	
+SBMP_20180325_S13_2_BRUV	Tanika	10		Date	20180325	Time	14:45:00	Location	SBMP	Site	S13	Status		Latitude	-26.307625	Longitude	113.580806	Visibility	
+SBMP_20180325_S13_3_BRUV	Tanika	10		Date	20180325	Time	14:50:00	Location	SBMP	Site	S13	Status		Latitude	-26.304701	Longitude	113.580764	Visibility	
+SBMP_20180325_S13_4_BRUV	Tanika	10		Date	20180325	Time	14:52:00	Location	SBMP	Site	S13	Status		Latitude	-26.301578	Longitude	113.580487	Visibility	
+SBMP_20180325_S13_5_BRUV	Tanika	10		Date	20180325	Time	14:54:00	Location	SBMP	Site	S13	Status		Latitude	-26.299029	Longitude	113.580388	Visibility	
+SBMP_20180325_S14_1_BRUV	Tanika	9		Date	20180325	Time	15:04:00	Location	SBMP	Site	S14	Status		Latitude	-26.325147	Longitude	113.579988	Visibility	
+SBMP_20180325_S14_2_BRUV	Tanika	9		Date	20180325	Time	15:07:00	Location	SBMP	Site	S14	Status		Latitude	-26.322169	Longitude	113.578695	Visibility	
+SBMP_20180325_S14_3_BRUV	Tanika	10		Date	20180325	Time	15:10:00	Location	SBMP	Site	S14	Status		Latitude	-26.320787	Longitude	113.576021	Visibility	
+SBMP_20180325_S14_4_BRUV	Tanika	10		Date	20180325	Time	15:12:00	Location	SBMP	Site	S14	Status		Latitude	-26.317558	Longitude	113.574264	Visibility	
+SBMP_20180325_S14_5_BRUV	Tanika	10		Date	20180325	Time	15:15:00	Location	SBMP	Site	S14	Status		Latitude	-26.315177	Longitude	113.573864	Visibility	
+SBMP_20180326_S15_1_BRUV	Tanika			Date	20180326	Time	8:40:00	Location	SBMP	Site	S15	Status		Latitude	-26.25770627	Longitude	113.7858844	Visibility	
+SBMP_20180326_S15_2_BRUV	Tanika			Date	20180326	Time	8:42:00	Location	SBMP	Site	S15	Status		Latitude	-26.25604291	Longitude	113.7825577	Visibility	
+SBMP_20180326_S15_3_BRUV	Tanika			Date	20180326	Time	8:45:00	Location	SBMP	Site	S15	Status		Latitude	-26.25437955	Longitude	113.7795874	Visibility	
+SBMP_20180326_S15_4_BRUV	Tanika			Date	20180326	Time	8:48:00	Location	SBMP	Site	S15	Status		Latitude	-26.25295382	Longitude	113.7764984	Visibility	
+SBMP_20180326_S15_5_BRUV	Tanika			Date	20180326	Time	8:50:00	Location	SBMP	Site	S15	Status		Latitude	-26.25176571	Longitude	113.772934	Visibility	
+SBMP_20180326_S16_1_BRUV	Tanika			Date	20180326	Time	10:18:00	Location	SBMP	Site	S16	Status		Latitude	-26.230305	Longitude	113.702711	Visibility	
+SBMP_20180326_S16_2_BRUV	Tanika			Date	20180326	Time	10:20:00	Location	SBMP	Site	S16	Status		Latitude	-26.230063	Longitude	113.699432	Visibility	
+SBMP_20180326_S16_3_BRUV	Caprice			Date	20180326	Time	10:24:00	Location	SBMP	Site	S16	Status		Latitude	-26.230266	Longitude	113.696631	Visibility	
+SBMP_20180326_S16_4_BRUV	Caprice			Date	20180326	Time	10:29:00	Location	SBMP	Site	S16	Status		Latitude	-26.230757	Longitude	113.693052	Visibility	
+SBMP_20180327_S17_2_BRUV	Tanika	3		Date	20180327	Time	11:19:00	Location	SBMP	Site	S17	Status		Latitude	-25.78925	Longitude	113.4236167	Visibility	
+SBMP_20180327_S17_3_BRUV	Caprice			Date	20180327	Time	11:21:00	Location	SBMP	Site	S17	Status		Latitude	-25.78743333	Longitude	113.4202833	Visibility	
+SBMP_20180327_S17_4_BRUV	Caprice			Date	20180327	Time	11:23:00	Location	SBMP	Site	S17	Status		Latitude	-25.78551667	Longitude	113.41685	Visibility	
+SBMP_20180327_S17_5_BRUV	Caprice			Date	20180327	Time	11:26:00	Location	SBMP	Site	S17	Status		Latitude	-25.7839	Longitude	113.41395	Visibility	
+SBMP_20180327_S19_2_BRUV	Caprice			Date	20180327	Time	14:03:00	Location	SBMP	Site	S19	Status		Latitude	-25.68375	Longitude	113.3199	Visibility	
+SBMP_20180327_S19_3_BRUV	Caprice			Date	20180327	Time	14:06:00	Location	SBMP	Site	S19	Status		Latitude	-25.68111667	Longitude	113.31765	Visibility	
+SBMP_20180327_S19_4_BRUV	Caprice			Date	20180327	Time	14:08:00	Location	SBMP	Site	S19	Status		Latitude	-25.67836667	Longitude	113.3157833	Visibility	
+SBMP_20180327_S20_3_BRUV	Caprice			Date	20180327	Time	14:32:00	Location	SBMP	Site	S20	Status		Latitude	-25.68666667	Longitude	113.3498	Visibility	
+SBMP_20180328_S21_4_BRUV	Caprice			Date	20180328	Time	9:33:00	Location	SBMP	Site	S21	Status		Latitude	-25.587181	Longitude	113.578606	Visibility	
+SBMP_20180328_S22_3_BRUV	Tanika	3		Date	20180328	Time	10:32:00	Location	SBMP	Site	S22	Status		Latitude	-25.571752	Longitude	113.52944	Visibility	
+SBMP_20180328_S22_4_BRUV	Caprice			Date	20180328	Time	10:34:00	Location	SBMP	Site	S22	Status		Latitude	-25.570037	Longitude	113.526289	Visibility	
+SBMP_20180328_S22_5_BRUV	Caprice			Date	20180328	Time	10:37:00	Location	SBMP	Site	S22	Status		Latitude	-25.566299	Longitude	113.524908	Visibility	
+SBMP_20180328_S23_1_BRUV	Caprice			Date	20180328	Time	14:30:00	Location	SBMP	Site	S23	Status		Latitude	-25.823159	Longitude	113.819346	Visibility	
+SBMP_20180328_S23_2_BRUV	Caprice			Date	20180328	Time	14:32:00	Location	SBMP	Site	S23	Status		Latitude	-25.820579	Longitude	113.817688	Visibility	
+SBMP_20180328_S23_3_BRUV	Caprice			Date	20180328	Time	14:36:00	Location	SBMP	Site	S23	Status		Latitude	-25.817923	Longitude	113.815576	Visibility	
+SBMP_20180328_S24_5_BRUV	Caprice			Date	20180328	Time	14:59:00	Location	SBMP	Site	S24	Status		Latitude	-25.788763	Longitude	113.799181	Visibility	
+SBMP_20180329_S25_2_BRUV	Caprice			Date	20180329	Time	11:26:00	Location	SBMP	Site	S25	Status		Latitude	-25.666496	Longitude	113.937532	Visibility	
+SBMP_20180329_S26_3_BRUV	Caprice			Date	20180329	Time	11:50:00	Location	SBMP	Site	S26	Status		Latitude	-25.636767	Longitude	113.914957	Visibility	
+SBMP_20180329_S26_4_BRUV	Caprice			Date	20180329	Time	11:53:00	Location	SBMP	Site	S26	Status		Latitude	-25.635658	Longitude	113.912197	Visibility	
+SBMP_20180329_S26_5_BRUV	Caprice			Date	20180329	Time	11:59:00	Location	SBMP	Site	S26	Status		Latitude	-25.631966	Longitude	113.908918	Visibility	
+SBMP_20180323_S2_1_BRUV	Caprice			Date	20180323	Time	15:40:00	Location	SBMP	Site	S2	Status		Latitude	-26.127264	Longitude	113.255097	Visibility	
+SBMP_20180323_S2_2_BRUV	Caprice			Date	20180323	Time	15:42:00	Location	SBMP	Site	S2	Status		Latitude	-26.129878	Longitude	113.254575	Visibility	
+SBMP_20180323_S2_3_BRUV	Caprice			Date	20180323	Time	15:44:00	Location	SBMP	Site	S2	Status		Latitude	-26.13226	Longitude	113.253877	Visibility	
+SBMP_20180324_S3_1_BRUV	Tanika	2.5		Date	20180324	Time	8:12:00	Location	SBMP	Site	S3	Status		Latitude	-26.107883	Longitude	113.253575	Visibility	
+SBMP_20180324_S3_2_BRUV	Tanika	2.5		Date	20180324	Time	8:15:00	Location	SBMP	Site	S3	Status		Latitude	-26.105759	Longitude	113.252366	Visibility	
+SBMP_20180324_S3_3_BRUV	TANIKA	2.5		Date	20180324	Time	8:17:00	Location	SBMP	Site	S3	Status		Latitude	-26.10369	Longitude	113.25113	Visibility	
+SBMP_20180324_S3_4_BRUV	Tanika	2.5		Date	20180324	Time	8:20:00	Location	SBMP	Site	S3	Status		Latitude	-26.101581	Longitude	113.24975	Visibility	
+SBMP_20180324_S3_5_BRUV	Tanika	2.5		Date	20180324	Time	8:23:00	Location	SBMP	Site	S3	Status		Latitude	-26.099426	Longitude	113.248452	Visibility	
+SBMP_20180324_S6_1_BRUV	Tanika	2.5		Date	20180324	Time	10:54:00	Location	SBMP	Site	S6	Status		Latitude	-26.030279	Longitude	113.285136	Visibility	
+SBMP_20180324_S6_2_BRUV	Tanika	3		Date	20180324	Time	10:56:00	Location	SBMP	Site	S6	Status		Latitude	-26.027439	Longitude	113.28623	Visibility	
+SBMP_20180324_S6_3_BRUV	Tanika	3		Date	20180324	Time	10:58:00	Location	SBMP	Site	S6	Status		Latitude	-26.024911	Longitude	113.287062	Visibility	
+SBMP_20180324_S6_5_BRUV	Tanika	2.5		Date	20180324	Time	11:04:00	Location	SBMP	Site	S6	Status		Latitude	-26.019023	Longitude	113.290004	Visibility	
+SBMP_20180324_S7_1_BRUV	Tanika	12		Date	20180324	Time	13:19:00	Location	SBMP	Site	S7	Status		Latitude	-26.02318	Longitude	113.379277	Visibility	
+SBMP_20180324_S7_2_BRUV	Tanika	12		Date	20180324	Time	13:22:00	Location	SBMP	Site	S7	Status		Latitude	-26.021765	Longitude	113.378076	Visibility	
+SBMP_20180324_S7_3_BRUV	Tanika	14		Date	20180324	Time	13:24:00	Location	SBMP	Site	S7	Status		Latitude	-26.019544	Longitude	113.376714	Visibility	
+SBMP_20180324_S8_1_BRUV	Tanika			Date	20180324	Time	16:03:00	Location	SBMP	Site	S8	Status		Latitude	-25.934645	Longitude	113.193877	Visibility	
+SBMP_20180324_S8_2_BRUV	Tanika			Date	20180324	Time	16:06:00	Location	SBMP	Site	S8	Status		Latitude	-25.93224	Longitude	113.192881	Visibility	
+SBMP_20180324_S8_3_BRUV	Tanika			Date	20180324	Time	16:09:00	Location	SBMP	Site	S8	Status		Latitude	-25.929978	Longitude	113.191968	Visibility	
+SBMP_20180325_S9_1_BRUV	Tanika	7.5		Date	20180325	Time	8:12:00	Location	SBMP	Site	S9	Status		Latitude	-26.046458	Longitude	113.397853	Visibility	
+SBMP_20180325_S9_3_BRUV	Tanika	7.5		Date	20180325	Time	8:16:00	Location	SBMP	Site	S9	Status		Latitude	-26.051	Longitude	113.40025	Visibility	
+SBMP_20180325_S9_4_BRUV	Tanika	7.5		Date	20180325	Time	8:18:00	Location	SBMP	Site	S9	Status		Latitude	-26.053635	Longitude	113.401792	Visibility	
+SBMP_20180325_S9_5_BRUV	Tanika	7.5		Date	20180325	Time	8:20:00	Location	SBMP	Site	S9	Status		Latitude	-26.056014	Longitude	113.403825	Visibility	
+SBMP_20180323_NSB_1_BRUV	Lauren Peel	3		Date	23/03/2018	Time	14:35	Location	SBMP	Site	NSB	Status		Latitude	-26.158576	Longitude	113.186245	Visibility	
+SBMP_20180323_NSB_2_BRUV	Lauren Peel	2.4		Date	23/03/2018	Time	14:40	Location	SBMP	Site	NSB	Status		Latitude	-26.160241	Longitude	113.186084	Visibility	
+SBMP_20180323_NSB_3_BRUV	Lauren Peel	2.6		Date	23/03/2018	Time	14:46	Location	SBMP	Site	NSB	Status		Latitude	-26.161193	Longitude	113.187988	Visibility	
+SBMP_20180323_NSB_4_BRUV	Lauren Peel	2	Facing seabed	Date	23/03/2018	Time	14:55	Location	SBMP	Site	NSB	Status		Latitude	-26.162403	Longitude	113.189886	Visibility	
+SBMP_20180323_NSB_5_BRUV	Lauren Peel	1.5		Date	23/03/2018	Time	15:04	Location	SBMP	Site	NSB	Status		Latitude	-26.163592	Longitude	113.191447	Visibility	
+SBMP_20180323_WCR_2_BRUV	Lauren Peel	2.4		Date	23/03/2018	Time	15:20	Location	SBMP	Site	WCR	Status		Latitude	-26.151625	Longitude	113.210978	Visibility	
+SBMP_20180323_WCR_4_BRUV	Lauren Peel	3.5	Upside down	Date	23/03/2018	Time	15:34	Location	SBMP	Site	WCR	Status		Latitude	-26.147302	Longitude	113.210275	Visibility	
+SBMP_20180323_WCR_5_BRUV	Lauren Peel	3.4		Date	23/03/2018	Time	15:35	Location	SBMP	Site	WCR	Status		Latitude	-26.145545	Longitude	113.21014	Visibility	
+SBMP_20180324_H2_1_BRUV	Lauren Peel	2		Date	24/03/2018	Time	13:47	Location	SBMP	Site	H2	Status		Latitude	-25.974165	Longitude	113.1879	Visibility	
+SBMP_20180324_H2_2_BRUV	Lauren Peel	1.8		Date	24/03/2018	Time	13:49	Location	SBMP	Site	H2	Status		Latitude	-25.973713	Longitude	113.186879	Visibility	
+SBMP_20180324_H2_3_BRUV	Lauren Peel	1.8		Date	24/03/2018	Time	13:51	Location	SBMP	Site	H2	Status		Latitude	-25.972948	Longitude	113.185643	Visibility	
+SBMP_20180324_HI1_1_BRUV	Lauren Peel	2		Date	24/03/2018	Time	13:13	Location	SBMP	Site	HI1	Status		Latitude	-25.986691	Longitude	113.191857	Visibility	
+SBMP_20180324_HI1_2_BRUV	Lauren Peel	2.5	Limited view (LHS more open than RHS)	Date	24/03/2018	Time	13:25	Location	SBMP	Site	HI1	Status		Latitude	-25.986226	Longitude	113.190905	Visibility	
+SBMP_20180324_HI1_4_BRUV	Lauren Peel	1.6		Date	24/03/2018	Time	13:30	Location	SBMP	Site	HI1	Status		Latitude	-25.985183	Longitude	113.188264	Visibility	
+SBMP_20180324_HI1_5_BRUV	Lauren Peel	1.5		Date	24/03/2018	Time	13:32	Location	SBMP	Site	HI1	Status		Latitude	-25.984053	Longitude	113.1883	Visibility	
+SBMP_20180324_NP1_1_BRUV	Lauren Peel	1.3		Date	24/03/2018	Time	15:25	Location	SBMP	Site	NP1	Status		Latitude	-25.949781	Longitude	113.167129	Visibility	
+SBMP_20180324_NP1_2_BRUV	Lauren Peel	1.5		Date	24/03/2018	Time	15:27	Location	SBMP	Site	NP1	Status		Latitude	-25.948802	Longitude	113.167042	Visibility	
+SBMP_20180324_NP1_3_BRUV	Lauren Peel	1.5	Visibility not great	Date	24/03/2018	Time	15:32	Location	SBMP	Site	NP1	Status		Latitude	-25.947142	Longitude	113.167339	Visibility	
+SBMP_20180324_NP1_4_BRUV	Lauren Peel	1.5	Half bait consumed	Date	24/03/2018	Time	15:34	Location	SBMP	Site	NP1	Status		Latitude	-25.946345	Longitude	113.167456	Visibility	
+SBMP_20180324_NP1_5_BRUV	Lauren Peel	1		Date	24/03/2018	Time	15:38	Location	SBMP	Site	NP1	Status		Latitude	-25.944523	Longitude	113.167859	Visibility	
+SBMP_20180324_SI1_1_BRUV	Lauren Peel	1.5		Date	24/03/2018	Time	8:04	Location	SBMP	Site	SI1	Status		Latitude	-26.124112	Longitude	113.235799	Visibility	
+SBMP_20180324_SI1_2_BRUV	Lauren Peel	5	Almost all bait consumed; G. speciosus school @ end - missed by drop	Date	24/03/2018	Time	8:10	Location	SBMP	Site	SI1	Status		Latitude	-26.122836	Longitude	113.234229	Visibility	
+SBMP_20180324_SI1_3_BRUV	Lauren Peel	2.6		Date	24/03/2018	Time	8:15	Location	SBMP	Site	SI1	Status		Latitude	-26.124382	Longitude	113.237193	Visibility	
+SBMP_20180324_SI1_4_BRUV	Lauren Peel	2.5		Date	24/03/2018	Time	8:20	Location	SBMP	Site	SI1	Status		Latitude	-26.120551	Longitude	113.236282	Visibility	
+SBMP_20180324_SI1_5_BRUV	Lauren Peel	1.5		Date	24/03/2018	Time	8:27	Location	SBMP	Site	SI1	Status		Latitude	-26.116595	Longitude	113.237331	Visibility	
+SBMP_20180324_SI2_1_BRUV	Lauren Peel	1.3		Date	24/03/2018	Time	8:40	Location	SBMP	Site	SI2	Status		Latitude	-26.106879	Longitude	113.237239	Visibility	
+SBMP_20180324_SI2_2_BRUV	Lauren Peel	2.8		Date	24/03/2018	Time	8:44	Location	SBMP	Site	SI2	Status		Latitude	-26.10582	Longitude	113.238281	Visibility	
+SBMP_20180324_SI2_3_BRUV	Lauren Peel	2.6	Majority of fish in distance - difficult to ID	Date	24/03/2018	Time	8:48	Location	SBMP	Site	SI2	Status		Latitude	-26.104552	Longitude	113.23748	Visibility	
+SBMP_20180324_SI2_4_BRUV	Lauren Peel	2.5	Majority of bait consumed	Date	24/03/2018	Time	8:52	Location	SBMP	Site	SI2	Status		Latitude	-26.10248	Longitude	113.236897	Visibility	
+SBMP_20180324_SI2_5_BRUV	Lauren Peel	2		Date	24/03/2018	Time	8:55	Location	SBMP	Site	SI2	Status		Latitude	-26.101042	Longitude	113.236906	Visibility	
+SBMP_20180324_STD1_1_BRUV	Lauren Peel	1.5		Date	24/03/2018	Time	10:40	Location	SBMP	Site	STD1	Status		Latitude	-26.047365	Longitude	113.219982	Visibility	
+SBMP_20180324_STD1_2_BRUV	Lauren Peel	1.5		Date	24/03/2018	Time	10:34	Location	SBMP	Site	STD1	Status		Latitude	-26.050325	Longitude	113.221382	Visibility	
+SBMP_20180324_STD1_3_BRUV	Lauren Peel	1.5	Bait consumed by 38.1993 min	Date	24/03/2018	Time	10:31	Location	SBMP	Site	STD1	Status		Latitude	-26.052938	Longitude	113.221986	Visibility	
+SBMP_20180324_STD1_4_BRUV	Lauren Peel	1.7		Date	24/03/2018	Time	10:27	Location	SBMP	Site	STD1	Status		Latitude	-26.055112	Longitude	113.221206	Visibility	
+SBMP_20180324_STD1_5_BRUV	Lauren Peel	2		Date	24/03/2018	Time	10:25	Location	SBMP	Site	STD1	Status		Latitude	-26.057432	Longitude	113.22055	Visibility	
+SBMP_20180324_TD1_1_BRUV	Lauren Peel	2		Date	24/03/2018	Time	11:00	Location	SBMP	Site	TD1	Status		Latitude	-26.033873	Longitude	113.209506	Visibility	
+SBMP_20180324_TD1_2_BRUV	Lauren Peel	1.5	Poor visibility	Date	24/03/2018	Time	10:54	Location	SBMP	Site	TD1	Status		Latitude	-26.034656	Longitude	113.212797	Visibility	
+SBMP_20180325_AI1_1_BRUV	Lauren Peel	1		Date	25/03/2018	Time	10:45	Location	SBMP	Site	AI1	Status		Latitude	-26.163748	Longitude	113.443143	Visibility	
+SBMP_20180325_AI1_2_BRUV	Lauren Peel	1		Date	25/03/2018	Time	10:47	Location	SBMP	Site	AI1	Status		Latitude	-26.161926	Longitude	113.444638	Visibility	
+SBMP_20180325_AI1_3_BRUV	Lauren Peel	1		Date	25/03/2018	Time	10:50	Location	SBMP	Site	AI1	Status		Latitude	-26.163873	Longitude	113.44422	Visibility	
+SBMP_20180325_AI1_4_BRUV	Lauren Peel	1		Date	25/03/2018	Time	11:00	Location	SBMP	Site	AI1	Status		Latitude	-26.170222	Longitude	113.447521	Visibility	
+SBMP_20180325_AI1_5_BRUV	Lauren Peel			Date	25/03/2018	Time		Location	SBMP	Site	AI1	Status		Latitude	-26.17346	Longitude	113.445395	Visibility	
+SBMP_20180325_CI1_1_BRUV	Lauren Peel	1.5		Date	25/03/2018	Time	13:49	Location	SBMP	Site	CI1	Status		Latitude	-26.364014	Longitude	113.569842	Visibility	
+SBMP_20180325_CI1_3_BRUV	Lauren Peel	1.9		Date	25/03/2018	Time	13:55	Location	SBMP	Site	CI1	Status		Latitude	-26.36664	Longitude	113.56989	Visibility	
+SBMP_20180325_CI1_5_BRUV	Lauren Peel	1.3		Date	25/03/2018	Time	14:01	Location	SBMP	Site	CI1	Status		Latitude	-26.367967	Longitude	113.566822	Visibility	
+SBMP_20180325_CP1_1_BRUV	Lauren Peel	1		Date	25/03/2018	Time	16:53	Location	SBMP	Site	CP1	Status		Latitude	-26.341139	Longitude	113.551762	Visibility	
+SBMP_20180325_CP1_2_BRUV	Lauren Peel	1		Date	25/03/2018	Time	16:54	Location	SBMP	Site	CP1	Status		Latitude	-26.342588	Longitude	113.552334	Visibility	
+SBMP_20180325_CP1_3_BRUV	Lauren Peel	1		Date	25/03/2018	Time	16:56	Location	SBMP	Site	CP1	Status		Latitude	-26.343638	Longitude	113.552319	Visibility	
+SBMP_20180325_CP1_4_BRUV	Lauren Peel	1		Date	25/03/2018	Time	16:58	Location	SBMP	Site	CP1	Status		Latitude	-26.344777	Longitude	113.552974	Visibility	
+SBMP_20180325_CP1_5_BRUV	Lauren Peel			Date	25/03/2018	Time		Location	SBMP	Site	CP1	Status		Latitude	-26.345752	Longitude	113.554139	Visibility	
+SBMP_20180325_FI1_2_BRUV	Lauren Peel	1.2		Date	25/03/2018	Time	14:48	Location	SBMP	Site	FI1	Status		Latitude	-26.404436	Longitude	113.61819	Visibility	
+SBMP_20180325_FI1_3_BRUV	Lauren Peel	1.3	Ctenophores in water column (see points)	Date	25/03/2018	Time	14:51	Location	SBMP	Site	FI1	Status		Latitude	-26.406823	Longitude	113.617702	Visibility	
+SBMP_20180325_FI1_4_BRUV	Lauren Peel	1.5		Date	25/03/2018	Time	14:54	Location	SBMP	Site	FI1	Status		Latitude	-26.408664	Longitude	113.618015	Visibility	
+SBMP_20180325_HP1_1_BRUV	Lauren Peel	1	Poor visibility	Date	25/03/2018	Time	8:08	Location	SBMP	Site	HP1	Status		Latitude	-26.041464	Longitude	113.378254	Visibility	
+SBMP_20180325_HP1_2_BRUV	Lauren Peel	1		Date	25/03/2018	Time	8:12	Location	SBMP	Site	HP1	Status		Latitude	-26.043617	Longitude	113.377562	Visibility	
+SBMP_20180325_HP1_3_BRUV	Lauren Peel	1.2		Date	25/03/2018	Time	8:15	Location	SBMP	Site	HP1	Status		Latitude	-26.045448	Longitude	113.378239	Visibility	
+SBMP_20180325_HP1_4_BRUV	Lauren Peel	1.3	Poor visibility	Date	25/03/2018	Time	8:17	Location	SBMP	Site	HP1	Status		Latitude	-26.047141	Longitude	113.380258	Visibility	
+SBMP_20180325_HP1_5_BRUV	Lauren Peel	1.1		Date	25/03/2018	Time	8:22	Location	SBMP	Site	HP1	Status		Latitude	-26.049029	Longitude	113.380263	Visibility	
+SBMP_20180325_WAI1_1_BRUV	Lauren Peel	0.6		Date	25/03/2018	Time	10:25	Location	SBMP	Site	WAI1	Status		Latitude	-26.160368	Longitude	113.425444	Visibility	
+SBMP_20180325_WAI1_2_BRUV	Lauren Peel	0.5		Date	25/03/2018	Time	10:27	Location	SBMP	Site	WAI1	Status		Latitude	-26.160658	Longitude	113.426806	Visibility	
+SBMP_20180325_WAI1_3_BRUV	Lauren Peel	0.5		Date	25/03/2018	Time	10:29	Location	SBMP	Site	WAI1	Status		Latitude	-26.162115	Longitude	113.42736	Visibility	
+SBMP_20180325_WAI1_5_BRUV	Lauren Peel	0.75		Date	25/03/2018	Time	10:37	Location	SBMP	Site	WAI1	Status		Latitude	-26.16433	Longitude	113.430688	Visibility	
+SBMP_20180326_EB1_1_BRUV	Lauren Peel	2.3		Date	26/03/2018	Time	10:52	Location	SBMP	Site	EB1	Status		Latitude	-26.096953	Longitude	113.580948	Visibility	
+SBMP_20180326_EB1_3_BRUV	Lauren Peel	1.5		Date	26/03/2018	Time	10:57	Location	SBMP	Site	EB1	Status		Latitude	-26.094332	Longitude	113.576373	Visibility	
+SBMP_20180326_EB1_4_BRUV	Lauren Peel	1.2		Date	26/03/2018	Time	11:00	Location	SBMP	Site	EB1	Status		Latitude	-26.09274	Longitude	113.575807	Visibility	
+SBMP_20180326_EB1_5_BRUV	Lauren Peel			Date	26/03/2018	Time		Location	SBMP	Site	EB1	Status		Latitude	-26.094092	Longitude	113.579223	Visibility	
+SBMP_20180326_FC1_1_BRUV	Lauren Peel	1		Date	26/03/2018	Time	10:27	Location	SBMP	Site	FC1	Status		Latitude	-26.110484	Longitude	113.620323	Visibility	
+SBMP_20180326_FC1_2_BRUV	Lauren Peel	1		Date	26/03/2018	Time	10:30	Location	SBMP	Site	FC1	Status		Latitude	-26.11007	Longitude	113.618887	Visibility	
+SBMP_20180326_FC1_3_BRUV	Lauren Peel	0.5		Date	26/03/2018	Time	10:34	Location	SBMP	Site	FC1	Status		Latitude	-26.108886	Longitude	113.61695	Visibility	
+SBMP_20180326_FC1_4_BRUV	Lauren Peel	0.5		Date	26/03/2018	Time	10:37	Location	SBMP	Site	FC1	Status		Latitude	-26.108217	Longitude	113.615472	Visibility	
+SBMP_20180326_FC1_5_BRUV	Lauren Peel	1		Date	26/03/2018	Time	10:40	Location	SBMP	Site	FC1	Status		Latitude	-26.107207	Longitude	113.614314	Visibility	
+SBMP_20180326_GB1_2_BRUV	Lauren Peel	1.5		Date	26/03/2018	Time	7:48	Location	SBMP	Site	GB1	Status		Latitude	-26.225089	Longitude	113.710915	Visibility	
+SBMP_20180326_GB1_3_BRUV	Lauren Peel	1.3		Date	26/03/2018	Time	7:50	Location	SBMP	Site	GB1	Status		Latitude	-26.224773	Longitude	113.709373	Visibility	
+SBMP_20180326_WI1_1_BRUV	Lauren Peel	1	LHS and RHS videos mislabelled; swap	Date	26/03/2018	Time	8:19	Location	SBMP	Site	WI1	Status		Latitude	-26.167734	Longitude	113.664707	Visibility	
+SBMP_20180326_WI1_2_BRUV	Lauren Peel	1		Date	26/03/2018	Time	8:22	Location	SBMP	Site	WI1	Status		Latitude	-26.166532	Longitude	113.663097	Visibility	
+SBMP_20180326_WI1_3_BRUV	Lauren Peel	1.1		Date	26/03/2018	Time	8:25	Location	SBMP	Site	WI1	Status		Latitude	-26.165465	Longitude	113.661591	Visibility	
+SBMP_20180326_WI1_4_BRUV	Lauren Peel	0.75	Poor visibility at start	Date	26/03/2018	Time	8:36	Location	SBMP	Site	WI1	Status		Latitude	-26.158594	Longitude	113.66236	Visibility	
+SBMP_20180326_WI1_5_BRUV	Lauren Peel	0.75		Date	26/03/2018	Time	8:38	Location	SBMP	Site	WI1	Status		Latitude	-26.15705	Longitude	113.660759	Visibility	
+SBMP_20180327_BB1_1_BRUV	Lauren Peel	1.39	Poor visibility; looks deeper than 1.39 m	Date	27/03/2018	Time	13:06	Location	SBMP	Site	BB1	Status		Latitude	-25.559923	Longitude	113.469686	Visibility	
+SBMP_20180327_BB1_2_BRUV	Lauren Peel	1.4		Date	27/03/2018	Time	13:09	Location	SBMP	Site	BB1	Status		Latitude	-25.558548	Longitude	113.470405	Visibility	
+SBMP_20180327_BB1_3_BRUV	Lauren Peel	2.37	Very poor visibility	Date	27/03/2018	Time	13:12	Location	SBMP	Site	BB1	Status		Latitude	-25.5569	Longitude	113.471141	Visibility	
+SBMP_20180327_BB1_4_BRUV	Lauren Peel	2.08	Very poor visibility	Date	27/03/2018	Time	13:15	Location	SBMP	Site	BB1	Status		Latitude	-25.555941	Longitude	113.47393	Visibility	
+SBMP_20180327_BB1_5_BRUV	Lauren Peel	1.39	Very poor visibility	Date	27/03/2018	Time	13:18	Location	SBMP	Site	BB1	Status		Latitude	-25.554666	Longitude	113.474964	Visibility	
+SBMP_20180327_BB2_1_BRUV	Lauren Peel	2.6	Very poor visibility	Date	27/03/2018	Time	13:27	Location	SBMP	Site	BB2	Status		Latitude	-25.548011	Longitude	113.478637	Visibility	
+SBMP_20180327_SJB3_1_BRUV	Lauren Peel	1.49	Poor vis; RHS BRUV frame in view; surge; BRUV moved at 19.9216 min	Date	27/03/2018	Time	15:55	Location	SBMP	Site	SJB3	Status		Latitude	-25.514702	Longitude	113.518025	Visibility	
+SBMP_20180327_SJB3_2_BRUV	Lauren Peel	1.45		Date	27/03/2018	Time	15:59	Location	SBMP	Site	SJB3	Status		Latitude	-25.513659	Longitude	113.517291	Visibility	
+SBMP_20180327_SJB3_3_BRUV	Lauren Peel	2.04	Very poor visibility	Date	27/03/2018	Time	16:02	Location	SBMP	Site	SJB3	Status		Latitude	-25.511695	Longitude	113.517034	Visibility	
+SBMP_20180327_SJB3_4_BRUV	Lauren Peel	1.71		Date	27/03/2018	Time	16:05	Location	SBMP	Site	SJB3	Status		Latitude	-25.51241	Longitude	113.515162	Visibility	
+SBMP_20180327_SJB3_5_BRUV	Lauren Peel		Poor visibility	Date	27/03/2018	Time		Location	SBMP	Site	SJB3	Status		Latitude	-25.510782	Longitude	113.514652	Visibility	

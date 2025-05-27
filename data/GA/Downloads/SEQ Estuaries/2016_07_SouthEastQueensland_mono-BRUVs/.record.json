@@ -1,0 +1,107 @@
+{
+  "created_at": ["2023-11-16T00:18:54.159955"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [438],
+  "description": ["Multi day sampling of estuaries in SEQ"],
+  "files": [
+    {
+      "id": 12490,
+      "iscompressed": true,
+      "name": "Gilby_Estuaries_Metadata.csv",
+      "user_id": 652
+    },
+    {
+      "id": 12676,
+      "iscompressed": true,
+      "name": "Gilby_Estuaries_Count.csv",
+      "user_id": 652
+    }
+  ],
+  "id": [1130],
+  "info": [
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 158,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 173,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "200"
+    },
+    {
+      "campaigninfoprop_id": 36,
+      "id": 179,
+      "property": {
+        "id": 36,
+        "is_filter": false,
+        "name": "Sampling: Camera type"
+      },
+      "value": "GoPro 5 Black medium FOV"
+    }
+  ],
+  "name": ["2016_07_SouthEastQueensland_mono-BRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [334],
+    "is_public": [false],
+    "name": ["SEQ Estuaries"]
+  },
+  "project_id": [334],
+  "user": {
+    "email": ["chender1@usc.edu.au"],
+    "first_name": ["Christopher"],
+    "id": [652],
+    "is_admin": [false],
+    "last_name": ["Henderson"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

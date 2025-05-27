@@ -1,0 +1,26 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+1	Charlotte	129																	
+10	Charlotte	197																	
+11	Charlotte	139																	
+12	Charlotte	126																	
+13	Charlotte	116																	
+14	Gabby	179																	
+15	Charlotte	130																	
+16	Gabby																		
+17	Charlotte	104																	
+18	Gabby	204																	
+19	Gabby																		
+2	Charlotte	104																	
+21	Gabby																		
+22	Charlotte	138																	
+23	Gabby	204																	
+25	Charlotte	135																	
+26	Gabby																		
+27	Gabby																		
+3	Charlotte	129																	
+4	Charlotte	110																	
+5	Gabby																		
+6	Charlotte	88.5																	
+7	Charlotte	116																	
+8	Charlotte	89.3																	
+9	Gabby																		

@@ -1,0 +1,25 @@
+OpCode	ExportVersion	DateTimeCreate	PictureDirectory	EMObs
+BB_S1_R1	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R1\	BB_S1_R1.EMObs
+BB_S1_R2	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R2\	BB_S1_R2.EMObs
+BB_S1_R3	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R3\	BB_S1_R3.EMObs
+BB_S1_R4	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R4\	BB_S1_R4.EMObs
+BB_S1_R5	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R5\	BB_S1_R5.EMObs
+BB_S1_R6	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R6\	BB_S1_R6.EMObs
+BB_S1_R7	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R7\	BB_S1_R7.EMObs
+BB_S1_R8	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S1\S1_R8\	BB_S1_R8.EMObs
+BB_S2_R1	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S2\S2_R1\	BB_S2_R1.EMObs
+BB_S2_R2	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S2\S2_R2\	BB_S2_R2.EMObs
+BB_S2_R3	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S2\S2_R3\	BB_S2_R3.EMObs
+BB_S2_R4	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S2\S2_R4\	BB_S2_R4.EMObs
+BB_S2_R5	1.09	2023 10 31 16:02:10	F:\S2_R5\	BB_S2_R5.EMObs
+BB_S2_R6	1.09	2023 10 31 16:02:10	F:\S2_R6\	BB_S2_R6.EMObs
+BB_S2_R7	1.09	2023 10 31 16:02:10	F:\S2_R7\	BB_S2_R7.EMObs
+BB_S2_R8	1.09	2023 10 31 16:02:10	F:\S2_R8\	BB_S2_R8.EMObs
+BB_S3_R1	1.09	2023 10 31 16:02:10	F:\S3_R1\	BB_S3_R1.EMObs
+BB_S3_R2	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S3\S3_R2\	BB_S3_R2.EMObs
+BB_S3_R3	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S3\S3_R3\	BB_S3_R3.EMObs
+BB_S3_R4	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S3\S3_R4\	BB_S3_R4.EMObs
+BB_S3_R5	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S3\S3_R5\	BB_S3_R5.EMObs
+BB_S3_R6	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S3\S3_R6\	BB_S3_R6.EMObs
+BB_S3_R7	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S3\S3_R7\	BB_S3_R7.EMObs
+BB_S3_R8	1.09	2023 10 31 16:02:10	E:\2022 05 Desal Eyre Peninsula\Video files\S3\S3_R8\	BB_S3_R8.EMObs

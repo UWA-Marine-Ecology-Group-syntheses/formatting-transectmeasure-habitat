@@ -1,0 +1,49 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,Comments
+FB_S1_R1,-31.95758491,132.5821923,20211124,10:22:00,Fowlers Bay,Fished,Fowlers Bay wide,31,Tom Clarke,Yes,No,NA
+FB_S1_R2,-31.95978231,132.582641,20211124,10:32:00,Fowlers Bay,Fished,Fowlers Bay wide,30.8,Tom Clarke,Yes,No,NA
+FB_S1_R3,-31.9573643,132.5848888,20211124,10:39:00,Fowlers Bay,Fished,Fowlers Bay wide,30.8,Tom Clarke,Yes,No,NA
+FB_S1_R4,-31.9596207,132.5852151,20211124,10:45:00,Fowlers Bay,Fished,Fowlers Bay wide,31.5,Tom Clarke,Yes,No,NA
+FB_S1_R5,-31.9572016,132.5875482,20211124,10:51:00,Fowlers Bay,Fished,Fowlers Bay wide,33.6,Tom Clarke,Yes,No,Facing up
+FB_S1_R6,-31.95946539,132.5879109,20211124,10:55:00,Fowlers Bay,Fished,Fowlers Bay wide,32,Tom Clarke,Yes,No,NA
+FB_S1_R7,-31.95865855,132.582378,20211124,12:33:00,Fowlers Bay,Fished,Fowlers Bay wide,31.9,Tom Clarke,Yes,No,NA
+FB_S1_R8,-31.96084815,132.5829533,20211124,12:42:00,Fowlers Bay,Fished,Fowlers Bay wide,32.3,Tom Clarke,Yes,No,NA
+FB_S1_R9,-31.95844179,132.5849968,20211124,12:47:00,Fowlers Bay,Fished,Fowlers Bay wide,31.8,Tom Clarke,Yes,No,NA
+FB_S1_R10,-31.96065218,132.5855242,20211124,12:51:00,Fowlers Bay,Fished,Fowlers Bay wide,29.7,Tom Clarke,Yes,No,NA
+FB_S1_R11,-31.95824088,132.5876428,20211124,12:54:00,Fowlers Bay,Fished,Fowlers Bay wide,30.7,Tom Clarke,Yes,No,Tilted up
+FB_S1_R12,-31.96045102,132.5880591,20211124,12:57:00,Fowlers Bay,Fished,Fowlers Bay wide,30.5,Tom Clarke,Yes,No,Tilted up
+FB_S2_R1,-32.00845107,132.3902927,20211130,10:44:00,Fowlers Bay,Fished,Scott Bay,6.5,Tom Clarke,Yes,No,NA
+FB_S2_R2,-32.01061704,132.3905114,20211130,10:48:00,Fowlers Bay,Fished,Scott Bay,7.1,Tom Clarke,Yes,No,NA
+FB_S2_R3,-32.0129426,132.3906498,20211130,10:52:00,Fowlers Bay,Fished,Scott Bay,9.2,Tom Clarke,Yes,No,NA
+FB_S2_R4,-32.01296004,132.3933341,20211130,10:56:00,Fowlers Bay,Fished,Scott Bay,13.5,Tom Clarke,Yes,No,NA
+FB_S2_R5,-32.01070329,132.393208,20211130,11:00:00,Fowlers Bay,Fished,Scott Bay,8.7,Tom Clarke,Yes,No,NA
+FB_S2_R6,-32.00844747,132.3930057,20211130,11:04:00,Fowlers Bay,Fished,Scott Bay,14.5,Tom Clarke,Yes,No,NA
+FB_S2_R7,-32.00976879,132.3887833,20211130,12:50:00,Fowlers Bay,Fished,Scott Bay,12,Tom Clarke,Yes,No,NA
+FB_S2_R8,-32.01194365,132.3895019,20211130,12:54:00,Fowlers Bay,Fished,Scott Bay,8.5,Tom Clarke,Yes,No,NA
+FB_S2_R9,-32.00944601,132.3914815,20211130,12:59:00,Fowlers Bay,Fished,Scott Bay,9,Tom Clarke,Yes,No,NA
+FB_S2_R10,-32.011646,132.3921852,20211130,13:03:00,Fowlers Bay,Fished,Scott Bay,13.5,Tom Clarke,Yes,No,NA
+FB_S2_R11,-32.00921492,132.3941059,20211130,13:07:00,Fowlers Bay,Fished,Scott Bay,13,Tom Clarke,Yes,No,NA
+FB_S2_12,-32.01152472,132.3948381,20211130,13:10:00,Fowlers Bay,Fished,Scott Bay,15,Tom Clarke,Yes,No,NA
+FB_S3_R1,-32.029579,132.2724337,20211123,12:53:00,Fowlers Bay,Fished,Wandilla Bay,15,Tom Clarke,Yes,No,NA
+FB_S3_R2,-32.03179677,132.2729109,20211123,12:56:00,Fowlers Bay,Fished,Wandilla Bay,10,Tom Clarke,Yes,No,NA
+FB_S3_R3,-32.02837092,132.2745787,20211123,12:59:00,Fowlers Bay,Fished,Wandilla Bay,10,Tom Clarke,Yes,No,NA
+FB_S3_R4,-32.03048442,132.2751036,20211123,13:08:00,Fowlers Bay,Fished,Wandilla Bay,10,Tom Clarke,Yes,No,NA
+FB_S3_R5,-32.02702604,132.2767195,20211123,13:10:00,Fowlers Bay,Fished,Wandilla Bay,10.7,Tom Clarke,Yes,No,NA
+FB_S3_R6,-32.02917935,132.2772724,20211123,13:14:00,Fowlers Bay,Fished,Wandilla Bay,13.5,Tom Clarke,Yes,No,NA
+FB_S3_R7,-32.03065574,132.2727566,20211123,15:03:00,Fowlers Bay,Fished,Wandilla Bay,14.7,Tom Clarke,Yes,No,NA
+FB_S3_R8,-32.03290402,132.2731211,20211123,15:07:00,Fowlers Bay,Fished,Wandilla Bay,14.2,Tom Clarke,Yes,No,NA
+FB_S3_R9,-32.02935814,132.2749145,20211123,15:15:00,Fowlers Bay,Fished,Wandilla Bay,14.7,Tom Clarke,Yes,No,Facing up
+FB_S3_R10,-32.0315604,132.2753106,20211123,15:19:00,Fowlers Bay,Fished,Wandilla Bay,13.4,Tom Clarke,Yes,No,NA
+FB_S3_R11,-32.02804486,132.2770819,20211123,15:22:00,Fowlers Bay,Fished,Wandilla Bay,11.1,Tom Clarke,Yes,No,NA
+FB_S3_R12,-32.03024562,132.2775413,20211123,15:24:00,Fowlers Bay,Fished,Wandilla Bay,7.5,Tom Clarke,Yes,No,NA
+FB_S4_R1,-32.020525,132.47646,20211125,10:17:00,Fowlers Bay,Fished,Point Fowler,11.5,Tom Clarke,Yes,No,NA
+FB_S4_R2,-32.021173,132.474422,20211125,10:21:00,Fowlers Bay,Fished,Point Fowler,13.2,Tom Clarke,Yes,No,NA
+FB_S4_R3,-32.019235,132.470366,20211125,10:25:00,Fowlers Bay,Fished,Point Fowler,9,Tom Clarke,Yes,No,NA
+FB_S4_R4,-32.017438,132.47286,20211125,10:28:00,Fowlers Bay,Fished,Point Fowler,11,Tom Clarke,Yes,No,NA
+FB_S4_R5,-32.017263,132.467177,20211125,10:32:00,Fowlers Bay,Fished,Point Fowler,8.5,Tom Clarke,Yes,No,Facing up
+FB_S4_R6,-32.015726,132.4687,20211125,10:35:00,Fowlers Bay,Fished,Point Fowler,10,Tom Clarke,Yes,No,"Facing up, obstructed"
+FB_S4_R7,-32.014774,132.464373,20211125,12:57:00,Fowlers Bay,Fished,Point Fowler,7.5,Tom Clarke,Yes,No,NA
+FB_S4_R8,-32.013673,132.466197,20211125,12:59:00,Fowlers Bay,Fished,Point Fowler,5.8,Tom Clarke,Yes,No,NA
+FB_S4_R9,-32.012003,132.46311,20211125,13:03:00,Fowlers Bay,Fished,Point Fowler,6.3,Tom Clarke,Yes,No,NA
+FB_S4_R10,-32.01042,132.465889,20211125,13:06:00,Fowlers Bay,Fished,Point Fowler,4.5,Tom Clarke,Yes,No,NA
+FB_S4_R11,-32.008801,132.460641,20211125,13:11:00,Fowlers Bay,Fished,Point Fowler,6.9,Tom Clarke,Yes,No,NA
+FB_S4_R12,-32.006522,132.461886,20211125,13:14:00,Fowlers Bay,Fished,Point Fowler,8,Tom Clarke,Yes,No,NA

@@ -1,0 +1,77 @@
+Camera Details
+
+Generated: Friday 03 November 2023 15:08:28
+
+OpCode	TapeReader	Depth	Comment	Habitat								Camera	Index	Descriptor	Image rows	Image columns	Focal length (mm)	x pixel size (mm)	y pixel size (mm)	X mm	Y mm	Z mm	Omega (degrees)	Phi (degrees)	Kappa (degrees)
+AR_BTC_R1	Tom		Starts at 1:34, facing slightly upwards, poor vis	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R1	Tom		Starts at 1:34, facing slightly upwards, poor vis	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R2	Tom		Starts at 0:51	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R2	Tom		Starts at 0:51	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R3	Tom		Starts at 1:00, turns on side at 1:48	Sandy								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R3	Tom		Starts at 1:00, turns on side at 1:48	Sandy								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R4	Tom		Starts at 0:54	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R4	Tom		Starts at 0:54	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R5	Tom		Starts at 1:16	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R5	Tom		Starts at 1:16	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R6	Tom		Starts at 1:15	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_BTC_R6	Tom		Starts at 1:15	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R1_B	Tom		Starts at 2:07	Sany/rocky								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R1_B	Tom		Starts at 2:07	Sany/rocky								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R2_B	Tom		Starts at 1:30	Sandy/reefy								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R2_B	Tom		Starts at 1:30	Sandy/reefy								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R3_B	Tom		Starts at 1:41	Sandy/Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R3_B	Tom		Starts at 1:41	Sandy/Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R4_B	Tom		Starts at 2:18, on side, cant see bait bag	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R4_B	Tom		Starts at 2:18, on side, cant see bait bag	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R5_B	Tom		Starts at 1:53	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R5_B	Tom		Starts at 1:53	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R6_B	Tom		Starts at 0:54	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+AR_CTC_R6_B	Tom		Starts at 0:54	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R1	Tom		Starts at 0:32	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R1	Tom		Starts at 0:32	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R2	Tom		Starts at 0:27	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R2	Tom		Starts at 0:27	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R3	Tom		Starts at 0:51	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R3	Tom		Starts at 0:51	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R4	Tom		Starts at 1:21, algae covering FOV from 0:56 onwards	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R4	Tom		Starts at 1:21, algae covering FOV from 0:56 onwards	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R5	Tom		Starts at 0:43	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R5	Tom		Starts at 0:43	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R6	Tom		Starts at 0:27, seagrass blocking FOV from 2:05	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_LS_R6	Tom		Starts at 0:27, seagrass blocking FOV from 2:05	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R1_B	Tom		Starts at 1:47	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R1_B	Tom		Starts at 1:47	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R2_B	Tom		Starts at 0:55	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R2_B	Tom		Starts at 0:55	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R3_B	Tom		Starts at 0:57	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R3_B	Tom		Starts at 0:57	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R4_B	Tom		Starts at 0:54, view obstructed 1:33	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R4_B	Tom		Starts at 0:54, view obstructed 1:33	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R5_B	Tom		Starts at 0:50	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R5_B	Tom		Starts at 0:50	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R6_B	Tom		Starts at 0:47, poor vis at 1:24:41, squid chasing fish	Seagrass								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_LS_R6_B	Tom		Starts at 0:47, poor vis at 1:24:41, squid chasing fish	Seagrass								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R1	Tom		Starts at 2:54, Turned on side at 1:24	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R1	Tom		Starts at 2:54, Turned on side at 1:24	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R2	Tom		Starts at 1:09	Rocky reef/sponge								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R2	Tom		Starts at 1:09	Rocky reef/sponge								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R3	Tom		Starts at 1:55, on side at 8:54	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R3	Tom		Starts at 1:55, on side at 8:54	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R4	Tom		Starts at 2:20	Sandy/Sponge								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R4	Tom		Starts at 2:20	Sandy/Sponge								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R5	Tom		Starts at 2:04, facing slightly downwards	Sandy/Sponge								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R5	Tom		Starts at 2:04, facing slightly downwards	Sandy/Sponge								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R6	Tom		Starts at 1:30	Rocky reef/sandy								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+BTC_OB_R6	Tom		Starts at 1:30	Rocky reef/sandy								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R1_B	Tom		Starts at 3:26	Sandy/sponge								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R1_B	Tom		Starts at 3:26	Sandy/sponge								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R2_B	Tom		Starts at 9:06, flips on top at 11:24	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R2_B	Tom		Starts at 9:06, flips on top at 11:24	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R3_B	Tom		Starts at 2:33	Sandy								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R3_B	Tom		Starts at 2:33	Sandy								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R4_B	Tom		Starts at 0:1:59	Sandy/Sponge (Pyura)								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R4_B	Tom		Starts at 0:1:59	Sandy/Sponge (Pyura)								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R5_B	Tom		Starts at 1:54, pauses from 16:29 - 19:55, pulled up 5 min early, mackerel on way up	Rocky reef								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R5_B	Tom		Starts at 1:54, pauses from 16:29 - 19:55, pulled up 5 min early, mackerel on way up	Rocky reef								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R6_B	Tom		Starts at 1:51	Sandy/Sponge								Left	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000
+CTC_OB_R6_B	Tom		Starts at 1:51	Sandy/Sponge								Right	0		0	0	0.00000	0.000000	0.000000	0.000	0.000	0.000	0.000	0.000	0.000

@@ -1,0 +1,17 @@
+"","name","value","is_filter"
+"1","Sampling: Camera type","GoPro 3+ Silver medium FOV",FALSE
+"2","Sampling: Frame type","Steel",FALSE
+"3","Sampling: Artificial lighting","White",FALSE
+"4","Annotation: Upload type","EventMeasure database output",TRUE
+"5","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"6","Annotation: Taxa that have been ID'd","Fish, Sharks, Rays and sea snakes",FALSE
+"7","Annotation: Observation/Annotation checked by expert","Yes",FALSE
+"8","Annotation: Observer/Anotator experience (>years)","1",FALSE
+"9","Annotation: Lengths measured for","All fish",TRUE
+"10","Annotation: Habitat information from each sample","Cover of benthos and score of complexity",TRUE
+"11","Sampling: Bait deployment","Plastic coated wire mesh bag",FALSE
+"12","Sampling: Bait arm length (m)","1.2",FALSE
+"13","Sampling: Camera configuration","Stereo",FALSE
+"14","Sampling: Deployment duration (min)","60",TRUE
+"15","Sampling: Bait type","Pilchards",TRUE
+"16","Sampling: Bait quantity (g)","1000",FALSE

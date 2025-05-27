@@ -1,0 +1,71 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+H1_1_1_Northern_20220901	HamishMalcolm																		
+H1_1_2_Northern_20220901	HamishMalcolm																		
+H1_1_3_Northern_20220901	Art Schultz																		
+H1_1_4_Northern_20220901	Kate Seinor																		
+H1_2_1_Northern_20220901	HamishMalcolm																		
+H1_2_2_Northern_20220901	HamishMalcolm																		
+H1_2_3_Northern_20220901	Art Schultz																		
+H1_2_4_Northern_20220901	Kate Seinor																		
+H2_1_1_Central_20221017	Art Schultz																		
+H2_1_2_Central_20221017	Sarah Chyriwsky																		
+H2_1_3_Central_20221017	Art Schultz																		
+H2_1_4_Central_20221017	Art Schultz																		
+H2_2_1_Central_20220818	HamshMalcolm																		
+H2_2_2_Central_20220818	Art																		
+H2_2_3_Central_20220818	Art Schultz																		
+H2_2_4_Central_20220818	Kate Seinor																		
+H4_1_1_SplitBommie_20220803	Kate Seinor																		
+H4_1_2_SplitBommie_20220803	Art Schultz																		
+H4_1_3_SplitBommie_20220803	Sarah Chyriwsky																		
+H4_1_4_SplitBommie_20220803	Sarah Chyriwsky																		
+H4_2_1_SplitBommie_20220802	Kate Seinor																		
+H4_2_2_SplitBommie_20220802	Kate Seinor																		
+H4_2_3_SplitBommie_20220802	Art Schultz																		
+H4_2_4_SplitBommie_20220802	Art																		
+O1_1_1_Bullocky_20220802	HamishMalcolm																		
+O1_1_2_Bullocky_20220802	Sarah Chyriwsky																		
+O1_1_3_Bullocky_20220802	Kate Seinor																		
+O1_1_4_Bullocky_20220802	Kate Seinor																		
+O1_2_1_Bullocky_20220803	Sarah Chyriwsky																		
+O1_2_2_Bullocky_20220803	Sarah Chyriwsky																		
+O1_2_3_Bullocky_20220803	Art Schultz																		
+O1_2_4_Bullocky_20220803	Kate Seinor																		
+O2_1_1_Patch_20220822	Art Schultz																		
+O2_1_2_Patch_20220822	Sarah Chyriwsky																		
+O2_1_3_Patch_20220822	Art Schultz																		
+O2_2_1_Patch_20220819	Art Schultz																		
+O2_2_2_Patch_20220819	Sarah Chyriwsky																		
+O2_2_3_Patch_20220819	Art Schultz																		
+O2_2_4_Patch_20220819	Art Schultz																		
+O4_1_1_BroomsHead_20221121	HamishMalcolm																		
+O4_1_2_BroomsHead_20221121	Art Schultz																		
+O4_1_3_BroomsHead_20221121	Art Schultz																		
+O4_1_4_BroomsHead_20221121	HamishMalcolm																		
+O4_2_1_BroomsHead_20221121	Art Schultz																		
+O4_2_2_BroomsHead_20221121	Art Schultz																		
+O4_2_3_BroomsHead_20221121	Art Schultz																		
+O4_2_4_BroomsHead_20221121	Art Schultz																		
+S1_1_1_Northern_20220901	HM																		
+S1_1_2_Northern_20220901	Sarah Chyriwsky																		
+S1_1_3_Northern_20220901	Art Schultz																		
+S1_1_4_Northern_20220901	Kate Seinor																		
+S1_2_1_Northern_20221111	HM																		
+S1_2_3_Northern_20221111	Art Schultz																		
+S1_2_4_Northern_20221111	Art Schultz																		
+S3_1_1_Butterfly_20221017	Art Schultz																		
+S3_1_2_Butterfly_20221017	Sarah Chyriwsky																		
+S3_1_3_Butterfly_20221017	Art Schultz																		
+S3_1_4_Butterfly_20221017	Art Schultz																		
+S3_2_1_Butterfly_20220818	Art Schultz																		
+S3_2_2_Butterfly_20220818	Sarah Chyriwsky																		
+S3_2_3_Butterfly_20220818	Art Schultz																		
+S3_2_4_Butterfly_20220818	Kate Seinor																		
+S4_1_1_40Acres_20220802	Sarah Chyriwsky																		
+S4_1_2_40Acres_20220802	Sarah Chyriwsky																		
+S4_1_3_40Acres_20220802	Kate Seinor																		
+S4_1_4_40Acres_20220802	Kate Seinor																		
+S4_2_1_40Acres_20220803	HamishMalcolm																		
+S4_2_2_40Acres_20220803	Sarah Chyriwsky																		
+S4_2_3_40Acres_20220803	ArtSchultz																		
+S4_2_4_40Acres_20220803	Kate Seinor																		

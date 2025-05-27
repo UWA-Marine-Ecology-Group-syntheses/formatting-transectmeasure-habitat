@@ -1,0 +1,181 @@
+Sample,Latitude,Longitude,Date,Time,Site,Location,Status,Depth,Successful.count,Successful.length,Observer,datetime
+2018_WHR1_1,-13.56105,125.7567,20180706,11:20:00,West Holothuria Reef,West Holothuria Reef,Fished,6.2,Yes,No,Curtin,20180706 11:20:00
+2018_WHR1_2,-13.56498333,125.75755,20180706,11:38:00,West Holothuria Reef,West Holothuria Reef,Fished,6.5,Yes,Yes,Curtin,20180706 11:38:00
+2018_WHR1_3,-13.56688333,125.7585333,20180706,11:57:00,West Holothuria Reef,West Holothuria Reef,Fished,4.5,No,No,Curtin,20180706 11:57:00
+2018_WHR1_4,-13.56618333,125.7608333,20180706,12:13:00,West Holothuria Reef,West Holothuria Reef,Fished,5.2,No,No,Curtin,20180706 12:13:00
+2018_WHR1_5,-13.5622,125.76215,20180706,12:26:00,West Holothuria Reef,West Holothuria Reef,Fished,5.1,No,No,Curtin,20180706 12:26:00
+2018_WHR1_6,-13.55603333,125.7612667,20180706,12:34:00,West Holothuria Reef,West Holothuria Reef,Fished,5.2,Yes,Yes,Curtin,20180706 12:34:00
+2018_EHR2_1,-13.56141667,126.03325,20180706,14:46:00,East Holothuria Reef 2,East Holothuria Reef,Fished,8.6,Yes,Yes,Curtin,20180706 14:46:00
+2018_EHR2_2,-13.56313333,126.03545,20180706,14:56:00,East Holothuria Reef 2,East Holothuria Reef,Fished,6.2,No,No,Curtin,20180706 14:56:00
+2018_EHR2_3,-13.56448333,126.0380667,20180706,15:06:00,East Holothuria Reef 2,East Holothuria Reef,Fished,2.5,No,No,Curtin,20180706 15:06:00
+2018_EHR2_4,-13.56485,126.0432167,20180706,15:14:00,East Holothuria Reef 2,East Holothuria Reef,Fished,4.5,Yes,Yes,Curtin,20180706 15:14:00
+2018_EHR2_5,-13.56478333,126.0468833,20180706,15:25:00,East Holothuria Reef 2,East Holothuria Reef,Fished,8.6,Yes,No,Curtin,20180706 15:25:00
+2018_EHR2_6,-13.56688333,126.0498833,20180706,13:33:00,East Holothuria Reef 2,East Holothuria Reef,Fished,2.5,Yes,No,Curtin,20180706 13:33:00
+2018_LGSE2_1,-13.95398333,125.7914167,20180707,8:34:00,Long Reef Southeast 2,Long Reef,Fished,3.1,Yes,Yes,Curtin,20180707 08:34:00
+2018_LGSE2_2,-13.95173333,125.795,20180707,8:47:00,Long Reef Southeast 2,Long Reef,Fished,7.9,No,No,Curtin,20180707 08:47:00
+2018_LGSE2_3,-13.94885,125.7943,20180707,8:53:00,Long Reef Southeast 2,Long Reef,Fished,7.5,Yes,Yes,Curtin,20180707 08:53:00
+2018_LGSE2_4,-13.94566667,125.7930333,20180707,9:01:00,Long Reef Southeast 2,Long Reef,Fished,7.5,Yes,Yes,Curtin,20180707 09:01:00
+2018_LGSE2_5,-13.943,125.7952333,20180707,9:06:00,Long Reef Southeast 2,Long Reef,Fished,8.4,Yes,Yes,Curtin,20180707 09:06:00
+2018_LGSE2_6,-13.9395,125.794,20180707,9:11:00,Long Reef Southeast 2,Long Reef,Fished,8.7,No,No,Curtin,20180707 09:11:00
+2018_LGSE3_1,-14.00553333,125.82765,20180707,11:08:00,Long Reef Southeast 3,Long Reef,Fished,5.3,Yes,Yes,Curtin,20180707 11:08:00
+2018_LGSE3_2,-14.002,125.8229333,20180707,11:15:00,Long Reef Southeast 3,Long Reef,Fished,2.2,Yes,Yes,Curtin,20180707 11:15:00
+2018_LGSE3_3,-13.9978,125.8216667,20180707,11:20:00,Long Reef Southeast 3,Long Reef,Fished,7,Yes,Yes,Curtin,20180707 11:20:00
+2018_LGSE3_4,-13.99455,125.8183833,20180707,11:27:00,Long Reef Southeast 3,Long Reef,Fished,7.3,No,No,Curtin,20180707 11:27:00
+2018_LGSE3_5,-13.9925,125.8167,20180707,11:32:00,Long Reef Southeast 3,Long Reef,Fished,5,Yes,Yes,Curtin,20180707 11:32:00
+2018_LGSE3_6,-13.9903,125.8129833,20180707,11:43:00,Long Reef Southeast 3,Long Reef,Fished,5.5,Yes,Yes,Curtin,20180707 11:43:00
+2018_LAF1_1,-14.15223333,125.78195,20180707,13:34:00,Lafontaine Island 1,Institut Islands,Fished,3.9,Yes,No,Curtin,20180707 13:34:00
+2018_LAF1_2,-14.15265,125.78415,20180707,13:39:00,Lafontaine Island 1,Institut Islands,Fished,11.4,Yes,Yes,Curtin,20180707 13:39:00
+2018_LAF1_3,-14.15371667,125.7869833,20180707,13:46:00,Lafontaine Island 1,Institut Islands,Fished,6.3,Yes,Yes,Curtin,20180707 13:46:00
+2018_LAF1_4,-14.15426667,125.7884,20180707,13:51:00,Lafontaine Island 1,Institut Islands,Fished,4.4,Yes,Yes,Curtin,20180707 13:51:00
+2018_LAF1_5,-14.15386667,125.7925,20180707,14:01:00,Lafontaine Island 1,Institut Islands,Fished,12.9,Yes,Yes,Curtin,20180707 14:01:00
+2018_LAF1_6,-14.157,125.7941667,20180707,14:06:00,Lafontaine Island 1,Institut Islands,Fished,5.6,Yes,Yes,Curtin,20180707 14:06:00
+2018_GIBPT1_1,-14.0275,125.9796,20180708,9:14:00,Gibson Point,Admiralty Gulf,Fished,6.5,Yes,No,Curtin,20180708 09:14:00
+2018_GIBPT1_2,-14.02495,125.98025,20180708,9:18:00,Gibson Point,Admiralty Gulf,Fished,5.8,Yes,Yes,Curtin,20180708 09:18:00
+2018_GIBPT1_3,-14.0226,125.9813667,20180708,9:29:00,Gibson Point,Admiralty Gulf,Fished,4.8,Yes,Yes,Curtin,20180708 09:29:00
+2018_GIBPT1_4,-14.02021667,125.9812,20180708,9:40:00,Gibson Point,Admiralty Gulf,Fished,4,Yes,Yes,Curtin,20180708 09:40:00
+2018_GIBPT1_5,-14.01731667,125.9811,20180708,9:48:00,Gibson Point,Admiralty Gulf,Fished,7.6,Yes,Yes,Curtin,20180708 09:48:00
+2018_GIBPT1_6,-14.01423333,125.9803167,20180708,9:59:00,Gibson Point,Admiralty Gulf,Fished,5.8,Yes,Yes,Curtin,20180708 09:59:00
+2018_GIBS1_1,-13.98721667,125.987,20180708,11:34:00,Gibson Point Outside,Admiralty Gulf,Fished,17.8,Yes,Yes,Curtin,20180708 11:34:00
+2018_GIBS1_2,-13.98958333,125.9886667,20180708,11:48:00,Gibson Point Outside,Admiralty Gulf,Fished,4,Yes,Yes,Curtin,20180708 11:48:00
+2018_GIBS1_3,-13.99141667,125.9888667,20180708,11:57:00,Gibson Point Outside,Admiralty Gulf,Fished,4.3,Yes,Yes,Curtin,20180708 11:57:00
+2018_GIBS1_4,-13.99336667,125.9874,20180708,12:03:00,Gibson Point Outside,Admiralty Gulf,Fished,5.5,Yes,Yes,Curtin,20180708 12:03:00
+2018_GIBS1_5,-13.99473333,125.9869333,20180708,12:08:00,Gibson Point Outside,Admiralty Gulf,Fished,5.6,Yes,Yes,Curtin,20180708 12:08:00
+2018_GIBS1_6,-13.9978,125.9875333,20180708,12:14:00,Gibson Point Outside,Admiralty Gulf,Fished,6.2,No,No,Curtin,20180708 12:14:00
+2018_HATP1_1,-13.92788333,126.0082833,20180708,13:51:00,Hat Point,Hat Point,Fished,7.8,Yes,Yes,Curtin,20180708 13:51:00
+2018_HATP1_2,-13.929,126.0074,20180708,14:02:00,Hat Point,Hat Point,Fished,7.8,Yes,Yes,Curtin,20180708 14:02:00
+2018_HATP1_3,-13.92916667,126.0098833,20180708,14:09:00,Hat Point,Hat Point,Fished,7.1,Yes,Yes,Curtin,20180708 14:09:00
+2018_HATP1_4,-13.92998333,126.01165,20180708,14:16:00,Hat Point,Hat Point,Fished,8.2,Yes,Yes,Curtin,20180708 14:16:00
+2018_HATP1_5,-13.93158333,126.01285,20180708,14:24:00,Hat Point,Hat Point,Fished,5.9,Yes,Yes,Curtin,20180708 14:24:00
+2018_HATP1_6,-13.93421667,126.0142833,20180708,14:30:00,Hat Point,Hat Point,Fished,6.3,No,No,Curtin,20180708 14:30:00
+2018_LAF2_1,-14.1701,125.7865833,20180709,9:59:00,Lafontaine Island 2,Institut Islands,Fished,4.8,Yes,Yes,Curtin,20180709 09:59:00
+2018_LAF2_2,-14.1679,125.7859667,20180709,10:06:00,Lafontaine Island 2,Institut Islands,Fished,5.4,Yes,Yes,Curtin,20180709 10:06:00
+2018_LAF2_3,-14.16536667,125.7854333,20180709,10:13:00,Lafontaine Island 2,Institut Islands,Fished,5.9,Yes,Yes,Curtin,20180709 10:13:00
+2018_LAF2_4,-14.16323333,125.7838167,20180709,10:22:00,Lafontaine Island 2,Institut Islands,Fished,8.8,Yes,Yes,Curtin,20180709 10:22:00
+2018_LAF2_5,-14.1619,125.7819333,20180709,10:31:00,Lafontaine Island 2,Institut Islands,Fished,4.7,Yes,Yes,Curtin,20180709 10:31:00
+2018_LAF2_6,-14.15981667,125.7787,20180709,10:40:00,Lafontaine Island 2,Institut Islands,Fished,8,Yes,Yes,Curtin,20180709 10:40:00
+2018_LAPW1_1,-14.18468333,125.6556333,20180709,12:24:00,Laplace Island West,Institut Islands,Fished,8.4,No,No,Curtin,20180709 12:24:00
+2018_LAPW1_2,-14.18761667,125.6560667,20180709,12:31:00,Laplace Island West,Institut Islands,Fished,6.2,Yes,Yes,Curtin,20180709 12:31:00
+2018_LAPW1_3,-14.18983333,125.6555167,20180709,12:36:00,Laplace Island West,Institut Islands,Fished,7.1,Yes,Yes,Curtin,20180709 12:36:00
+2018_LAPW1_4,-14.19235,125.6558667,20180709,12:42:00,Laplace Island West,Institut Islands,Fished,5.1,Yes,Yes,Curtin,20180709 12:42:00
+2018_LAPW1_5,-14.1952,125.6542333,20180709,12:50:00,Laplace Island West,Institut Islands,Fished,3.7,No,No,Curtin,20180709 12:50:00
+2018_LAPW1_6,-14.20048333,125.6546167,20180709,12:56:00,Laplace Island West,Institut Islands,Fished,4.5,Yes,Yes,Curtin,20180709 12:56:00
+2018_RANSE_1,-14.14061667,125.5868667,20180709,14:36:00,Randall Island Southeast,Institut Islands,Fished,5.3,Yes,Yes,Curtin,20180709 14:36:00
+2018_RANSE_2,-14.13935,125.5853667,20180709,14:42:00,Randall Island Southeast,Institut Islands,Fished,5,Yes,Yes,Curtin,20180709 14:42:00
+2018_RANSE_3,-14.1372,125.5853667,20180709,14:45:00,Randall Island Southeast,Institut Islands,Fished,7.2,Yes,Yes,Curtin,20180709 14:45:00
+2018_RANSE_4,-14.1355,125.5828833,20180709,14:51:00,Randall Island Southeast,Institut Islands,Fished,4.7,Yes,Yes,Curtin,20180709 14:51:00
+2018_RANSE_5,-14.13368333,125.5812667,20180709,14:57:00,Randall Island Southeast,Institut Islands,Fished,5.3,Yes,Yes,Curtin,20180709 14:57:00
+2018_RANSE_6,-14.14308333,125.5868667,20180709,15:10:00,Randall Island Southeast,Institut Islands,Fished,4,Yes,Yes,Curtin,20180709 15:10:00
+2018_FENW1_1,-14.13268333,125.6951333,20180710,8:15:00,Fenelon Island West,Institut Islands,Fished,7.2,Yes,Yes,Curtin,20180710 08:15:00
+2018_FENW1_2,-14.12985,125.6955333,20180710,8:22:00,Fenelon Island West,Institut Islands,Fished,5.3,Yes,Yes,Curtin,20180710 08:22:00
+2018_FENW1_3,-14.12686667,125.6957167,20180710,8:28:00,Fenelon Island West,Institut Islands,Fished,4.5,No,No,Curtin,20180710 08:28:00
+2018_FENW1_4,-14.125,125.6948,20180710,8:36:00,Fenelon Island West,Institut Islands,Fished,6.5,Yes,Yes,Curtin,20180710 08:36:00
+2018_FENW1_5,-14.12276667,125.6935167,20180710,8:42:00,Fenelon Island West,Institut Islands,Fished,7.7,Yes,Yes,Curtin,20180710 08:42:00
+2018_FENW1_6,-14.11995,125.6923167,20180710,8:48:00,Fenelon Island West,Institut Islands,Fished,5,Yes,Yes,Curtin,20180710 08:48:00
+2018_PASC2_1,-14.0745,125.6549333,20180710,10:21:00,Pascal Island 2,Institut Islands,Fished,6,No,No,Curtin,20180710 10:21:00
+2018_PASC2_2,-14.07535,125.65935,20180710,10:27:00,Pascal Island 2,Institut Islands,Fished,9.7,Yes,Yes,Curtin,20180710 10:27:00
+2018_PASC2_3,-14.07515,125.6501333,20180710,10:35:00,Pascal Island 2,Institut Islands,Fished,7.6,Yes,No,Curtin,20180710 10:35:00
+2018_PASC2_4,-14.07318333,125.6496167,20180710,10:49:00,Pascal Island 2,Institut Islands,Fished,7.3,Yes,Yes,Curtin,20180710 10:49:00
+2018_PASC2_5,-14.07063333,125.6492167,20180710,10:55:00,Pascal Island 2,Institut Islands,Fished,7.3,Yes,Yes,Curtin,20180710 10:55:00
+2018_PASC2_6,-14.06883333,125.6493833,20180710,11:03:00,Pascal Island 2,Institut Islands,Fished,6.2,Yes,Yes,Curtin,20180710 11:03:00
+2018_PASC1_1,-14.06271667,125.6513833,20180710,12:19:00,Pascal Island 1,Institut Islands,Fished,8.9,Yes,Yes,Curtin,20180710 12:19:00
+2018_PASC1_2,-14.06203333,125.6535333,20180710,12:24:00,Pascal Island 1,Institut Islands,Fished,6.7,Yes,Yes,Curtin,20180710 12:24:00
+2018_PASC1_3,-14.06178333,125.65535,20180710,12:31:00,Pascal Island 1,Institut Islands,Fished,6.2,Yes,Yes,Curtin,20180710 12:31:00
+2018_PASC1_4,-14.06381667,125.6569333,20180710,12:36:00,Pascal Island 1,Institut Islands,Fished,8.4,Yes,Yes,Curtin,20180710 12:36:00
+2018_PASC1_5,-14.06583333,125.6576833,20180710,12:42:00,Pascal Island 1,Institut Islands,Fished,5.5,Yes,Yes,Curtin,20180710 12:42:00
+2018_PASC1_6,-14.06806667,125.6586833,20180710,12:52:00,Pascal Island 1,Institut Islands,Fished,5.2,Yes,Yes,Curtin,20180710 12:52:00
+2018_CONIS_1,-14.11045,125.5543167,20180710,14:31:00,Condillac Island,Institut Islands,Fished,5.5,Yes,Yes,Curtin,20180710 14:31:00
+2018_CONIS_2,-14.11153333,125.5572333,20180710,14:37:00,Condillac Island,Institut Islands,Fished,11.8,Yes,Yes,Curtin,20180710 14:37:00
+2018_CONIS_3,-14.11005,125.5593833,20180710,14:42:00,Condillac Island,Institut Islands,Fished,4.8,Yes,Yes,Curtin,20180710 14:42:00
+2018_CONIS_4,-14.10781667,125.5633833,20180710,14:50:00,Condillac Island,Institut Islands,Fished,3.8,Yes,Yes,Curtin,20180710 14:50:00
+2018_CONIS_5,-14.10583333,125.56365,20180710,14:58:00,Condillac Island,Institut Islands,Fished,3.8,Yes,Yes,Curtin,20180710 14:58:00
+2018_CONIS_6,-14.10355,125.5625333,20180710,15:04:00,Condillac Island,Institut Islands,Fished,4.3,Yes,Yes,Curtin,20180710 15:04:00
+2018_WMNE_1,-14.28226667,125.2247833,20180711,9:16:00,West Montalivet Island,Bonaparte Archipelago,Fished,8.5,Yes,Yes,Curtin,20180711 09:16:00
+2018_WMNE_2,-14.28491667,125.225,20180711,9:22:00,West Montalivet Island,Bonaparte Archipelago,Fished,9.2,Yes,Yes,Curtin,20180711 09:22:00
+2018_WMNE_3,-14.2871,125.2245833,20180711,9:27:00,West Montalivet Island,Bonaparte Archipelago,Fished,7.2,No,No,Curtin,20180711 09:27:00
+2018_WMNE_4,-14.28926667,125.2255,20180711,9:32:00,West Montalivet Island,Bonaparte Archipelago,Fished,9,Yes,Yes,Curtin,20180711 09:32:00
+2018_WMNE_5,-14.29148333,125.2266333,20180711,9:37:00,West Montalivet Island,Bonaparte Archipelago,Fished,8.7,Yes,Yes,Curtin,20180711 09:37:00
+2018_WMNE_6,-14.29453333,125.22895,20180711,9:43:00,West Montalivet Island,Bonaparte Archipelago,Fished,3.2,Yes,Yes,Curtin,20180711 09:43:00
+2018_CASS3_1,-13.93216667,125.6364,20180711,13:23:00,Cassini Island,Cassini Island,Fished,4.6,Yes,Yes,Curtin,20180711 13:23:00
+2018_CASS3_2,-13.93615,125.63635,20180711,13:30:00,Cassini Island,Cassini Island,Fished,11.6,Yes,Yes,Curtin,20180711 13:30:00
+2018_CASS3_3,-13.94356667,125.6392,20180711,13:38:00,Cassini Island,Cassini Island,Fished,6.9,Yes,Yes,Curtin,20180711 13:38:00
+2018_CASS3_4,-13.94268333,125.6418167,20180711,13:46:00,Cassini Island,Cassini Island,Fished,7.5,Yes,Yes,Curtin,20180711 13:46:00
+2018_CASS3_5,-13.94525,125.6468667,20180711,13:54:00,Cassini Island,Cassini Island,Fished,12.4,Yes,Yes,Curtin,20180711 13:54:00
+2018_CASS3_6,-13.9493,125.64895,20180711,14:00:00,Cassini Island,Cassini Island,Fished,12.2,Yes,Yes,Curtin,20180711 14:00:00
+2018_SMAR_1,-14.44993333,124.9868,20180713,7:46:00,South Maret Island,Maret Islands,Fished,7.8,Yes,Yes,Curtin,20180713 07:46:00
+2018_SMAR_2,-14.44851667,124.9925167,20180713,7:57:00,South Maret Island,Maret Islands,Fished,6,Yes,Yes,Curtin,20180713 07:57:00
+2018_SMAR_3,-14.44815,124.9952833,20180713,8:06:00,South Maret Island,Maret Islands,Fished,13.1,Yes,Yes,Curtin,20180713 08:06:00
+2018_SMAR_4,-14.4468,124.9956667,20180713,8:12:00,South Maret Island,Maret Islands,Fished,10,Yes,Yes,Curtin,20180713 08:12:00
+2018_SMAR_5,-14.44398333,124.9965833,20180713,8:17:00,South Maret Island,Maret Islands,Fished,11.1,Yes,Yes,Curtin,20180713 08:17:00
+2018_SMAR_6,-14.44136667,124.9968833,20180713,8:24:00,South Maret Island,Maret Islands,Fished,10.8,Yes,Yes,Curtin,20180713 08:24:00
+2018_NMAR_1,-14.38641667,124.97765,20180713,9:49:00,North Maret Island,Maret Islands,Fished,6.5,Yes,Yes,Curtin,20180713 09:49:00
+2018_NMAR_2,-14.38823333,124.9796667,20180713,9:55:00,North Maret Island,Maret Islands,Fished,13,Yes,Yes,Curtin,20180713 09:55:00
+2018_NMAR_3,-14.39033333,124.9817667,20180713,10:01:00,North Maret Island,Maret Islands,Fished,8.5,Yes,Yes,Curtin,20180713 10:01:00
+2018_NMAR_4,-14.39233333,124.98295,20180713,10:08:00,North Maret Island,Maret Islands,Fished,7,Yes,Yes,Curtin,20180713 10:08:00
+2018_NMAR_5,-14.39331667,124.9853,20180713,10:13:00,North Maret Island,Maret Islands,Fished,5.6,Yes,No,Curtin,20180713 10:13:00
+2018_NMAR_6,-14.3957,124.9879833,20180713,10:19:00,North Maret Island,Maret Islands,Fished,9.6,Yes,Yes,Curtin,20180713 10:19:00
+2018_NROB_1,-14.43408333,124.8742833,20180713,12:00:00,North Robroy Reef,Robroy Reefs,Fished,10.1,Yes,Yes,Curtin,20180713 12:00:00
+2018_NROB_2,-14.4315,124.8745667,20180713,12:10:00,North Robroy Reef,Robroy Reefs,Fished,7.6,Yes,Yes,Curtin,20180713 12:10:00
+2018_NROB_3,-14.42853333,124.8741833,20180713,12:17:00,North Robroy Reef,Robroy Reefs,Fished,8.5,Yes,Yes,Curtin,20180713 12:17:00
+2018_NROB_4,-14.42676667,124.8727167,20180713,12:22:00,North Robroy Reef,Robroy Reefs,Fished,7.3,Yes,Yes,Curtin,20180713 12:22:00
+2018_NROB_5,-14.42506667,124.87035,20180713,12:27:00,North Robroy Reef,Robroy Reefs,Fished,10,Yes,Yes,Curtin,20180713 12:27:00
+2018_NROB_6,-14.42398333,124.8682833,20180713,12:32:00,North Robroy Reef,Robroy Reefs,Fished,7.2,Yes,Yes,Curtin,20180713 12:32:00
+2018_SROB_1,-14.47751667,124.8387667,20180713,14:00:00,South Robroy Reef,Robroy Reefs,Fished,8.4,Yes,Yes,Curtin,20180713 14:00:00
+2018_SROB_2,-14.47873333,124.8436667,20180713,14:04:00,South Robroy Reef,Robroy Reefs,Fished,8.1,Yes,Yes,Curtin,20180713 14:04:00
+2018_SROB_3,-14.47648333,124.8463,20180713,14:14:00,South Robroy Reef,Robroy Reefs,Fished,8.5,Yes,No,Curtin,20180713 14:14:00
+2018_SROB_4,-14.47498333,124.8493833,20180713,14:19:00,South Robroy Reef,Robroy Reefs,Fished,8.2,Yes,Yes,Curtin,20180713 14:19:00
+2018_SROB_5,-14.47001667,124.84935,20180713,14:25:00,South Robroy Reef,Robroy Reefs,Fished,9,Yes,Yes,Curtin,20180713 14:25:00
+2018_SROB_6,-14.46835,124.8475833,20180713,14:29:00,South Robroy Reef,Robroy Reefs,Fished,9.8,Yes,Yes,Curtin,20180713 14:29:00
+2018_SBRO_1,-14.12176667,123.5540167,20180715,7:48:00,South Browse Island,Browse Island,Fished,11.6,Yes,Yes,Curtin,20180715 07:48:00
+2018_SBRO_2,-14.12163333,123.5501667,20180715,7:57:00,South Browse Island,Browse Island,Fished,11.3,Yes,Yes,Curtin,20180715 07:57:00
+2018_SBRO_3,-14.12083333,123.5469333,20180715,8:04:00,South Browse Island,Browse Island,Fished,11.8,Yes,Yes,Curtin,20180715 08:04:00
+2018_SBRO_4,-14.12015,123.5440167,20180715,8:11:00,South Browse Island,Browse Island,Fished,13.1,Yes,Yes,Curtin,20180715 08:11:00
+2018_SBRO_5,-14.11876667,123.5414333,20180715,8:19:00,South Browse Island,Browse Island,Fished,13.9,Yes,Yes,Curtin,20180715 08:19:00
+2018_SBRO_6,-14.11736667,123.5391,20180715,8:24:00,South Browse Island,Browse Island,Fished,12,Yes,Yes,Curtin,20180715 08:24:00
+2018_NBRO_1,-14.0995,123.5462667,20180715,9:52:00,North Browse Island,Browse Island,Fished,12.8,Yes,Yes,Curtin,20180715 09:52:00
+2018_NBRO_2,-14.10103333,123.5506333,20180715,9:58:00,North Browse Island,Browse Island,Fished,12.3,Yes,Yes,Curtin,20180715 09:58:00
+2018_NBRO_3,-14.10253333,123.5526667,20180715,10:03:00,North Browse Island,Browse Island,Fished,11.7,Yes,Yes,Curtin,20180715 10:03:00
+2018_NBRO_4,-14.10396667,123.5541,20180715,10:07:00,North Browse Island,Browse Island,Fished,12.5,Yes,Yes,Curtin,20180715 10:07:00
+2018_NBRO_5,-14.10463333,123.5553,20180715,10:11:00,North Browse Island,Browse Island,Fished,13.9,Yes,Yes,Curtin,20180715 10:11:00
+2018_NBRO_6,-14.10651667,123.5568167,20180715,10:16:00,North Browse Island,Browse Island,Fished,15.5,Yes,Yes,Curtin,20180715 10:16:00
+2018a_CAPEB1_1,-13.91855,126.1048333,20181005,10:45:00,Cape Bougainville,Cape Bougainville,Fished,9.3,Yes,Yes,Curtin,20181005 10:45:00
+2018a_CAPEB1_2,-13.91918333,126.1032333,20181005,10:49:00,Cape Bougainville,Cape Bougainville,Fished,4,Yes,Yes,Curtin,20181005 10:49:00
+2018a_CAPEB1_3,-13.91966667,126.1012333,20181005,10:55:00,Cape Bougainville,Cape Bougainville,Fished,3.5,Yes,No,Curtin,20181005 10:55:00
+2018a_CAPEB1_4,-13.91956667,126.0988167,20181005,11:00:00,Cape Bougainville,Cape Bougainville,Fished,6.4,No,No,Curtin,20181005 11:00:00
+2018a_CAPEB1_5,-13.91898333,126.0972167,20181005,11:05:00,Cape Bougainville,Cape Bougainville,Fished,5,Yes,Yes,Curtin,20181005 11:05:00
+2018a_CAPEB1_6,-13.91866667,126.0955833,20181005,11:09:00,Cape Bougainville,Cape Bougainville,Fished,4.4,Yes,Yes,Curtin,20181005 11:09:00
+2018a_FRESHB1_1,-13.97688333,126.2198,20181005,13:08:00,Freshwater Bay,Vansittart Bay,Fished,6,Yes,Yes,Curtin,20181005 13:08:00
+2018a_FRESHB1_2,-13.97975,126.22125,20181005,13:13:00,Freshwater Bay,Vansittart Bay,Fished,7,Yes,Yes,Curtin,20181005 13:13:00
+2018a_FRESHB1_3,-13.981,126.2228167,20181005,13:16:00,Freshwater Bay,Vansittart Bay,Fished,6.1,Yes,Yes,Curtin,20181005 13:16:00
+2018a_FRESHB1_4,-13.9829,126.2245167,20181005,13:20:00,Freshwater Bay,Vansittart Bay,Fished,5.2,Yes,No,Curtin,20181005 13:20:00
+2018a_FRESHB1_5,-13.98498333,126.2246,20181005,13:25:00,Freshwater Bay,Vansittart Bay,Fished,4.3,Yes,Yes,Curtin,20181005 13:25:00
+2018a_FRESHB1_6,-13.98686667,126.2226667,20181005,13:33:00,Freshwater Bay,Vansittart Bay,Fished,4.1,Yes,Yes,Curtin,20181005 13:33:00
+2018a_WHR1_6,-13.56388333,125.7546167,20181005,10:20:00,West Holothuria Reef,West Holothuria Reef,Fished,15.5,Yes,No,Curtin,20181005 10:20:00
+2018a_WHR1_5,-13.56568333,125.7574833,20181005,10:39:00,West Holothuria Reef,West Holothuria Reef,Fished,7,Yes,No,Curtin,20181005 10:39:00
+2018a_WHR1_4,-13.56685,125.7588333,20181005,10:55:00,West Holothuria Reef,West Holothuria Reef,Fished,13.8,Yes,Yes,Curtin,20181005 10:55:00
+2018a_WHR1_3,-13.56856667,125.761,20181005,11:07:00,West Holothuria Reef,West Holothuria Reef,Fished,5.7,Yes,Yes,Curtin,20181005 11:07:00
+2018a_WHR1_2,-13.56815,125.76405,20181005,11:15:00,West Holothuria Reef,West Holothuria Reef,Fished,2.7,Yes,Yes,Curtin,20181005 11:15:00
+2018a_WHR1_1,-13.56876667,125.7516167,20181005,11:30:00,West Holothuria Reef,West Holothuria Reef,Fished,11.6,Yes,Yes,Curtin,20181005 11:30:00
+2018a_EHR3_6,-13.5622,126.02195,20181005,13:37:00,East Holothuria Reef 3,East Holothuria Reef,Fished,7.8,No,No,Curtin,20181005 13:37:00
+2018a_EHR3_5,-13.56255,126.0197167,20181005,13:55:00,East Holothuria Reef 3,East Holothuria Reef,Fished,6.2,Yes,Yes,Curtin,20181005 13:55:00
+2018a_EHR3_4,-13.56363333,126.0173167,20181005,14:04:00,East Holothuria Reef 3,East Holothuria Reef,Fished,7.2,Yes,Yes,Curtin,20181005 14:04:00
+2018a_EHR3_3,-13.56346667,126.0132833,20181005,14:12:00,East Holothuria Reef 3,East Holothuria Reef,Fished,7,Yes,No,Curtin,20181005 14:12:00
+2018a_EHR3_2,-13.56251667,126.0098667,20181005,14:19:00,East Holothuria Reef 3,East Holothuria Reef,Fished,8.6,Yes,Yes,Curtin,20181005 14:19:00
+2018a_EHR3_1,-13.56331667,126.00655,20181005,14:25:00,East Holothuria Reef 3,East Holothuria Reef,Fished,7.8,Yes,Yes,Curtin,20181005 14:25:00
+2018a_EHR2_1,-13.56168167,126.033,20181005,16:00:00,East Holothuria Reef 2,East Holothuria Reef,Fished,6.6,Yes,Yes,Curtin,20181005 16:00:00
+2018a_EHR2_2,-13.56291667,126.0355667,20181005,16:07:00,East Holothuria Reef 2,East Holothuria Reef,Fished,7.6,Yes,Yes,Curtin,20181005 16:07:00
+2018a_EHR2_3,-13.56384833,126.03785,20181005,16:14:00,East Holothuria Reef 2,East Holothuria Reef,Fished,7.9,Yes,Yes,Curtin,20181005 16:14:00
+2018a_EHR2_4,-13.5649,126.0429667,20181005,16:20:00,East Holothuria Reef 2,East Holothuria Reef,Fished,8.2,Yes,Yes,Curtin,20181005 16:20:00
+2018a_EHR2_5,-13.56468333,126.0468167,20181005,16:26:00,East Holothuria Reef 2,East Holothuria Reef,Fished,6.7,Yes,Yes,Curtin,20181005 16:26:00
+2018a_EHR2_6,-13.56675,126.050065,20181005,16:33:00,East Holothuria Reef 2,East Holothuria Reef,Fished,9.3,Yes,Yes,Curtin,20181005 16:33:00
+2018a_EHR4_1,-13.59468333,125.98335,20181006,9:19:00,East Holothuria Reef 4,East Holothuria Reef,Fished,16.1,Yes,Yes,Curtin,20181006 09:19:00
+2018a_EHR4_2,-13.59468333,125.9789333,20181006,9:27:00,East Holothuria Reef 4,East Holothuria Reef,Fished,15.4,Yes,Yes,Curtin,20181006 09:27:00
+2018a_EHR4_3,-13.592715,125.9769333,20181006,9:33:00,East Holothuria Reef 4,East Holothuria Reef,Fished,17.1,Yes,No,Curtin,20181006 09:33:00
+2018a_EHR4_4,-13.59094833,125.9728167,20181006,9:38:00,East Holothuria Reef 4,East Holothuria Reef,Fished,12.1,Yes,Yes,Curtin,20181006 09:38:00
+2018a_EHR4_5,-13.58925,125.9707833,20181006,9:43:00,East Holothuria Reef 4,East Holothuria Reef,Fished,18.2,Yes,Yes,Curtin,20181006 09:43:00
+2018a_EHR4_6,-13.58728333,125.9680333,20181006,9:47:00,East Holothuria Reef 4,East Holothuria Reef,Fished,14.8,Yes,Yes,Curtin,20181006 09:47:00
+2018a_EHR1_1,-13.5917,126.10245,20181006,11:50:00,East Holothuria Reef 1,East Holothuria Reef,Fished,11.5,Yes,Yes,Curtin,20181006 11:50:00
+2018a_EHR1_2,-13.59385,126.10155,20181006,11:54:00,East Holothuria Reef 1,East Holothuria Reef,Fished,12.7,Yes,Yes,Curtin,20181006 11:54:00
+2018a_EHR1_3,-13.59733333,126.1010667,20181006,12:01:00,East Holothuria Reef 1,East Holothuria Reef,Fished,8.8,Yes,Yes,Curtin,20181006 12:01:00
+2018a_EHR1_4,-13.59985,126.1002933,20181006,12:05:00,East Holothuria Reef 1,East Holothuria Reef,Fished,9.6,Yes,No,Curtin,20181006 12:05:00
+2018a_EHR1_5,-13.60098333,126.0989833,20181006,12:08:00,East Holothuria Reef 1,East Holothuria Reef,Fished,7.4,Yes,Yes,Curtin,20181006 12:08:00
+2018a_EHR1_6,-13.6023,126.0967667,20181006,12:12:00,East Holothuria Reef 1,East Holothuria Reef,Fished,7.1,Yes,No,Curtin,20181006 12:12:00

@@ -1,0 +1,906 @@
+Dot Point Measurements
+
+Generated: Monday 21 August 2023 13:46:52
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare									Radius %
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		934	197													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		84.5
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		761	270													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		75.4
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		950	767													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.3
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		806	1763													Unscorable						00000001		70.7
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		839	1367													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		937	36													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		601	1000													Unscorable						00000001		15.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		761	1215													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		17.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		731	1624													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		56.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		763	919													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		12.1
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		711	798													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		24.1
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		574	719													Unscorable						00000001		35.8
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		711	878													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.4
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		576	1539													Unscorable						00000001		51.4
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		660	1607													Sessile invertebrates						00000002		55.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		571	536													Unscorable						00000001		52.4
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		691	1256													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		21.6
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		746	1823													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		76.3
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		853	1823													Unscorable						00000001		77.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		801	700													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.8
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		900	1404													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		43.8
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		871	1428													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		46.1
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		714	1726													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		81.8
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		653	1471													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		55.4
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		577	587													Unscorable						00000001		59.6
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		890	318													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		82.6
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		764	1009													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		9.1
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		950	213													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		95.4
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		755	1114													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		13.8
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		940	1489													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		54.4
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		747	364													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		77.8
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		1021	1875													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		945	1446													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		49.6
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		1005	554													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.4
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		772	1408													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		44.3
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		932	1058													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		11.1
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		984	1016													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.7
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		900	409													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		72.2
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		646	1098													Unscorable						00000001		23.8
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		832	621													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		47.4
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		1066	1454													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		56.8
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		596	1305													Unscorable						00000001		36.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		609	1687													Unscorable						00000001		74.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		639	1869													Sessile invertebrates						00000002		92.1
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		1045	420													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		67.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		866	699													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		806	1805													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		84.4
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		594	706													Unscorable						00000001		35.8
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		603	953													Unscorable						00000001		18.2
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		1072	996													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		31.5
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		547	1146													Unscorable						00000001		28.1
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		545	1228													Unscorable						00000001		33.7
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		822	45													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		100.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		1016	334													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		74.1
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		589	1591													Sessile invertebrates						00000002		64.8
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		630	891													Unscorable						00000001		18.5
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		745	380													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		64.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		997	799													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		31.6
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		929	907													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		19.1
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		702	763													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		25.7
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		687	1297													Unscorable						00000001		39.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		588	1596													Unscorable						00000001		74.2
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		1071	75													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		606	718													Unscorable						00000001		34.3
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		1065	1456													Sessile invertebrates						00000002		61.2
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		970	100													Sessile invertebrates						00000002		94.8
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		633	1291													Unscorable						00000001		41.8
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		808	615													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		37.1
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		1033	1737													Unscorable						00000001		88.7
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		625	794													Unscorable						00000001		27.1
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		821	489													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		50.8
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		670	1702													Unscorable						00000001		83.1
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		655	744													Unscorable						00000001		28.8
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		1019	1512													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		64.8
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		883	1100													Unscorable						00000001		17.6
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		810	629													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		35.5
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		740	92													Unscorable						00000001		94.4
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		826	935													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		2.5
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		791	1323													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		40.3
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		984	884													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		20.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		871	391													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		94.6
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		668	606													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		66.7
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		1036	722													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		56.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		968	1550													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		75.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		981	1276													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		40.4
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		688	1441													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.7
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		631	1341													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		49.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		719	1578													Sponges	Massive forms	Simple				10000904		76.7
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		582	1686													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		96.7
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		607	482													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		86.3
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		788	1414													Unscorable						00000001		52.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		854	484													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		81.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		1012	380													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		642	1264													Sessile invertebrates						00000002		39.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		903	772													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		41.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		800	1190													Unscorable						00000001		20.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		1053	513													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		84.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		623	1495													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		69.1
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		775	765													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		41.1
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		1022	1646													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		90.5
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		915	1071													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		17.8
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		1048	75													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		95.2
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		1001	595													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		40.6
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		762	58													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		94.3
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		662	18													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		729	541													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		43.4
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		1040	1533													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		68.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		939	360													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		62.6
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		590	1495													Unscorable						00000001		66.2
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		656	1369													Unscorable						00000001		50.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		825	1823													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		96.3
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		954	730													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		25.4
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		853	334													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		64.3
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		705	1805													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		95.3
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		558	1375													Unscorable						00000001		56.2
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		650	1445													Unscorable						00000001		58.8
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		900	1204													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		30.5
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		959	288													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		70.6
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		851	965													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		4.4
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		1003	1519													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		66.2
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		850	1688													Unscorable						00000001		53.8
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		693	758													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		37.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		1052	1681													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		57.6
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		854	1305													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		17.2
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		1055	442													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		70.1
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		902	96													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		589	774													Unscorable						00000001		40.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		952	1519													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		39.6
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		935	1772													Unscorable						00000001		62.8
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		735	637													Sessile invertebrates						00000002		48.3
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		640	1131													Unscorable						00000001		17.3
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		821	589													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		52.2
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		820	1337													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		19.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		698	1911													Unscorable						00000001		76.1
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		793	1884													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		72.6
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		791	1798													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		64.3
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		913	760													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		36.8
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		831	263													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		83.6
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		855	706													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		41.0
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		607	1560													Unscorable						00000001		46.1
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		589	1452													Sessile invertebrates						00000002		63.5
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		827	170													Sessile invertebrates						00000002		74.7
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		850	189													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		72.7
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		1057	859													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		22.8
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		709	592													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.8
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		1018	970													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		20.2
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		827	1063													Unscorable						00000001		17.8
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		579	1648													Sessile invertebrates						00000002		82.8
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		908	714													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		19.7
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		1027	1014													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		23.2
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		989	1408													Sessile invertebrates						00000002		55.6
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		764	1569													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		70.5
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		973	434													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		49.3
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		888	154													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		76.5
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		561	1817													Sessile invertebrates						00000002		100.0
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		955	380													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		54.4
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		941	695													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		22.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		900	557													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		35.2
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		739	1262													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		39.7
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		677	887													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.7
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		1005	1697													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		78.8
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		738	112													Sessile invertebrates						00000002		75.8
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		1006	826													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		19.2
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		793	565													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		32.0
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		677	74													Sessile invertebrates						00000002		80.2
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		1049	1367													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		50.1
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		610	44													Unscorable						00000001		84.4
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		707	611													Sessile invertebrates						00000002		29.5
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		965	1584													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		67.3
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		558	1591													Unscorable						00000001		71.2
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		906	1116													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		22.6
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		735	1857													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		92.5
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		997	1565													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		66.3
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		1004	281													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		61.7
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		542	1902													Unscorable						00000001		100.0
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		1045	933													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		21.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		865	18													Sessile invertebrates						00000002		84.5
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		636	1164													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		31.0
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		615	612													Sessile invertebrates						00000002		33.7
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		940	29													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		84.1
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		1063	1646													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		60.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		892	1069													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		12.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		1055	747													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.7
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		623	1628													Unscorable						00000001		53.1
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		642	840													Unscorable						00000001		26.6
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		556	62													Unscorable						00000001		100.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		562	975													Unscorable						00000001		22.4
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		606	1547													Unscorable						00000001		46.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		1065	1307													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		35.1
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		972	338													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		74.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		628	554													Unscorable						00000001		52.7
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		931	1343													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.7
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		753	1533													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		868	1552													Unscorable						00000001		45.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		779	1152													Unscorable						00000001		6.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		719	1834													Unscorable						00000001		71.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		677	1511													Unscorable						00000001		41.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		630	191													Unscorable						00000001		86.6
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		593	1275													Unscorable						00000001		24.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		730	696													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		37.7
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		643	150													Unscorable						00000001		86.5
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		1013	665													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		35.3
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		968	483													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		50.7
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		908	1750													Unscorable						00000001		91.0
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		735	568													Unscorable						00000001		39.7
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		586	1782													Unscorable						00000001		97.3
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		914	25													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		98.6
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		934	1566													Unscorable						00000001		71.5
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		948	334													Sessile invertebrates						00000002		65.8
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		1001	674													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.7
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		568	1802													Unscorable						00000001		100.0
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		580	1145													Unscorable						00000001		35.6
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		622	1062													Unscorable						00000001		26.3
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		823	772													Sessile invertebrates						00000002		16.3
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		791	1837													Unscorable						00000001		100.0
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		931	639													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.3
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		888	1043													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		15.3
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		937	917													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		13.1
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		964	1174													Unscorable						00000001		31.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		594	50													Unscorable						00000001		98.4
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		1018	1490													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		44.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		650	1906													Sessile invertebrates						00000002		77.1
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		866	1745													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		61.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		795	158													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		87.2
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		1009	1565													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		49.7
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		556	1810													Unscorable						00000001		70.2
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		738	546													Sessile invertebrates						00000002		51.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		653	1786													Sessile invertebrates						00000002		66.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		747	1277													Unscorable						00000001		17.6
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		913	1091													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		13.4
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		619	1266													Unscorable						00000001		21.6
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		810	1475													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		36.1
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		576	807													Unscorable						00000001		32.1
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		894	307													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		74.1
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		549	1302													Unscorable						00000001		28.6
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		975	778													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		34.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		599	63													Unscorable						00000001		97.4
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		847	1884													Unscorable						00000001		74.6
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		569	40													Unscorable						00000001		100.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		1010	509													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.8
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		848	394													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		67.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		607	654													Unscorable						00000001		40.6
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		1062	1636													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		96.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		753	953													Unscorable						00000001		5.7
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		716	803													Unscorable						00000001		17.4
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		823	1395													Unscorable						00000001		60.1
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		741	845													Unscorable						00000001		11.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		704	413													Unscorable						00000001		65.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		866	135													Sessile invertebrates						00000002		100.0
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		861	292													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		80.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		873	1567													Unscorable						00000001		82.3
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		903	1639													Unscorable						00000001		91.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		658	1413													Unscorable						00000001		64.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		807	1039													Unscorable						00000001		15.1
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		728	1239													Unscorable						00000001		40.8
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		687	1293													Unscorable						00000001		48.7
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		728	1126													Unscorable						00000001		26.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		574	606													Unscorable						00000001		48.0
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		859	309													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		78.0
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		912	678													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		34.7
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		545	1691													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		78.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		963	83													Sessile invertebrates						00000002		94.3
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		831	483													Sessile invertebrates						00000002		50.8
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		630	1412													Unscorable						00000001		48.5
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		590	1213													Unscorable						00000001		31.4
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		769	478													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		50.8
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		1030	1294													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		44.3
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		1054	1350													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		50.3
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		583	694													Unscorable						00000001		33.8
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		648	665													Sessile invertebrates						00000002		33.4
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		1057	742													Sessile invertebrates						00000002		38.7
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		756	289													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		70.6
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		727	7													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		100.0
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		895	1302													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		37.7
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		602	1894													Unscorable						00000001		98.1
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		843	188													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		81.5
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		601	1753													Unscorable						00000001		83.7
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		623	1344													Unscorable						00000001		42.0
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		648	627													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		37.2
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		827	1803													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		87.6
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		1072	77													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		64.0
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		1032	533													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		26.6
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		733	350													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		37.7
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		714	1555													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		70.6
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		649	287													Unscorable						00000001		45.2
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		974	205													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		50.7
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		824	219													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		48.0
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		759	109													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.1
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		740	504													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		24.5
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		889	527													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		21.3
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		849	790													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		2.5
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		1013	1635													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		78.3
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		1067	293													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.2
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		647	1785													Unscorable						00000001		91.6
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		569	349													Unscorable						00000001		43.6
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		677	1842													Sessile invertebrates						00000002		96.1
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		776	1896													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		942	182													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		52.2
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		848	1046													Unscorable						00000001		24.8
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		995	1094													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		32.2
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		946	243													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		78.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		729	1071													Unscorable						00000001		12.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		981	1880													Unscorable						00000001		79.7
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		991	564													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		49.3
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		1012	1849													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		77.3
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		894	1860													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		77.0
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		635	1490													Unscorable						00000001		46.6
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		1035	542													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		52.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		872	19													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		760	1892													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		80.6
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		1056	1171													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		21.8
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		852	889													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.4
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		661	1872													Unscorable						00000001		80.3
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		814	1121													Unscorable						00000001		7.3
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		721	499													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		55.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		548	1729													Unscorable						00000001		70.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		848	193													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		83.3
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		951	915													Sessile invertebrates						00000002		16.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		963	825													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		24.6
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		895	566													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		47.6
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		1070	941													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		25.3
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		665	1293													Unscorable						00000001		41.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		685	1379													Unscorable						00000001		49.4
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		739	1092													Unscorable						00000001		20.8
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		901	1311													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		41.7
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		636	303													Unscorable						00000001		61.4
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		1047	1330													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		48.4
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		634	1230													Unscorable						00000001		37.6
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		962	516													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		40.3
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		911	1286													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		39.6
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		849	186													Sessile invertebrates						00000002		70.4
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		918	508													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		39.8
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		611	1264													Unscorable						00000001		41.6
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		1021	1269													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		41.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		820	339													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		55.2
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		665	41													Unscorable						00000001		85.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		791	1908													Unscorable						00000001		100.0
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		974	614													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		32.0
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		737	293													Sessile invertebrates						00000002		60.3
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		710	839													Unscorable						00000001		12.1
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		785	308													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		59.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		968	1446													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		60.6
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		636	1511													Unscorable						00000001		67.2
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		594	434													Unscorable						00000001		51.6
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		663	1747													Sessile invertebrates						00000002		90.5
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		911	583													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.3
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		746	211													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		70.2
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		656	1223													Unscorable						00000001		38.3
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		846	342													Sessile invertebrates						00000002		56.5
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		807	1814													Unscorable						00000001		96.4
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		687	418													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		49.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		712	1845													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		941	814													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.0
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		941	1668													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		82.4
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		611	513													Unscorable						00000001		43.4
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		677	263													Unscorable						00000001		65.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		1043	375													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.5
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		796	254													Sessile invertebrates						00000002		65.4
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		1070	1026													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		31.2
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		986	908													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		19.1
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		704	1420													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		66.0
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		978	886													Sessile invertebrates						00000002		22.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		541	1213													Unscorable						00000001		50.0
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		672	1042													Sessile invertebrates						00000002		24.6
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		908	1538													Sessile invertebrates						00000002		80.6
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		658	381													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		59.5
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		783	1600													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		86.6
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		596	291													Unscorable						00000001		71.8
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		1029	950													Cnidaria	Hydroids					11001000		30.4
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		702	629													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		29.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		748	1039													Unscorable						00000001		20.7
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		589	858													Unscorable						00000001		23.3
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		936	637													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		32.6
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		713	1277													Unscorable						00000001		49.1
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		1003	1635													Sessile invertebrates						00000002		94.4
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		675	339													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		63.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		770	706													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		19.2
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		689	310													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		67.0
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		984	549													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		44.5
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		1023	56													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		1039	902													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.5
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		877	593													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		47.0
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		874	1137													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		9.7
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		629	264													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		78.4
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		915	1366													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.0
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		881	1373													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.4
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		602	1406													Unscorable						00000001		34.5
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		610	1315													Sessile invertebrates						00000002		26.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		615	1713													Sessile invertebrates						00000002		60.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		727	1478													Sessile invertebrates						00000002		37.2
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		781	1815													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		68.3
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		882	1253													Sessile invertebrates						00000002		18.2
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		899	357													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		69.1
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		643	849													Sessile invertebrates						00000002		25.8
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		768	1845													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		71.2
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		911	1284													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		22.1
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		760	1710													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.5
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		643	398													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		65.8
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		812	638													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.1
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		803	19													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		813	694													Sessile invertebrates						00000002		43.4
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		981	192													Cnidaria	Corals	Black & Octocorals	Whip			11168917		100.0
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		780	1687													Unscorable						00000001		65.8
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		589	1335													Cnidaria	Corals	Black & Octocorals	Whip			11168917		37.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		581	1892													Unscorable						00000001		92.1
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		798	1703													Unscorable						00000001		67.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		830	578													Sessile invertebrates						00000002		56.2
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		910	1458													Unscorable						00000001		41.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		942	708													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		43.8
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		852	738													Sessile invertebrates						00000002		38.7
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		810	1622													Unscorable						00000001		58.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		829	1114													Unscorable						00000001		2.7
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		1017	1086													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		20.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		693	1628													Unscorable						00000001		60.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		1067	341													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		86.3
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		796	737													Sessile invertebrates						00000002		38.8
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		751	972													Sessile invertebrates						00000002		15.3
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		988	1083													Unscorable						00000001		17.8
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		903	582													Sessile invertebrates						00000002		56.3
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		590	1640													Unscorable						00000001		65.7
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		616	956													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		832	948													Sponges	Erect forms	Branching				10000915		7.5
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		591	1296													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.3
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		809	1687													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		76.8
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		568	1676													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		78.1
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		744	181													Sponges	Erect forms	Laminar				10000913		70.4
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		1040	758													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.8
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		950	773													Sessile invertebrates						00000002		21.6
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		962	1470													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		58.5
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		643	441													Sessile invertebrates						00000002		46.6
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		584	1022													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		21.7
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		1037	795													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		573	1907													Sessile invertebrates						00000002		100.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		842	456													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		44.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		674	1150													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		26.1
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		896	139													Sponges	Erect forms	Laminar				10000913		75.4
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		851	180													Sponges	Erect forms	Laminar				10000913		70.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		689	176													Sponges	Erect forms	Laminar				10000913		71.2
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		659	237													Cnidaria	Corals	Black & Octocorals	Whip			11168917		65.7
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		849	1779													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		86.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		869	847													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		8.8
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		765	1351													Unscorable						00000001		47.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		935	672													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		26.3
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		595	592													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		36.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		638	1061													Unscorable						00000001		24.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		592	699													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		27.8
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		1072	171													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		78.5
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		564	1493													Unscorable						00000001		66.6
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		1010	877													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		22.5
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		963	517													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		41.5
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		953	1256													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		41.6
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		935	1495													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		64.3
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		701	420													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		48.4
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		710	413													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		48.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		643	1848													Sessile invertebrates						00000002		100.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		983	676													Sessile invertebrates						00000002		29.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		609	1125													Unscorable						00000001		31.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		778	750													Sessile invertebrates						00000002		13.8
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		595	1405													Unscorable						00000001		57.1
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		908	6													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		90.7
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		972	1464													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		41.4
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		592	590													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		49.0
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		575	1549													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		779	1325													Unscorable						00000001		22.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		1003	575													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		53.6
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		654	1619													Cnidaria	Corals	Black & Octocorals	Whip			11168917		51.3
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		540	1210													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		23.2
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		891	1827													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		71.3
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		1001	206													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		86.2
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		655	834													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		25.4
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		769	1559													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		44.8
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		845	246													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		79.6
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		1046	1171													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.0
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		596	672													Sessile invertebrates						00000002		41.6
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		734	1628													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		51.4
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		573	1376													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		32.3
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		565	41													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		642	273													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		77.2
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		967	1809													Unscorable						00000001		71.4
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		619	1713													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		60.6
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		915	1366													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		39.8
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		772	353													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		67.5
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		996	1862													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		92.1
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		626	182													Unscorable						00000001		87.4
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		798	1469													Unscorable						00000001		49.2
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		764	670													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		34.7
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		813	1070													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		7.6
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		822	1463													Unscorable						00000001		48.5
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		578	1141													Unscorable						00000001		29.2
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		1049	1560													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		63.4
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		547	549													Unscorable						00000001		54.8
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		634	435													Sessile invertebrates						00000002		61.8
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		1049	1382													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.8
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		692	1878													Unscorable						00000001		92.8
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		996	56													Sessile invertebrates						00000002		100.0
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		850	1269													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		28.5
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		925	1286													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		32.1
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		1055	1013													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		24.7
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		755	778													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		23.8
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		759	445													Sponges	Erect forms	Laminar				10000913		58.0
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		790	724													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		28.7
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		557	1901													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		69.2
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		696	1127													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		6.0
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		634	709													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		44.2
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		982	581													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		59.3
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		629	773													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		38.5
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		781	94													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		100.0
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		918	1733													Unscorable						00000001		54.2
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		746	1574													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		36.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		657	104													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		99.3
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		642	1862													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		64.1
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		561	1662													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		47.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		845	1535													Unscorable						00000001		34.7
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		1028	1773													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		61.4
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		652	309													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		80.5
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		1009	1794													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		62.4
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		1053	1782													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		63.1
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		563	687													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		48.0
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		593	1558													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		37.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		709	1340													Unscorable						00000001		15.5
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		543	603													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		55.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		836	1296													Unscorable						00000001		36.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		1056	659													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		39.7
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		671	1642													Sessile invertebrates						00000002		74.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		782	645													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		32.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		651	1870													Sessile invertebrates						00000002		98.6
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		877	562													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		41.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		718	1072													Unscorable						00000001		16.6
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		732	1244													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		32.2
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		1034	28													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		100.0
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		806	745													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		21.8
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		893	1637													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		72.8
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		954	551													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		44.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		916	416													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		57.4
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		547	1374													Unscorable						00000001		53.0
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		1066	544													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		50.2
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		543	1726													Unscorable						00000001		86.8
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		649	1612													Sessile invertebrates						00000002		72.0
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		953	54													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		95.6
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		860	1095													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		15.8
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		832	249													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		74.1
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		822	1029													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		9.6
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		1025	1498													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		64.5
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		731	1226													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		20.5
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		1008	410													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		98.8
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		548	1773													Unscorable						00000001		100.0
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		818	795													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		41.3
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		905	1659													Unscorable						00000001		79.7
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		794	1152													Unscorable						00000001		8.3
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		828	446													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		89.4
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		1027	422													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		98.0
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		909	963													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		24.0
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		1054	1611													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		80.2
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		683	385													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		98.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		542	868													Unscorable						00000001		46.7
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		629	1325													Unscorable						00000001		39.4
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		775	1718													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		86.5
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		689	926													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		27.2
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		602	1493													Unscorable						00000001		61.4
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		894	1027													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.6
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		591	1120													Unscorable						00000001		28.3
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		1040	462													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		43.4
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		661	288													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		52.3
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		1000	911													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		26.5
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		858	143													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		66.4
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		571	474													Sessile invertebrates						00000002		37.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		569	1061													Sessile invertebrates						00000002		33.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		699	1397													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		61.7
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		661	1773													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		100.0
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		995	1347													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		60.8
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		600	49													Sessile invertebrates						00000002		77.2
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		742	258													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		54.2
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		633	1340													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		57.1
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		942	205													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		62.1
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		566	872													Sessile invertebrates						00000002		22.0
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		1011	1450													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		71.1
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		667	178													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		63.1
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		575	708													Sessile invertebrates						00000002		21.3
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		814	1497													Unscorable						00000001		71.6
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		1023	523													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		37.6
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		712	908													Sessile invertebrates						00000002		13.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		688	1387													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		62.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		546	59													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		96.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		798	789													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		7.7
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		589	14													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		99.6
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		1067	1412													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		71.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		744	936													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		11.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		1003	1051													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		32.6
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		681	1671													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		94.5
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		797	872													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		1.8
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		1012	33													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		97.8
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		738	778													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		11.3
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		814	1241													Unscorable						00000001		44.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		1038	1284													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		56.5
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		1034	885													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		27.5
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		1022	1697													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		541	1496													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		79.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		642	622													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		32.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		759	419													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		50.4
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		578	65													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		94.4
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		839	414													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		51.1
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		680	34													Sponges	Erect forms	Laminar				10000913		88.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		920	1716													Unscorable						00000001		100.0
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		1055	202													Sponges	Erect forms	Laminar				10000913		75.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		775	228													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		66.6
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		720	1260													Sponges	Erect forms	Laminar				10000913		48.5
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		683	248													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		65.3
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		806	1512													Unscorable						00000001		76.2
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		944	1440													Sessile invertebrates						00000002		70.4
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		812	451													Sponges	Cup-likes	Barrels				10000907		42.0
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		971	940													Sponges	Massive forms	Simple				10000904		24.5
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		781	1027													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		22.2
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		807	879													Sponges	Erect forms	Laminar				10000913		6.4
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		580	1351													Sessile invertebrates						00000002		62.4
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		642	1063													Sponges	Cup-likes	Cups	Cup / goblet			10000919		30.4
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		579	14													Sponges	Erect forms	Laminar				10000913		93.2
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		653	1480													Sessile invertebrates						00000002		74.0
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		802	42													Sponges	Erect forms	Laminar				10000913		87.4
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		1020	130													Sponges	Erect forms	Laminar				10000913		81.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		723	1264													Sponges	Erect forms	Laminar				10000913		48.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		680	1269													Sponges	Erect forms	Laminar				10000913		50.4
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		1032	510													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		43.1
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		593	468													Unscorable						00000001		44.8
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		996	889													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		21.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		945	1702													Unscorable						00000001		92.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		776	1782													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		100.0
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		759	388													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		48.1
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		704	1379													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		58.1
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		583	955													Unscorable						00000001		25.6
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		999	594													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		33.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		654	969													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		20.4
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		889	54													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		83.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		567	828													Unscorable						00000001		24.2
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		614	22													Unscorable						00000001		88.8
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		884	1622													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		83.5
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		988	682													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		26.4
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		919	512													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		37.1
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		799	1165													Unscorable						00000001		34.6
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		639	1612													Unscorable						00000001		83.6
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		634	505													Unscorable						00000001		39.4
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		926	151													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		74.4
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		552	790													Unscorable						00000001		18.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		1016	1835													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		740	423													Unscorable						00000001		26.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		767	817													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		8.4
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		605	686													Sessile invertebrates						00000002		12.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		662	1089													Unscorable						00000001		32.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		612	137													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		52.5
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		796	907													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.7
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		716	56													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		58.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		840	229													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		43.8
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		771	1172													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		39.3
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		624	421													Unscorable						00000001		28.5
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		1046	1531													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		75.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		666	840													Sessile invertebrates						00000002		12.6
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		740	582													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		12.3
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		674	1653													Sessile invertebrates						00000002		81.5
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		650	213													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		45.3
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		706	307													Unscorable						00000001		36.4
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		925	187													Sessile invertebrates						00000002		49.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		867	569													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		598	1632													Unscorable						00000001		76.4
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		1024	520													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		59.6
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		702	1362													Sessile invertebrates						00000002		43.4
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		991	1717													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		83.5
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		628	1516													Unscorable						00000001		62.7
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		684	254													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		87.1
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		750	657													Sessile invertebrates						00000002		40.6
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		1005	1403													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		49.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		1004	1101													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		23.0
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		807	1880													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		732	628													Sessile invertebrates						00000002		44.2
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		859	460													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		62.1
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		883	440													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		64.6
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		841	1326													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		36.8
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		609	1336													Unscorable						00000001		45.4
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		922	1111													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		16.3
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		974	334													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		78.3
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		1009	1028													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		20.8
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		934	941													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		14.1
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		601	429													Unscorable						00000001		70.5
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		1009	1551													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		62.7
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		887	1719													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		77.5
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		864	1892													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		95.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		797	162													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		91.4
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		864	1585													Unscorable						00000001		62.8
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		949	1875													Unscorable						00000001		95.1
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		788	154													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		92.2
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		786	1522													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		55.8
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		944	1200													Unscorable						00000001		25.5
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		690	1213													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		25.7
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		1009	1432													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		50.8
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		802	203													Cnidaria	Hydroids					11001000		86.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		767	1658													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		70.6
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		840	608													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		43.3
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		757	1319													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		34.2
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		666	749													Cnidaria	Hydroids					11001000		31.8
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		554	283													Unscorable						00000001		83.0
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		554	340													Unscorable						00000001		77.2
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		752	84													Cnidaria	Hydroids					11001000		100.0
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		894	589													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.1
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		1010	1540													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		52.4
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		830	491													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		59.7
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		748	503													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		58.7
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		923	1062													Sessile invertebrates						00000002		12.3
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		773	1610													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		55.2
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		758	1577													Sessile invertebrates						00000002		51.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		620	188													Sessile invertebrates						00000002		92.7
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		887	1482													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		609	1862													Unscorable						00000001		83.4
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		539	1600													Unscorable						00000001		60.5
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		718	1362													Unscorable						00000001		31.0
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		1052	1088													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		25.6
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		993	1545													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		52.2
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		548	983													Unscorable						00000001		27.8
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		951	1759													Sessile invertebrates						00000002		72.0
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		1049	1228													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.8
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		552	274													Sessile invertebrates						00000002		85.8
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		730	100													Sessile invertebrates						00000002		100.0
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		736	1048													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		7.3
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		1043	145													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		98.2
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		737	755													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		43.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		880	864													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		34.5
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		893	1771													Unscorable						00000001		60.8
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		568	1371													Unscorable						00000001		28.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		654	283													Unscorable						00000001		92.7
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		698	912													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.8
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		1052	955													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		37.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		904	1347													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		21.2
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		797	1584													Unscorable						00000001		40.6
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		743	1407													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		22.7
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		610	1082													Unscorable						00000001		19.5
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		829	204													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		691	977													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		22.7
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		1016	1701													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.1
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		557	271													Unscorable						00000001		95.6
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		735	1331													Unscorable						00000001		15.2
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		620	1601													Unscorable						00000001		45.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		971	1879													Unscorable						00000001		73.5
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		817	1809													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		63.6
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		660	1608													Unscorable						00000001		44.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		1007	139													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		98.3
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		921	1722													Sessile invertebrates						00000002		76.6
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		601	994													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		21.4
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		790	1009													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		1.8
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		1060	530													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		60.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		563	1820													Sessile invertebrates						00000002		89.6
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		702	877													Unscorable						00000001		19.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		689	957													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		13.7
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		970	1166													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		24.2
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		1063	1098													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		770	1486													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		50.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		1011	1027													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		23.2
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		689	1441													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		1034	323													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		80.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		671	767													Unscorable						00000001		30.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		724	1602													Sessile invertebrates						00000002		62.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		651	890													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		21.4
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		893	104													Unscorable						00000001		100.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		567	1483													Sessile invertebrates						00000002		55.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		559	1050													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		25.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		688	482													Unscorable						00000001		23.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		589	1055													Unscorable						00000001		39.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		810	1161													Unscorable						00000001		46.4
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		901	775													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		15.1
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		884	327													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		39.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		870	364													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		35.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		545	1383													Unscorable						00000001		72.3
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		557	956													Unscorable						00000001		33.3
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		627	1448													Unscorable						00000001		76.6
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		618	73													Unscorable						00000001		65.6
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		950	127													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		61.2
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		671	343													Unscorable						00000001		37.8
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		662	140													Unscorable						00000001		58.0
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		923	310													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.8
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		766	1528													Unscorable						00000001		83.4
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		945	119													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		61.8
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		676	1689													Unscorable						00000001		100.0
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		945	395													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		35.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		736	1055													Unscorable						00000001		35.7
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		1015	352													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		43.5
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		948	1830													Unscorable						00000001		91.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		1053	199													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		875	1487													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		51.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		550	513													Unscorable						00000001		68.7
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		600	946													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.6
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		962	1728													Sessile invertebrates						00000002		79.7
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		762	472													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		66.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		762	227													Unscorable						00000001		93.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		994	1289													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		33.8
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		865	1398													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		40.7
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		693	1251													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.4
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		895	266													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		89.3
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		898	637													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		47.2
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		771	1661													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		71.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		1034	698													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		936	1873													Unscorable						00000001		95.7
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		554	1460													Unscorable						00000001		57.1
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		705	1842													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		92.5
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		829	516													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		60.4
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		916	584													Sessile invertebrates						00000002		53.5
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		829	1236													Unscorable						00000001		29.6
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		996	605													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		50.0
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		824	778													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		24.2
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		883	800													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		23.8
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		554	1514													Unscorable						00000001		67.8
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		601	535													Unscorable						00000001		57.1
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		601	1700													Unscorable						00000001		86.3
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		1021	156													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		1053	1561													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		73.5
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		677	543													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		53.3
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		561	667													Sessile invertebrates						00000002		46.0
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		811	1013													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		3.8
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		626	556													Unscorable						00000001		53.7
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		726	467													Substrate	Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)			82001014		60.8
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		882	236													Substrate	Unconsolidated (soft)	Pebble / gravel	Pebble (10-64mm)			82001012		87.8
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		944	1359													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		838	1835													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		99.2
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		848	1745													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		88.8
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		816	644													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		39.7
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		828	1739													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		88.0
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		727	1228													Unscorable						00000001		13.4
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		712	686													Sessile invertebrates						00000002		41.1
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		1037	1491													Bryozoa	Hard	Branching				20000908		43.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		542	1318													Unscorable						00000001		31.7
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		1016	152													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		94.2
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		657	1053													Unscorable						00000001		13.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		597	1789													Cnidaria	Corals	Black & Octocorals	Whip			11168917		68.4
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		775	1214													Unscorable						00000001		10.6
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		645	1517													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.1
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		897	1476													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		37.1
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		870	1239													Sessile invertebrates						00000002		14.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		916	1373													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.4
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		653	793													Sessile invertebrates						00000002		32.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		610	1334													Unscorable						00000001		28.2
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		766	115													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		95.4
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		857	1639													Unscorable						00000001		51.7
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		1074	1737													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		66.6
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		740	529													Sponges	Erect forms	Laminar				10000913		55.6
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		782	66													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		975	1355													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.8
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		581	246													Unscorable						00000001		82.5
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		857	1319													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.8
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		945	1471													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		46.0
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		767	357													Sessile invertebrates						00000002		68.4
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		760	934													Cnidaria	Corals	Black & Octocorals	Fan (2D)			11168912		11.1
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		630	825													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		27.2
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		698	1025													Sessile invertebrates						00000002		10.1
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		1027	201													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		87.1
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		1073	1467													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		51.2
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		563	989													Unscorable						00000001		24.1
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		725	1031													Sessile invertebrates						00000002		7.3
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		1002	1816													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		80.8
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		587	65													Sessile invertebrates						00000002		100.0
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		929	1556													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		53.6
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		828	1739													Unscorable						00000001		70.4
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		702	1478													Unscorable						00000001		45.2
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		563	1327													Unscorable						00000001		37.4
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		1036	955													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		25.3
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		814	1555													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		52.0
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		873	403													Sessile invertebrates						00000002		64.2
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		968	1287													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		29.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		966	1230													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		24.1
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		655	1327													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		34.2
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		619	1201													Unscorable						00000001		29.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		1058	1357													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		45.3
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		980	1744													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		87.8
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		964	1209													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		22.6
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		720	749													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		58.5
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		839	1505													Unscorable						00000001		50.7
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		712	778													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		54.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		615	1599													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		70.1
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		854	497													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		92.8
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		716	1301													Unscorable						00000001		25.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		846	1169													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		5.1
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		571	490													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		905	1730													Unscorable						00000001		83.5
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		942	1212													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		19.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		844	926													Cnidaria	Hydroids					11001000		32.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		557	609													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		85.3
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		1000	1064													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		28.8
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		870	309													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		70.1
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		754	1256													Unscorable						00000001		23.4
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		887	1514													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		49.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		807	1475													Unscorable						00000001		44.4
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		676	1858													Sessile invertebrates						00000002		82.8
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		675	1478													Sponges	Erect forms	Laminar				10000913		46.3
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		875	1487													Cnidaria	Corals	Black & Octocorals	Branching (3D)			11168902		46.1
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		775	630													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		38.3
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		743	43													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		96.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		562	1796													Unscorable						00000001		79.3
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		799	1563													Sessile invertebrates						00000002		53.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		1032	479													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		57.8
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		842	1316													Sponges	Erect forms	Branching				10000915		29.2
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		893	599													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		42.4
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		977	262													Substrate	Unconsolidated (soft)	Pebble / gravel	Biologenic			82001007		76.4
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		618	1797													Sponges	Massive forms	Simple				10000904		77.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		724	138													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		86.8
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		1003	1539													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		54.4
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		650	11													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		100.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		801	880													Substrate	Unconsolidated (soft)	Pebble / gravel	Gravel (2-10mm)			82001011		13.9

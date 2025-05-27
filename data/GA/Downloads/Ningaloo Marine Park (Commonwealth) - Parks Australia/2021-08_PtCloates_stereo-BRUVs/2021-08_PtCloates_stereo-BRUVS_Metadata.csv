@@ -1,0 +1,66 @@
+Sample,Latitude,Longitude,Date,Time,Site,Location,Status,Depth,Observer,Successful.count,Successful.length,Observer.length
+PCBRUV1,-22.7593,113.5427,20210828,09:56:00,Pt Cloates,Pt Cloates,No-take,81.1,Henry Evans,Yes,Yes,Molly Gerrans
+PCBRUV24,-22.7557,113.5451,20210828,09:52:00,Pt Cloates,Pt Cloates,No-take,81.1,Daniel Agnello,Yes,Yes,Molly Gerrans
+PCBRUV20,-22.7519,113.5445,20210828,11:36:00,Pt Cloates,Pt Cloates,No-take,82.4,Hannah Williams,Yes,Yes,Molly Gerrans
+PCBRUV8,-22.7506,113.5474,20210828,11:39:00,Pt Cloates,Pt Cloates,No-take,79.8,Hannah Williams,Yes,Yes,Molly Gerrans
+PCBRUV23,-22.7476,113.5435,20210828,11:42:00,Pt Cloates,Pt Cloates,No-take,85.6,Daniel Agnello,Yes,Yes,Hannah Williams
+PCPREF2,-22.7435,113.5454,20210828,11:47:00,Pt Cloates,Pt Cloates,No-take,82.2,Hannah Williams,Yes,No,
+PCBRUV10,-22.7405,113.5395,20210828,11:51:00,Pt Cloates,Pt Cloates,No-take,92.6,,No,No,
+PCPREF4,-22.7395,113.5425,20210828,11:54:00,Pt Cloates,Pt Cloates,No-take,89.7,Daniel Agnello ,Yes,Yes,Levi Peters
+PCBRUV26,-22.7376,113.542,20210828,11:57:00,Pt Cloates,Pt Cloates,No-take,88.7,Hannah Williams,Yes,Yes,Levi Peters
+PCBRUV5,-22.7391,113.5501,20210828,12:03:00,Pt Cloates,Pt Cloates,No-take,80.3,Hannah Williams,Yes,Yes,Levi Peters
+PCPREF5,-22.7345,113.5503,20210828,13:24:00,Pt Cloates,Pt Cloates,No-take,79.9,Hannah Williams,Yes,Yes,Levi Peters
+PCBRUV18,-22.7281,113.5522,20210828,13:32:00,Pt Cloates,Pt Cloates,No-take,83.9,Hannah Williams,Yes,Yes,Molly Gerrans
+PCPREF12,-22.7311,113.5441,20210828,13:36:00,Pt Cloates,Pt Cloates,No-take,90.4,Hannah Williams,Yes,Yes,Molly Gerrans
+PCBRUV27,-22.729,113.5509,20210828,13:40:00,Pt Cloates,Pt Cloates,No-take,82.4,Hannah Williams,Yes,No,Levi Peters
+PCBRUV15,-22.7281,113.5522,20210828,13:43:00,Pt Cloates,Pt Cloates,No-take,82,Levi Peters,Yes,Yes,Hannah Williams
+PCBRUV22,-22.7263,113.5501,20210828,13:47:00,Pt Cloates,Pt Cloates,No-take,82.2,Levi Peters,Yes,Yes,Hannah Williams
+PCBRUV7,-22.7266,113.5478,20210828,13:51:00,Pt Cloates,Pt Cloates,No-take,86,Levi Peters,Yes,Yes,Hannah Williams
+PCBRUV14,-22.7252,113.546,20210828,13:55:00,Pt Cloates,Pt Cloates,No-take,88.9,Hannah Williams,Yes,Yes,Levi Peters
+PCPREF3,-22.7512,113.5386,20210829,08:57:00,Pt Cloates,Pt Cloates,No-take,89.2,,No,No,
+CAP1,-22.7598,113.54,20210829,09:06:00,Pt Cloates,Pt Cloates,No-take,83.7,,No,No,
+CAP2,-22.7621,113.5439,20210829,09:11:00,Pt Cloates,Pt Cloates,No-take,78.6,,No,No,
+PCBRUV2,-22.7229,113.5462,20210829,10:58:00,Pt Cloates,Pt Cloates,No-take,90.5,,No,No,
+PCBRUV3,-22.7218,113.5506,20210829,11:14:00,Pt Cloates,Pt Cloates,No-take,82.2,,No,No,
+PCPREF6,-22.7172,113.5529,20210829,11:34:00,Pt Cloates,Pt Cloates,No-take,81.5,,No,No,
+PCBRUV29,-22.7128,113.5535,20210829,11:40:00,Pt Cloates,Pt Cloates,No-take,79.9,,No,No,
+PCBRUV13,-22.7094,113.5527,20210829,11:45:00,Pt Cloates,Pt Cloates,No-take,83.1,,No,No,
+PCBRUV19,-22.7103,113.5544,20210829,11:47:00,Pt Cloates,Pt Cloates,No-take,79.7,Daniel Agnello,Yes,Yes,Hannah Williams
+PCBRUV16,-22.706,113.5589,20210829,11:52:00,Pt Cloates,Pt Cloates,No-take,75.9,,No,No,
+PCBRUV21,-22.702,113.5565,20210829,13:08:00,Pt Cloates,Pt Cloates,No-take,80.9,,No,No,
+PCPREF1,-22.6991,113.5591,20210829,13:13:00,Pt Cloates,Pt Cloates,No-take,80.1,,No,No,
+PCBRUV6,-22.6999,113.5575,20210829,13:20:00,Pt Cloates,Pt Cloates,No-take,81.5,,No,No,
+PCPREF11,-22.6958,113.5593,20210829,13:24:00,Pt Cloates,Pt Cloates,No-take,77.6,,No,No,
+PCBRUV4,-22.6933,113.5571,20210829,13:28:00,Pt Cloates,Pt Cloates,No-take,84.6,,No,No,
+PCPREF7,-22.6906,113.5609,20210829,14:40:00,Pt Cloates,Pt Cloates,No-take,79.7,,No,No,
+PCBRUV9,-22.6867,113.5605,20210829,14:45:00,Pt Cloates,Pt Cloates,No-take,82.3,,No,No,
+PCPREF8,-22.6839,113.5634,20210829,14:50:00,Pt Cloates,Pt Cloates,No-take,80,,No,No,
+PCPREF9,-22.6775,113.5651,20210829,14:55:00,Pt Cloates,Pt Cloates,No-take,76.9,,No,No,
+PCPREF10,-22.6741,113.5662,20210829,14:59:00,Pt Cloates,Pt Cloates,No-take,77.7,,No,No,
+PCBP10,-22.6743,113.5667,20210907,07:54:00,Pt Cloates,Pt Cloates,No-take,81,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCBP15,-22.6752,113.5614,20210907,08:19:00,Pt Cloates,Pt Cloates,No-take,88,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCBP9,-22.6774,113.5655,20210907,08:36:00,Pt Cloates,Pt Cloates,No-take,80,Levi Peters,Yes,No,
+PCB30,-22.6827,113.5573,20210907,08:41:00,Pt Cloates,Pt Cloates,No-take,92,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCBP8,-22.6835,113.5638,20210907,08:45:00,Pt Cloates,Pt Cloates,No-take,78,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCB9,-22.6873,113.5604,20210907,08:48:00,Pt Cloates,Pt Cloates,No-take,83,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCBP7,-22.69,113.5613,20210907,08:51:00,Pt Cloates,Pt Cloates,No-take,80,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCB28,-22.6916,113.5554,20210907,10:48:00,Pt Cloates,Pt Cloates,No-take,92,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCB4,-22.6931,113.5571,20210907,10:51:00,Pt Cloates,Pt Cloates,No-take,86,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCBP11,-22.6959,113.5597,20210907,10:54:00,Pt Cloates,Pt Cloates,No-take,81,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCBP1,-22.6992,113.5588,20210907,10:57:00,Pt Cloates,Pt Cloates,No-take,82,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCB21,-22.7021,113.5563,20210907,11:01:00,Pt Cloates,Pt Cloates,No-take,82,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCB16,-22.7056,113.5586,20210907,11:03:00,Pt Cloates,Pt Cloates,No-take,78,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCBP16,-22.7054,113.5508,20210907,11:09:00,Pt Cloates,Pt Cloates,No-take,91,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCB13,-22.7094,113.5532,20210907,12:47:00,Pt Cloates,Pt Cloates,No-take,82,Kaitlin McCloghry,Yes,Yes,Hannah Williams
+PCB11,-22.71,113.5494,20210907,12:50:00,Pt Cloates,Pt Cloates,No-take,90,Kaitlin McCloghry,Yes,Yes,Levi Peters
+PCB29,-22.7133,113.5543,20210907,12:54:00,Pt Cloates,Pt Cloates,No-take,79,Henry Evans,Yes,Yes,Levi Peters
+PCBP6,-22.7173,113.5527,20210907,12:58:00,Pt Cloates,Pt Cloates,No-take,83,Henry Evans,Yes,Yes,Levi Peters
+PCB25,-22.7192,113.5485,20210907,13:02:00,Pt Cloates,Pt Cloates,No-take,89,Henry Evans,Yes,Yes,Levi Peters
+PCB3,-22.7227,113.5463,20210907,13:06:00,Pt Cloates,Pt Cloates,No-take,90,Henry Evans,Yes,Yes,Hannah Williams
+PCB2,-22.7216,113.5505,20210907,13:14:00,Pt Cloates,Pt Cloates,No-take,82,Henry Evans,Yes,Yes,Levi Peters
+PCBP3,-22.7513,113.5386,20210907,14:46:00,Pt Cloates,Pt Cloates,No-take,90,Henry Evans,Yes,Yes,Hannah Williams
+PCB12,-22.7548,113.5439,20210907,14:48:00,Pt Cloates,Pt Cloates,No-take,83,Henry Evans,Yes,Yes,Levi Peters
+PCBP14,-22.7653,113.5394,20210907,14:55:00,Pt Cloates,Pt Cloates,No-take,83,Henry Evans,Yes,Yes,Levi Peters
+PCBP13,-22.7633,113.5349,20210907,15:01:00,Pt Cloates,Pt Cloates,No-take,91,Henry Evans,Yes,Yes,Levi Peters
+PCBP17,-22.7565,113.529,20210907,15:08:00,Pt Cloates,Pt Cloates,No-take,99,Henry Evans/Levi Peters,Yes,No,
+PCBP18,-22.7529,113.5303,20210907,15:21:00,Pt Cloates,Pt Cloates,No-take,99,Kaitlin McCloghry,Yes,Yes,Hannah Williams

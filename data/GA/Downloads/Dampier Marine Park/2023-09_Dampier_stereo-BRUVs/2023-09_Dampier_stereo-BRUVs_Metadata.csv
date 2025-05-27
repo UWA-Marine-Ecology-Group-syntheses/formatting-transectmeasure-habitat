@@ -1,0 +1,105 @@
+Sample,Latitude,Longitude,Date,Time,Site,Location,Status,Depth,Successful.count,Successful.length,Observer,observer.length,forwards_habitat_image_saved,backwards_habitat_image_saved,successful_habitat_forward,successful_habitat_backward,observer_habitat_forward,observer_habitat_backward,left_cam,right_cam,rear_cam,raw_hdd_number,maxn_complete_date,maxn_checker,length_complete_date,Comment
+DM-BV-07,-20.33049831,116.8967685,20230921,07:46:44,,Dampier,Fished,38,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,28,27,1,1,31/01/2024,Alex McLennan,06/03/2024,"Green turtles, check ID. Cameras in wrong housing all day. Left footage is R028 right footage is L027. Use postcal"
+DM-BV-04,-20.32672102,116.9171993,20230921,07:55:02,,Dampier,Fished,37.3,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,29,30,2,1,31/01/2024,Alex McLennan,06/03/2024,Mantis Shrimp! (far away). Showed 10
+DM-BV-10,-20.31787271,116.8985533,20230921,08:04:51,,Dampier,Fished,37.4,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,31,32,3,1,02/02/2024,Alex McLennan,06/03/2024,Check Sea Snake ID. Turtle and Mantis shrimp den. Showed 4 at start corrected before deploy
+DM-BV-24,-20.31045478,116.9261446,20230921,08:15:40,,Dampier,Fished,37.4,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,33,34,4,1,08/02/2024,Alex McLennan,06/03/2024,Multiple sea snakes inside and outside of period. Lethrinidae spp. check ID
+DM-BV-20,-20.30033641,116.9526296,20230921,08:24:25,,Dampier,Fished,36.4,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,35,44,5,1,08/02/2024,Alex McLennan,08/05/2024,Sea Snake- Bri started lengths (speak to dan about nemip. spp)
+DM-BV-17,-20.31012677,116.9567583,20230921,08:30:34,,Dampier,Fished,36.1,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,37,38,9,1,08/02/2024,Alex McLennan,14/05/2024,
+DM-BV-13,-20.31405864,116.9555827,20230921,08:34:56,,Dampier,Fished,35.1,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,39,40,7,1,09/02/2024,Alex McLennan,13/05/2024,
+DM-BV-02,-20.32509215,116.9528591,20230921,08:41:09,,Dampier,Fished,33.7,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,41,42,8,1,16/02/2024,Alex McLennan,10/05/2024,Sawfish (Pristis zijsron) outside of period (84 mins in)
+DM-BV-06,-20.32956667,116.9403033,20230921,10:11:35,,Dampier,Fished,38.2,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,27,28,1,1,20/02/2024,Alex McLennan,10/05/2024,Tawny shark stole the bait bag at 33 minutes into the period. Cameras in wrong housing all day. Left footage is R028 right footage is L027. Use postcal
+DM-BV-01,-20.34136087,116.9308774,20230921,10:19:29,,Dampier,Fished,37.8,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,29,30,2,1,01/03/2024,Alex McLennan,14/05/2024,Check wedgefish ID. BRUV drops onto a congregation of hermit crabs. Sea snakes in and out of period (93mins)
+DM-BV-03,-20.35661,116.9534767,20230921,10:28:38,,Dampier,Fished,36,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,31,32,3,1,01/03/2024,Alex McLennan,13/05/2024,Point in wrong spot
+DM-BV-09,-20.34545833,116.9616333,20230921,10:33:28,,Dampier,Fished,37,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,33,34,4,1,11/03/2024,Alex McLennan,14/05/2024,C.albimarginatus needs checking. Tiger shark in period. Wedgefish with massive schools of Carangidae (98min) Great hammerhead (103min) outside of period
+DM-BV-08,-20.36077491,116.9831531,20230921,10:44:28,,Dampier,Fished,35.5,Yes,Yes,Daniel Agnello,Ryan Simms,Yes,,,,,,35,44,5,1,22/03/2024,Alex McLennan,01/05/2024,Sea snake needs ID
+DM-BV-05,-20.36878656,116.9937799,20230921,10:52:43,,Dampier,Fished,34.5,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,37,38,9,1,03/04/2024,Alex McLennan,14/05/2024,"Sea snake, green turtle, juvenile wedgefish, zebra shark, 2 naucrates get stuck together (all in cool clips)"
+DM-BV-14,-20.34742131,117.01662,20230921,11:05:57,,Dampier,Fished,35.2,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,39,40,7,1,25/03/2024,Alex McLennan,14/05/2024,"Sea snake. weird soft, bouncy slug/sea cucumber thingy rolling across the FOV at ~1 min"
+DM-BV-16,-20.33761467,117.0306433,20230921,11:16:33,,Dampier,Fished,34.9,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,41,42,8,1,25/03/2024,Alex McLennan,14/05/2024,Sea snake. Hammerhead after period ~82mins
+DM-BV-51,-20.33755167,117.0348467,20230921,13:22:27,,Dampier,No-take,35.5,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,27,28,1,1,12/04/2024,Bri Beaulieu,14/05/2024,2 species of sea snakes. Cameras in wrong housing all day. Left footage is R028 right footage is L027. Use postcal
+DM-BV-22,-20.33133167,117.0174817,20230921,13:30:54,,Dampier,Fished,36,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,29,30,2,1,18/04/2024,Bri Beaulieu,10/05/2023,Sea snake
+DM-BV-15,-20.32963,116.99708,20230921,13:40:28,,Dampier,Fished,36.9,Yes,Yes,Daniel Agnello,Bri Beaulieu,Yes,,,,,,31,32,3,1,29/04/2024,Bri Beaulieu,14/05/2024,Possibly pregnant tiger shark ~48mins
+DM-BV-12,-20.32424333,116.9948517,20230921,13:45:08,,Dampier,Fished,36.7,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,33,34,4,1,19/04/2024,Bri Beaulieu,30/04/2024,
+DM-BV-11,-20.317205,116.9803183,20230921,13:52:40,,Dampier,Fished,37.1,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,35,44,5,1,22/04/2024,Bri Beaulieu,30/04/2024,"Sea snake, R.austaliae"
+DM-BV-21,-20.30787833,116.976335,20230921,13:58:41,,Dampier,Fished,37.8,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,37,38,9,1,24/04/2024,Bri Beaulieu,01/05/2024,
+DM-BV-19,-20.30109667,116.99407,20230921,14:05:40,,Dampier,Fished,39.2,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,39,40,7,1,23/04/2024,Bri Beaulieu,01/05/2024,
+DM-BV-25,-20.31486167,116.994875,20230921,14:13:12,,Dampier,Fished,37.1,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,41,42,8,1,24/04/2024,Bri Beaulieu,01/05/2024,
+DM-BV-46,-20.31918833,117.0372083,20230923,07:32:05,,Dampier,No-take,33.9,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,27,28,1,1,24/04/2024,Bri Beaulieu,01/05/2024,
+DM-BV-49,-20.31274667,117.03455,20230923,07:35:37,,Dampier,No-take,35.7,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,29,30,2,1,24/04/2024,Bri Beaulieu,01/05/2024,
+DM-BV-56,-20.30827667,117.0466667,20230923,07:42:22,,Dampier,No-take,36,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,31,32,3,1,30/04/2024,Bri Beaulieu,02/04/2024,
+DM-BV-50,-20.30587333,117.05233,20230923,07:46:58,,Dampier,No-take,35.7,Yes,Yes,Bri Beaulieu,Bri Beaulieu,Yes,,,,,,33,34,4,1,29/04/2024,Alex McLennan,02/04/2024,
+DM-BV-47,-20.31181,117.0515433,20230923,07:51:37,,Dampier,No-take,35.7,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,5,1,29/04/2024,Daniel Agnello,14/05/2024,Sea snakes mating (i think)
+DM-BV-39,-20.30572,117.068565,20230923,08:00:44,,Dampier,No-take,35.7,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,37,38,9,1,26/04/2024,Daniel Agnello,14/05/2024,Backwards cam didn’t take photos
+DM-BV-41,-20.31339833,117.0789883,20230923,08:07:10,,Dampier,No-take,34.9,Yes,Yes,Bri Beaulieu,Nidhi Menon,Yes,,,,,,39,40,7,1,26/04/2024,Daniel Agnello,10/05/2024,
+DM-BV-40,-20.31708167,117.05918,20230923,08:15:08,,Dampier,No-take,34.2,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,41,42,8,1,26/04/2024,Daniel Agnello,10/05/2024,
+DM-BV-53,-20.33662167,117.0516367,20230923,09:34:35,,Dampier,No-take,31.5,Yes,Yes,Bri Beaulieu,Nidhi Menon,Yes,,,,,,27,28,1,1,26/04/2024,Alex McLennan,10/05/2024,
+DM-BV-48,-20.33704833,117.0553283,20230923,09:37:53,,Dampier,No-take,31.6,Yes,Yes,Bri Beaulieu,Nidhi Menon,Yes,,,,,,29,30,2,1,25/04/2024,Alex McLennan,10/05/2024,
+DM-BV-45,-20.33872,117.0663717,20230923,09:43:31,,Dampier,No-take,32.1,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,1,24/04/2024,Alex McLennan,10/05/2024,
+DM-BV-44,-20.34298667,117.0628217,20230923,09:47:29,,Dampier,No-take,31,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,1,24/04/2024,Alex McLennan,10/05/2024,No clap to sync
+DM-BV-42,-20.334375,117.0952667,20230923,09:58:53,,Dampier,No-take,32.3,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,9,1,24/04/2024,Alex McLennan,10/05/2024,
+DM-BV-55,-20.33103,117.080365,20230923,10:07:46,,Dampier,No-take,32.7,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,37,38,9,1,23/04/2024,Alex McLennan,10/05/2024,
+DM-BV-52,-20.32275667,117.0871617,20230923,10:12:26,,Dampier,No-take,34.2,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,39,40,7,1,23/04/2024,Alex McLennan,09/05/2024,
+DM-BV-26,-20.30281833,117.1066117,20230923,10:22:24,,Dampier,No-take,36.5,Yes,Yes,Bri Beaulieu,Nidhi Menon,Yes,,,,,,41,42,8,1,22/04/2024,Alex McLennan,03/05/2024,Snakes - laevis
+DM-BV-29,-20.37435333,117.1063617,20230923,12:00:54,,Dampier,No-take,30.5,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,27,28,1,1,12/04/2024,Alex McLennan,09/05/2024,
+DM-BV-28,-20.37111893,117.0883985,20230923,12:11:56,,Dampier,No-take,34.1,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,29,30,2,1,11/04/2024,Alex McLennan,09/05/2024,Not exact spot as GPS went down
+DM-BV-35,-20.358995,117.07885,20230923,12:19:12,,Dampier,No-take,31,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,1,08/04/2024,Alex McLennan,09/05/2024,
+DM-BV-43,-20.35173167,117.0807583,20230923,12:23:39,,Dampier,No-take,30.8,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,1,08/04/2024,Alex McLennan,08/05/2024,
+DM-BV-38,-20.34989,117.091045,20230923,12:29:20,,Dampier,No-take,31.7,Yes,Yes,Bri Beaulieu,Daniel Agnello,Yes,,,,,,35,44,5,1,08/04/2024,Alex McLennan,08/05/2024,Hammerhead and great barracuda
+DM-BV-34,-20.35093667,117.0994717,20230923,12:33:43,,Dampier,No-take,31.8,Yes,Yes,Alex McLennan,Daniel Agnello,Yes,,,,,,37,38,9,1,26/04/2024,Bri Beaulieu,08/05/2024,
+DM-BV-31,-20.35437833,117.0967617,20230923,12:37:35,,Dampier,No-take,31.2,Yes,Yes,Alex McLennan,Daniel Agnello,Yes,,,,,,39,40,7,1,20/03/2024,Bri Beaulieu,08/05/2024,Snakes - laevis and tenuis
+DM-BV-32,-20.36484667,117.09756,20230923,12:43:01,,Dampier,No-take,29.7,Yes,Yes,Alex McLennan,Daniel Agnello,Yes,,,,,,41,42,8,1,19/03/2024,Bri Beaulieu,29/04/2024,"Snake, reckon mosaic"
+DM-BV-37,-20.37294333,117.0772917,20230924,07:12:02,,Dampier,No-take,30.7,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,27,28,1,2,05/04/2024,Alex McLennan,08/05/2024,
+DM-BV-27,-20.37176667,117.0688483,20230924,07:16:55,,Dampier,No-take,30.4,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,29,30,2,2,04/04/2024,Alex McLennan,18/04/2024,
+DM-BV-54,-20.36758167,117.05492,20230924,07:23:06,,Dampier,No-take,31.5,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,2,02/04/2024,Alex McLennan,08/05/2024,
+DM-BV-33,-20.361185,117.0400333,20230924,07:31:07,,Dampier,No-take,33.7,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,2,28/03/2024,Alex McLennan,07/05/2024,
+DM-BV-57,-20.357705,117.05049,20230924,07:37:19,,Dampier,No-take,32.9,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,5,2,22/03/2024,Alex McLennan,07/05/2024,
+DM-BV-36,-20.356935,117.06226,20230924,07:43:58,,Dampier,No-take,31.4,Yes,Yes,Bri Beaulieu,Bri Beaulieu,Yes,,,,,,37,38,9,2,20/03/2024,Alex McLennan,17/05/2024,
+DM-BV-30,-20.36478833,117.0697967,20230924,07:50:18,,Dampier,No-take,31.3,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,39,40,7,2,15/03/2024,Alex McLennan,22/03/2024,
+DM-BV-C1,-20.36448,117.0883117,20230924,07:58:45,,Dampier,No-take,30.4,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,41,42,8,2,15/03/2024,Alex McLennan,08/05/2024,
+DM-BV-90,-20.342975,117.1860133,20230924,09:38:55,,Dampier,Fished,31.5,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,27,28,1,2,05/04/2024,Bri Beaulieu,02/05/2024,
+DM-BV-78,-20.31877333,117.178935,20230924,09:48:33,,Dampier,Fished,33.6,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,29,30,2,2,05/04/2024,Bri Beaulieu,07/05/2024,
+DM-BV-82,-20.32666333,117.2073433,20230924,09:59:14,,Dampier,Fished,32.5,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,2,02/04/2024,Alex McLennan,07/05/2024,
+DM-BV-81,-20.33157,117.2140417,20230924,10:03:56,,Dampier,Fished,32.3,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,2,28/03/2024,Alex McLennan,07/05/2024,
+DM-BV-89,-20.33055833,117.2376283,20230924,10:13:08,,Dampier,Fished,31.4,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,5,2,27/03/2024,Alex McLennan,06/05/2024,Shark on surface at retrieval 
+DM-BV-85,-20.33527167,117.2257217,20230924,10:19:07,,Dampier,Fished,31.8,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,37,38,9,2,21/02/2024,Alex McLennan,06/05/2024,
+DM-BV-97,-20.34085333,117.2210917,20230924,10:22:56,,Dampier,Fished,32,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,39,40,7,2,20/03/2024,Alex McLennan,06/05/2024,Seasnake
+DM-BV-86,-20.36517278,117.210156,20230924,10:33:55,,Dampier,Fished,28.7,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,41,42,8,2,14/03/2024,Alex McLennan,02/05/2024,GPS down point in wrong spot
+DM-BV-92,-20.42098,117.205725,20230924,12:04:09,,Dampier,Fished,24.7,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,27,28,1,2,04/04/2024,Bri Beaulieu,07/05/2024,
+DM-BV-95,-20.43032,117.231075,20230924,12:12:54,,Dampier,Fished,19.8,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,29,30,2,2,04/04/2024,Bri Beaulieu,07/05/2024,
+DM-BV-87,-20.43231833,117.2461983,20230924,12:18:38,,Dampier,Fished,20.4,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,2,03/04/2024,Alex McLennan,02/05/2024,
+DM-BV-91,-20.45017667,117.2401617,20230924,12:26:27,,Dampier,Fished,18.6,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,2,25/03/2024,Alex McLennan,19/04/2024,
+DM-BV-88,-20.45418833,117.220025,20230924,12:34:39,,Dampier,Fished,17.6,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,5,2,27/03/2024,Alex McLennan,02/05/2024,
+DM-BV-84,-20.43988,117.206775,20230924,12:43:13,,Dampier,Fished,21.1,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,37,38,9,2,21/03/2024,Alex McLennan,01/05/2024,
+DM-BV-96,-20.43799333,117.1915767,20230924,12:50:31,,Dampier,Fished,21.8,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,39,40,7,2,19/03/2024,Alex McLennan,01/05/2024,
+DM-BV-77,-20.42428667,117.1952633,20230924,12:57:54,,Dampier,Fished,24.3,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,41,42,8,2,10/03/2024,Alex McLennan,19/04/2024,
+DM-BV-69,-20.38154833,117.1414,20230924,14:30:09,,Dampier,Fished,29.5,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,27,28,1,2,03/04/2024,Alex McLennan,07/05/2024,
+DM-BV-65,-20.38076833,117.1358033,20230924,14:34:14,,Dampier,Fished,29.9,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,29,30,2,2,03/04/2024,Alex McLennan,08/05/2024,
+DM-BV-73,-20.37502667,117.1280317,20230924,14:39:23,,Dampier,Fished,21,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,31,32,3,2,02/04/2024,Alex McLennan,08/05/2024,
+DM-BV-63,-20.36520167,117.1237567,20230924,14:45:02,,Dampier,Fished,29.9,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,2,21/03/2024,Alex McLennan,17/05/2024,Little tiger shark and grey reef shark 
+DM-BV-59,-20.366655,117.1350783,20230924,14:50:01,,Dampier,Fished,30.9,Yes,Yes,Ryan Simms,Bri Beaulieu,Yes,,,,,,35,44,5,2,27/03/2024,Alex McLennan,08/05/2024,little tiger shark
+DM-BV-70,-20.35337,117.1397133,20230924,14:55:45,,Dampier,Fished,32.7,Yes,Yes,Ryan Simms,Ryan Simms,Yes,,,,,,37,38,9,2,28/03/2024,Bri Beaulieu,01/05/2024,Showed 63
+DM-BV-74,-20.357585,117.1466317,20230924,14:59:19,,Dampier,Fished,31.4,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,39,40,7,2,18/03/2024,Alex McLennan,21/03/2024,
+DM-BV-72,-20.388295,117.1605483,20230924,15:10:17,,Dampier,Fished,29.2,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,41,42,8,2,13/03/2024,Alex McLennan,21/03/2024,
+DM-BV-61,-20.41127333,117.1544833,20230927,07:33:20,,Dampier,Fished,26.1,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,27,28,1,2,07/02/2024,Alex McLennan,19/03/2024,
+DM-BV-68,-20.39928167,117.1706567,20230927,07:41:42,,Dampier,Fished,28.5,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,29,30,2,2,19/02/2023,Alex McLennan,19/03/2024,
+DM-BV-64,-20.39441667,117.1683817,20230927,07:45:32,,Dampier,Fished,29.3,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,2,21/02/2024,Alex McLennan,19/03/2024,
+DM-BV-76,-20.38923,117.1899583,20230927,07:56:21,,Dampier,Fished,29,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,2,26/02/2024,Alex McLennan,19/03/2024,
+DM-BV-93,-20.37251167,117.2202817,20230927,08:11:23,,Dampier,Fished,30.2,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,5,2,07/03/2024,Alex McLennan,19/03/2024,2 sea snakes (ocellatus and tenuis)
+DM-BV-83,-20.392455,117.229045,20230927,08:22:31,,Dampier,Fished,28.6,Yes,Yes,Alex McLennan,Ryan Simms,Yes,,,,,,37,38,9,2,12/02/2024,Bri Beaulieu,19/03/2024,snake
+DM-BV-80,-20.3996,117.2041867,20230927,08:34:36,,Dampier,Fished,28.2,Yes,No,Alex McLennan,Ryan Simms,Yes,,,,,,40,39,7,2,30/01/2024,Claude Spencer,,39 off on retrieve. 39 and 40 in wrong housings for this drop only- left camera was off the majority of the video
+DM-BV-79,-20.41270333,117.1706667,20230927,08:47:02,,Dampier,Fished,25.5,Yes,Yes,Alex McLennan,Ryan Simms,Yes,,,,,,41,42,8,2,25/01/2024,Claude Spencer,19/03/2024,snake
+DM-BV-60,-20.427225,117.17244,20230927,10:11:42,,Dampier,Fished,24,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,27,28,1,2,12/02/2024,Alex McLennan,19/03/2024,snake
+DM-BV-58,-20.43301,117.1800383,20230927,10:17:09,,Dampier,Fished,19.2,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,29,30,2,2,13/02/2024,Alex McLennan,19/03/2024,
+DM-BV-71,-20.436625,117.1707867,20230927,10:21:24,,Dampier,Fished,23,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,2,,Alex McLennan,19/03/2024,guitarfish + sharks
+DM-BV-62,-20.44728167,117.180985,20230927,10:29:28,,Dampier,Fished,22.4,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,2,26/02/2024,Alex McLennan,19/03/2024,
+DM-BV-C2,-20.441385,117.19987,20230927,10:41:18,,Dampier,Fished,22,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,5,2,07/03/2024,Alex McLennan,19/03/2024,
+DM-BV-C3,-20.43582167,117.213835,20230927,10:48:49,,Dampier,Fished,21.7,Yes,Yes,Ryan Simms,Ryan Simms,Yes,,,,,,37,38,9,2,29/04/2024,Bri Beaulieu,03/05/2024,
+DM-BV-C4,-20.429655,117.213205,20230927,10:59:42,,Dampier,Fished,25.4,Yes,Yes,Alex McLennan,Ryan Simms,Yes,,,,,,39,40,7,2,31/01/2024,Claude Spencer,20/03/2024,Shipwreck 
+DM-BV-C5,-20.43187333,117.198665,20230927,11:06:53,,Dampier,Fished,20.2,Yes,Yes,Alex McLennan,Ryan Simms,Yes,,,,,,41,42,8,2,29/01/2024,Claude Spencer,20/03/2024,Big male leopard shark Stegostoma tigrinum after period
+DM-BV-C6,-20.44128,117.2439583,20230927,12:35:00,,Dampier,Fished,19.9,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,27,28,1,2,01/02/2024,Alex McLennan,20/03/2024,
+DM-BV-C7,-20.433945,117.239665,20230927,12:40:01,,Dampier,Fished,21.9,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,29,30,2,2,13/02/2024,Alex McLennan,20/03/2024,snake curling around bait
+DM-BV-C8,-20.42657,117.24755,20230927,12:46:49,,Dampier,Fished,22.5,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,31,32,3,2,06/03/2024,Alex McLennan,20/03/2024,
+DM-BV-C9,-20.41904833,117.258485,20230927,12:53:46,,Dampier,Fished,24.7,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,33,34,4,2,20/02/2024,Alex McLennan,20/03/2024,
+DM-BV-P1,-20.41191,117.26737,20230927,12:59:48,,Dampier,Fished,22.9,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,35,44,5,2,11/03/2024,Alex McLennan,20/03/2024,
+DM-BV-P2,-20.42148667,117.271285,20230927,13:06:04,,Dampier,Fished,22.9,Yes,Yes,Bri Beaulieu,Ryan Simms,Yes,,,,,,37,38,9,2,12/03/2024,Alex McLennan,20/03/2024,meyeni ray
+DM-BV-P3,-20.43018,117.2735783,20230927,13:12:24,,Dampier,Fished,23.1,Yes,Yes,Alex McLennan,Ryan Simms,Yes,,,,,,39,40,7,2,24/01/2024,Bri Beaulieu,01/05/2024,"Snake, shovelnose AND wedgefish"
+DM-BV-P4,-20.43528667,117.2798217,20230927,13:16:56,,Dampier,Fished,20.8,Yes,Yes,Alex McLennan,Ryan Simms,Yes,,,,,,41,42,8,2,24/01/2024,Claude Spencer,21/03/2024,"Snake, sicklefin lemon, couple of odd S. ghobban"

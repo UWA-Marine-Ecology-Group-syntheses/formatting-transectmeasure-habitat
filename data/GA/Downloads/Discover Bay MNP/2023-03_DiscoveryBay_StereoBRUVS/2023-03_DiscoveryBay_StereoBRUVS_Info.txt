@@ -1,0 +1,131 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+DB_000	Scott Gray	8	No lights	Latitude	-38.3402255	Longitude	141.3884961	Date	13/03/2023	Time	13:32	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_001	Scott Gray	10	No lights	Latitude	-38.3438104	Longitude	141.384712	Date	13/03/2023	Time	13:34	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_002	Scott Gray	18	No lights	Latitude	-38.3445464	Longitude	141.3759157	Date	13/03/2023	Time	13:45	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_003	Scott Gray	13	No lights	Latitude	-38.3189964	Longitude	141.3786161	Date	13/03/2023	Time	11:37	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_004	Scott Gray	12	No lights	Latitude	-38.3229054	Longitude	141.381513	Date	13/03/2023	Time	11:40	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_005	Grace Cosgriff-Camm	17	No lights, clapper wrong site DB_005 corrected and checked	Latitude	-38.3828795	Longitude	141.3669808	Date	14/03/2023	Time	11:27	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_006	Scott Gray	15	No lights	Latitude	-38.3399294	Longitude	141.3803974	Date	13/03/2023	Time	13:36	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_007	Scott Gray	9	No lights	Latitude	-38.3320162	Longitude	141.3873328	Date	13/03/2023	Time	13:28	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_008	Scott Gray	18	No lights	Latitude	-38.3260988	Longitude	141.3771828	Date	13/03/2023	Time	11:42	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_009	Grace Cosgriff-Camm	19	No lights	Latitude	-38.3356826	Longitude	141.3771185	Date	14/03/2023	Time	9:30	MPA Status	No take	Site	Discovery Bay	Year	2023	Spare	
+DB_010	Scott Gray	15	No lights	Latitude	-38.3302549	Longitude	141.3804642	Date	13/03/2023	Time	11:45	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_011	Scott Gray	13	No lights	Latitude	-38.3162705	Longitude	141.3754096	Date	13/03/2023	Time	11:34	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_012	Scott Gray	25	No lights	Latitude	-38.325954	Longitude	141.3675992	Date	13/03/2023	Time	11:53	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_013	Louisa Graf	20	No lights	Latitude	-38.3175179	Longtitude	141.3706271	Date	13/03/2023	Time	11:58	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_014	Scott Gray	17	No lights	Latitude	-38.3865167	Longitude	141.3700055	Date	14/03/2023	Time	14:00	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_015	Grace Cosgriff-Camm	16	No lights	Latitude	-38.3836864	Longitude	141.3681495	Date	14/03/2023	Time	11:29	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	 
+DB_016	Grace Cosgriff-Camm	20	No lights	Latitude	-38.3708601	Longitude	141.36187	Date	14/03/2023	Time	11:17	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	 
+DB_017	Scott Gray	20	No lights	Latitude	-38.3618732	Longtitude	141.3658893	Date	14/03/2023	Time	9:54	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_018	Scott Gray	15	No lights	Latitude	-38.3884664	Longitude	141.3792295	Date	14/03/2023	Time	14:04	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_021	Grace Cosgriff-Camm	15	No lights	Latitude	-38.3536943	Longitude	141.3736465	Date	14/03/2023	Time	9:48	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_022	Louisa Graf 	7	No lights	Latitude	-38.3446909	Longtitude	141.3872693	Date	14/03/2023	Time	9:39	MPAStatus	No take	Site	Discovery Bay 	Year	2023	Spare	
+DB_024	Louisa Graf	16	No lights	Latitude	-38.3565601	Longtitude	141.3690673	Date	14/03/2023	Time	9:51	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_025	Grace Cosgriff-Camm	9	No lights	Latitude	-38.3501202	Longitude	141.3800057	Date	14/03/2023	Time	9:44	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	 
+DB_026	Grace Cosgriff-Camm	6	No lights	Latitude	-38.3414156	Longitude	141.3919927	Date	14/04/2023	Time	9:36	MPA Status	No take	Site	Discovery Bay	Year	2023	Spare	
+DB_028	Scott Gray	31	No lights	Latitude	-38.3456118	Longitude	141.3614531	Date	13/03/2023	Time	13:51	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_029	Scott Gray	22	No lights	Latitude	-38.3476774	Longitude	141.3697695	Date	13/03/2023	Time	13:48	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_030	Scott Gray	29	No lights	Latitude	-38.3624636	Longitude	141.3563772	Date	13/03/2023	Time	13:57	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_031	Scott Gray	24	No lights	Latitude	-38.3290472	Longitude	141.3710823	Date	13/03/2023	Time	11:50	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_032	Scott Gray	25	No lights	Latitude	-38.3383243	Longitude	141.3693453	Date	13/03/2023	Time	13:42	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_033	Scott Gray	34	No lights	Latitude	-38.3548972	Longitude	141.3551972	Date	12/03/2023	Time	12:15	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_034	Grace Cosgriff-Camm	20	No lights, no measurements	Latitude	-38.3828795	Longitude	141.3669808	Date	14/03/2023	Time	11:27	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_035	Scott Gray	21	No lights	Latitude	-38.3318588	Longitude	141.3748848	Date	13/03/2023	Time	11:48	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_036	Scott Gray	32	No lights	Latitude	-38.3511878	Longitude	141.3571562	Date	12/03/2023	Time	12:10	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_037	Scott Gray	34	No lights	Latitude	-38.3664186	Longitude	141.3518064	Date	13/03/2023	Time	10:01	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_038	Scott Gray	35	Lights	Latitude	-38.3366863	Longitude	141.3549212	Date	12/03/2023	Time	11:46	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_039	Scott Gray	31	No lights	Latitude	-38.3734195	Longitude	141.3505374	Date	13/03/2023	Time	9:56	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_040	Scott Gray	35	No lights	Latitude	-38.3424368	Longitude	141.3528145	Date	12/03/2023	Time	11:50	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_041	Scott Gray	22	No lights	Latitude	-38.321749	Longitude	141.3701416	Date	13/03/2023	Time	11:56	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_042	Scott Gray	29	No lights	Latitude	-38.380545	Longitude	141.3489126	Date	13/03/2023	Time	9:49	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_043	Scott Gray	30	No lights	Latitude	-38.3941307	Longitude	141.3684233	Date	13/03/2023	Time	9:39	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_044	Scott Gray	22	No lights	Latitude	-38.3898399	Longtitude	141.3874282	Date	14/03/2023	Time	14:07	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_045	Louisa Graf	30	No lights	Latitude	-38.3700391	Longtitude	141.3531778	Date	13/03/2023	Time	09:59	MPAStatus	No take	Site	Discovery Bay 	Year	2023	Spare	
+DB_046	Scott Gray	38	Lights	Latitude	-38.3473241	Longitude	141.356118	Date	12/03/2023	Time	12:07	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_047	Scott Gray	24	No lights	Latitude	-38.3943985	Longitude	141.3720073	Date	13/03/2023	Time	9:36	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_048	Louisa Graf	N/A	No lights	Latitude	-38.3896205	Longtitude	141.3665325	Date	14/03/2023	Time	11:38	MPAStatus	Fished	Site	Discovery Bay 	Year	2023	Spare	
+DB_049	Scott Gray	28	No lights	Latitude	-38.3741437	Longitude	141.3552221	Date	13/03/2023	Time	9:53	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_050	Grace Cosgriff-Camm	18	No lights	Latitude	-38.3680438	Longitude	141.36198	Date	14/03/2023	Time	11:15	MPA Status	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_051	Louisa Graf 	20	No lights	Latitude	-38.3468156	Longtitude	141.38407	Date	14/03/2023	Time	13:57	MPAStatus	Fished	Site	Discovery Bay 	Year	2023	Spare	
+DB_052	Scott Gray	29	No lights	Latitude	-38.3545316	Longitude	141.359255	Date	12/03/2023	Time	12:13	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_053	Louisa Graf	28	No lights	Latitude	-38.3676801	Longtitude	141.3565627	Date	14/03/2023	Time	10:00	MPAStatus	No take	Site	Discovery Bay 	Year	2023	Spare	 
+DB_055	Scott Gray	26	No lights	Latitude	-38.3822112	Longitude	141.3545926	Date	13/03/2023	Time	9:47	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_056	Scott Gray	61	Lights	Latitude	-38.3608238	Longitude	141.3063585	Date	11/03/2023	Time	14:02	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_057	Scott Gray	56	Lights	Latitude	-38.3515497	Longitude	141.3207818	Date	11/03/2023	Time	14:17	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_058	Scott Gray	56	Lights	Latitude	-38.3648881	Longitude	141.3344395	Date	12/03/2023	Time	9:51	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_059	Scott Gray	35	No lights	Latitude	-38.3412805	Longitude	141.3468575	Date	12/03/2023	Time	11:53	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_060	Scott Gray	54	Lights	Latitude	-38.3388866	Longitude	141.3218501	Date	11/03/2023	Time	14:27	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_061	Scott Gray	58	No lights	Latitude	-38.3841193	Longitude	141.3458603	Date	12/03/2023	Time	14:07	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_062	Scott Gray	55	No lights	Latitude	-38.3983362	Longitude	141.3651727	Date	12/03/2023	Time	14:31	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_063	Scott Gray	47	No lights	Latitude	-38.3524901	Longitude	141.3480082	Date	12/03/2023	Time	12:00	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_064	Scott Gray	49	No lights	Latitude	-38.3914325	Longitude	141.3594918	Date	12/03/2023	Time	14:25	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_065	Scott Gray	55	Lights	Latitude	-38.3609846	Longitude	141.3325467	Date	12/03/2023	Time	9:48	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_067	Scott Gray	42	No lights	Latitude	-38.3488643	Longitude	141.3528214	Date	12/03/2023	Time	12:04	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_068	Scott Gray	57	Lights	Latitude	-38.3578496	Longitude	141.321332	Date	11/03/2023	Time	14:13	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_069	Scott Gray	50	No lights	Latitude	-38.3460112	Longitude	141.3421842	Date	12/03/2023	Time	11:56	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_070	Scott Gray	52	Lights	Latitude	-38.3452469	Longitude	141.3219159	Date	11/03/2023	Time	14:24	MPAStatus	Inside MPA	Site	Discovery Bay	Year	2023	Spare	
+DB_071	Scott Gray	57	No lights	Latitude	-38.3813893	Longitude	141.3442892	Date	12/03/2023	Time	14:03	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_072	Scott Gray		Lights	Latitude	-38.3401741	Longitude	141.3298734	Date	12/03/2023	Time	9:38	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_073	Scott Gray	52	Lights	Latitude	-38.3346536	Longitude	141.3200347	Date	11/03/2023	Time	14:30	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_074	Scott Gray	27	No lights	Latitude	-38.38732	Longitude	141.357773	Date	13/03/2023	Time	9:43	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_075	Scott Gray	54	Lights	Latitude	-38.349512	Longitude	141.3300381	Date	12/03/2023	Time	9:43	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_076	Scott Gray	54	Lights	Latitude	-38.346169	Longitude	141.3146394	Date	11/03/2023	Time	14:20	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_077	Scott Gray	47	No lights	Latitude	-38.3872541	Longitude	141.3517127	Date	12/03/2023	Time	14:17	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_078	Scott Gray		Lights	Latitude	-38.3346009	Longitude	141.332296	Date	12/03/2023	Time	9:34	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_079	Scott Gray	54	No lights	Latitude	-38.3649189	Longitude	141.3414439	Date	12/03/2023	Time	13:57	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_080	Scott Gray	53	Lights	Latitude	-38.3350815	Longitude	141.3255308	Date	11/03/2023	Time	14:33	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_081	Scott Gray	38	No lights	Latitude	-38.3969245	Longitude	141.3730382	Date	13/03/2023	Time	9:34	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_082	Scott Gray	51	No lights	Latitude	-38.3839172	Longitude	141.3505541	Date	12/03/2023	Time	14:14	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_083	Scott Gray	38	No lights	Latitude	-38.3961704	Longitude	141.3630447	Date	12/03/2023	Time	14:29	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_084	Scott Gray	68	Lights	Latitude	-38.3894908	Longitude	141.3117513	Date	11/03/2023	Time	12:00	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_085	Scott Gray	71	Lights	Latitude	-38.4001925	Longitude	141.3096361	Date	11/03/2023	Time	11:49	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_086	Scott Gray	60	Lights	Latitude	-38.3739502	Longitude	141.3323373	Date	12/03/2023	Time	10:02	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_087	Scott Gray	64	No lights	Latitude	-38.3945922	Longitude	141.351995	Date	12/03/2023	Time	14:21	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_088	Scott Gray	70	Lights	Latitude	-38.3867081	Longitude	141.3380094	Date	11/03/2023	Time	9:29	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_089	Scott Gray	59	Lights	Latitude	-38.3639303	Longitude	141.3218242	Date	11/03/2023	Time	14:10	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_090	Scott Gray	60	Lights	Latitude	-38.363596	Longitude	141.3124676	Date	11/03/2023	Time	12:25	MPAStatus	No take	Site	Discovery Bay	Year	2023	Spare	
+DB_091	Scott Gray	68	Lights	Latitude	-38.3817956	Longitude	141.3060277	Date	11/03/2023	Time	12:12	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_092	Scott Gray	66	Lights	Latitude	-38.3741154	Longitude	141.3160564	Date	11/03/2023	Time	12:16	MPAStatus	No take	Site	Discovery Bay	Year	2023	Spare	
+DB_093	Scott Gray	62	Lights	Latitude	-38.3920742	Longitude	141.3286702	Date	11/03/2023	Time	9:51	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_094	Scott Gray	71	Lights	Latitude	-38.398849	Longitude	141.3236037	Date	11/03/2023	Time	10:02	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_095	Scott Gray	67	Lights	Latitude	-38.3715619	Longitude	141.3116251	Date	11/03/2023	Time	12:21	MPAStatus	No take	Site	Discovery Bay	Year	2023	Spare	
+DB_096	Scott Gray	68	Lights	Latitude	-38.3878364	Longitude	141.3235123	Date	11/03/2023	Time	10:19	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_097	Scott Gray	60	Lights	Latitude	-38.3769912	Longitude	141.3382257	Date	12/03/2023	Time	10:06	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_098	Scott Gray	65	Lights	Latitude	-38.3933754	Longitude	141.3301052	Date	11/03/2023	Time	9:44	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_099	Scott Gray	74	Lights	Latitude	-38.3963005	Longitude	141.3131923	Date	11/03/2023	Time	11:53	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_100	Scott Gray	70	Lights	Latitude	-38.381651	Longitude	141.3156371	Date	11/03/2023	Time	12:07	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_101	Scott Gray	61	No lights	Latitude	-38.3721349	Longitude	141.3268316	Date	12/03/2023	Time	9:59	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_102	Scott Gray	72	Lights	Latitude	-38.3985779	Longitude	141.3198081	Date	11/03/2023	Time	10:07	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_103	Scott Gray	70	Lights	Latitude	-38.3886499	Longitude	141.3152264	Date	11/03/2023	Time	12:03	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_104	Scott Gray	68	Lights	Latitude	-38.3976312	Longitude	141.327122	Date	11/03/2023	Time	9:56	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_105	Scott Gray	57	Lights	Latitude	-38.3708825	Longitude	141.3385401	Date	12/03/2023	Time	10:09	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_106	Scott Gray	73	Lights	Latitude	-38.3934298	Longitude	141.3089565	Date	11/03/2023	Time	11:57	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_107	Scott Gray	65	Lights	Latitude	-38.394568	Longitude	141.3231094	Date	11/03/2023	Time	10:13	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_108	Scott Gray	62	Lights	Latitude	-38.3699355	Longitude	141.3296716	Date	12/03/2023	Time	9:55	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_109	Scott Gray	68	Lights	Latitude	-38.3896764	Longitude	141.3329435	Date	11/03/2023	Time	9:38	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_110	Scott Gray	68	Lights	Latitude	-38.385098	Longitude	141.3359215	Date	11/03/2023	Time	9:32	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_111	Scott Gray	62	Lights	Latitude	-38.3662986	Longitude	141.3214757	Date	11/03/2023	Time	14:07	MPAStatus	No Take	Site	Discovery Bay	Year	2023	Spare	
+DB_120	Scott Gray	135	Lights	Latitude	-38.494475	Longitude	141.2543514	Date	10/03/2023	Time	13:09	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_121	Scott Gray	145	Lights	Latitude	-38.5076375	Longitude	141.2505691	Date	10/03/2023	Time	13:16	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_122	Scott Gray	97	Lights	Latitude	-38.5001211	Longitude	141.3063263	Date	10/03/2023	Time	13:48	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_129	Scott Gray	92	Lights	Latitude	-38.4846365	Longitude	141.3284942	Date	10/03/2023	Time	16:04	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_130	Scott Gray	100	Lights	Latitude	-38.4796383	Longitude	141.3163577	Date	10/03/2023	Time	15:59	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_131	Scott Gray	102	Lights	Latitude	-38.4954559	Longitude	141.3208857	Date	10/03/2023	Time	15:49	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_132	Scott Gray	96	Lights	Latitude	-38.4897593	Longitude	141.3093792	Date	10/03/2023	Time	15:54	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_133	Scott Gray	123	Lights	Latitude	-38.5010991	Longitude	141.2630493	Date	10/03/2023	Time	13:31	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_134	Scott Gray	107	No lights	Latitude	-38.5083872	Longitude	141.3157033	Date	10/03/2023	Time	13:53	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_135	Scott Gray	120	Lights	Latitude	-38.4903488	Longitude	141.2650091	Date	10/03/2023	Time	13:37	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_136	Scott Gray	121	Lights	Latitude	-38.5125604	Longitude	141.2644376	Date	10/03/2023	Time	13:25	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_137	Scott Gray	123	Lights	Latitude	-38.5164773	Longitude	141.2574488	Date	10/03/2023	Time	13:21	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_141	Scott Gray	150	Lights	Latitude	-38.4852537	Longitude	141.2231854	Date	10/03/2023	Time	11:01	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_142	Scott Gray	146	Lights	Latitude	-38.4731797	Longitude	141.2205019	Date	10/03/2023	Time	10:51	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_143	Scott Gray	149	Lights	Latitude	-38.4811393	Longitude	141.217137	Date	10/03/2023	Time	10:57	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_144	Scott Gray	146	Lights	Latitude	-38.4800265	Longitude	141.241308	Date	10/03/2023	Time	12:51	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_145	Scott Gray	150	Lights	Latitude	-38.4872829	Longitude	141.2393837	Date	10/03/2023	Time	13:01	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_146	Scott Gray	149	Lights	Latitude	-38.4805982	Longitude	141.2315801	Date	10/03/2023	Time	11:07	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_147	Scott Gray	121	Lights	Latitude	-38.4676907	Longitude	141.2630346	Date	10/03/2023	Time	10:11	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_148	Scott Gray	136	Lights	Latitude	-38.4604934	Longitude	141.2449968	Date	10/03/2023	Time	10:41	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_149	Scott Gray	126	Lights	Latitude	-38.4544599	Longitude	141.2602022	Date	10/03/2023	Time	10:24	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_150	Scott Gray	134	Lights	Latitude	-38.4563344	Longitude	141.2529835	Date	10/03/2023	Time	10:29	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_153	Scott Gray	133	Lights	Latitude	-38.4639906	Longitude	141.2543256	Date	10/03/2023	Time	10:35	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	
+DB_155	Scott Gray	119	Lights	Latitude	-38.4603674	Longitude	141.2648655	Date	10/03/2023	Time	10:18	MPAStatus	Fished	Site	Discovery Bay	Year	2023	Spare	

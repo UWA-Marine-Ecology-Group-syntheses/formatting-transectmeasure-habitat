@@ -1,0 +1,216 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+SBMP_20200320_H1-1_BRUV	Caprice	2.08	Reef	Date	2020-03-20	Time	13:37:57.000	Location	Shark Bay	Site	H1	Status	General Use	Latitude	-25.9796588	Longitude	113.1894586	Visibility	
+SBMP_20200320_H1-2_BRUV	Caprice	2.5	Reef	Date	2020-03-20	Time	13:45:41.000	Location	Shark Bay	Site	H1	Status	General Use	Latitude	-25.981332	Longitude	113.1907119	Visibility	
+SBMP_20200320_H1-3_BRUV	Caprice	2.3	Reef	Date	2020-03-20	Time	13:51:38.000	Location	Shark Bay	Site	H1	Status	General Use	Latitude	-25.98392787	Longitude	113.1906729	Visibility	
+SBMP_20200320_H1-4_BRUV	Caprice	1.9	Reef	Date	2020-03-20	Time	13:57:00.000	Location	Shark Bay	Site	H1	Status	General Use	Latitude	-25.98624175	Longitude	113.1910889	Visibility	
+SBMP_20200320_H1-5_BRUV	Caprice	1.2	Reef	Date	2020-03-20	Time	13:09:48.000	Location	Shark Bay	Site	H1	Status	General Use	Latitude	-25.98535563	Longitude	113.1884574	Visibility	
+SBMP_20200320_H1-6_BRUV	Caprice	1.3	Reef	Date	2020-03-20	Time	13:16:03.000	Location	Shark Bay	Site	H1	Status	General Use	Latitude	-25.98209118	Longitude	113.18743	Visibility	
+SBMP_20200320_H2-1_BRUV	Caprice	1.3	Reef	Date	2020-03-20	Time	15:26:33.000	Location	Shark Bay	Site	H2	Status	General Use	Latitude	-25.9741854	Longitude	113.1878252	Visibility	
+SBMP_20200320_H2-2_BRUV	Caprice	1.6	Reef	Date	2020-03-20	Time	15:30:42.000	Location	Shark Bay	Site	H2	Status	General Use	Latitude	-25.97378422	Longitude	113.1869056	Visibility	
+SBMP_20200320_H2-3_BRUV	Caprice	1.6	Reef	Date	2020-03-20	Time	15:34:17.000	Location	Shark Bay	Site	H2	Status	General Use	Latitude	-25.97325348	Longitude	113.1852645	Visibility	
+SBMP_20200320_H2-4_BRUV	Caprice	2.1	Reef	Date	2020-03-20	Time	15:41:02.000	Location	Shark Bay	Site	H2	Status	General Use	Latitude	-25.97141432	Longitude	113.1853399	Visibility	
+SBMP_20200320_H2-5_BRUV	Caprice	2.2	Reef	Date	2020-03-20	Time	15:45:17.000	Location	Shark Bay	Site	H2	Status	General Use	Latitude	-25.97108815	Longitude	113.1832498	Visibility	
+SBMP_20200320_H2-6_BRUV	Caprice	2.6	Reef	Date	2020-03-20	Time	15:48:58.000	Location	Shark Bay	Site	H2	Status	General Use	Latitude	-25.96965792	Longitude	113.1814385	Visibility	
+SBMP_20200320_S8-10_BRUV	Caprice	4.9	Seagrass	Date	2020-03-20	Time	15:58:21.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.95238876	Longitude	113.1968964	Visibility	
+SBMP_20200320_S8-1_BRUV	Caprice	4	Seagrass	Date	2020-03-20	Time		Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.92486386	Longitude	113.1875366	Visibility	
+SBMP_20200320_S8-2_BRUV	Caprice	4.8	Seagrass	Date	2020-03-20	Time	15:27:34.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.92706615	Longitude	113.1914353	Visibility	
+SBMP_20200320_S8-3_BRUV	Caprice	5.2	Seagrass	Date	2020-03-20	Time	15:30:28.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.92970741	Longitude	113.1939649	Visibility	
+SBMP_20200320_S8-4_BRUV	Caprice	7	Seagrass	Date	2020-03-20	Time	15:33:57.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.93196922	Longitude	113.1964499	Visibility	
+SBMP_20200320_S8-5_BRUV	Caprice	7.5	Seagrass	Date	2020-03-20	Time	15:39:36.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.93451376	Longitude	113.1996939	Visibility	
+SBMP_20200320_S8-6_BRUV	Caprice	4.8	Seagrass	Date	2020-03-20	Time	15:45:41.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.93937591	Longitude	113.1925513	Visibility	
+SBMP_20200320_S8-7_BRUV	Caprice	4.9	Seagrass	Date	2020-03-20	Time	15:48:04.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.941541	Longitude	113.1935929	Visibility	
+SBMP_20200320_S8-8_BRUV	Caprice	6.2	Seagrass	Date	2020-03-20	Time	15:51:18.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.94466959	Longitude	113.1964499	Visibility	
+SBMP_20200320_S8-9_BRUV	Caprice	5	Seagrass	Date	2020-03-20	Time	15:54:53.000	Location	Shark Bay	Site	S8	Status	General Use	Latitude	-25.94828923	Longitude	113.1967029	Visibility	
+SBMP_20200321_S2-1_BRUV	Caprice	3.6	Seagrass	Date	2020-03-21	Time	08:01:11.000	Location	Shark Bay	Site	S2	Status	General Use	Latitude	-26.13686914	Longitude	113.252885	Visibility	
+SBMP_20200321_S2-2_BRUV	Caprice	4	Seagrass	Date	2020-03-21	Time	08:05:13.000	Location	Shark Bay	Site	S2	Status	General Use	Latitude	-26.13379636	Longitude	113.2538671	Visibility	
+SBMP_20200321_S2-3_BRUV	Caprice	3.9	Seagrass	Date	2020-03-21	Time	08:08:26.000	Location	Shark Bay	Site	S2	Status	General Use	Latitude	-26.12968938	Longitude	113.2552659	Visibility	
+SBMP_20200321_S2-4_BRUV	Caprice	3.4	Seagrass	Date	2020-03-21	Time	08:11:12.000	Location	Shark Bay	Site	S2	Status	General Use	Latitude	-26.12605858	Longitude	113.255742	Visibility	
+SBMP_20200321_S2-5_BRUV	Caprice	4.1	Seagrass	Date	2020-03-21	Time	08:13:59.000	Location	Shark Bay	Site	S2	Status	General Use	Latitude	-26.12230129	Longitude	113.256367	Visibility	
+SBMP_20200321_S3-1_BRUV	Caprice	2.9	Seagrass	Date	2020-03-21	Time	08:22:45.000	Location	Shark Bay	Site	S3	Status	General Use	Latitude	-26.10511451	Longitude	113.2521708	Visibility	
+SBMP_20200321_S3-2_BRUV	Caprice	2.9	Seagrass	Date	2020-03-21	Time	08:26:03.000	Location	Shark Bay	Site	S3	Status	General Use	Latitude	-26.10154322	Longitude	113.2503553	Visibility	
+SBMP_20200321_S3-3_BRUV	Caprice	2.8	Seagrass	Date	2020-03-21	Time	08:28:40.000	Location	Shark Bay	Site	S3	Status	General Use	Latitude	-26.09859875	Longitude	113.2486068	Visibility	
+SBMP_20200321_S3-4_BRUV	Caprice	2.8	Seagrass	Date	2020-03-21	Time	08:31:58.000	Location	Shark Bay	Site	S3	Status	General Use	Latitude	-26.09422007	Longitude	113.2467912	Visibility	
+SBMP_20200321_S4-1_BRUV	Caprice	4.2	Seagrass	Date	2020-03-21	Time	10:03:02.000	Location	Shark Bay	Site	S4	Status	General Use	Latitude	-26.07417891	Longitude	113.2317529	Visibility	
+SBMP_20200321_S4-2_BRUV	Caprice	3.8	Seagrass	Date	2020-03-21	Time	10:06:05.000	Location	Shark Bay	Site	S4	Status	General Use	Latitude	-26.07044101	Longitude	113.2310053	Visibility	
+SBMP_20200321_S4-3_BRUV	Caprice	3.6	Seagrass	Date	2020-03-21	Time	10:08:50.000	Location	Shark Bay	Site	S4	Status	General Use	Latitude	-26.06809147	Longitude	113.2296169	Visibility	
+SBMP_20200321_S4-4_BRUV	Caprice	3.4	Seagrass	Date	2020-03-21	Time	10:10:33.000	Location	Shark Bay	Site	S4	Status	General Use	Latitude	-26.06574194	Longitude	113.2286558	Visibility	
+SBMP_20200321_S4-5_BRUV	Caprice	3.7	Seagrass	Date	2020-03-21	Time	10:13:06.000	Location	Shark Bay	Site	S4	Status	General Use	Latitude	-26.0634992	Longitude	113.2278014	Visibility	
+SBMP_20200321_S5-1_BRUV	Caprice	3.1	Seagrass	Date	2020-03-21	Time	10:28:41.000	Location	Shark Bay	Site	S5	Status	General Use	Latitude	-26.0559433	Longitude	113.2653139	Visibility	
+SBMP_20200321_S5-2_BRUV	Caprice	3.4	Seagrass	Date	2020-03-21	Time	10:31:34.000	Location	Shark Bay	Site	S5	Status	General Use	Latitude	-26.05311317	Longitude	113.2669692	Visibility	
+SBMP_20200321_S5-3_BRUV	Caprice	3.4	Seagrass	Date	2020-03-21	Time	10:34:17.000	Location	Shark Bay	Site	S5	Status	General Use	Latitude	-26.05017625	Longitude	113.2688382	Visibility	
+SBMP_20200321_S5-4_BRUV	Caprice	3.5	Seagrass	Date	2020-03-21	Time	10:37:15.000	Location	Shark Bay	Site	S5	Status	General Use	Latitude	-26.04792016	Longitude	113.2703867	Visibility	
+SBMP_20200321_SBD-1_BRUV	Caprice	2.3	Reef	Date	2020-03-21	Time	08:05:50.000	Location	Shark Bay	Site	SBD	Status	General Use	Latitude	-26.15499415	Longitude	113.1818924	Visibility	
+SBMP_20200321_SBD-2_BRUV	Caprice	4.8	Reef	Date	2020-03-21	Time	08:09:30.000	Location	Shark Bay	Site	SBD	Status	General Use	Latitude	-26.1534154	Longitude	113.1801386	Visibility	
+SBMP_20200321_SBD-3_BRUV	Caprice	2.7	Reef	Date	2020-03-21	Time	08:13:51.000	Location	Shark Bay	Site	SBD	Status	General Use	Latitude	-26.15277133	Longitude	113.1766747	Visibility	
+SBMP_20200321_SBD-4_BRUV	Caprice	3.5	Reef	Date	2020-03-21	Time	08:17:26.000	Location	Shark Bay	Site	SBD	Status	General Use	Latitude	-26.15251918	Longitude	113.1743821	Visibility	
+SBMP_20200321_SBD-5_BRUV	Caprice	3.7	Reef	Date	2020-03-21	Time	08:21:14.000	Location	Shark Bay	Site	SBD	Status	General Use	Latitude	-26.1503412	Longitude	113.1723404	Visibility	
+SBMP_20200321_SBD-6_BRUV	Caprice	2.8	Reef	Date	2020-03-21	Time	08:26:33.000	Location	Shark Bay	Site	SBD	Status	General Use	Latitude	-26.14556775	Longitude	113.1689267	Visibility	
+SBMP_20200321_SP1-1_BRUV	Caprice	3.6	Reef	Date	2020-03-21	Time	11:32:36.000	Location	Shark Bay	Site	SP1	Status	Sanctuary	Latitude	-26.12782347	Longitude	113.1881637	Visibility	
+SBMP_20200321_SP1-2_BRUV	Caprice	2.5	Reef	Date	2020-03-21	Time	11:35:55.000	Location	Shark Bay	Site	SP1	Status	Sanctuary	Latitude	-26.12873678	Longitude	113.1858881	Visibility	
+SBMP_20200321_SP1-3_BRUV	Caprice	4	Reef	Date	2020-03-21	Time	11:39:23.000	Location	Shark Bay	Site	SP1	Status	Sanctuary	Latitude	-26.12708488	Longitude	113.1836729	Visibility	
+SBMP_20200321_SP1-4_BRUV	Caprice	3.1	Reef	Date	2020-03-21	Time	11:42:59.000	Location	Shark Bay	Site	SP1	Status	Sanctuary	Latitude	-26.12809102	Longitude	113.182507	Visibility	
+SBMP_20200321_SP1-5_BRUV	Caprice	7	Reef	Date	2020-03-21	Time	11:46:24.000	Location	Shark Bay	Site	SP1	Status	Sanctuary	Latitude	-26.1289585	Longitude	113.1804322	Visibility	
+SBMP_20200321_SP1-6_BRUV	Caprice	5.6	Reef	Date	2020-03-21	Time	11:49:24.000	Location	Shark Bay	Site	SP1	Status	Sanctuary	Latitude	-26.12655385	Longitude	113.1809555	Visibility	
+SBMP_20200321_SP2-1_BRUV	Caprice	1	Reef	Date	2020-03-21	Time	13:08:34.000	Location	Shark Bay	Site	SP2	Status	Sanctuary	Latitude	-26.1214159	Longitude	113.187106	Visibility	
+SBMP_20200321_SP2-2_BRUV	Caprice	0.8	Reef	Date	2020-03-21	Time	13:12:17.000	Location	Shark Bay	Site	SP2	Status	Sanctuary	Latitude	-26.12329357	Longitude	113.1865659	Visibility	
+SBMP_20200321_SP2-3_BRUV	Caprice	2.2	Reef	Date	2020-03-21	Time	13:16:43.000	Location	Shark Bay	Site	SP2	Status	Sanctuary	Latitude	-26.12457625	Longitude	113.1854557	Visibility	
+SBMP_20200321_SP2-4_BRUV	Caprice	2.2	Reef	Date	2020-03-21	Time	13:20:29.000	Location	Shark Bay	Site	SP2	Status	Sanctuary	Latitude	-26.1251395	Longitude	113.1874209	Visibility	
+SBMP_20200321_SP2-5_BRUV	Caprice	1.35	Reef	Date	2020-03-21	Time	13:24:11.000	Location	Shark Bay	Site	SP2	Status	Sanctuary	Latitude	-26.12653542	Longitude	113.1860594	Visibility	
+SBMP_20200321_SP2-6_BRUV	Caprice	1.2	Reef	Date	2020-03-21	Time	13:35:11.000	Location	Shark Bay	Site	SP2	Status	Sanctuary	Latitude	-26.12377227	Longitude	113.1848948	Visibility	
+SBMP_20200321_WCR-1_BRUV	Caprice	2.7	Reef	Date	2020-03-21	Time	9:46:07.000	Location	Shark Bay	Site	WCR	Status	General Use	Latitude	-26.15437077	Longitude	113.2115478	Visibility	
+SBMP_20200321_WCR-2_BRUV	Caprice	2.1	Reef	Date	2020-03-21	Time	09:49:15.000	Location	Shark Bay	Site	WCR	Status	General Use	Latitude	-26.15191818	Longitude	113.2113541	Visibility	
+SBMP_20200321_WCR-3_BRUV	Caprice	1.9	Reef	Date	2020-03-21	Time	09:53:23.000	Location	Shark Bay	Site	WCR	Status	General Use	Latitude	-26.14970975	Longitude	113.2116359	Visibility	
+SBMP_20200321_WCR-4_BRUV	Caprice	2	Reef	Date	2020-03-21	Time	09:56:30.000	Location	Shark Bay	Site	WCR	Status	General Use	Latitude	-26.14691987	Longitude	113.211299	Visibility	
+SBMP_20200321_WCR-5_BRUV	Caprice	1.8	Reef	Date	2020-03-21	Time	09:59:31.000	Location	Shark Bay	Site	WCR	Status	General Use	Latitude	-26.14425453	Longitude	113.210799	Visibility	
+SBMP_20200321_WCR-6_BRUV	Caprice	2.5	Reef	Date	2020-03-21	Time	10:11:57.000	Location	Shark Bay	Site	WCR	Status	General Use	Latitude	-26.14219017	Longitude	113.2101522	Visibility	
+SBMP_20200322_AI-1_BRUV	Caprice	0.8	Reef	Date	2020-03-22	Time	10:39:55.000	Location	Shark Bay	Site	AI	Status	General Use	Latitude	-26.17384094	Longitude	113.4454604	Visibility	
+SBMP_20200322_AI-2_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	10:44:34.000	Location	Shark Bay	Site	AI	Status	General Use	Latitude	-26.17126184	Longitude	113.4469649	Visibility	
+SBMP_20200322_AI-3_BRUV		1	Reef	Date	2020-03-22	Time		Location	Shark Bay	Site	AI	Status	General Use	Latitude	-26.16481094	Longitude	113.4443461	Visibility	
+SBMP_20200322_AI-4_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	10:59:00.000	Location	Shark Bay	Site	AI	Status	General Use	Latitude	-26.16189966	Longitude	113.4446108	Visibility	
+SBMP_20200322_AI-5_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	11:02:35.000	Location	Shark Bay	Site	AI	Status	General Use	Latitude	-26.16221726	Longitude	113.443658	Visibility	
+SBMP_20200322_AI-6_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	11:06:05.000	Location	Shark Bay	Site	AI	Status	General Use	Latitude	-26.16369936	Longitude	113.4430758	Visibility	
+SBMP_20200322_CI1-1_BRUV	Caprice	1.3	Reef	Date	2020-03-22	Time	15:18:47.000	Location	Shark Bay	Site	CI1	Status	General Use	Latitude	-26.3638815	Longitude	113.5679039	Visibility	
+SBMP_20200322_CI1-2_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	15:21:37.000	Location	Shark Bay	Site	CI1	Status	General Use	Latitude	-26.36530071	Longitude	113.569348	Visibility	
+SBMP_20200322_CI1-3_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	15:27:09.000	Location	Shark Bay	Site	CI1	Status	General Use	Latitude	-26.36559949	Longitude	113.5706427	Visibility	
+SBMP_20200322_CI1-4_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	15:30:34.000	Location	Shark Bay	Site	CI1	Status	General Use	Latitude	-26.36557459	Longitude	113.5709788	Visibility	
+SBMP_20200322_CI1-5_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	15:35:37.000	Location	Shark Bay	Site	CI1	Status	General Use	Latitude	-26.36665767	Longitude	113.5702941	Visibility	
+SBMP_20200322_CI1-6_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	15:39:17.000	Location	Shark Bay	Site	CI1	Status	General Use	Latitude	-26.36670747	Longitude	113.5683894	Visibility	
+SBMP_20200322_HP1-1_BRUV	Caprice	0.8	Reef	Date	2020-03-22	Time	08:10:49.000	Location	Shark Bay	Site	HP1	Status	General Use	Latitude	-26.04933811	Longitude	113.3800698	Visibility	
+SBMP_20200322_HP1-2_BRUV	Caprice	0.8	Reef	Date	2020-03-22	Time	08:17:21.000	Location	Shark Bay	Site	HP1	Status	General Use	Latitude	-26.04736397	Longitude	113.3803245	Visibility	
+SBMP_20200322_HP1-3_BRUV	Caprice	0.5	Reef	Date	2020-03-22	Time	08:24:22.000	Location	Shark Bay	Site	HP1	Status	General Use	Latitude	-26.04542167	Longitude	113.378223	Visibility	
+SBMP_20200322_HP1-4_BRUV	Caprice	0.5	Reef	Date	2020-03-22	Time	08:35:51.000	Location	Shark Bay	Site	HP1	Status	General Use	Latitude	-26.04332525	Longitude	113.3775492	Visibility	
+SBMP_20200322_HP1-5_BRUV	Caprice	0.8		Date	2020-03-22	Time	08:41:46.000	Location	Shark Bay	Site	HP1	Status	General Use	Latitude	-26.04088446	Longitude	113.3783285	Visibility	
+SBMP_20200322_HP1-6_BRUV	Caprice	0.8	Reef	Date	2020-03-22	Time	08:49:02.000	Location	Shark Bay	Site	HP1	Status	General Use	Latitude	-26.03839956	Longitude	113.3768875	Visibility	
+SBMP_20200322_S12-1_BRUV	Caprice	4.5	Seagrass	Date	2020-03-22	Time	12:30:43.000	Location	Shark Bay	Site	S12	Status	General Use	Latitude	-26.21420962	Longitude	113.4957825	Visibility	
+SBMP_20200322_S12-2_BRUV	Caprice	4.5	Seagrass	Date	2020-03-22	Time	12:28:36.000	Location	Shark Bay	Site	S12	Status	General Use	Latitude	-26.21609545	Longitude	113.4971624	Visibility	
+SBMP_20200322_S12-3_BRUV	Caprice	5.6	Seagrass	Date	2020-03-22	Time	12:26:37.000	Location	Shark Bay	Site	S12	Status	General Use	Latitude	-26.21773885	Longitude	113.498567	Visibility	
+SBMP_20200322_S12-4_BRUV	Caprice	4.4	Seagrass	Date	2020-03-22	Time	12:24:07.000	Location	Shark Bay	Site	S12	Status	General Use	Latitude	-26.21944358	Longitude	113.5000254	Visibility	
+SBMP_20200322_S12-5_BRUV	Caprice	5.5	Seagrass	Date	2020-03-22	Time	12:21:14.000	Location	Shark Bay	Site	S12	Status	General Use	Latitude	-26.22079967	Longitude	113.5027542	Visibility	
+SBMP_20200322_S7-1_BRUV	Caprice	8.8	Seagrass	Date	2020-03-22	Time	08:12:24.000	Location	Shark Bay	Site	S7	Status	General Use	Latitude	-26.01978347	Longitude	113.3767747	Visibility	
+SBMP_20200322_S7-2_BRUV	Caprice	9.5	Seagrass	Date	2020-03-22	Time	08:10:10.000	Location	Shark Bay	Site	S7	Status	General Use	Latitude	-26.01806068	Longitude	113.3751797	Visibility	
+SBMP_20200322_S7-3_BRUV	Caprice	9.2	Seagrass	Date	2020-03-22	Time	08:08:09.000	Location	Shark Bay	Site	S7	Status	General Use	Latitude	-26.01637228	Longitude	113.3737118	Visibility	
+SBMP_20200322_S7-4_BRUV	Caprice	8	Seagrass	Date	2020-03-22	Time	08:05:59.000	Location	Shark Bay	Site	S7	Status	General Use	Latitude	-26.01447035	Longitude	113.3720277	Visibility	
+SBMP_20200322_S7-5_BRUV	Caprice	8.4	Seagrass	Date	2020-03-22	Time	08:03:31.000	Location	Shark Bay	Site	S7	Status	General Use	Latitude	-26.01315933	Longitude	113.3698503	Visibility	
+SBMP_20200322_S9-1_BRUV	Caprice	7.5	Seagrass	Date	2020-03-22	Time	08:26:44.000	Location	Shark Bay	Site	S9	Status	General Use	Latitude	-26.04134042	Longitude	113.3916713	Visibility	
+SBMP_20200322_S9-2_BRUV	Caprice	7.5	Seagrass	Date	2020-03-22	Time	08:28:32.000	Location	Shark Bay	Site	S9	Status	General Use	Latitude	-26.04314848	Longitude	113.3927407	Visibility	
+SBMP_20200322_S9-3_BRUV	Caprice	7.5	Seagrass	Date	2020-03-22	Time	08:30:22.000	Location	Shark Bay	Site	S9	Status	General Use	Latitude	-26.04489927	Longitude	113.3945717	Visibility	
+SBMP_20200322_S9-4_BRUV	Caprice	7.5	Seagrass	Date	2020-03-22	Time	08:32:10.000	Location	Shark Bay	Site	S9	Status	General Use	Latitude	-26.04598847	Longitude	113.3966375	Visibility	
+SBMP_20200322_S9-5_BRUV	Caprice	7	Seagrass	Date	2020-03-22	Time	08:34:14.000	Location	Shark Bay	Site	S9	Status	General Use	Latitude	-26.04687453	Longitude	113.3989877	Visibility	
+SBMP_20200322_SLI-1_BRUV	Caprice	6.5	Seagrass	Date	2020-03-22	Time	12:01:58.000	Location	Shark Bay	Site	SLI	Status	General Use	Latitude	-26.22722188	Longitude	113.5167626	Visibility	
+SBMP_20200322_SLI-2_BRUV	Caprice	6	Seagrass	Date	2020-03-22	Time	12:04:16.000	Location	Shark Bay	Site	SLI	Status	General Use	Latitude	-26.22738408	Longitude	113.5189297	Visibility	
+SBMP_20200322_SLI-3_BRUV	Caprice	5.8	Seagrass	Date	2020-03-22	Time	12:06:17.000	Location	Shark Bay	Site	SLI	Status	General Use	Latitude	-26.22731002	Longitude	113.5213211	Visibility	
+SBMP_20200322_SLI-4_BRUV	Caprice	5.8	Seagrass	Date	2020-03-22	Time	12:08:16.000	Location	Shark Bay	Site	SLI	Status	General Use	Latitude	-26.22781558	Longitude	113.523963	Visibility	
+SBMP_20200322_SLI-5_BRUV	Caprice	6	Seagrass	Date	2020-03-22	Time	12:10:29.000	Location	Shark Bay	Site	SLI	Status	General Use	Latitude	-26.22839285	Longitude	113.5265379	Visibility	
+SBMP_20200322_WAI-1_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	12:25:28.000	Location	Shark Bay	Site	WAI	Status	General Use	Latitude	-26.16509113	Longitude	113.4311899	Visibility	
+SBMP_20200322_WAI-2_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	12:30:40.000	Location	Shark Bay	Site	WAI	Status	General Use	Latitude	-26.16306392	Longitude	113.4284092	Visibility	
+SBMP_20200322_WAI-3_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	12:35:08.000	Location	Shark Bay	Site	WAI	Status	General Use	Latitude	-26.16086689	Longitude	113.4268171	Visibility	
+SBMP_20200322_WAI-4_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	12:38:54.000	Location	Shark Bay	Site	WAI	Status	General Use	Latitude	-26.16028314	Longitude	113.4257239	Visibility	
+SBMP_20200322_WAI-5_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	12:44:59.000	Location	Shark Bay	Site	WAI	Status	General Use	Latitude	-26.15785792	Longitude	113.4226088	Visibility	
+SBMP_20200322_WAI-6_BRUV	Caprice	1	Reef	Date	2020-03-22	Time	12:48:31.000	Location	Shark Bay	Site	WAI	Status	General Use	Latitude	-26.15639324	Longitude	113.4226725	Visibility	
+SBMP_20200323_GB1-1_BRUV	Caprice	0.6	Reef	Date	2020-03-23	Time	08:51:11.000	Location	Shark Bay	Site	GB1	Status	General Use	Latitude	-26.22605663	Longitude	113.7174741	Visibility	
+SBMP_20200323_GB1-2_BRUV	Caprice	0.7	Reef	Date	2020-03-23	Time	08:57:24.000	Location	Shark Bay	Site	GB1	Status	General Use	Latitude	-26.22583735	Longitude	113.7164941	Visibility	
+SBMP_20200323_GB1-3_BRUV	Caprice	0.8	Reef	Date	2020-03-23	Time	09:02:28.000	Location	Shark Bay	Site	GB1	Status	General Use	Latitude	-26.22524418	Longitude	113.7128033	Visibility	
+SBMP_20200323_GB1-4_BRUV	Caprice	0.9	Reef	Date	2020-03-23	Time	09:10:12.000	Location	Shark Bay	Site	GB1	Status	General Use	Latitude	-26.22399058	Longitude	113.707683	Visibility	
+SBMP_20200323_GB1-5_BRUV	Caprice	0.7	Reef	Date	2020-03-23	Time	09:14:39.000	Location	Shark Bay	Site	GB1	Status	General Use	Latitude	-26.22362617	Longitude	113.7039188	Visibility	
+SBMP_20200323_GB1-6_BRUV	Caprice	1	Reef	Date	2020-03-23	Time	09:19:15.000	Location	Shark Bay	Site	GB1	Status	General Use	Latitude	-26.22352643	Longitude	113.7003643	Visibility	
+SBMP_20200323_S13-1_BRUV	Caprice	6	Seagrass	Date	2020-03-23	Time	08:53:55.000	Location	Shark Bay	Site	S13	Status	General Use	Latitude	-26.29276433	Longitude	113.5754724	Visibility	
+SBMP_20200323_S13-2_BRUV	Caprice	7	Seagrass	Date	2020-03-22	Time	08:56:28.000	Location	Shark Bay	Site	S13	Status	General Use	Latitude	-26.29534903	Longitude	113.5755462	Visibility	
+SBMP_20200323_S13-3_BRUV	Caprice	8	Seagrass	Date	2020-03-23	Time	08:58:49.000	Location	Shark Bay	Site	S13	Status	General Use	Latitude	-26.29778603	Longitude	113.576137	Visibility	
+SBMP_20200323_S13-4_BRUV	Caprice	9	Seagrass	Date	2020-03-22	Time	09:00:35.000	Location	Shark Bay	Site	S13	Status	General Use	Latitude	-26.30007533	Longitude	113.576137	Visibility	
+SBMP_20200323_S13-5_BRUV	Caprice	10	Seagrass	Date	2020-03-23	Time	09:02:27.000	Location	Shark Bay	Site	S13	Status	General Use	Latitude	-26.30280773	Longitude	113.5765801	Visibility	
+SBMP_20200323_S15-1_BRUV	Caprice	9.2	Seagrass	Date	2020-03-22	Time	12:13:20.000	Location	Shark Bay	Site	S15	Status	General Use	Latitude	-26.26642287	Longitude	113.7782751	Visibility	
+SBMP_20200323_S15-2_BRUV	Caprice	9	Seagrass	Date	2020-03-23	Time	12:15:34.000	Location	Shark Bay	Site	S15	Status	General Use	Latitude	-26.26561976	Longitude	113.7746011	Visibility	
+SBMP_20200323_S15-3_BRUV	Caprice	8.7	Seagrass	Date	2020-03-22	Time	12:17:54.000	Location	Shark Bay	Site	S15	Status	General Use	Latitude	-26.26436434	Longitude	113.771758	Visibility	
+SBMP_20200323_S15-4_BRUV	Caprice	9	Seagrass	Date	2020-03-23	Time	12:19:48.000	Location	Shark Bay	Site	S15	Status	General Use	Latitude	-26.26296122	Longitude	113.7693948	Visibility	
+SBMP_20200323_S15-5_BRUV	Caprice	9.5	Seagrass	Date	2020-03-22	Time	12:22:03.000	Location	Shark Bay	Site	S15	Status	General Use	Latitude	-26.26185349	Longitude	113.7671794	Visibility	
+SBMP_20200323_S16-1_BRUV	Caprice	5	Seagrass	Date	2020-03-23	Time	13:49:04.000	Location	Shark Bay	Site	S16	Status	General Use	Latitude	-26.23183405	Longitude	113.6812935	Visibility	
+SBMP_20200323_S16-2_BRUV	Caprice	5.2	Seagrass	Date	2020-03-22	Time	13:51:08.000	Location	Shark Bay	Site	S16	Status	General Use	Latitude	-26.23323718	Longitude	113.6834351	Visibility	
+SBMP_20200323_S16-3_BRUV	Caprice	4.8	Seagrass	Date	2020-03-23	Time	13:52:55.000	Location	Shark Bay	Site	S16	Status	General Use	Latitude	-26.2343449	Longitude	113.6860198	Visibility	
+SBMP_20200323_S16-4_BRUV	Caprice	5	Seagrass	Date	2020-03-22	Time	13:54:45.000	Location	Shark Bay	Site	S16	Status	General Use	Latitude	-26.23526801	Longitude	113.6880876	Visibility	
+SBMP_20200323_S16-5_BRUV	Caprice	5.4	Seagrass	Date	2020-03-23	Time	13:56:25.000	Location	Shark Bay	Site	S16	Status	General Use	Latitude	-26.23641728	Longitude	113.6902984	Visibility	
+SBMP_20200323_WI1-1_BRUV	Caprice	2	Reef	Date	2020-03-23	Time	10:46:07.000	Location	Shark Bay	Site	WI1	Status	General Use	Latitude	-26.17472817	Longitude	113.6558181	Visibility	
+SBMP_20200323_WI1-2_BRUV	Caprice	0.7	Reef	Date	2020-03-23	Time	10:59:50.000	Location	Shark Bay	Site	WI1	Status	General Use	Latitude	-26.16979107	Longitude	113.6676863	Visibility	
+SBMP_20200323_WI1-3_BRUV	Caprice	0.6	Reef	Date	2020-03-23	Time	11:02:21.000	Location	Shark Bay	Site	WI1	Status	General Use	Latitude	-26.16906613	Longitude	113.6668852	Visibility	
+SBMP_20200323_WI1-4_BRUV	Caprice	0.7	Reef	Date	2020-03-23	Time	11:06:05.000	Location	Shark Bay	Site	WI1	Status	General Use	Latitude	-26.1678569	Longitude	113.6646766	Visibility	
+SBMP_20200323_WI1-5_BRUV	Caprice	1	Reef	Date	2020-03-23	Time	11:08:42.000	Location	Shark Bay	Site	WI1	Status	General Use	Latitude	-26.16663838	Longitude	113.6631138	Visibility	
+SBMP_20200323_WI1-6_BRUV	Caprice	2.1	Reef	Date	2020-03-23	Time	11:12:35.000	Location	Shark Bay	Site	WI1	Status	General Use	Latitude	-26.16516648	Longitude	113.6610104	Visibility	
+SBMP_20200324_BB-1_BRUV	Caprice	3.1	Reef	Date	2020-03-24	Time	15:14	Location	Shark Bay	Site	BB	Status	General Use	Latitude	-25.53589	Longitude	113.49307	Visibility	
+SBMP_20200324_BB-2_BRUV	Caprice	1.9	Reef	Date	2020-03-24	Time	15:18	Location	Shark Bay	Site	BB	Status	General Use	Latitude	-25.53386	Longitude	113.49419	Visibility	
+SBMP_20200324_BB-3_BRUV	cap	4	Reef	Date	2020-03-24	Time		Location	Shark Bay	Site	BB	Status	General Use	Latitude	-25.53283	Longitude	113.49316	Visibility	
+SBMP_20200324_BB-4_BRUV	Caprice	1.6	Reef	Date	2020-03-24	Time	15:25	Location	Shark Bay	Site	BB	Status	General Use	Latitude	-25.53133	Longitude	113.49516	Visibility	
+SBMP_20200324_BB-5_BRUV	Caprice	2.4	Reef	Date	2020-03-24	Time	15:30	Location	Shark Bay	Site	BB	Status	General Use	Latitude	-25.5287	Longitude	113.49621	Visibility	
+SBMP_20200324_BB-6_BRUV	Caprice	2.4	Reef	Date	2020-03-24	Time	15:34	Location	Shark Bay	Site	BB	Status	General Use	Latitude	-25.52641	Longitude	113.49709	Visibility	
+SBMP_20200324_BF-1_BRUV	Caprice	5.5	Reef	Date	2020-03-24	Time	12:38:00.000	Location	Shark Bay	Site	BF	Status	General Use	Latitude	-25.85603162	Longitude	113.3519307	Visibility	
+SBMP_20200324_BF-2_BRUV	Caprice	5.6	Reef	Date	2020-03-24	Time	12:48	Location	Shark Bay	Site	BF	Status	General Use	Latitude	-25.853907	Longitude	113.351682	Visibility	
+SBMP_20200324_BF-3_BRUV	Caprice	3.9	Reef	Date	2020-03-24	Time	12:52	Location	Shark Bay	Site	BF	Status	General Use	Latitude	-25.853093	Longitude	113.351025	Visibility	
+SBMP_20200324_BF-4_BRUV	Caprice	2.9	Reef	Date	2020-03-24	Time	12:55	Location	Shark Bay	Site	BF	Status	General Use	Latitude	-25.852745	Longitude	113.347612	Visibility	
+SBMP_20200324_BF-5_BRUV	Caprice	3.2	Reef	Date	2020-03-24	Time	12:59	Location	Shark Bay	Site	BF	Status	General Use	Latitude	-25.85129	Longitude	113.347818	Visibility	
+SBMP_20200324_BF-6_BRUV	Caprice	3.1	Reef	Date	2020-03-24	Time	13:02	Location	Shark Bay	Site	BF	Status	General Use	Latitude	-25.851737	Longitude	113.3448	Visibility	
+SBMP_20200324_S17-1_BRUV	Chris Douglas	4.6	Seagrass	Date	2020-03-24	Time	13:01:04	Location	Shark Bay	Site	S17	Status	General Use	Latitude	-25.79088031	Longitude	113.4263455	Visibility	
+SBMP_20200324_S17-2_BRUV	Chris Douglas	4.7	Seagrass	Date	2020-03-24	Time	13:03:48	Location	Shark Bay	Site	S17	Status	General Use	Latitude	-25.79310244	Longitude	113.426901	Visibility	
+SBMP_20200324_S17-3_BRUV	Chris Douglas	4.5	Seagrass	Date	2020-03-24	Time	13:06:08	Location	Shark Bay	Site	S17	Status	General Use	Latitude	-25.79585034	Longitude	113.427774	Visibility	
+SBMP_20200324_S17-4_BRUV	Chris Douglas	4.2	Seagrass	Date	2020-03-24	Time	13:07:55	Location	Shark Bay	Site	S17	Status	General Use	Latitude	-25.79801295	Longitude	113.4285577	Visibility	
+SBMP_20200324_S17-5_BRUV	Chris Douglas	4	Seagrass	Date	2020-03-24	Time	13:09:49	Location	Shark Bay	Site	S17	Status	General Use	Latitude	-25.80077077	Longitude	113.429272	Visibility	
+SBMP_20200324_S18-1_BRUV	Chris Douglas 	4.7	Seagrass	Date	2020-03-24	Time		Location	Shark Bay	Site	S18	Status	General Use	Latitude	-25.77026608	Longitude	113.4068423	Visibility	
+SBMP_20200324_S18-2_BRUV	Chris Douglas	4.6	Seagrass	Date	2020-03-24	Time	13:38:35	Location	Shark Bay	Site	S18	Status	General Use	Latitude	-25.76901613	Longitude	113.4049277	Visibility	
+SBMP_20200324_S18-3_BRUV	Chris Douglas	4.7	Seagrass	Date	2020-03-24	Time	13:40:30	Location	Shark Bay	Site	S18	Status	General Use	Latitude	-25.76770666	Longitude	113.4034	Visibility	
+SBMP_20200324_S18-4_BRUV	Chris Douglas 	4.8	Seagrass	Date	2020-03-24	Time	13:43:04	Location	Shark Bay	Site	S18	Status	General Use	Latitude	-25.76594086	Longitude	113.4014557	Visibility	
+SBMP_20200324_S18-5_BRUV	Chris Douglas	4.5	Seagrass	Date	2020-03-24	Time	13:45:24	Location	Shark Bay	Site	S18	Status	General Use	Latitude	-25.76443299	Longitude	113.3997494	Visibility	
+SBMP_20200325_HB-1_BRUV	Chris Douglas	6.6	Seagrass	Date	2020-03-25	Time	08:09:53	Location	Shark Bay	Site	HB	Status	General Use	Latitude	-25.5511838	Longitude	113.52657	Visibility	
+SBMP_20200325_HB-2_BRUV	Chris Douglas	4.8	Seagrass	Date	2020-03-25	Time	08:12:04	Location	Shark Bay	Site	HB	Status	General Use	Latitude	-25.55310152	Longitude	113.5272862	Visibility	
+SBMP_20200325_HB-3_BRUV	Chris Douglas	5.3	Seagrass	Date	2020-03-25	Time	08:15;23	Location	Shark Bay	Site	HB	Status	General Use	Latitude	-25.55660925	Longitude	113.5277769	Visibility	
+SBMP_20200325_HB-4_BRUV	Chris Douglas	6.4	Seagrass	Date	2020-03-25	Time	08:18:00	Location	Shark Bay	Site	HB	Status	General Use	Latitude	-25.56003178	Longitude	113.5280867	Visibility	
+SBMP_20200325_HB-5_BRUV	Chris Douglas	7	Seagrass	Date	2020-03-25	Time	08:20:44	Location	Shark Bay	Site	HB	Status	General Use	Latitude	-25.56330943	Longitude	113.5300167	Visibility	
+SBMP_20200325_S25-1_BRUV	Chris Douglas		Seagrass	Date	2020-03-25	Time	13:42:05	Location	Shark Bay	Site	S25	Status	Sanctuary	Latitude	-25.65712347	Longitude	113.9349303	Visibility	
+SBMP_20200325_S25-2_BRUV	Chris Douglas		Seagrass	Date	2020-03-25	Time	13:44:25	Location	Shark Bay	Site	S25	Status	Sanctuary	Latitude	-25.6584307	Longitude	113.9378271	Visibility	
+SBMP_20200325_S25-3_BRUV	Chris Douglas		Seagrass	Date	2020-03-25	Time	13:46:49	Location	Shark Bay	Site	S25	Status	Sanctuary	Latitude	-25.66048	Longitude	113.9406077	Visibility	
+SBMP_20200325_S25-4_BRUV	Chris Douglas		Seagrass	Date	2020-03-25	Time	13:50:04	Location	Shark Bay	Site	S25	Status	Sanctuary	Latitude	-25.66172175	Longitude	113.9426954	Visibility	
+SBMP_20200325_S25-5_BRUV	Chris Douglas		Seagrass	Date	2020-03-25	Time	13:52:03	Location	Shark Bay	Site	S25	Status	Sanctuary	Latitude	-25.66351675	Longitude	113.9443203	Visibility	
+SBMP_20200325_S26-1_BRUV	Chris Douglas	8.5	Seagrass	Date	2020-03-25	Time	11:38:40	Location	Shark Bay	Site	S26	Status	Special Purpose (Seagrass Protection)	Latitude	-25.60445503	Longitude	113.9129523	Visibility	
+SBMP_20200325_S26-2_BRUV	Chris Douglas	8.7	Seagrass	Date	2020-03-25	Time	11:40:46	Location	Shark Bay	Site	S26	Status	Special Purpose (Seagrass Protection)	Latitude	-25.60387958	Longitude	113.9157493	Visibility	
+SBMP_20200325_S26-3_BRUV	Chris Douglas	8.5	Seagrass	Date	2020-03-25	Time	11:42:58	Location	Shark Bay	Site	S26	Status	Special Purpose (Seagrass Protection)	Latitude	-25.60252195	Longitude	113.9187982	Visibility	
+SBMP_20200325_S26-4_BRUV	Chris Douglas	8.8	Seagrass	Date	2020-03-25	Time		Location	Shark Bay	Site	S26	Status	Special Purpose (Seagrass Protection)	Latitude	-25.60104427	Longitude	113.9217634	Visibility	
+SBMP_20200325_S26-5_BRUV		9	Seagrass	Date	2020-03-25	Time		Location	Shark Bay	Site	S26	Status	Special Purpose (Seagrass Protection)	Latitude	-25.59972653	Longitude	113.9239733	Visibility	
+SBMP_20200326_FS-1_BRUV	Caprice	1.2	Reef	Date	2020-03-26	Time	10:09:00	Location	Shark Bay	Site	FS	Status	General Use	Latitude	-25.9497627	Longitude	113.9198569	Visibility	
+SBMP_20200326_FS-2_BRUV	Caprice	1	Reef	Date	2020-03-26	Time	10:14:00	Location	Shark Bay	Site	FS	Status	General Use	Latitude	-25.94809297	Longitude	113.9218289	Visibility	
+SBMP_20200326_FS-3_BRUV	Caprice	0.7	Reef	Date	2020-03-26	Time	10:22:12	Location	Shark Bay	Site	FS	Status	General Use	Latitude	-25.94687847	Longitude	113.9235216	Visibility	
+SBMP_20200326_FS-4_BRUV	Caprice	1	Reef	Date	2020-03-26	Time	10:25:41	Location	Shark Bay	Site	FS	Status	General Use	Latitude	-25.94539153	Longitude	113.9252588	Visibility	
+SBMP_20200326_FS-5_BRUV	Chris Douglas	1.1	Reef	Date	2020-03-26	Time	10:29:01	Location	Shark Bay	Site	FS	Status	General Use	Latitude	-25.94426497	Longitude	113.926929	Visibility	
+SBMP_20200326_FS-6_BRUV	Chris Douglas	1.1	Reef	Date	2020-03-26	Time	10:33:15	Location	Shark Bay	Site	FS	Status	General Use	Latitude	-25.94283617	Longitude	113.9279308	Visibility	
+SBMP_20200326_FW-1_BRUV	Chris Douglas	1.1	Reef	Date	2020-03-26	Time	12:10:52	Location	Shark Bay	Site	FW	Status	General Use	Latitude	-25.88016232	Longitude	113.8692233	Visibility	
+SBMP_20200326_FW-2_BRUV	Chris Douglas 	0.9	Reef	Date	2020-03-26	Time	12:13:07	Location	Shark Bay	Site	FW	Status	General Use	Latitude	-25.87963132	Longitude	113.869096	Visibility	
+SBMP_20200326_FW-3_BRUV	Chris Douglas	1	Reef	Date	2020-03-26	Time	12:15:58	Location	Shark Bay	Site	FW	Status	General Use	Latitude	-25.87863238	Longitude	113.8690994	Visibility	
+SBMP_20200326_FW-4_BRUV	Chris Douglas	1.2	Reef	Date	2020-03-26	Time	12:18:56	Location	Shark Bay	Site	FW	Status	General Use	Latitude	-25.87794792	Longitude	113.8680968	Visibility	
+SBMP_20200326_FW-5_BRUV	Chris Douglas	1.3	Reef	Date	2020-03-26	Time	12:23:00	Location	Shark Bay	Site	FW	Status	General Use	Latitude	-25.87670493	Longitude	113.8649993	Visibility	
+SBMP_20200326_FW-6_BRUV	Chris Douglas 	0.9	Reef	Date	2020-03-26	Time	12:25:42	Location	Shark Bay	Site	FW	Status	General Use	Latitude	-25.87586603	Longitude	113.8633129	Visibility	
+SBMP_20200326_PP-1_BRUV	Caprice	1	Reef	Date	2020-03-26	Time	08:22:00	Location	Shark Bay	Site	PP	Status	General Use	Latitude	-25.98375222	Longitude	113.9138588	Visibility	
+SBMP_20200326_PP-2_BRUV	Caprice	1.7	Reef	Date	2020-03-26	Time	08:27:07	Location	Shark Bay	Site	PP	Status	General Use	Latitude	-25.98264838	Longitude	113.9153587	Visibility	
+SBMP_20200326_PP-3_BRUV	Caprice	2.5	Reef	Date	2020-03-26	Time	08:32:09	Location	Shark Bay	Site	PP	Status	General Use	Latitude	-25.9793469	Longitude	113.916678	Visibility	
+SBMP_20200326_PP-4_BRUV	Caprice	1.6	Reef	Date	2020-03-26	Time	08:35:57	Location	Shark Bay	Site	PP	Status	General Use	Latitude	-25.97660257	Longitude	113.9177277	Visibility	
+SBMP_20200326_PP-5_BRUV	Caprice	1.8	Reef	Date	2020-03-26	Time	08:40:04	Location	Shark Bay	Site	PP	Status	General Use	Latitude	-25.97514355	Longitude	113.919474	Visibility	
+SBMP_20200326_PP-6_BRUV	Caprice	2.8	Reef	Date	2020-03-26	Time	08:42:16	Location	Shark Bay	Site	PP	Status	General Use	Latitude	-25.97345608	Longitude	113.9202288	Visibility	
+SBMP_20200326_S27-1_BRUV	Kirsty	10	Seagrass	Date	2020-03-26	Time	07:40:20.000	Location	Shark Bay	Site	S27	Status	General Use	Latitude	-25.88690635	Longitude	114.0954037	Visibility	
+SBMP_20200326_S27-2_BRUV	Kirsty	8.5	Seagrass	Date	2020-03-26	Time	07:42:56.000	Location	Shark Bay	Site	S27	Status	General Use	Latitude	-25.8853588	Longitude	114.0939752	Visibility	
+SBMP_20200326_S27-3_BRUV	Kirsty	7.6	Seagrass	Date	2020-03-26	Time	07:45:40.000	Location	Shark Bay	Site	S27	Status	General Use	Latitude	-25.88422789	Longitude	114.0918622	Visibility	
+SBMP_20200326_S27-4_BRUV	Kirsty	6.5	Seagrass	Date	2020-03-26	Time	07:47:47.000	Location	Shark Bay	Site	S27	Status	General Use	Latitude	-25.88226369	Longitude	114.0899575	Visibility	
+SBMP_20200326_S27-5_BRUV	Kirsty	7.5	Seagrass	Date	2020-03-26	Time	07:50:04.000	Location	Shark Bay	Site	S27	Status	General Use	Latitude	-25.88080541	Longitude	114.0873981	Visibility	
+SBMP_20200326_S28-1_BRUV	Kirsty	10	Seagrass	Date	2020-03-26	Time	08:06:23.000	Location	Shark Bay	Site	S28	Status	General Use	Latitude	-25.89430423	Longitude	114.0661757	Visibility	
+SBMP_20200326_S28-2_BRUV	Kirsty	9.5	Seagrass	Date	2020-03-26	Time	08:06:23.000	Location	Shark Bay	Site	S28	Status	General Use	Latitude	-25.8969074	Longitude	114.0651787	Visibility	
+SBMP_20200326_S28-3_BRUV	Kirsty	8	Seagrass	Date	2020-03-26	Time	08:16:53.000	Location	Shark Bay	Site	S28	Status	General Use	Latitude	-25.89924055	Longitude	114.0652826	Visibility	
+SBMP_20200326_S28-4_BRUV	Kirsty	8.6	Seagrass	Date	2020-03-26	Time	08:20:39.000	Location	Shark Bay	Site	S28	Status	General Use	Latitude	-25.90151139	Longitude	114.0662795	Visibility	
+SBMP_20200326_S28-5_BRUV	Kirsty	8	Seagrass	Date	2020-03-26	Time	08:23:22.000	Location	Shark Bay	Site	S28	Status	General Use	Latitude	-25.90367146	Longitude	114.0665565	Visibility	
+SBMP_20200326_S29-1_BRUV	Kirsty	8.5	Seagrass	Date	2020-03-26	Time	10:10:25.000	Location	Shark Bay	Site	S29	Status	General Use	Latitude	-25.98633676	Longitude	114.0777854	Visibility	
+SBMP_20200326_S29-2_BRUV	Kirsty	8.5	Seagrass	Date	2020-03-26	Time	10:14:36.000	Location	Shark Bay	Site	S29	Status	General Use	Latitude	-25.98259	Longitude	114.07801	Visibility	
+SBMP_20200326_S29-3_BRUV	Kirsty	9	Seagrass	Date	2020-03-26	Time	10:15:24.000	Location	Shark Bay	Site	S29	Status	General Use	Latitude	-25.97973	Longitude	114.07825	Visibility	
+SBMP_20200326_S29-4_BRUV	Kirsty	8.5	Seagrass	Date	2020-03-26	Time	10:17:20.000	Location	Shark Bay	Site	S29	Status	General Use	Latitude	-25.97743	Longitude	114.0783	Visibility	
+SBMP_20200326_S29-5_BRUV	kIRSTY	9	Seagrass	Date	2020-03-26	Time	10:19:07.000	Location	Shark Bay	Site	S29	Status	General Use	Latitude	-25.97497	Longitude	114.07851	Visibility	
+SBMP_20200326_S30-1_BRUV	Kirsty	7.8	Seagrass	Date	2020-03-26	Time	12:29:52.000	Location	Shark Bay	Site	S30	Status	General Use	Latitude	-25.8151635	Longitude	114.0405408	Visibility	
+SBMP_20200326_S30-2_BRUV	Kirsty	8.5	Seagrass	Date	2020-03-26	Time	12:33:00.000	Location	Shark Bay	Site	S30	Status	General Use	Latitude	-25.81306	Longitude	114.03888	Visibility	
+SBMP_20200326_S30-3_BRUV	Chris Douglas	9	Seagrass	Date	2020-03-26	Time	12:36:01	Location	Shark Bay	Site	S30	Status	General Use	Latitude	-25.81115	Longitude	114.03785	Visibility	
+SBMP_20200326_S30-4_BRUV	Chris Douglas	8.5	Seagrass	Date	2020-03-26	Time	12:38:20	Location	Shark Bay	Site	S30	Status	General Use	Latitude	-25.8091	Longitude	114.03634	Visibility	
+SBMP_20200326_S30-5_BRUV	Chris Douglas	8	Seagrass	Date	2020-03-26	Time	12:40:29	Location	Shark Bay	Site	S30	Status	General Use	Latitude	-25.807	Longitude	114.03487	Visibility	
+SBMP_20200327_S31-1_BRUV	Chris Douglas	6.5	Seagrass	Date	2020-03-27	Time	07:33:43	Location	Shark Bay	Site	S31	Status	General Use	Latitude	-25.76171	Longitude	113.71479	Visibility	
+SBMP_20200327_S31-2_BRUV	Chris Douglas	6	Seagrass	Date	2020-03-27	Time	07:36:08	Location	Shark Bay	Site	S31	Status	General Use	Latitude	-25.76352	Longitude	113.7161	Visibility	
+SBMP_20200327_S31-3_BRUV	Chris Douglas	6	Seagrass	Date	2020-03-27	Time	07:40:24	Location	Shark Bay	Site	S31	Status	General Use	Latitude	-25.76543	Longitude	113.71792	Visibility	
+SBMP_20200327_S31-4_BRUV	Chris Douglas	6.5	Seagrass	Date	2020-03-27	Time	07:41:47	Location	Shark Bay	Site	S31	Status	General Use	Latitude	-25.76688	Longitude	113.71954	Visibility	
+SBMP_20200327_S31-5_BRUV	Chris Douglas 	8	Seagrass	Date	2020-03-27	Time	07:42:32	Location	Shark Bay	Site	S31	Status	General Use	Latitude	-25.76821	Longitude	113.72227	Visibility	

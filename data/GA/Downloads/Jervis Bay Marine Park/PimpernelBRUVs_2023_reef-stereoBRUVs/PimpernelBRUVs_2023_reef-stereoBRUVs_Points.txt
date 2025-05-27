@@ -1,0 +1,186 @@
+OpCode	PointIndex	Filename	Frame	Time	Period	PeriodTime	ImageCol	ImageRow	RectWidth	RectHeight	Family	Genus	Species	Code	Number	Stage	Activity	Comment	Attribute9	Attribute10
+Pimp1_20230914	0	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	4718	2.62373	Pimpernel_Cam1_14Sep2023 start	0.16683	120.82596	396.50350	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp1_20230914	1	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	7770	4.32098	Pimpernel_Cam1_14Sep2023 start	1.86408	436.10619	464.47552	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp1_20230914	2	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	7770	4.32098	Pimpernel_Cam1_14Sep2023 start	1.86408	981.71091	962.93706	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp1_20230914	3	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	9048	5.03169	Pimpernel_Cam1_14Sep2023 start	2.57479	1276.22419	993.14685	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp1_20230914	4	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	9048	5.03169	Pimpernel_Cam1_14Sep2023 start	2.57479	736.28319	751.46853	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp1_20230914	5	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	9048	5.03169	Pimpernel_Cam1_14Sep2023 start	2.57479	919.41003	723.14685	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp1_20230914	6	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	9591	5.33366	Pimpernel_Cam1_14Sep2023 start	2.87676	487.07965	866.64336	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp1_20230914	7	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	12229	6.80068	Pimpernel_Cam1_14Sep2023 start	4.34378	932.62537	632.51748	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Feeding			
+Pimp1_20230914	8	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	24068	13.38448	Pimpernel_Cam1_14Sep2023 start	10.92758	923.18584	655.17483	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp1_20230914	9	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	24068	13.38448	Pimpernel_Cam1_14Sep2023 start	10.92758	766.48968	743.91608	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp1_20230914	10	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	25303	14.07128	Pimpernel_Cam1_14Sep2023 start	11.61438	1553.74631	439.93007	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp1_20230914	11	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	29695	16.51372	Pimpernel_Cam1_14Sep2023 start	14.05682	1361.17994	37.76224	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp1_20230914	12	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	43718	24.31207	Pimpernel_Cam1_14Sep2023 start	21.85517	1823.71681	685.38462	0.00000	0.00000	Labridae	Bodianus	frenchii	37384057	1	AD	Passing			
+Pimp1_20230914	13	Pimpernel_Cam1_LC_14Sep2023_Pimp_1a.MP4	45634	25.37757	Pimpernel_Cam1_14Sep2023 start	22.92068	1604.71976	60.41958	0.00000	0.00000	Serranidae	Diploprion	bifasciatum	37312002	1	AD	Passing			
+Pimp1_20231103	0	Pimp1_2023Nov3_LC_unit1a.MP4	3708	2.06206	start	0.00056	1811.40613	128.21229	0.00000	0.00000	Scorpididae	Atypichthys	strigatus	37361010	1	AD	Passing			
+Pimp1_20231103	1	Pimp1_2023Nov3_LC_unit1a.MP4	3735	2.07707	start	0.01557	692.28594	196.08939	0.00000	0.00000	Carangidae	Seriola	dumerili	37337025	1	AD	Passing			
+Pimp1_20231103	2	Pimp1_2023Nov3_LC_unit1a.MP4	3735	2.07707	start	0.01557	235.28672	583.74302	0.00000	0.00000	Blenniidae	Plagiotremus	tapeinosoma	37408076	1	AD	Passing			
+Pimp1_20231103	3	Pimp1_2023Nov3_LC_unit1a.MP4	3906	2.17217	start	0.11067	576.15082	93.51955	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp1_20231103	4	Pimp1_2023Nov3_LC_unit1a.MP4	3959	2.20164	start	0.14014	423.81775	205.13966	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	5	Pimp1_2023Nov3_LC_unit1a.MP4	5156	2.86731	start	0.80580	555.03535	867.31844	0.00000	0.00000	Blenniidae	Plagiotremus	tapeinosoma	37408076	1	AD	Passing			
+Pimp1_20231103	6	Pimp1_2023Nov3_LC_unit1a.MP4	5156	2.86731	start	0.80580	1363.45640	722.51397	0.00000	0.00000	Blenniidae	Plagiotremus	tapeinosoma	37408076	1	AD	Passing			
+Pimp1_20231103	7	Pimp1_2023Nov3_LC_unit1a.MP4	5156	2.86731	start	0.80580	975.83661	692.34637	0.00000	0.00000	Blenniidae	Plagiotremus	tapeinosoma	37408076	1	AD	Passing			
+Pimp1_20231103	8	Pimp1_2023Nov3_LC_unit1a.MP4	5210	2.89734	start	0.83584	1358.93166	562.62570	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	9	Pimp1_2023Nov3_LC_unit1a.MP4	5210	2.89734	start	0.83584	671.17046	266.98324	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	10	Pimp1_2023Nov3_LC_unit1a.MP4	5763	3.20487	start	1.14336	1386.08013	82.96089	0.00000	0.00000	Labridae	Bodianus	unimaculatus	37384061	1	AD	Passing			
+Pimp1_20231103	11	Pimp1_2023Nov3_LC_unit1a.MP4	5763	3.20487	start	1.14336	1298.60173	298.65922	0.00000	0.00000	Aulopodidae	Latropiscis	purpurissatus	37117001	1	AD	Passing			
+Pimp1_20231103	12	Pimp1_2023Nov3_LC_unit1a.MP4	5846	3.25103	start	1.18952	1565.56167	152.34637	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	13	Pimp1_2023Nov3_LC_unit1a.MP4	5846	3.25103	start	1.18952	726.97565	416.31285	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	14	Pimp1_2023Nov3_LC_unit1a.MP4	5846	3.25103	start	1.18952	431.35899	586.75978	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	15	Pimp1_2023Nov3_LC_unit1a.MP4	6182	3.43788	start	1.37638	586.70856	788.88268	0.00000	0.00000	Scorpaenidae	Scorpaena	jacksoniensis	37287066	1	AD	Passing			
+Pimp1_20231103	16	Pimp1_2023Nov3_LC_unit1a.MP4	7699	4.28150	start	2.22000	1797.83189	88.99441	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	17	Pimp1_2023Nov3_LC_unit1a.MP4	7699	4.28150	start	2.22000	1447.91830	318.26816	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	18	Pimp1_2023Nov3_LC_unit1a.MP4	7699	4.28150	start	2.22000	1340.83268	622.96089	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	19	Pimp1_2023Nov3_LC_unit1a.MP4	7699	4.28150	start	2.22000	953.21288	680.27933	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp1_20231103	20	Pimp1_2023Nov3_LC_unit1a.MP4	8658	4.81481	start	2.75331	1177.94187	37.70950	0.00000	0.00000	Cheilodactylidae	Nemadactylus	douglasii	37377002	1	AD	Passing			
+Pimp1_20231103	21	Pimp1_2023Nov3_LC_unit1a.MP4	9489	5.27694	start	3.21543	527.88688	441.95531	0.00000	0.00000	Serranidae	Caesioperca	lepidoptera	37311002	1	AD	Passing			
+Pimp1_20231103	22	Pimp1_2023Nov3_LC_unit1a.MP4	12444	6.92025	start	4.85874	1193.02435	882.40223	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp1_20231103	23	Pimp1_2023Nov3_LC_unit1a.MP4	13186	7.33288	start	5.27138	1377.03064	70.89385	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp1_20231103	24	Pimp1_2023Nov3_LC_unit1a.MP4	20269	11.27182	start	9.21031	1182.46661	203.63128	0.00000	0.00000	Cheilodactylidae	Nemadactylus	douglasii	37377002	1	AD	Passing			
+Pimp1_20231103	25	Pimp1_2023Nov3_LC_unit1a.MP4	20269	11.27182	start	9.21031	170.43205	487.20670	0.00000	0.00000	Cheilodactylidae	Nemadactylus	douglasii	37377002	1	AD	Passing			
+Pimp1_20231103	26	Pimp1_2023Nov3_LC_unit1a.MP4	21267	11.82682	start	9.76531	1405.68735	247.37430	0.00000	0.00000	Cheilodactylidae	Cheilodactylus	fuscus	37377009	1	AD	Passing			
+Pimp1_20231103	27	Pimp1_2023Nov3_LC_unit1a.MP4	26330	14.64241	start	12.58090	841.60251	644.07821	0.00000	0.00000	Pomacentridae	Mecaenichthys	immaculatus	37372083	1	AD	Passing			
+Pimp1_20231103	28	Pimp1_2023Nov3_LC_unit1a.MP4	27762	15.43876	start	13.37725	1073.87274	61.84358	0.00000	0.00000	Odontaspididae	Carcharias	taurus	37008001	1	AD	Passing			
+Pimp1_20231103	29	Pimp1_2023Nov3_LC_unit1a.MP4	28354	15.76797	start	13.70647	719.43441	414.80447	0.00000	0.00000	Scorpididae	Atypichthys	strigatus	37361010	1	AD	Passing			
+Pimp1_20231103	30	Pimp1_2023Nov3_LC_unit1a.MP4	28354	15.76797	start	13.70647	838.58602	174.97207	0.00000	0.00000	Scorpididae	Atypichthys	strigatus	37361010	1	AD	Passing			
+Pimp1_20231103	31	Pimp1_2023Nov3_LC_unit1a.MP4	35568	19.77976	start	17.71826	733.66693	1044.30168	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp2_20230914	0	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	11460	6.37303	Pimpernel_Cam2_14Sep2023 Start	2.92681	166.13569	575.87413	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20230914	1	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	14998	8.34055	Pimpernel_Cam2_14Sep2023 Start	4.89433	713.79941	966.71329	0.00000	0.00000	Pinguipedidae	Parapercis	striticeps	37990661	1	AD	Passing			
+Pimp2_20230914	2	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	17578	9.77532	Pimpernel_Cam2_14Sep2023 Start	6.32910	1157.28614	553.21678	0.00000	0.00000	Cheilodactylidae	Nemadactylus	douglasii	37377002	1	AD	Passing			
+Pimp2_20230914	3	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	21582	12.00199	Pimpernel_Cam2_14Sep2023 Start	8.55577	1045.89971	556.99301	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp2_20230914	4	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	24725	13.74985	Pimpernel_Cam2_14Sep2023 Start	10.30363	1340.41298	451.25874	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp2_20230914	5	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	24725	13.74985	Pimpernel_Cam2_14Sep2023 Start	10.30363	1045.89971	477.69231	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp2_20230914	6	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	33549	18.65697	Pimpernel_Cam2_14Sep2023 Start	15.21075	398.34808	862.86713	0.00000	0.00000	Mullidae	Upeneichthys	lineatus	37355001	1	AD	Passing			
+Pimp2_20230914	7	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	41255	22.94236	Pimpernel_Cam2_14Sep2023 Start	19.49614	179.35103	606.08392	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp2_20230914	8	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	49679	27.62704	Pimpernel_Cam2_14Sep2023 Start	24.18082	292.62537	877.97203	0.00000	0.00000	Labridae	Coris	picta	37384095	1	AD	Passing			
+Pimp2_20230914	9	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	55489	30.85805	Pimpernel_Cam2_14Sep2023 Start	27.41183	687.19764	573.98601	0.00000	0.00000	Carangidae	Pseudocaranx	georgianus	37337062	1	AD	Passing			
+Pimp2_20230914	10	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	56445	31.38969	Pimpernel_Cam2_14Sep2023 Start	27.94347	1036.46018	118.95105	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20230914	11	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	56445	31.38969	Pimpernel_Cam2_14Sep2023 Start	27.94347	740.05900	322.86713	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20230914	12	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	59764	33.23542	Pimpernel_Cam2_14Sep2023 Start	29.78920	1880.35398	243.56643	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp2_20230914	13	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	59764	33.23542	Pimpernel_Cam2_14Sep2023 Start	29.78920	902.41888	256.78322	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp2_20230914	14	Pimpernel_Cam2_LC_14Sep2023_Pimp_2a.MP4	59764	33.23542	Pimpernel_Cam2_14Sep2023 Start	29.78920	317.16814	351.18881	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp2_20231103	0	Pimp2_2023Nov3_LC_unit2a.MP4	9821	5.46157	start	2.41908	1177.94187	722.51397	0.00000	0.00000	Mullidae	Parupeneus	spilurus	37355015	1	AD	Passing			
+Pimp2_20231103	1	Pimp2_2023Nov3_LC_unit2a.MP4	16814	9.35045	start	6.30797	81.44540	883.91061	0.00000	0.00000	Labridae	Pseudolabrus	guentheri	37384150	1	AD	Passing			
+Pimp2_20231103	2	Pimp2_2023Nov3_LC_unit2a.MP4	18206	10.12456	start	7.08207	1200.56559	70.89385	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp2_20231103	3	Pimp2_2023Nov3_LC_unit2a.MP4	34058	18.94003	start	15.89755	285.05892	929.16201	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp2_20231103	4	Pimp2_2023Nov3_LC_unit2a.MP4	35364	19.66631	start	16.62383	838.58602	686.31285	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Feeding			
+Pimp2_20231103	5	Pimp2_2023Nov3_LC_unit2a.MP4	36531	20.31529	start	17.27281	285.05892	638.04469	0.00000	0.00000	Labridae	Ophthalmolepis	lineolatus	37384040	1	AD	Passing			
+Pimp2_20231103	6	Pimp2_2023Nov3_LC_unit2a.MP4	39591	22.01700	start	18.97451	354.43833	692.34637	0.00000	0.00000	Carangidae	Pseudocaranx	georgianus	37337062	1	AD	Passing			
+Pimp2_20231103	7	Pimp2_2023Nov3_LC_unit2a.MP4	39591	22.01700	start	18.97451	309.19089	573.18436	0.00000	0.00000	Carangidae	Pseudocaranx	georgianus	37337062	1	AD	Passing			
+Pimp2_20231103	8	Pimp2_2023Nov3_LC_unit2a.MP4	39591	22.01700	start	18.97451	70.88767	635.02793	0.00000	0.00000	Carangidae	Pseudocaranx	georgianus	37337062	1	AD	Passing			
+Pimp2_20231103	9	Pimp2_2023Nov3_LC_unit2a.MP4	41695	23.18705	start	20.14457	1796.32364	227.76536	0.00000	0.00000	Cheilodactylidae	Cheilodactylus	fuscus	37377009	1	AD	Passing			
+Pimp2_20231103	10	Pimp2_2023Nov3_LC_unit2a.MP4	41958	23.33331	start	20.29083	171.94030	888.43575	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp2_20231103	11	Pimp2_2023Nov3_LC_unit2a.MP4	43737	24.32263	start	21.28015	310.69914	868.82682	0.00000	0.00000	Scorpaenidae	Scorpaena	jacksoniensis	37287066	1	AD	Passing			
+Pimp2_20231103	12	Pimp2_2023Nov3_LC_unit2a.MP4	43823	24.37046	start	21.32797	512.80440	805.47486	0.00000	0.00000	Aulopodidae	Latropiscis	purpurissatus	37117001	1	AD	Passing			
+Pimp2_20231103	13	Pimp2_2023Nov3_LC_unit2a.MP4	44485	24.73860	start	21.69612	1392.11312	825.08380	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp2_20231103	14	Pimp2_2023Nov3_LC_unit2a.MP4	45083	25.07116	start	22.02867	874.78397	527.93296	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20231103	15	Pimp2_2023Nov3_LC_unit2a.MP4	49258	27.39292	start	24.35044	962.26237	711.95531	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20231103	16	Pimp2_2023Nov3_LC_unit2a.MP4	49258	27.39292	start	24.35044	203.61351	737.59777	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20231103	17	Pimp2_2023Nov3_LC_unit2a.MP4	54044	30.05447	start	27.01198	90.49489	619.94413	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp2_20231103	18	Pimp2_2023Nov3_LC_unit2a.MP4	56057	31.17392	start	28.13144	170.43205	742.12291	0.00000	0.00000	Labridae	Coris	picta	37384095	1	AD	Passing			
+Pimp2_20231103	19	Pimp2_2023Nov3_LC_unit2a.MP4	57158	31.78620	start	28.74371	960.75412	588.26816	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20231103	20	Pimp2_2023Nov3_LC_unit2a.MP4	57158	31.78620	start	28.74371	484.14768	663.68715	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp2_20231103	21	Pimp2_2023Nov3_LC_unit2a.MP4	57158	31.78620	start	28.74371	512.80440	799.44134	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp3_20230914	0	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	4679	2.60204	Pimpernel_Cam3_14Sep2023 Start	0.16461	286.96165	974.26573	0.00000	0.00000	Pomacentridae	Mecaenichthys	immaculatus	37372083	1	AD	Passing			
+Pimp3_20230914	1	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	5702	3.17095	Pimpernel_Cam3_14Sep2023 Start	0.73351	1551.85841	409.72028	0.00000	0.00000	Cheilodactylidae	Nemadactylus	douglasii	37377002	1	AD	Passing			
+Pimp3_20230914	2	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	6137	3.41285	Pimpernel_Cam3_14Sep2023 Start	0.97542	290.73746	1015.80420	0.00000	0.00000	Scorpaenidae	Scorpaena	jacksoniensis	37287066	1	AD	Passing			
+Pimp3_20230914	3	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	6222	3.46012	Pimpernel_Cam3_14Sep2023 Start	1.02269	271.85841	889.30070	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp3_20230914	4	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	7509	4.17584	Pimpernel_Cam3_14Sep2023 Start	1.73840	1213.92330	991.25874	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp3_20230914	5	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	8793	4.88989	Pimpernel_Cam3_14Sep2023 Start	2.45245	1202.59587	719.37063	0.00000	0.00000	Chaetodontidae	Chaetodon	guentheri	37365039	1	AD	Passing			
+Pimp3_20230914	6	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	20803	11.56878	Pimpernel_Cam3_14Sep2023 Start	9.13134	1776.51917	145.38462	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp3_20230914	7	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	29774	16.55765	Pimpernel_Cam3_14Sep2023 Start	14.12022	970.38348	979.93007	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp3_20230914	8	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	31135	17.31452	Pimpernel_Cam3_14Sep2023 Start	14.87708	1162.94985	777.90210	0.00000	0.00000	Cheilodactylidae	Cheilodactylus	fuscus	37377009	1	AD	Passing			
+Pimp3_20230914	9	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	42057	23.38837	Pimpernel_Cam3_14Sep2023 Start	20.95093	226.54867	1036.57343	0.00000	0.00000	Pomacentridae	Parma	unifasciata	37372097	1	AD	Passing			
+Pimp3_20230914	10	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	42426	23.59357	Pimpernel_Cam3_14Sep2023 Start	21.15613	757.05015	808.11189	0.00000	0.00000	Mullidae	Upeneichthys	lineatus	37355001	1	AD	Passing			
+Pimp3_20230914	11	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	42562	23.66920	Pimpernel_Cam3_14Sep2023 Start	21.23177	1755.75221	52.86713	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp3_20230914	12	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	42702	23.74706	Pimpernel_Cam3_14Sep2023 Start	21.30962	1008.14159	430.48951	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp3_20230914	13	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	42702	23.74706	Pimpernel_Cam3_14Sep2023 Start	21.30962	1855.81121	171.81818	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp3_20230914	14	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	51128	28.43285	Pimpernel_Cam3_14Sep2023 Start	25.99541	1272.44838	205.80420	0.00000	0.00000	Chaetodontidae	Chaetodon	guentheri	37365039	1	AD	Passing			
+Pimp3_20230914	15	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	51128	28.43285	Pimpernel_Cam3_14Sep2023 Start	25.99541	313.39233	540.00000	0.00000	0.00000	Chaetodontidae	Chaetodon	guentheri	37365039	1	AD	Passing			
+Pimp3_20230914	16	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	53198	29.58400	Pimpernel_Cam3_14Sep2023 Start	27.14656	1802.94985	479.58042	0.00000	0.00000	Pomacanthidae	Chaetodontoplus	meredithi	37365065	1	AD	Passing			
+Pimp3_20230914	17	Pimpernel_Cam3_LC_14Sep2023_Pimp_3a.MP4	54452	30.28136	Pimpernel_Cam3_14Sep2023 Start	27.84393	1576.40118	239.79021	0.00000	0.00000	Carangidae	Pseudocaranx	georgianus	37337062	1	AD	Passing			
+Pimp3_20231103	0	Pimp3_2023Nov3_LC_unit3a.MP4	10257	5.70403	start	0.25637	733.00864	114.63687	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp3_20231103	1	Pimp3_2023Nov3_LC_unit3a.MP4	10257	5.70403	start	0.25637	1119.12019	21.11732	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp3_20231103	2	Pimp3_2023Nov3_LC_unit3a.MP4	10733	5.96874	start	0.52108	1244.30479	39.21788	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp3_20231103	3	Pimp3_2023Nov3_LC_unit3a.MP4	10733	5.96874	start	0.52108	1027.11705	98.04469	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp3_20231103	4	Pimp3_2023Nov3_LC_unit3a.MP4	10733	5.96874	start	0.52108	378.57031	96.53631	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp3_20231103	5	Pimp3_2023Nov3_LC_unit3a.MP4	13339	7.41797	start	1.97030	1850.62058	535.47486	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp3_20231103	6	Pimp3_2023Nov3_LC_unit3a.MP4	14354	7.98242	start	2.53475	1656.05656	994.02235	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp3_20231103	7	Pimp3_2023Nov3_LC_unit3a.MP4	15200	8.45289	start	3.00522	1265.42027	263.96648	0.00000	0.00000	Labridae	Coris	picta	37384095	1	AD	Passing			
+Pimp3_20231103	8	Pimp3_2023Nov3_LC_unit3a.MP4	18131	10.08285	start	4.63519	965.27887	745.13966	0.00000	0.00000	Scorpaenidae	Scorpaena	jacksoniensis	37287066	1	AD	Passing			
+Pimp3_20231103	9	Pimp3_2023Nov3_LC_unit3a.MP4	18285	10.16849	start	4.72083	463.03221	713.46369	0.00000	0.00000	Scorpididae	Atypichthys	strigatus	37361010	1	AD	Passing			
+Pimp3_20231103	10	Pimp3_2023Nov3_LC_unit3a.MP4	30872	17.16826	start	11.72060	1684.71328	24.13408	0.00000	0.00000	Chaetodontidae	Chaetodon	guentheri	37365039	1	AD	Passing			
+Pimp3_20231103	11	Pimp3_2023Nov3_LC_unit3a.MP4	33108	18.41173	start	12.96406	990.26316	655.19553	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp3_20231103	12	Pimp3_2023Nov3_LC_unit3a.MP4	34948	19.43497	start	13.98731	698.31893	527.93296	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Feeding			
+Pimp3_20231103	13	Pimp3_2023Nov3_LC_unit3a.MP4	35194	19.57177	start	14.12411	671.17046	580.72626	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Feeding			
+Pimp3_20231103	14	Pimp3_2023Nov3_LC_unit3a.MP4	35194	19.57177	start	14.12411	1084.43048	736.08939	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp3_20231103	15	Pimp3_2023Nov3_LC_unit3a.MP4	39310	21.86073	start	16.41306	1022.59230	294.13408	0.00000	0.00000	Sparidae	Chrysophrys	auratus	37353001	1	AD	Passing			
+Pimp3_20231103	16	Pimp3_2023Nov3_LC_unit3a.MP4	44403	24.69300	start	19.24534	1075.38099	543.01676	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp3_20231103	17	Pimp3_2023Nov3_LC_unit3a.MP4	50001	27.80611	start	22.35845	776.74784	549.05028	0.00000	0.00000	Carangidae	Pseudocaranx	georgianus	37337062	1	AD	Passing			
+Pimp4_20230914	0	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	16416	9.12912	Pimpernel_Cam4_14Sep2023 Start	6.40696	1473.31953	724.86842	0.00000	0.00000	Serranidae	Hypoplectrodes	maccullochi	37311036	1	AD	Passing			
+Pimp4_20230914	1	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	20077	11.16504	Pimpernel_Cam4_14Sep2023 Start	8.44288	1482.60355	954.94737	0.00000	0.00000	Chaetodontidae	Chaetodon	guentheri	37365039	1	AD	Passing			
+Pimp4_20230914	2	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	20892	11.61827	Pimpernel_Cam4_14Sep2023 Start	8.89611	1562.13018	773.05263	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			
+Pimp4_20230914	3	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	25826	14.36213	Pimpernel_Cam4_14Sep2023 Start	11.63996	1244.02367	977.68421	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp4_20230914	4	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	28370	15.77687	Pimpernel_Cam4_14Sep2023 Start	13.05471	1306.50888	454.73684	0.00000	0.00000	Mullidae	Parupeneus	spilurus	37355015	1	AD	Passing			
+Pimp4_20230914	5	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	28474	15.83471	Pimpernel_Cam4_14Sep2023 Start	13.11254	639.05325	500.21053	0.00000	0.00000	Mullidae	Parupeneus	spilurus	37355015	1	AD	Passing			
+Pimp4_20230914	6	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	28474	15.83471	Pimpernel_Cam4_14Sep2023 Start	13.11254	107.92899	85.26316	0.00000	0.00000	Mullidae	Parupeneus	spilurus	37355015	1	AD	Passing			
+Pimp4_20230914	7	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	34116	18.97229	Pimpernel_Cam4_14Sep2023 Start	16.25012	1275.26627	733.26316	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp4_20230914	8	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	41858	23.27770	Pimpernel_Cam4_14Sep2023 Start	20.55553	585.08876	878.21053	0.00000	0.00000	Scorpaenidae	Scorpaena	jacksoniensis	37287066	1	AD	Passing			
+Pimp4_20230914	9	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	44541	24.76975	Pimpernel_Cam4_14Sep2023 Start	22.04758	1195.73964	426.31579	0.00000	0.00000	Labridae	Bodianus	perditio	37384007	1	AD	Passing			
+Pimp4_20230914	10	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	45546	25.32864	Pimpernel_Cam4_14Sep2023 Start	22.60647	71.00592	775.89474	0.00000	0.00000	Labridae	Pseudolabrus	guentheri	37384150	1	AD	Passing			
+Pimp4_20230914	11	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	46912	26.08828	Pimpernel_Cam4_14Sep2023 Start	23.36612	417.51479	875.36842	0.00000	0.00000	Orectolobidae	Orectolobus	halei	37013020	1	AD	Passing			
+Pimp4_20230914	12	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	49248	27.38736	Pimpernel_Cam4_14Sep2023 Start	24.66520	1431.47929	895.26316	0.00000	0.00000	Labridae	Ophthalmolepis	lineolatus	37384040	1	AD	Passing			
+Pimp4_20230914	13	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	55940	31.10886	Pimpernel_Cam4_14Sep2023 Start	28.38669	329.46746	750.31579	0.00000	0.00000	Pinguipedidae	Parapercis	striticeps	37990661	1	AD	Passing			
+Pimp4_20230914	14	Pimpernel_Cam4_LC_14Sep2023_Pimp_4a.MP4	56598	31.47478	Pimpernel_Cam4_14Sep2023 Start	28.75261	1667.21893	898.10526	0.00000	0.00000	Odontaspididae	Carcharias	taurus	37008001	1	AD	Passing			
+Pimp4_20231103	0	Pimp4_2023Nov3_LC_unit4a.MP4	6668	3.70815	start	0.04171	870.25923	449.49721	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp4_20231103	1	Pimp4_2023Nov3_LC_unit4a.MP4	8034	4.46780	start	0.80136	360.47133	193.07263	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	2	Pimp4_2023Nov3_LC_unit4a.MP4	9159	5.09342	start	1.42698	339.35585	315.25140	0.00000	0.00000	Labridae	Coris	picta	37384095	1	AD	Passing			
+Pimp4_20231103	3	Pimp4_2023Nov3_LC_unit4a.MP4	9159	5.09342	start	1.42698	141.77533	366.53631	0.00000	0.00000	Mullidae	Parupeneus	spilurus	37355015	1	AD	Passing			
+Pimp4_20231103	4	Pimp4_2023Nov3_LC_unit4a.MP4	9171	5.10009	start	1.43365	223.22074	354.46927	0.00000	0.00000	Mullidae	Parupeneus	spilurus	37355015	1	AD	Passing			
+Pimp4_20231103	5	Pimp4_2023Nov3_LC_unit4a.MP4	9171	5.10009	start	1.43365	138.75884	343.91061	0.00000	0.00000	Mullidae	Parupeneus	spilurus	37355015	1	AD	Passing			
+Pimp4_20231103	6	Pimp4_2023Nov3_LC_unit4a.MP4	9171	5.10009	start	1.43365	641.00550	455.53073	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	7	Pimp4_2023Nov3_LC_unit4a.MP4	9171	5.10009	start	1.43365	467.55695	396.70391	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	8	Pimp4_2023Nov3_LC_unit4a.MP4	9653	5.36814	start	1.70170	704.35192	485.69832	0.00000	0.00000	Labridae	Ophthalmolepis	lineolatus	37384040	1	AD	Passing			
+Pimp4_20231103	9	Pimp4_2023Nov3_LC_unit4a.MP4	10272	5.71237	start	2.04593	208.13826	561.11732	0.00000	0.00000	Pomacentridae	Mecaenichthys	immaculatus	37372083	1	AD	Passing			
+Pimp4_20231103	10	Pimp4_2023Nov3_LC_unit4a.MP4	10381	5.77299	start	2.10655	140.26709	476.64804	0.00000	0.00000	Labridae	Coris	picta	37384095	1	AD	Passing			
+Pimp4_20231103	11	Pimp4_2023Nov3_LC_unit4a.MP4	10381	5.77299	start	2.10655	67.87117	508.32402	0.00000	0.00000	Labridae	Coris	picta	37384095	1	AD	Passing			
+Pimp4_20231103	12	Pimp4_2023Nov3_LC_unit4a.MP4	10480	5.82804	start	2.16160	1158.33464	463.07263	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	13	Pimp4_2023Nov3_LC_unit4a.MP4	10480	5.82804	start	2.16160	1259.38727	455.53073	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	14	Pimp4_2023Nov3_LC_unit4a.MP4	10480	5.82804	start	2.16160	378.57031	454.02235	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	15	Pimp4_2023Nov3_LC_unit4a.MP4	14207	7.90067	start	4.23423	236.79497	686.31285	0.00000	0.00000	Aulopodidae	Latropiscis	purpurissatus	37117001	1	AD	Passing			
+Pimp4_20231103	16	Pimp4_2023Nov3_LC_unit4a.MP4	18857	10.48659	start	6.82015	31.67321	432.90503	0.00000	0.00000	Labridae	Bodianus	perditio	37384007	1	AD	Passing			
+Pimp4_20231103	17	Pimp4_2023Nov3_LC_unit4a.MP4	24554	13.65475	start	9.98831	1603.26787	565.64246	0.00000	0.00000	Pomacentridae	Parma	microlepis	37372005	1	AD	Passing			
+Pimp4_20231103	18	Pimp4_2023Nov3_LC_unit4a.MP4	27791	15.45488	start	11.78844	226.23723	642.56983	0.00000	0.00000	Scorpaenidae	Scorpaena	jacksoniensis	37287066	1	AD	Passing			
+Pimp4_20231103	19	Pimp4_2023Nov3_LC_unit4a.MP4	28080	15.61560	start	11.94916	849.14375	340.89385	0.00000	0.00000	Glaucosomatidae	Glaucosoma	scapulare	37320003	1	AD	Passing			
+Pimp4_20231103	20	Pimp4_2023Nov3_LC_unit4a.MP4	32758	18.21709	start	14.55065	248.86096	315.25140	0.00000	0.00000	Labridae	Bodianus	frenchii	37384057	1	AD	Passing			
+Pimp4_20231103	21	Pimp4_2023Nov3_LC_unit4a.MP4	32952	18.32497	start	14.65853	1285.02749	27.15084	0.00000	0.00000	Carangidae	Seriola	dumerili	37337025	1	AD	Passing			
+Pimp4_20231103	22	Pimp4_2023Nov3_LC_unit4a.MP4	34064	18.94337	start	15.27693	1496.18225	295.64246	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	23	Pimp4_2023Nov3_LC_unit4a.MP4	34064	18.94337	start	15.27693	1101.02121	298.65922	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	24	Pimp4_2023Nov3_LC_unit4a.MP4	34064	18.94337	start	15.27693	291.09191	54.30168	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	25	Pimp4_2023Nov3_LC_unit4a.MP4	34064	18.94337	start	15.27693	223.22074	199.10615	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	26	Pimp4_2023Nov3_LC_unit4a.MP4	34064	18.94337	start	15.27693	514.31265	401.22905	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	27	Pimp4_2023Nov3_LC_unit4a.MP4	34064	18.94337	start	15.27693	155.34957	227.76536	0.00000	0.00000	Scorpididae	Scorpis	lineolata	37361009	1	AD	Passing			
+Pimp4_20231103	28	Pimp4_2023Nov3_LC_unit4a.MP4	34564	19.22142	start	15.55498	1844.58759	648.60335	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp4_20231103	29	Pimp4_2023Nov3_LC_unit4a.MP4	34564	19.22142	start	15.55498	858.19324	476.64804	0.00000	0.00000	Labridae	Notolabrus	gymnogenis	37384041	1	AD	Passing			
+Pimp4_20231103	30	Pimp4_2023Nov3_LC_unit4a.MP4	41339	22.98908	start	19.32264	1793.30715	378.60335	0.00000	0.00000	Cheilodactylidae	Nemadactylus	douglasii	37377002	1	AD	Passing			
+Pimp4_20231103	31	Pimp4_2023Nov3_LC_unit4a.MP4	44558	24.77920	start	21.11276	1396.63786	410.27933	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp4_20231103	32	Pimp4_2023Nov3_LC_unit4a.MP4	45974	25.56665	start	21.90021	1710.35350	70.89385	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp4_20231103	33	Pimp4_2023Nov3_LC_unit4a.MP4	45974	25.56665	start	21.90021	791.83032	289.60894	0.00000	0.00000	Labridae	Choerodon	venustus	37384042	1	AD	Passing			
+Pimp4_20231103	34	Pimp4_2023Nov3_LC_unit4a.MP4	46835	26.04546	start	22.37902	1419.26159	167.43017	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	35	Pimp4_2023Nov3_LC_unit4a.MP4	46835	26.04546	start	22.37902	1334.79969	37.70950	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	36	Pimp4_2023Nov3_LC_unit4a.MP4	46835	26.04546	start	22.37902	957.73763	328.82682	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	37	Pimp4_2023Nov3_LC_unit4a.MP4	46835	26.04546	start	22.37902	853.66850	239.83240	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	38	Pimp4_2023Nov3_LC_unit4a.MP4	46835	26.04546	start	22.37902	752.61587	55.81006	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	39	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	93.51139	182.51397	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	40	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	419.29301	158.37989	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	41	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	616.87353	168.93855	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	42	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	678.71170	368.04469	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	43	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	823.50353	318.26816	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	44	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	787.30558	244.35754	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	45	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	726.97565	99.55307	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	46	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	989.41084	211.17318	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	47	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	1137.21917	206.64804	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	48	Pimp4_2023Nov3_LC_unit4a.MP4	46902	26.08272	start	22.41628	1043.70778	69.38547	0.00000	0.00000	Acanthuridae	Prionurus	microlepidotus	37437035	1	AD	Passing			
+Pimp4_20231103	49	Pimp4_2023Nov3_LC_unit4a.MP4	47073	26.17782	start	22.51138	1452.44305	191.56425	0.00000	0.00000	Sciaenidae	Atractoscion	aequidens	37354020	1	AD	Passing			
+Pimp4_20231103	50	Pimp4_2023Nov3_LC_unit4a.MP4	49676	27.62538	start	23.95893	420.80126	672.73743	0.00000	0.00000	Muraenidae	Gymnothorax	prasinus	37060006	1	AD	Passing			

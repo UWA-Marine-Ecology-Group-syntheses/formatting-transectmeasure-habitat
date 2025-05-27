@@ -1,0 +1,275 @@
+{
+  "created_at": ["2020-06-26T02:00:11.374352"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [132],
+  "description": [""],
+  "files": [
+    {
+      "id": 12734,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_3DPoints.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12735,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_Lengths.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12736,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_Points.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12286,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_Camera.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12603,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_Info.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12605,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_MovieSeq.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12606,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_Period.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12608,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_Source.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12610,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_ImagePtPair.txt",
+      "user_id": 2
+    },
+    {
+      "id": 12290,
+      "iscompressed": true,
+      "name": "2019-08_Ningaloo-deep_stereo-BRUVs_Metadata.csv",
+      "user_id": 2
+    }
+  ],
+  "id": [986],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 161,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "1000"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 36,
+      "id": 183,
+      "property": {
+        "id": 36,
+        "is_filter": false,
+        "name": "Sampling: Camera type"
+      },
+      "value": "Canon Legria HFG25"
+    },
+    {
+      "campaigninfoprop_id": 37,
+      "id": 193,
+      "property": {
+        "id": 37,
+        "is_filter": false,
+        "name": "Sampling: Camera configuration"
+      },
+      "value": "Stereo"
+    },
+    {
+      "campaigninfoprop_id": 42,
+      "id": 210,
+      "property": {
+        "id": 42,
+        "is_filter": false,
+        "name": "Sampling: Frame type"
+      },
+      "value": "Steel"
+    },
+    {
+      "campaigninfoprop_id": 43,
+      "id": 215,
+      "property": {
+        "id": 43,
+        "is_filter": false,
+        "name": "Sampling: Artificial lighting"
+      },
+      "value": "White"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 219,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "EventMeasure database output"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 221,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "EventMeasure-stereo"
+    },
+    {
+      "campaigninfoprop_id": 46,
+      "id": 230,
+      "property": {
+        "id": 46,
+        "is_filter": false,
+        "name": "Annotation: Taxa that have been ID'd"
+      },
+      "value": "Fish, Sharks, Rays and sea snakes"
+    },
+    {
+      "campaigninfoprop_id": 49,
+      "id": 251,
+      "property": {
+        "id": 49,
+        "is_filter": false,
+        "name": "Annotation: Observation/Annotation checked by expert"
+      },
+      "value": "Yes"
+    },
+    {
+      "campaigninfoprop_id": 48,
+      "id": 236,
+      "property": {
+        "id": 48,
+        "is_filter": false,
+        "name": "Annotation: Observer/Anotator experience (>years)"
+      },
+      "value": "1"
+    },
+    {
+      "campaigninfoprop_id": 50,
+      "id": 254,
+      "property": {
+        "id": 50,
+        "is_filter": true,
+        "name": "Annotation: Lengths measured for"
+      },
+      "value": "All fish"
+    },
+    {
+      "campaigninfoprop_id": 55,
+      "id": 276,
+      "property": {
+        "id": 55,
+        "is_filter": true,
+        "name": "Annotation: Habitat information from each sample"
+      },
+      "value": "Cover of benthos and score of complexity"
+    },
+    {
+      "campaigninfoprop_id": 33,
+      "id": 163,
+      "property": {
+        "id": 33,
+        "is_filter": false,
+        "name": "Sampling: Bait deployment"
+      },
+      "value": "Plastic coated wire mesh bag"
+    },
+    {
+      "campaigninfoprop_id": 41,
+      "id": 207,
+      "property": {
+        "id": 41,
+        "is_filter": false,
+        "name": "Sampling: Bait arm length (m)"
+      },
+      "value": "1.5"
+    }
+  ],
+  "name": ["2019-08-Ningaloo-deep_stereo-BRUVS"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [254],
+    "is_public": [true],
+    "name": ["Marine Biodiversity Hub D3 Ningaloo Marine Park"]
+  },
+  "project_id": [254],
+  "user": {
+    "email": ["tim.langlois@uwa.edu.au"],
+    "first_name": ["Tim"],
+    "id": [2],
+    "is_admin": [false],
+    "last_name": ["Langlois"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

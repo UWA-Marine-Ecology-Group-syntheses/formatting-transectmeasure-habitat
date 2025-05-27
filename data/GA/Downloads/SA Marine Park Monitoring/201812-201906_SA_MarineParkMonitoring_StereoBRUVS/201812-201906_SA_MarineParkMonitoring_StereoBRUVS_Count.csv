@@ -1,0 +1,1106 @@
+Sample,Family,Genus,Species,Count,Code,Filename,Frame,Time (mins),TapeReader,Depth,Comment,Habitat,Soak time,Bias,FOV,Vis,Has fed
+ARSO02_1812,Arripidae,Arripis,georgianus,3,37344001,ARSO02_L.avi,81619,54.4127,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO02_1812,Carangidae,Pseudocaranx,sp,14,37337924,ARSO02_L.avi,83083,55.3887,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO02_1812,Carangidae,Trachurus,novaezelandiae,6,37337003,ARSO02_L.avi,82727,55.1513,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO02_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,ARSO02_L.avi,19727,13.1513,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO02_1812,Dasyatidae,Dasyatis,brevicaudata,1,37035001,ARSO02_L.avi,87522,58.348,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO02_1812,Heterodontidae,Heterodontus,portusjacksoni,3,37007001,ARSO02_L.avi,80896,53.9307,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,Yes
+ARSO02_1812,Labridae,Austrolabrus,maculatus,1,37384025,ARSO02_L.avi,7578,5.052,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO02_1812,Labridae,Notolabrus,parilus,2,37384022,ARSO02_L.avi,22777,15.1847,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO02_1812,Monacanthidae,Meuschenia,hippocrepis,2,37465004,ARSO02_L.avi,40729,27.1527,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,Yes
+ARSO02_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,ARSO02_L.avi,15217,10.1447,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,Yes
+ARSO02_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,ARSO02_L.avi,29476,19.6507,SWhitmarsh,12.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+ARSO03_1812,Arripidae,Arripis,georgianus,4,37344001,ARSO03_L.avi,88204,58.8027,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Carangidae,Pseudocaranx,sp,1,37337924,ARSO03_L.avi,59221,39.4807,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Carangidae,Trachurus,novaezelandiae,8,37337003,ARSO03_L.avi,86922,57.948,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Dasyatidae,Dasyatis,brevicaudata,1,37035001,ARSO03_L.avi,59082,39.388,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Labridae,Notolabrus,parilus,2,37384022,ARSO03_L.avi,22513,15.0087,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Labridae,Notolabrus,tetricus,1,37384003,ARSO03_L.avi,38279,25.5193,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Monacanthidae,unknown,sp,1,37465903,ARSO03_L.avi,7150,4.7667,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Monacanthidae,Acanthaluteres,brownii,1,37465001,ARSO03_L.avi,38212,25.4747,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Monacanthidae,Meuschenia,galii,2,37465040,ARSO03_L.avi,27397,18.2647,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Mullidae,Upeneichthys,vlamingii,6,37355029,ARSO03_L.avi,62187,41.458,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Pomacentridae,Parma,victoriae,1,37372006,ARSO03_L.avi,17670,11.78,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO03_1812,Sparidae,Pagrus,auratus,2,37353001,ARSO03_L.avi,93784,62.5227,SWhitmarsh,13.8,NA,Reef; Fucoid; Flat,60,1,1,2,No
+ARSO04_1812,Arripidae,Arripis,georgianus,12,37344001,ARSO04_L.avi,66739,44.4927,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,No
+ARSO04_1812,Carangidae,Pseudocaranx,sp,13,37337924,ARSO04_L.avi,62491,41.6607,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,No
+ARSO04_1812,Carangidae,Trachurus,novaezelandiae,3,37337003,ARSO04_L.avi,16591,11.0607,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,No
+ARSO04_1812,Gerreidae,Parequula,melbournensis,2,37349001,ARSO04_L.avi,18223,12.1487,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,No
+ARSO04_1812,Heterodontidae,Heterodontus,portusjacksoni,3,37007001,ARSO04_L.avi,78078,52.052,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,Yes
+ARSO04_1812,Labridae,Austrolabrus,maculatus,1,37384025,ARSO04_L.avi,76762,51.1747,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,No
+ARSO04_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,ARSO04_L.avi,12276,8.184,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,No
+ARSO04_1812,Monacanthidae,Thamnaconus,degeni,1,37465037,ARSO04_L.avi,27599,18.3993,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,Yes
+ARSO04_1812,Rhinobatidae,Trygonorrhina,dumerilii,1,37027011,ARSO04_L.avi,90016,60.0107,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,No
+ARSO04_1812,Sparidae,Pagrus,auratus,2,37353001,ARSO04_L.avi,44927,29.9513,SWhitmarsh,15.9,NA,Missing Data,60,1,1,2,Yes
+CACI01_1812,Arripidae,Arripis,georgianus,8,37344001,CACI01_L.avi,20202,13.468,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CACI01_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CACI01_L.avi,10706,7.1373,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CACI01_1812,Kyphosidae,Kyphosus,sydneyanus,2,37361001,CACI01_L.avi,30404,20.2693,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CACI01_1812,Labridae,Notolabrus,parilus,2,37384022,CACI01_L.avi,17162,11.4413,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CACI01_1812,Labridae,Notolabrus,tetricus,1,37384003,CACI01_L.avi,21237,14.158,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CACI01_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CACI01_L.avi,50957,33.9713,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CACI01_1812,Scorpididae,Scorpis,aequipinnis,5,37361004,CACI01_L.avi,86858,57.9053,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,Yes
+CACI01_1812,Sparidae,Pagrus,auratus,1,37353001,CACI01_L.avi,17643,11.762,SWhitmarsh,7.3,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CACI02_1812,Dinolestidae,Dinolestes,lewini,5,37327002,CACI02_L.avi,14586,9.724,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Carangidae,Pseudocaranx,sp,5,37337924,CACI02_L.avi,88633,59.0887,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CACI02_L.avi,41043,27.362,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Kyphosidae,Girella,zebra,2,37361008,CACI02_L.avi,64511,43.0073,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Kyphosidae,Kyphosus,sydneyanus,5,37361001,CACI02_L.avi,77210,51.4733,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,Yes
+CACI02_1812,Labridae,Austrolabrus,maculatus,1,37384025,CACI02_L.avi,6434,4.2893,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Labridae,Notolabrus,parilus,3,37384022,CACI02_L.avi,92051,61.3673,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Labridae,Notolabrus,tetricus,1,37384003,CACI02_L.avi,10015,6.6767,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CACI02_L.avi,17411,11.6073,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Monacanthidae,Meuschenia,hippocrepis,4,37465004,CACI02_L.avi,86776,57.8507,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,Yes
+CACI02_1812,Plesiopidae,Trachinops,noarlungae,2,37316017,CACI02_L.avi,24438,16.292,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Rhinobatidae,Trygonorrhina,dumerilii,1,37027011,CACI02_L.avi,85845,57.23,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI02_1812,Scorpididae,Scorpis,aequipinnis,7,37361004,CACI02_L.avi,75282,50.188,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,Yes
+CACI02_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,CACI02_L.avi,43094,28.7293,SWhitmarsh,8,NA,Reef; Sand; Transition,60,2,1,1,No
+CACI03_1812,Arripidae,Arripis,truttaceus,30,37344004,CACI03_L.avi,26049,17.366,SWhitmarsh,8.8,NA,Sand,60,1,1,1,Yes
+CACI03_1812,Kyphosidae,Kyphosus,sydneyanus,2,37361001,CACI03_L.avi,77540,51.6933,SWhitmarsh,8.8,NA,Sand,60,1,1,1,No
+CACI03_1812,Monacanthidae,Meuschenia,hippocrepis,2,37465004,CACI03_L.avi,29497,19.6647,SWhitmarsh,8.8,NA,Sand,60,1,1,1,Yes
+CACI03_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,CACI03_L.avi,81425,54.2833,SWhitmarsh,8.8,NA,Sand,60,1,1,1,No
+CACI03_1812,Neosebastidae,Neosebastes,scorpaenoides,1,37287005,CACI03_L.avi,40270,26.8467,SWhitmarsh,8.8,NA,Sand,60,1,1,1,No
+CACI04_1812,Arripidae,Arripis,georgianus,1,37344001,CACI04_L.avi,88407,58.938,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CACI04_1812,Carangidae,Pseudocaranx,sp,1,37337924,CACI04_L.avi,81328,54.2187,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CACI04_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CACI04_L.avi,36574,24.3827,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CACI04_1812,Kyphosidae,Girella,zebra,41,37361008,CACI04_L.avi,67781,45.1873,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CACI04_1812,Kyphosidae,Kyphosus,sydneyanus,2,37361001,CACI04_L.avi,32917,21.9447,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CACI04_1812,Labridae,Notolabrus,parilus,2,37384022,CACI04_L.avi,31881,21.254,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CACI04_1812,Labridae,Notolabrus,tetricus,1,37384003,CACI04_L.avi,30612,20.408,SWhitmarsh,9,NA,Sand,60,1,2,1,Yes
+CACI04_1812,Monacanthidae,Meuschenia,hippocrepis,6,37465004,CACI04_L.avi,63729,42.486,SWhitmarsh,9,NA,Sand,60,1,2,1,Yes
+CACI04_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,CACI04_L.avi,91338,60.892,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CACI04_1812,Scorpididae,Scorpis,aequipinnis,10,37361004,CACI04_L.avi,59127,39.418,SWhitmarsh,9,NA,Sand,60,1,2,1,Yes
+CACI04_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,CACI04_L.avi,26731,17.8207,SWhitmarsh,9,NA,Sand,60,1,2,1,No
+CANI01_1812,Arripidae,Arripis,georgianus,1,37344001,CANI01_L.avi,26231,17.4873,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI01_1812,Carangidae,Pseudocaranx,sp,19,37337924,CANI01_L.avi,88305,58.87,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI01_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CANI01_L.avi,41215,27.4767,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI01_1812,Cheilodactylidae,Dactylophora,nigricans,3,37377005,CANI01_L.avi,64090,42.7267,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI01_1812,Labridae,Notolabrus,parilus,4,37384022,CANI01_L.avi,63768,42.512,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI01_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,CANI01_L.avi,31748,21.1653,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI01_1812,Scorpididae,Scorpis,aequipinnis,3,37361004,CANI01_L.avi,4841,3.2273,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI01_1812,Sillaginidae,Sillaginodes,punctatus,8,37330001,CANI01_L.avi,34740,23.16,SWhitmarsh,7.1,NA,Seagrass and algae,60,2,1,1,No
+CANI02_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,CANI02_L.avi,79186,52.7907,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Enoplosidae,Enoplosus,armatus,2,37366001,CANI02_L.avi,4185,2.79,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Labridae,Austrolabrus,maculatus,1,37384025,CANI02_L.avi,5495,3.6633,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Labridae,Notolabrus,parilus,5,37384022,CANI02_L.avi,14598,9.732,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Labridae,Notolabrus,tetricus,1,37384003,CANI02_L.avi,20069,13.3793,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Labridae,Pictilabrus,laticlavius,1,37384020,CANI02_L.avi,4671,3.114,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Monacanthidae,Eubalichthys,mosaicus,1,37465003,CANI02_L.avi,44909,29.9393,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Monacanthidae,Meuschenia,galii,1,37465040,CANI02_L.avi,36223,24.1487,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,CANI02_L.avi,9857,6.5713,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Neosebastidae,Neosebastes,scorpaenoides,1,37287005,CANI02_L.avi,28185,18.79,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Plesiopidae,Trachinops,noarlungae,1,37316017,CANI02_L.avi,60258,40.172,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Scorpididae,Scorpis,aequipinnis,5,37361004,CANI02_L.avi,19297,12.8647,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI02_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,CANI02_L.avi,4925,3.2833,SWhitmarsh,10.3,NA,Reef; Fucoid; Profile,60,3,3,1,No
+CANI03_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CANI03_L.avi,7492,4.9947,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Kyphosidae,Kyphosus,sydneyanus,1,37361001,CANI03_L.avi,31132,20.7547,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Labridae,Austrolabrus,maculatus,1,37384025,CANI03_L.avi,6497,4.3313,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Labridae,Dotalabrus,aurantiacus,1,37384018,CANI03_L.avi,10376,6.9173,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Labridae,Notolabrus,parilus,2,37384022,CANI03_L.avi,14190,9.46,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Labridae,Notolabrus,tetricus,2,37384003,CANI03_L.avi,41504,27.6693,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Labridae,Pictilabrus,laticlavius,1,37384020,CANI03_L.avi,16365,10.91,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Monacanthidae,Meuschenia,galii,1,37465040,CANI03_L.avi,26785,17.8567,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Monacanthidae,Meuschenia,hippocrepis,3,37465004,CANI03_L.avi,86415,57.61,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,Yes
+CANI03_1812,Mullidae,Upeneichthys,vlamingii,15,37355029,CANI03_L.avi,61413,40.942,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Pomacentridae,Parma,victoriae,1,37372006,CANI03_L.avi,16804,11.2027,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI03_1812,Scorpididae,Scorpis,aequipinnis,2,37361004,CANI03_L.avi,73613,49.0753,SWhitmarsh,5.3,NA,Reef; Mixed algal; Profile,60,2,1,2,No
+CANI04_1812,Chaetodontidae,Chelmonops,curiosus,1,37365066,CANI04_R.avi,68962,45.9747,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Kyphosidae,Girella,zebra,24,37361008,CANI04_R.avi,75742,50.4947,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Kyphosidae,Kyphosus,sydneyanus,20,37361001,CANI04_R.avi,62012,41.3413,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,Yes
+CANI04_1812,Labridae,Austrolabrus,maculatus,3,37384025,CANI04_R.avi,7881,5.254,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Labridae,Notolabrus,parilus,2,37384022,CANI04_R.avi,11982,7.988,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,Yes
+CANI04_1812,Labridae,Notolabrus,tetricus,2,37384003,CANI04_R.avi,17396,11.5973,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,Yes
+CANI04_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CANI04_R.avi,7346,4.8973,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Monacanthidae,Acanthaluteres,vittiger,1,37465002,CANI04_R.avi,9926,6.6173,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Monacanthidae,Eubalichthys,mosaicus,1,37465003,CANI04_R.avi,17260,11.5067,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Monacanthidae,Meuschenia,freycineti,1,37465036,CANI04_R.avi,48893,32.5953,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Monacanthidae,Meuschenia,hippocrepis,5,37465004,CANI04_R.avi,57941,38.6273,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,Yes
+CANI04_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,CANI04_R.avi,18049,12.0327,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Plesiopidae,Trachinops,noarlungae,1,37316017,CANI04_R.avi,9512,6.3413,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Pomacentridae,Parma,victoriae,1,37372006,CANI04_R.avi,39823,26.5487,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANI04_1812,Scorpididae,Scorpis,aequipinnis,4,37361004,CANI04_R.avi,57353,38.2353,SWhitmarsh,6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+CANO01_1812,Arripidae,Arripis,georgianus,1,37344001,CANO01_L.avi,69227,46.1513,SWhitmarsh,7.1,Facing up,Missing data,60,1,1,1,No
+CANO02_1812,Odacidae,Heteroscarus,acroptilus,1,37385010,CANO02_L.avi,12015,8.01,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO02_1812,Arripidae,Arripis,georgianus,2,37344001,CANO02_L.avi,58318,38.8787,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO02_1812,Carangidae,Pseudocaranx,sp,3,37337924,CANO02_L.avi,25299,16.866,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO02_1812,Labridae,Austrolabrus,maculatus,2,37384025,CANO02_L.avi,6184,4.1227,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO02_1812,Labridae,Notolabrus,parilus,1,37384022,CANO02_L.avi,10879,7.2527,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO02_1812,Labridae,Pictilabrus,laticlavius,1,37384020,CANO02_L.avi,20162,13.4413,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO02_1812,Loliginidae,Sepioteuthis,australis,1,23617005,CANO02_L.avi,88234,58.8227,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO02_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,CANO02_L.avi,40590,27.06,SWhitmarsh,7.5,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO03_1812,Arripidae,Arripis,georgianus,2,37344001,CANO03_L.avi,37530,25.02,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,CANO03_L.avi,40860,27.24,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,CANO03_L.avi,72964,48.6427,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Kyphosidae,Kyphosus,sydneyanus,5,37361001,CANO03_L.avi,82272,54.848,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Labridae,Austrolabrus,maculatus,2,37384025,CANO03_L.avi,5226,3.484,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Labridae,Pictilabrus,laticlavius,1,37384020,CANO03_L.avi,3871,2.5807,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,CANO03_L.avi,52288,34.8587,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Plesiopidae,Trachinops,noarlungae,114,37316017,CANO03_L.avi,92706,61.804,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO03_1812,Sphyraenidae,Sphyraena,novaehollandiae,1,37382002,CANO03_L.avi,23409,15.606,SWhitmarsh,7,Tilted,Reef; Fucoid; Profile,60,2,1,2,No
+CANO04_1812,Dinolestidae,Dinolestes,lewini,2,37327002,CANO04_L.avi,83312,55.5413,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CANO04_L.avi,5941,3.9607,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,CANO04_L.avi,4242,2.828,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Enoplosidae,Enoplosus,armatus,2,37366001,CANO04_L.avi,36080,24.0533,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Kyphosidae,Girella,zebra,2,37361008,CANO04_L.avi,28400,18.9333,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,Yes
+CANO04_1812,Kyphosidae,Kyphosus,sydneyanus,35,37361001,CANO04_L.avi,3136,2.0907,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,Yes
+CANO04_1812,Labridae,Austrolabrus,maculatus,2,37384025,CANO04_L.avi,12985,8.6567,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Labridae,Notolabrus,parilus,1,37384022,CANO04_L.avi,11199,7.466,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CANO04_L.avi,14088,9.392,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Monacanthidae,Meuschenia,galii,1,37465040,CANO04_L.avi,8565,5.71,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Plesiopidae,Trachinops,noarlungae,42,37316017,CANO04_L.avi,77102,51.4013,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Pomacentridae,Parma,victoriae,1,37372006,CANO04_L.avi,49180,32.7867,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CANO04_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,CANO04_L.avi,4242,2.828,SWhitmarsh,6.3,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+CASI01_1812,Arripidae,Arripis,georgianus,1,37344001,CASI01_L.avi,80318,53.5453,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Carangidae,Pseudocaranx,sp,3,37337924,CASI01_L.avi,67591,45.0607,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Heterodontidae,Heterodontus,portusjacksoni,1,37007001,CASI01_L.avi,26040,17.36,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Labridae,Austrolabrus,maculatus,1,37384025,CASI01_L.avi,8638,5.7587,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Labridae,Notolabrus,parilus,3,37384022,CASI01_L.avi,85727,57.1513,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CASI01_L.avi,11899,7.9327,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,Yes
+CASI01_1812,Monacanthidae,Eubalichthys,mosaicus,1,37465003,CASI01_L.avi,25091,16.7273,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,CASI01_L.avi,5418,3.612,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,CASI01_L.avi,67706,45.1373,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Neosebastidae,Neosebastes,scorpaenoides,1,37287005,CASI01_L.avi,47839,31.8927,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Orectolobidae,Sutorectus,tentaculatus,1,37013012,CASI01_L.avi,11741,7.8273,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,Yes
+CASI01_1812,Pentacerotidae,Pentaceropsis,recurvirostris,1,37367003,CASI01_L.avi,22776,15.184,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI01_1812,Sparidae,Pagrus,auratus,6,37353001,CASI01_L.avi,32932,21.9547,SWhitmarsh,15.7,NA,Reef; Fucoid; Flat,60,2,1,1,No
+CASI02_1812,Carangidae,Pseudocaranx,sp,1,37337924,CASI02_L.avi,59141,39.4273,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Chaetodontidae,Chelmonops,curiosus,2,37365066,CASI02_L.avi,68344,45.5627,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CASI02_L.avi,33399,22.266,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,CASI02_L.avi,41499,27.666,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Gerreidae,Parequula,melbournensis,2,37349001,CASI02_L.avi,14553,9.702,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Heterodontidae,Heterodontus,portusjacksoni,1,37007001,CASI02_L.avi,64357,42.9047,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Labridae,Austrolabrus,maculatus,1,37384025,CASI02_L.avi,8021,5.3473,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Labridae,Notolabrus,parilus,3,37384022,CASI02_L.avi,16864,11.2427,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Labridae,Pictilabrus,laticlavius,1,37384020,CASI02_L.avi,10773,7.182,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Monacanthidae,Meuschenia,galii,1,37465040,CASI02_L.avi,23854,15.9027,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Monacanthidae,Meuschenia,hippocrepis,2,37465004,CASI02_L.avi,52299,34.866,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,Yes
+CASI02_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,CASI02_L.avi,37919,25.2793,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,CASI02_L.avi,30760,20.5067,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Neosebastidae,Neosebastes,scorpaenoides,2,37287005,CASI02_L.avi,17121,11.414,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+CASI02_1812,Sparidae,Pagrus,auratus,15,37353001,CASI02_L.avi,74755,49.8367,SWhitmarsh,19,NA,Reef; Mixed algal; Profile,60,1,1,2,Yes
+CASI03_1812,Arripidae,Arripis,georgianus,1,37344001,CASI03_L.avi,64180,42.7867,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Carangidae,Pseudocaranx,sp,10,37337924,CASI03_L.avi,49420,32.9467,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Carangidae,Trachurus,novaezelandiae,1,37337003,CASI03_L.avi,48974,32.6493,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Dasyatidae,Dasyatis,brevicaudata,1,37035001,CASI03_L.avi,31398,20.932,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,Yes
+CASI03_1812,Labridae,Austrolabrus,maculatus,2,37384025,CASI03_L.avi,7756,5.1707,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Labridae,Notolabrus,parilus,1,37384022,CASI03_L.avi,11216,7.4773,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CASI03_L.avi,9790,6.5267,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Monacanthidae,Meuschenia,freycineti,1,37465036,CASI03_L.avi,9313,6.2087,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,Yes
+CASI03_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,CASI03_L.avi,9790,6.5267,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,CASI03_L.avi,58267,38.8447,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Neosebastidae,Neosebastes,scorpaenoides,1,37287005,CASI03_L.avi,62252,41.5013,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Pentacerotidae,Pentaceropsis,recurvirostris,1,37367003,CASI03_L.avi,63027,42.018,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Platycephalidae,Platycephalus,speculator,2,37296037,CASI03_L.avi,66087,44.058,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Scyliorhinidae,Asymbolus,vincenti,1,37015003,CASI03_L.avi,9359,6.2393,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Sillaginidae,Sillaginodes,punctatus,2,37330001,CASI03_L.avi,25418,16.9453,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI03_1812,Sparidae,Pagrus,auratus,1,37353001,CASI03_L.avi,25196,16.7973,SWhitmarsh,14.3,No right,Reef; Algae and invertebrates: Sparse,60,2,1,1,No
+CASI04_1812,Arripidae,Arripis,georgianus,2,37344001,CASI04_L.avi,48196,32.1307,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Carangidae,Pseudocaranx,sp,40,37337924,CASI04_L.avi,58316,38.8773,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,Yes
+CASI04_1812,Carangidae,Trachurus,novaezelandiae,1,37337003,CASI04_L.avi,19286,12.8573,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CASI04_L.avi,7579,5.0527,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Gerreidae,Parequula,melbournensis,1,37349001,CASI04_L.avi,36294,24.196,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Kyphosidae,Kyphosus,sydneyanus,1,37361001,CASI04_L.avi,75868,50.5787,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Labridae,Austrolabrus,maculatus,3,37384025,CASI04_L.avi,9497,6.3313,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Labridae,Notolabrus,parilus,3,37384022,CASI04_L.avi,22870,15.2467,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Labridae,Notolabrus,tetricus,1,37384003,CASI04_L.avi,19121,12.7473,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CASI04_L.avi,14021,9.3473,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Monacanthidae,Acanthaluteres,brownii,2,37465001,CASI04_L.avi,35087,23.3913,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Monacanthidae,Eubalichthys,mosaicus,2,37465003,CASI04_L.avi,74171,49.4473,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,CASI04_L.avi,41726,27.8173,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,Yes
+CASI04_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,CASI04_L.avi,11537,7.6913,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,CASI04_L.avi,42908,28.6053,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Ostraciidae,Aracana,ornata,1,37466001,CASI04_L.avi,3705,2.47,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Platycephalidae,Platycephalus,speculator,1,37296037,CASI04_L.avi,16098,10.732,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Scorpididae,Scorpis,aequipinnis,1,37361004,CASI04_L.avi,32526,21.684,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,Yes
+CASI04_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,CASI04_L.avi,35549,23.6993,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,No
+CASI04_1812,Sparidae,Pagrus,auratus,6,37353001,CASI04_L.avi,19997,13.3313,SWhitmarsh,12.8,NA,Seagrass and algae,60,2,1,1,Yes
+CASO01_1812,Arripidae,Arripis,georgianus,4,37344001,CASO01_L.avi,84376,56.2507,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO01_1812,Carangidae,Pseudocaranx,sp,2,37337924,CASO01_L.avi,40127,26.7513,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO01_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,CASO01_L.avi,38267,25.5113,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO01_1812,Labridae,Austrolabrus,maculatus,3,37384025,CASO01_L.avi,41605,27.7367,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO01_1812,Labridae,Notolabrus,parilus,1,37384022,CASO01_L.avi,25848,17.232,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO01_1812,Labridae,Notolabrus,tetricus,2,37384003,CASO01_L.avi,35827,23.8847,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,Yes
+CASO01_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CASO01_L.avi,4910,3.2733,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,Yes
+CASO01_1812,Monacanthidae,Acanthaluteres,brownii,4,37465001,CASO01_L.avi,46261,30.8407,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO01_1812,Monacanthidae,Meuschenia,hippocrepis,3,37465004,CASO01_L.avi,61478,40.9853,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,Yes
+CASO01_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,CASO01_L.avi,88742,59.1613,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO01_1812,Scyliorhinidae,Asymbolus,vincenti,1,37015003,CASO01_L.avi,87779,58.5193,SWhitmarsh,6.5,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+CASO02_1812,Arripidae,Arripis,georgianus,4,37344001,CASO02_L.avi,32393,21.5953,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,CASO02_L.avi,38563,25.7087,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Labridae,Austrolabrus,maculatus,2,37384025,CASO02_L.avi,25629,17.086,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Labridae,Notolabrus,parilus,1,37384022,CASO02_L.avi,5572,3.7147,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Labridae,Notolabrus,tetricus,1,37384003,CASO02_L.avi,15332,10.2213,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CASO02_L.avi,11784,7.856,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,Yes
+CASO02_1812,Monacanthidae,Acanthaluteres,brownii,2,37465001,CASO02_L.avi,35125,23.4167,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Pentacerotidae,Pentaceropsis,recurvirostris,1,37367003,CASO02_L.avi,81949,54.6327,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Plesiopidae,Trachinops,noarlungae,66,37316017,CASO02_L.avi,76785,51.19,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Rhinobatidae,Trygonorrhina,dumerilii,1,37027011,CASO02_L.avi,53225,35.4833,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO02_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,CASO02_L.avi,53995,35.9967,SWhitmarsh,6.6,Diode not on,Reef; Fucoid; Profile,60,2,1,1,No
+CASO03_1812,Arripidae,Arripis,georgianus,5,37344001,CASO03_L.avi,33680,22.4533,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Chaetodontidae,Chelmonops,curiosus,2,37365066,CASO03_L.avi,40699,27.1327,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,CASO03_L.avi,21804,14.536,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Labridae,Austrolabrus,maculatus,2,37384025,CASO03_L.avi,25217,16.8113,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Labridae,Notolabrus,parilus,2,37384022,CASO03_L.avi,37645,25.0967,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Labridae,Notolabrus,tetricus,1,37384003,CASO03_L.avi,4256,2.8373,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CASO03_L.avi,7539,5.026,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Monacanthidae,Acanthaluteres,brownii,2,37465001,CASO03_L.avi,37728,25.152,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO03_1812,Monacanthidae,Meuschenia,freycineti,1,37465036,CASO03_L.avi,47521,31.6807,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,Yes
+CASO03_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,CASO03_L.avi,34488,22.992,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,1,No
+CASO04_1812,Arripidae,Arripis,georgianus,13,37344001,CASO04_L.avi,57444,38.296,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Arripidae,Arripis,truttaceus,2,37344004,CASO04_L.avi,23052,15.368,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Carangidae,Pseudocaranx,sp,5,37337924,CASO04_L.avi,50215,33.4767,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,CASO04_L.avi,72911,48.6073,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,CASO04_L.avi,40150,26.7667,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Labridae,Austrolabrus,maculatus,2,37384025,CASO04_L.avi,4766,3.1773,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Labridae,Notolabrus,parilus,2,37384022,CASO04_L.avi,34911,23.274,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Labridae,Notolabrus,tetricus,1,37384003,CASO04_L.avi,30366,20.244,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Labridae,Pictilabrus,laticlavius,2,37384020,CASO04_L.avi,33055,22.0367,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Monacanthidae,unknown,sp,56,37465903,CASO04_L.avi,14907,9.938,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Monacanthidae,Meuschenia,freycineti,1,37465036,CASO04_L.avi,73551,49.034,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Monacanthidae,Meuschenia,hippocrepis,2,37465004,CASO04_L.avi,7658,5.1053,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,Yes
+CASO04_1812,Pentacerotidae,Pentaceropsis,recurvirostris,1,37367003,CASO04_L.avi,24837,16.558,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Plesiopidae,Trachinops,noarlungae,2,37316017,CASO04_L.avi,26193,17.462,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,CASO04_L.avi,4292,2.8613,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+CASO04_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,CASO04_L.avi,20540,13.6933,SWhitmarsh,7.7,Slightly tilted,Reef; Mixed algal; Profile,60,2,1,1,No
+PIEI01_1906,Carangidae,Pseudocaranx,sp,28,37337924,PIEI01_L.avi,92721,61.814,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PIEI01_L.avi,68664,45.776,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,Yes
+PIEI01_1906,Labridae,Notolabrus,parilus,1,37384022,PIEI01_L.avi,43040,28.6933,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Labridae,Notolabrus,tetricus,3,37384003,PIEI01_L.avi,43703,29.1353,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Labridae,Pictilabrus,laticlavius,1,37384020,PIEI01_L.avi,9746,6.4973,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Loliginidae,Sepioteuthis,australis,2,23617005,PIEI01_L.avi,42094,28.0627,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Monacanthidae,Acanthaluteres,vittiger,3,37465002,PIEI01_L.avi,17007,11.338,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Monacanthidae,Meuschenia,galii,2,37465040,PIEI01_L.avi,25147,16.7647,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,Yes
+PIEI01_1906,Monacanthidae,Scobinichthys,granulatus,1,37465007,PIEI01_L.avi,7247,4.8313,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIEI01_L.avi,56838,37.892,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Ostraciidae,Aracana,aurita,1,37466003,PIEI01_L.avi,8824,5.8827,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Sphyraenidae,Sphyraena,novaehollandiae,2,37382002,PIEI01_L.avi,15214,10.1427,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI01_1906,Urolophidae,Urolophus,gigas,1,37038003,PIEI01_L.avi,29932,19.9547,JHicks,20.6,NA,Reef; Fucoid; Profile,60,2,2,2,No
+PIEI02_1906,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PIEI02_L.avi,45056,30.0373,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Gerreidae,Parequula,melbournensis,5,37349001,PIEI02_L.avi,66959,44.6393,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Labridae,Notolabrus,parilus,1,37384022,PIEI02_L.avi,11765,7.8433,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Labridae,Notolabrus,tetricus,1,37384003,PIEI02_L.avi,10069,6.7127,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Labridae,Pictilabrus,laticlavius,2,37384020,PIEI02_L.avi,26515,17.6767,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Lamnidae,Carcharodon,carcharias,1,37010003,PIEI02_L.avi,4459,2.9727,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Loliginidae,Sepioteuthis,australis,1,23617005,PIEI02_L.avi,55126,36.7507,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PIEI02_L.avi,73864,49.2427,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIEI02_L.avi,7977,5.318,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIEI02_L.avi,82737,55.158,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI02_1906,Triakidae,Mustelus,antarcticus,1,37017001,PIEI02_L.avi,50027,33.3513,JHicks,23.5,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,2,No
+PIEI03_1906,Carangidae,Pseudocaranx,sp,17,37337924,PIEI03_L.avi,67651,45.1007,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,PIEI03_L.avi,40604,27.0693,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PIEI03_L.avi,67647,45.098,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Dasyatidae,Dasyatis,brevicaudata,2,37035001,PIEI03_L.avi,41950,27.9667,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Labridae,Notolabrus,fucicola,1,37384021,PIEI03_L.avi,49635,33.09,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Labridae,Notolabrus,parilus,3,37384022,PIEI03_L.avi,27090,18.06,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Labridae,Notolabrus,tetricus,5,37384003,PIEI03_L.avi,8637,5.758,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Labridae,Ophthalmolepis,lineolatus,1,37384040,PIEI03_L.avi,40009,26.6727,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Labridae,Pictilabrus,laticlavius,2,37384020,PIEI03_L.avi,21285,14.19,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Monacanthidae,Meuschenia,flavolineata,1,37465035,PIEI03_L.avi,87334,58.2227,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Monacanthidae,Meuschenia,freycineti,1,37465036,PIEI03_L.avi,12600,8.4,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIEI03_L.avi,11134,7.4227,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Monacanthidae,Meuschenia,hippocrepis,12,37465004,PIEI03_L.avi,58770,39.18,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIEI03_L.avi,10623,7.082,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Parascylliidae,Parascyllium,variolatum,1,37013004,PIEI03_L.avi,10456,6.9707,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Pomacentridae,Parma,victoriae,1,37372006,PIEI03_L.avi,36918,24.612,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI03_1906,Serranidae,Caesioperca,rasor,1,37311003,PIEI03_L.avi,4731,3.154,JHicks,21.3,NA,Reef;Ecklonia and Fucoid;Profile,60,1,2,2,No
+PIEI04_1906,Carangidae,Pseudocaranx,sp,176,37337924,PIEI04_L.avi,26130,17.42,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Chaetodontidae,Chelmonops,curiosus,2,37365066,PIEI04_L.avi,47963,31.9753,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PIEI04_L.avi,3255,2.17,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Cheilodactylidae,Nemadactylus,valenciennesi,2,37377004,PIEI04_L.avi,74705,49.8033,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Enoplosidae,Enoplosus,armatus,2,37366001,PIEI04_L.avi,6156,4.104,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Kyphosidae,Girella,zebra,1,37361008,PIEI04_L.avi,52274,34.8493,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Labridae,Notolabrus,parilus,1,37384022,PIEI04_L.avi,7124,4.7493,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Labridae,Notolabrus,tetricus,1,37384003,PIEI04_L.avi,26130,17.42,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Labridae,Ophthalmolepis,lineolatus,2,37384040,PIEI04_L.avi,47159,31.4393,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Monacanthidae,Acanthaluteres,brownii,1,37465001,PIEI04_L.avi,64223,42.8153,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PIEI04_L.avi,53889,35.926,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Monacanthidae,Meuschenia,flavolineata,1,37465035,PIEI04_L.avi,58758,39.172,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIEI04_L.avi,36005,24.0033,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEI04_1906,Monacanthidae,Meuschenia,hippocrepis,12,37465004,PIEI04_L.avi,40567,27.0447,JHicks,18.8,NA,No vis,60,2,1,1,Yes
+PIEI04_1906,Scorpididae,Scorpis,aequipinnis,1,37361004,PIEI04_L.avi,9047,6.0313,JHicks,18.8,NA,No vis,60,2,1,1,No
+PIEO01_1906,Carangidae,Pseudocaranx,sp,28,37337924,PIEO01_L.avi,45752,30.5013,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Chironemidae,Chironemus,maculosus,1,37375002,PIEO01_L.avi,90237,60.158,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Dinolestidae,Dinolestes,lewini,6,37327002,PIEO01_L.avi,8715,5.81,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Enoplosidae,Enoplosus,armatus,2,37366001,PIEO01_L.avi,2776,1.8507,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Labridae,Notolabrus,parilus,1,37384022,PIEO01_L.avi,69412,46.2747,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Labridae,Notolabrus,tetricus,4,37384003,PIEO01_L.avi,8417,5.6113,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Labridae,Pictilabrus,laticlavius,2,37384020,PIEO01_L.avi,11060,7.3733,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Monacanthidae,Meuschenia,flavolineata,2,37465035,PIEO01_L.avi,10973,7.3153,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIEO01_L.avi,6914,4.6093,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO01_1906,Monacanthidae,Meuschenia,hippocrepis,1,37465004,PIEO01_L.avi,6007,4.0047,JHicks,22,NA,Reef;Ecklonia and Fucoid;Flat,60,2,2,2,No
+PIEO02_1906,Carangidae,Pseudocaranx,sp,23,37337924,PIEO02_L.avi,79361,52.9073,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PIEO02_L.avi,84359,56.2393,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PIEO02_L.avi,57137,38.0913,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Enoplosidae,Enoplosus,armatus,1,37366001,PIEO02_L.avi,37808,25.2053,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Labridae,Notolabrus,parilus,1,37384022,PIEO02_L.avi,27568,18.3787,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Labridae,Notolabrus,tetricus,8,37384003,PIEO02_L.avi,16166,10.7773,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Labridae,Pictilabrus,laticlavius,2,37384020,PIEO02_L.avi,87614,58.4093,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Lamnidae,Carcharodon,carcharias,1,37010003,PIEO02_L.avi,54611,36.4073,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PIEO02_L.avi,66923,44.6153,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Monacanthidae,Meuschenia,hippocrepis,5,37465004,PIEO02_L.avi,20727,13.818,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO02_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIEO02_L.avi,5915,3.9433,JHicks,15.9,NA,Reef; Ecklonia; Flat,2,2,2,NA,No
+PIEO03_1906,Carangidae,Pseudocaranx,sp,1,37337924,PIEO03_L.avi,68407,45.6047,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Chironemidae,Chironemus,maculosus,1,37375002,PIEO03_L.avi,33335,22.2233,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Labridae,Notolabrus,parilus,1,37384022,PIEO03_L.avi,11707,7.8047,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Labridae,Notolabrus,tetricus,3,37384003,PIEO03_L.avi,35253,23.502,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Labridae,Ophthalmolepis,lineolatus,1,37384040,PIEO03_L.avi,45555,30.37,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Labridae,Pictilabrus,laticlavius,5,37384020,PIEO03_L.avi,41416,27.6107,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Monacanthidae,Acanthaluteres,brownii,1,37465001,PIEO03_L.avi,20018,13.3453,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Monacanthidae,Meuschenia,flavolineata,1,37465035,PIEO03_L.avi,25011,16.674,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Monacanthidae,Meuschenia,freycineti,1,37465036,PIEO03_L.avi,75969,50.646,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIEO03_L.avi,39442,26.2947,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Monacanthidae,Meuschenia,hippocrepis,1,37465004,PIEO03_L.avi,23139,15.426,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Odacidae,Heteroscarus,acroptilus,1,37385010,PIEO03_L.avi,12323,8.2153,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO03_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIEO03_L.avi,8582,5.7213,JHicks,17.2,"Facing down, cams obscured",Reef;Ecklonia and Fucoid;Flat,60,3,4,2,No
+PIEO04_1906,Carangidae,Pseudocaranx,sp,36,37337924,PIEO04_L.avi,38649,25.766,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PIEO04_L.avi,23775,15.85,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Enoplosidae,Enoplosus,armatus,1,37366001,PIEO04_L.avi,14220,9.48,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Kyphosidae,Girella,zebra,1,37361008,PIEO04_L.avi,19111,12.7407,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Labridae,Notolabrus,parilus,1,37384022,PIEO04_L.avi,20445,13.63,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Labridae,Notolabrus,tetricus,4,37384003,PIEO04_L.avi,22133,14.7553,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Labridae,Ophthalmolepis,lineolatus,1,37384040,PIEO04_L.avi,62715,41.81,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Labridae,Pictilabrus,laticlavius,1,37384020,PIEO04_L.avi,11904,7.936,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Monacanthidae,Acanthaluteres,brownii,1,37465001,PIEO04_L.avi,20201,13.4673,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Monacanthidae,Meuschenia,australis,1,37465008,PIEO04_L.avi,40459,26.9727,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIEO04_L.avi,5740,3.8267,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,No
+PIEO04_1906,Monacanthidae,Meuschenia,hippocrepis,14,37465004,PIEO04_L.avi,75500,50.3333,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,1,1,2,Yes
+PINI01_1906,Carangidae,Pseudocaranx,sp,33,37337924,PINI01_L.avi,95529,63.686,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,Yes
+PINI01_1906,Gerreidae,Parequula,melbournensis,6,37349001,PINI01_L.avi,47565,31.71,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Labridae,Austrolabrus,maculatus,6,37384025,PINI01_L.avi,16200,10.8,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Monacanthidae,Acanthaluteres,vittiger,2,37465002,PINI01_L.avi,25977,17.318,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Monacanthidae,Thamnaconus,degeni,4,37465037,PINI01_L.avi,86499,57.666,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,Yes
+PINI01_1906,Mullidae,Upeneichthys,vlamingii,1,37355029,PINI01_L.avi,48978,32.652,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Pectinidae,unknown,sp,2,2.33E+07,PINI01_L.avi,81118,54.0787,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Pinguipedidae,Parapercis,haackei,2,37390004,PINI01_L.avi,22641,15.094,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Pinguipedidae,Parapercis,ramsayi,1,37390002,PINI01_L.avi,15321,10.214,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Platycephalidae,Platycephalus,sp,1,37296913,PINI01_L.avi,33152,22.1013,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Scombridae,Scomber,australasicus,1,37441001,PINI01_L.avi,84611,56.4073,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI01_1906,Syngnathidae,Phyllopteryx,taeniolatus,1,37282002,PINI01_L.avi,39478,26.3187,DEaston,26.5,NA,Reef; Invertebrates,60,2,1,1,No
+PINI02_1906,Carangidae,Pseudocaranx,sp,26,37337924,PINI02_L.avi,62708,41.8053,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,Yes
+PINI02_1906,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PINI02_L.avi,38109,25.406,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Diodontidae,Diodon,nicthemerus,1,37469001,PINI02_L.avi,26548,17.6987,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Gerreidae,Parequula,melbournensis,9,37349001,PINI02_L.avi,38757,25.838,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Labridae,Austrolabrus,maculatus,1,37384025,PINI02_L.avi,9610,6.4067,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Loliginidae,Sepioteuthis,australis,2,23617005,PINI02_L.avi,72820,48.5467,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Majidae,Naxia,aurita,1,28880007,PINI02_L.avi,62098,41.3987,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PINI02_L.avi,16451,10.9673,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Monacanthidae,Thamnaconus,degeni,3,37465037,PINI02_L.avi,31955,21.3033,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,Yes
+PINI02_1906,Mullidae,Upeneichthys,vlamingii,1,37355029,PINI02_L.avi,21533,14.3553,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Pinguipedidae,Parapercis,haackei,1,37390004,PINI02_L.avi,7821,5.214,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Pinguipedidae,Parapercis,ramsayi,3,37390002,PINI02_L.avi,13574,9.0493,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Scombridae,Scomber,australasicus,2,37441001,PINI02_L.avi,72127,48.0847,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI02_1906,Scyliorhinidae,Asymbolus,vincenti,1,37015003,PINI02_L.avi,23291,15.5273,DEaston,26.9,Max N only,Algae; Sand; Sparse,60,2,1,1,No
+PINI03_1906,Carangidae,Pseudocaranx,sp,51,37337924,PINI03_L.avi,79293,52.862,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Gerreidae,Parequula,melbournensis,2,37349001,PINI03_L.avi,34861,23.2407,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Labridae,Notolabrus,parilus,2,37384022,PINI03_L.avi,42177,28.118,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Labridae,Ophthalmolepis,lineolatus,1,37384040,PINI03_L.avi,34651,23.1007,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Labridae,Pictilabrus,laticlavius,2,37384020,PINI03_L.avi,13725,9.15,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Monacanthidae,unknown,sp,1,37465903,PINI03_L.avi,19071,12.714,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Monacanthidae,Thamnaconus,degeni,1,37465037,PINI03_L.avi,57448,38.2987,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,Yes
+PINI03_1906,Moridae,Lotella,rhacina,2,37224005,PINI03_L.avi,43964,29.3093,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,Yes
+PINI03_1906,Mullidae,Upeneichthys,vlamingii,1,37355029,PINI03_L.avi,19167,12.778,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Scombridae,Scomber,australasicus,1,37441001,PINI03_L.avi,50268,33.512,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI03_1906,Serranidae,Caesioperca,rasor,1,37311003,PINI03_L.avi,42994,28.6627,DEaston,26.5,Max N only,Algae; Dense; Sand,60,2,1,2,No
+PINI04_1906,Carangidae,Pseudocaranx,sp,42,37337924,PINI04_L.avi,31048,20.6987,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,Yes
+PINI04_1906,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PINI04_L.avi,90980,60.6533,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+PINI04_1906,Gerreidae,Parequula,melbournensis,8,37349001,PINI04_L.avi,39061,26.0407,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+PINI04_1906,Labridae,Austrolabrus,maculatus,1,37384025,PINI04_L.avi,27727,18.4847,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+PINI04_1906,Labridae,Dotalabrus,aurantiacus,2,37384018,PINI04_L.avi,75563,50.3753,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+PINI04_1906,Loliginidae,Sepioteuthis,australis,1,23617005,PINI04_L.avi,5230,3.4867,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+PINI04_1906,Monacanthidae,Acanthaluteres,vittiger,3,37465002,PINI04_L.avi,90615,60.41,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+PINI04_1906,Sepiidae,Sepia,apama,1,23607001,PINI04_L.avi,44657,29.7713,DEaston,25.8,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+PINO01_1906,Carangidae,Pseudocaranx,sp,58,37337924,PINO01_L.avi,78820,52.5467,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,Yes
+PINO01_1906,Carangidae,Trachurus,novaezelandiae,1,37337003,PINO01_L.avi,62712,41.808,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO01_1906,Gerreidae,Parequula,melbournensis,6,37349001,PINO01_L.avi,52111,34.7407,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO01_1906,Labridae,Austrolabrus,maculatus,2,37384025,PINO01_L.avi,19096,12.7307,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO01_1906,Monacanthidae,Scobinichthys,granulatus,1,37465007,PINO01_L.avi,27834,18.556,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO01_1906,Monacanthidae,Thamnaconus,degeni,6,37465037,PINO01_L.avi,55443,36.962,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,Yes
+PINO01_1906,Pinguipedidae,Parapercis,haackei,1,37390004,PINO01_L.avi,10753,7.1687,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO01_1906,Pinguipedidae,Parapercis,ramsayi,2,37390002,PINO01_L.avi,39895,26.5967,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO01_1906,Platycephalidae,Platycephalus,sp,1,37296913,PINO01_L.avi,17721,11.814,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO01_1906,Scombridae,Scomber,australasicus,5,37441001,PINO01_L.avi,63638,42.4253,DEaston,26.3,NA,Reef; Invertebrates,60,2,1,1,No
+PINO02_1906,Carangidae,Pseudocaranx,sp,14,37337924,PINO02_L.avi,36024,24.016,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,Yes
+PINO02_1906,Gerreidae,Parequula,melbournensis,4,37349001,PINO02_L.avi,24658,16.4387,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,No
+PINO02_1906,Loliginidae,Sepioteuthis,australis,2,23617005,PINO02_L.avi,33324,22.216,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,No
+PINO02_1906,Monacanthidae,Thamnaconus,degeni,6,37465037,PINO02_L.avi,84360,56.24,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,Yes
+PINO02_1906,Mullidae,Upeneichthys,vlamingii,1,37355029,PINO02_L.avi,25615,17.0767,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,No
+PINO02_1906,Pinguipedidae,Parapercis,ramsayi,1,37390002,PINO02_L.avi,26370,17.58,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,No
+PINO02_1906,Scombridae,Scomber,australasicus,16,37441001,PINO02_L.avi,17441,11.6273,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,No
+PINO02_1906,Triakidae,Mustelus,antarcticus,1,37017001,PINO02_L.avi,21283,14.1887,DEaston,15.8,NA,Algae; Sand; Sparse,60,2,1,1,No
+PINO03_1906,Carangidae,Pseudocaranx,sp,24,37337924,PINO03_L.avi,42298,28.1987,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,No
+PINO03_1906,Gerreidae,Parequula,melbournensis,3,37349001,PINO03_L.avi,21557,14.3713,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,No
+PINO03_1906,Labridae,Austrolabrus,maculatus,2,37384025,PINO03_L.avi,36982,24.6547,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,No
+PINO03_1906,Loliginidae,Sepioteuthis,australis,1,23617005,PINO03_L.avi,53684,35.7893,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,No
+PINO03_1906,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PINO03_L.avi,28119,18.746,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,No
+PINO03_1906,Monacanthidae,Thamnaconus,degeni,3,37465037,PINO03_L.avi,77568,51.712,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,Yes
+PINO03_1906,Pinguipedidae,Parapercis,ramsayi,2,37390002,PINO03_L.avi,10450,6.9667,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,No
+PINO03_1906,Platycephalidae,Platycephalus,speculator,1,37296037,PINO03_L.avi,71647,47.7647,DEaston,27.1,50 minutes of footage only,Algae and invertebrates; Sand; sparse,50,2,1,1,No
+PINO04_1906,Carangidae,Pseudocaranx,sp,4,37337924,PINO04_L.avi,80152,53.4347,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PINO04_L.avi,32028,21.352,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Gerreidae,Parequula,melbournensis,4,37349001,PINO04_L.avi,86140,57.4267,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Labridae,Austrolabrus,maculatus,3,37384025,PINO04_L.avi,15889,10.5927,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Labridae,Dotalabrus,aurantiacus,1,37384018,PINO04_L.avi,20334,13.556,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Loliginidae,Sepioteuthis,australis,1,23617005,PINO04_L.avi,36518,24.3453,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Majidae,Naxia,aurita,4,28880007,PINO04_L.avi,9114,6.076,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Monacanthidae,Thamnaconus,degeni,6,37465037,PINO04_L.avi,92789,61.8593,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,Yes
+PINO04_1906,Mullidae,Upeneichthys,vlamingii,1,37355029,PINO04_L.avi,6940,4.6267,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Neosebastidae,Neosebastes,scorpaenoides,1,37287005,PINO04_L.avi,5924,3.9493,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Pinguipedidae,Parapercis,ramsayi,2,37390002,PINO04_L.avi,19259,12.8393,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Scombridae,Scomber,australasicus,1,37441001,PINO04_L.avi,74760,49.84,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PINO04_1906,Scyliorhinidae,Asymbolus,vincenti,1,37015003,PINO04_L.avi,55508,37.0053,DEaston,27,NA,Algae and invertebrates; Sand; sparse,60,2,1,1,No
+PIWI01_1906,Chaetodontidae,Chelmonops,curiosus,2,37365066,PIWI01_L.avi,31696,21.1307,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,PIWI01_L.avi,87940,58.6267,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Cheilodactylidae,Cheilodactylus,spectabilis,1,37377006,PIWI01_L.avi,73705,49.1367,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Cheilodactylidae,Nemadactylus,valenciennesi,2,37377004,PIWI01_L.avi,4620,3.08,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PIWI01_L.avi,39099,26.066,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Labridae,Achoerodus,gouldii,1,37384002,PIWI01_L.avi,17439,11.626,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Labridae,Austrolabrus,maculatus,1,37384025,PIWI01_L.avi,59382,39.588,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Labridae,Notolabrus,parilus,3,37384022,PIWI01_L.avi,12334,8.2227,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Labridae,Notolabrus,tetricus,10,37384003,PIWI01_L.avi,40154,26.7693,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,Yes
+PIWI01_1906,Labridae,Ophthalmolepis,lineolatus,2,37384040,PIWI01_L.avi,12617,8.4113,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Labridae,Pictilabrus,laticlavius,2,37384020,PIWI01_L.avi,11328,7.552,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Monacanthidae,Meuschenia,flavolineata,2,37465035,PIWI01_L.avi,3537,2.358,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Monacanthidae,Meuschenia,freycineti,2,37465036,PIWI01_L.avi,47455,31.6367,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Monacanthidae,Meuschenia,galii,4,37465040,PIWI01_L.avi,27091,18.0607,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,Yes
+PIWI01_1906,Monacanthidae,Meuschenia,hippocrepis,12,37465004,PIWI01_L.avi,20349,13.566,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,Yes
+PIWI01_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIWI01_L.avi,62601,41.734,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Palinuridae,Jasus,edwardsii,1,28820001,PIWI01_L.avi,13551,9.034,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,Yes
+PIWI01_1906,Pomacentridae,Parma,victoriae,1,37372006,PIWI01_L.avi,3046,2.0307,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Scorpididae,Scorpis,aequipinnis,2,37361004,PIWI01_L.avi,17109,11.406,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI01_1906,Serranidae,Hypoplectrodes,nigroruber,1,37311037,PIWI01_L.avi,7371,4.914,DEaston,19.8,NA,Reef;Ecklonia and Fucoid;Profile,60,3,1,1,No
+PIWI02_1906,Carangidae,Pseudocaranx,sp,11,37337924,PIWI02_L.avi,34241,22.8273,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Chaetodontidae,Chelmonops,curiosus,1,37365066,PIWI02_L.avi,2768,1.8453,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Chironemidae,Chironemus,maculosus,1,37375002,PIWI02_L.avi,8186,5.4573,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Kyphosidae,Girella,zebra,1,37361008,PIWI02_L.avi,51838,34.5587,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Labridae,Notolabrus,tetricus,7,37384003,PIWI02_L.avi,51302,34.2013,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Labridae,Pictilabrus,laticlavius,3,37384020,PIWI02_L.avi,24439,16.2927,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Lamnidae,Carcharodon,carcharias,1,37010003,PIWI02_L.avi,70507,47.0047,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Monacanthidae,Meuschenia,flavolineata,1,37465035,PIWI02_L.avi,23049,15.366,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Monacanthidae,Meuschenia,galii,2,37465040,PIWI02_L.avi,26211,17.474,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Monacanthidae,Meuschenia,hippocrepis,9,37465004,PIWI02_L.avi,81268,54.1787,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,Yes
+PIWI02_1906,Mullidae,Upeneichthys,vlamingii,1,37355029,PIWI02_L.avi,39778,26.5187,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Odacidae,Heteroscarus,acroptilus,1,37385010,PIWI02_L.avi,7850,5.2333,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIWI02_L.avi,2523,1.682,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Pomacentridae,Parma,victoriae,1,37372006,PIWI02_L.avi,7558,5.0387,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI02_1906,Scyliorhinidae,Asymbolus,vincenti,1,37015003,PIWI02_L.avi,29521,19.6807,DEaston,14.9,NA,Reef; Fucoid; Flat,60,2,1,1,No
+PIWI03_1906,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PIWI03_L.avi,71609,47.7393,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PIWI03_L.avi,55542,37.028,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Kyphosidae,Girella,zebra,1,37361008,PIWI03_L.avi,76681,51.1207,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Labridae,Notolabrus,parilus,1,37384022,PIWI03_L.avi,40674,27.116,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Labridae,Notolabrus,tetricus,8,37384003,PIWI03_L.avi,44326,29.5507,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,Yes
+PIWI03_1906,Monacanthidae,Meuschenia,flavolineata,1,37465035,PIWI03_L.avi,40542,27.028,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIWI03_L.avi,13691,9.1273,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Monacanthidae,Meuschenia,hippocrepis,16,37465004,PIWI03_L.avi,24987,16.658,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,Yes
+PIWI03_1906,Odacidae,Heteroscarus,acroptilus,1,37385010,PIWI03_L.avi,9046,6.0307,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIWI03_L.avi,15126,10.084,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI03_1906,Pomacentridae,Parma,victoriae,1,37372006,PIWI03_L.avi,30640,20.4267,DEaston,15.9,NA,Reef; Fucoid; Profile,60,2,1,2,No
+PIWI04_1906,Chaetodontidae,Chelmonops,curiosus,1,37365066,PIWI04_L.avi,19161,12.774,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PIWI04_L.avi,87669,58.446,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Chironemidae,Chironemus,maculosus,1,37375002,PIWI04_L.avi,21511,14.3407,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Labridae,Austrolabrus,maculatus,1,37384025,PIWI04_L.avi,9077,6.0513,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Labridae,Notolabrus,tetricus,9,37384003,PIWI04_L.avi,57259,38.1727,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,Yes
+PIWI04_1906,Labridae,Pictilabrus,laticlavius,3,37384020,PIWI04_L.avi,73532,49.0213,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Monacanthidae,Meuschenia,flavolineata,1,37465035,PIWI04_L.avi,7086,4.724,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Monacanthidae,Meuschenia,freycineti,1,37465036,PIWI04_L.avi,35140,23.4267,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,Yes
+PIWI04_1906,Monacanthidae,Meuschenia,galii,4,37465040,PIWI04_L.avi,50268,33.512,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Monacanthidae,Meuschenia,hippocrepis,3,37465004,PIWI04_L.avi,30769,20.5127,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,Yes
+PIWI04_1906,Odacidae,Heteroscarus,acroptilus,1,37385010,PIWI04_L.avi,12105,8.07,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIWI04_L.avi,90285,60.19,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWI04_1906,Scyliorhinidae,Asymbolus,vincenti,1,37015003,PIWI04_L.avi,47875,31.9167,DEaston,18.3,right camera obscured by weed,Reef; Fucoid; Profile,60,3,2,2,No
+PIWO01_1906,Carangidae,Pseudocaranx,sp,2,37337924,PIWO01_L.avi,92904,61.936,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PIWO01_L.avi,96021,64.014,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Chironemidae,Chironemus,maculosus,1,37375002,PIWO01_L.avi,31873,21.2487,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Enoplosidae,Enoplosus,armatus,2,37366001,PIWO01_L.avi,92122,61.4147,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Kyphosidae,Girella,zebra,1,37361008,PIWO01_L.avi,59433,39.622,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Labridae,Notolabrus,parilus,1,37384022,PIWO01_L.avi,33147,22.098,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Labridae,Notolabrus,tetricus,4,37384003,PIWO01_L.avi,48213,32.142,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Labridae,Pictilabrus,laticlavius,3,37384020,PIWO01_L.avi,4477,2.9847,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIWO01_L.avi,16622,11.0813,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Monacanthidae,Meuschenia,hippocrepis,5,37465004,PIWO01_L.avi,78735,52.49,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,Yes
+PIWO01_1906,Odacidae,Heteroscarus,acroptilus,1,37385010,PIWO01_L.avi,89429,59.6193,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIWO01_L.avi,12780,8.52,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Odacidae,Siphonognathus,beddomei,1,37385006,PIWO01_L.avi,24383,16.2553,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO01_1906,Sphyraenidae,Sphyraena,novaehollandiae,2,37382002,PIWO01_L.avi,2997,1.998,DEaston,11.8,Max N only,Reef;Ecklonia and Fucoid;Profile,60,2,1,1,No
+PIWO02_1906,Carangidae,Pseudocaranx,sp,4,37337924,PIWO02_L.avi,91835,61.2233,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PIWO02_L.avi,38299,25.5327,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Enoplosidae,Enoplosus,armatus,2,37366001,PIWO02_L.avi,3545,2.3633,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Labridae,Notolabrus,tetricus,4,37384003,PIWO02_L.avi,32643,21.762,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Labridae,Pictilabrus,laticlavius,1,37384020,PIWO02_L.avi,12546,8.364,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Loliginidae,Sepioteuthis,australis,1,23617005,PIWO02_L.avi,16481,10.9873,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Monacanthidae,Acanthaluteres,vittiger,1,37465002,PIWO02_L.avi,14375,9.5833,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIWO02_L.avi,13143,8.762,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Monacanthidae,Meuschenia,hippocrepis,1,37465004,PIWO02_L.avi,21408,14.272,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,Yes
+PIWO02_1906,Odacidae,Heteroscarus,acroptilus,1,37385010,PIWO02_L.avi,10618,7.0787,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIWO02_L.avi,22580,15.0533,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Platycephalidae,Platycephalus,speculator,1,37296037,PIWO02_L.avi,39420,26.28,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Pomacentridae,Parma,victoriae,1,37372006,PIWO02_L.avi,58065,38.71,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Sillaginidae,Sillaginodes,punctatus,2,37330001,PIWO02_L.avi,61076,40.7173,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO02_1906,Sphyraenidae,Sphyraena,novaehollandiae,2,37382002,PIWO02_L.avi,54167,36.1113,DEaston,15.8,NA,Reef;Ecklonia and Fucoid;Profile,60,2,2,1,No
+PIWO03_1906,Carangidae,Pseudocaranx,sp,14,37337924,PIWO03_L.avi,62590,41.7267,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Chaetodontidae,Chelmonops,curiosus,1,37365066,PIWO03_L.avi,16107,10.738,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Enoplosidae,Enoplosus,armatus,2,37366001,PIWO03_L.avi,7074,4.716,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Labridae,Notolabrus,tetricus,2,37384003,PIWO03_L.avi,13510,9.0067,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Labridae,Ophthalmolepis,lineolatus,1,37384040,PIWO03_L.avi,46247,30.8313,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Labridae,Pictilabrus,laticlavius,2,37384020,PIWO03_L.avi,12377,8.2513,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIWO03_L.avi,10077,6.718,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Monacanthidae,Meuschenia,hippocrepis,8,37465004,PIWO03_L.avi,23771,15.8473,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Odacidae,Heteroscarus,acroptilus,1,37385010,PIWO03_L.avi,17165,11.4433,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO03_1906,Odacidae,Olisthops,cyanomelas,1,37385001,PIWO03_L.avi,8763,5.842,JHicks,NA,"Facing upwards, R cam obscured - MaxN only",NA,60,3,3,1,No
+PIWO04_1906,Carangidae,Pseudocaranx,sp,6,37337924,PIWO04_L.avi,11641,7.7607,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Chaetodontidae,Chelmonops,curiosus,1,37365066,PIWO04_L.avi,70824,47.216,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,PIWO04_L.avi,38499,25.666,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,PIWO04_L.avi,38627,25.7513,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Dasyatidae,Dasyatis,brevicaudata,1,37035001,PIWO04_L.avi,22659,15.106,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Dinolestidae,Dinolestes,lewini,10,37327002,PIWO04_L.avi,8301,5.534,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Labridae,Achoerodus,gouldii,1,37384002,PIWO04_L.avi,89945,59.9633,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Labridae,Notolabrus,tetricus,4,37384003,PIWO04_L.avi,30025,20.0167,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Labridae,Ophthalmolepis,lineolatus,2,37384040,PIWO04_L.avi,44926,29.9507,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Labridae,Pictilabrus,laticlavius,1,37384020,PIWO04_L.avi,9186,6.124,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Lamnidae,Carcharodon,carcharias,1,37010003,PIWO04_L.avi,5848,3.8987,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Monacanthidae,Meuschenia,flavolineata,1,37465035,PIWO04_L.avi,23066,15.3773,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Monacanthidae,Meuschenia,galii,1,37465040,PIWO04_L.avi,5318,3.5453,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+PIWO04_1906,Monacanthidae,Meuschenia,hippocrepis,7,37465004,PIWO04_L.avi,68906,45.9373,JHicks,16.1,NA,Reef; Ecklonia; Flat,60,2,2,2,No
+RHCI01_1812,Arripidae,Arripis,georgianus,6,37344001,RHCI01_L.avi,35422,23.6147,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Carangidae,Pseudocaranx,sp,6,37337924,RHCI01_L.avi,22922,15.2813,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,Yes
+RHCI01_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,RHCI01_L.avi,80477,53.6513,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Kyphosidae,Girella,zebra,2,37361008,RHCI01_L.avi,10816,7.2107,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Labridae,Austrolabrus,maculatus,1,37384025,RHCI01_L.avi,62035,41.3567,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Labridae,Notolabrus,parilus,2,37384022,RHCI01_L.avi,43926,29.284,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Labridae,Notolabrus,tetricus,12,37384003,RHCI01_L.avi,22061,14.7073,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,Yes
+RHCI01_1812,Labridae,Pictilabrus,laticlavius,2,37384020,RHCI01_L.avi,19667,13.1113,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Monacanthidae,Meuschenia,hippocrepis,3,37465004,RHCI01_L.avi,31853,21.2353,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,Yes
+RHCI01_1812,Pomacentridae,Parma,victoriae,1,37372006,RHCI01_L.avi,85723,57.1487,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Scorpididae,Scorpis,aequipinnis,3,37361004,RHCI01_L.avi,90623,60.4153,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,RHCI01_L.avi,6884,4.5893,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI01_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,RHCI01_L.avi,44285,29.5233,SWhitmarsh,5.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCI02_1812,Carangidae,Pseudocaranx,sp,3,37337924,RHCI02_L.avi,91216,60.8107,SWhitmarsh,6.6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+RHCI02_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHCI02_L.avi,4336,2.8907,SWhitmarsh,6.6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+RHCI02_1812,Labridae,Austrolabrus,maculatus,2,37384025,RHCI02_L.avi,16348,10.8987,SWhitmarsh,6.6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+RHCI02_1812,Labridae,Notolabrus,parilus,2,37384022,RHCI02_L.avi,29829,19.886,SWhitmarsh,6.6,NA,Reef; Mixed algal; Flat,60,3,1,2,No
+RHCI02_1812,Labridae,Notolabrus,tetricus,4,37384003,RHCI02_L.avi,7159,4.7727,SWhitmarsh,6.6,NA,Reef; Mixed algal; Flat,60,3,1,2,Yes
+RHCI03_1812,Carangidae,Pseudocaranx,sp,13,37337924,RHCI03_L.avi,74805,49.87,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,RHCI03_L.avi,40080,26.72,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHCI03_L.avi,52489,34.9927,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Labridae,Notolabrus,parilus,2,37384022,RHCI03_L.avi,62407,41.6047,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Labridae,Notolabrus,tetricus,3,37384003,RHCI03_L.avi,52382,34.9213,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Labridae,Pictilabrus,laticlavius,2,37384020,RHCI03_L.avi,64981,43.3207,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Monacanthidae,Eubalichthys,mosaicus,1,37465003,RHCI03_L.avi,71833,47.8887,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Rhinobatidae,Trygonorrhina,dumerilii,1,37027011,RHCI03_L.avi,5.40E+04,36,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Scorpididae,Scorpis,aequipinnis,4,37361004,RHCI03_L.avi,40105,26.7367,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,Yes
+RHCI03_1812,Sillaginidae,Sillaginodes,punctatus,10,37330001,RHCI03_L.avi,25602,17.068,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI03_1812,Sparidae,Pagrus,auratus,9,37353001,RHCI03_L.avi,53675,35.7833,SWhitmarsh,8.3,NA,Missing Data,60,1,1,2,No
+RHCI04_1812,Oziidae,Ozius,truncatus,1,28914009,RHCI04_L.avi,85726,57.1507,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCI04_1812,Carangidae,Pseudocaranx,sp,9,37337924,RHCI04_L.avi,56805,37.87,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCI04_1812,Cheilodactylidae,Dactylophora,nigricans,2,37377005,RHCI04_L.avi,53404,35.6027,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCI04_1812,Kyphosidae,Kyphosus,sydneyanus,1,37361001,RHCI04_L.avi,80199,53.466,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCI04_1812,Labridae,Austrolabrus,maculatus,1,37384025,RHCI04_L.avi,4453,2.9687,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCI04_1812,Labridae,Notolabrus,parilus,2,37384022,RHCI04_L.avi,49579,33.0527,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCI04_1812,Labridae,Notolabrus,tetricus,9,37384003,RHCI04_L.avi,29754,19.836,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,Yes
+RHCI04_1812,Labridae,Pictilabrus,laticlavius,1,37384020,RHCI04_L.avi,24189,16.126,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,Yes
+RHCI04_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHCI04_L.avi,42233,28.1553,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,Yes
+RHCI04_1812,Pomacentridae,Parma,victoriae,1,37372006,RHCI04_L.avi,15584,10.3893,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCI04_1812,Scorpididae,Scorpis,aequipinnis,3,37361004,RHCI04_L.avi,19763,13.1753,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,Yes
+RHCI04_1812,Sillaginidae,Sillaginodes,punctatus,2,37330001,RHCI04_L.avi,77854,51.9027,SWhitmarsh,7.3,NA,Reef; Mixed algal; Profile,60,3,1,1,No
+RHCO01_1812,Arripidae,Arripis,georgianus,4,37344001,RHCO01_R.avi,38291,25.5273,SWhitmarsh,6,Right video coded,Amphibolis; dense,60,2,1,1,No
+RHCO01_1812,Carangidae,Pseudocaranx,sp,1,37337924,RHCO01_R.avi,14797,9.8647,SWhitmarsh,6,Right video coded,Amphibolis; dense,60,2,1,1,No
+RHCO01_1812,Labridae,Notolabrus,parilus,1,37384022,RHCO01_R.avi,25384,16.9227,SWhitmarsh,6,Right video coded,Amphibolis; dense,60,2,1,1,Yes
+RHCO01_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,RHCO01_R.avi,17155,11.4367,SWhitmarsh,6,Right video coded,Amphibolis; dense,60,2,1,1,No
+RHCO01_1812,Sillaginidae,Sillaginodes,punctatus,2,37330001,RHCO01_R.avi,26018,17.3453,SWhitmarsh,6,Right video coded,Amphibolis; dense,60,2,1,1,No
+RHCO02_1812,Arripidae,Arripis,georgianus,3,37344001,RHCO02_L.avi,89542,59.6947,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,RHCO02_L.avi,11079,7.386,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHCO02_L.avi,71455,47.6367,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Labridae,Notolabrus,parilus,1,37384022,RHCO02_L.avi,15831,10.554,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Labridae,Notolabrus,tetricus,6,37384003,RHCO02_L.avi,8941,5.9607,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Labridae,Pictilabrus,laticlavius,2,37384020,RHCO02_L.avi,5676,3.784,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,Yes
+RHCO02_1812,Monacanthidae,Acanthaluteres,brownii,2,37465001,RHCO02_L.avi,66405,44.27,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Monacanthidae,Meuschenia,freycineti,1,37465036,RHCO02_L.avi,69867,46.578,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHCO02_L.avi,25138,16.7587,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,Yes
+RHCO02_1812,Pomacentridae,Parma,victoriae,1,37372006,RHCO02_L.avi,66472,44.3147,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO02_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,RHCO02_L.avi,80752,53.8347,SWhitmarsh,4.5,NA,Reef; Mixed algal; Profile,60,1,1,2,No
+RHCO03_1812,Arripidae,Arripis,georgianus,1,37344001,RHCO03_L.avi,47408,31.6053,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,No
+RHCO03_1812,Arripidae,Arripis,truttaceus,1,37344004,RHCO03_L.avi,76645,51.0967,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,No
+RHCO03_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHCO03_L.avi,13562,9.0413,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,No
+RHCO03_1812,Labridae,Notolabrus,parilus,1,37384022,RHCO03_L.avi,15001,10.0007,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,No
+RHCO03_1812,Labridae,Notolabrus,tetricus,4,37384003,RHCO03_L.avi,27434,18.2893,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,No
+RHCO03_1812,Labridae,Pictilabrus,laticlavius,3,37384020,RHCO03_L.avi,41074,27.3827,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,No
+RHCO03_1812,Monacanthidae,Meuschenia,freycineti,1,37465036,RHCO03_L.avi,35778,23.852,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,No
+RHCO03_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHCO03_L.avi,21413,14.2753,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,Yes
+RHCO03_1812,Scorpididae,Scorpis,aequipinnis,4,37361004,RHCO03_L.avi,64439,42.9593,SWhitmarsh,4,Crooked ground,Reef; Mixed algal; Profile,60,2,1,2,Yes
+RHEI01_1812,Kyphosidae,Girella,zebra,1,37361008,RHEI01_L.avi,32003,21.3353,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,No
+RHEI01_1812,Kyphosidae,Kyphosus,sydneyanus,1,37361001,RHEI01_L.avi,39240,26.16,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,No
+RHEI01_1812,Labridae,Notolabrus,parilus,1,37384022,RHEI01_L.avi,35881,23.9207,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,No
+RHEI01_1812,Labridae,Notolabrus,tetricus,12,37384003,RHEI01_L.avi,26699,17.7993,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,Yes
+RHEI01_1812,Labridae,Pictilabrus,laticlavius,3,37384020,RHEI01_L.avi,17071,11.3807,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,No
+RHEI01_1812,Monacanthidae,Meuschenia,freycineti,1,37465036,RHEI01_L.avi,24124,16.0827,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,Yes
+RHEI01_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHEI01_L.avi,11530,7.6867,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,Yes
+RHEI01_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,RHEI01_L.avi,55089,36.726,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,No
+RHEI01_1812,Pomacentridae,Parma,victoriae,1,37372006,RHEI01_L.avi,51149,34.0993,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,No
+RHEI01_1812,Scorpididae,Scorpis,aequipinnis,12,37361004,RHEI01_L.avi,33141,22.094,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,Yes
+RHEI01_1812,Scorpididae,Tilodon,sexfasciatus,2,37361003,RHEI01_L.avi,14643,9.762,SWhitmarsh,4.6,facing way down,Reef; Fucoid; Flat,60,3,2,2,No
+RHEI02_1812,Arripidae,Arripis,georgianus,2,37344001,RHEI02_L.avi,27386,18.2573,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,No
+RHEI02_1812,Cheilodactylidae,Dactylophora,nigricans,2,37377005,RHEI02_L.avi,91169,60.7793,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,No
+RHEI02_1812,Gerreidae,Parequula,melbournensis,3,37349001,RHEI02_L.avi,70583,47.0553,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,No
+RHEI02_1812,Labridae,Notolabrus,parilus,1,37384022,RHEI02_L.avi,52038,34.692,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,No
+RHEI02_1812,Labridae,Notolabrus,tetricus,6,37384003,RHEI02_L.avi,23732,15.8213,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,Yes
+RHEI02_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,RHEI02_L.avi,54843,36.562,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,No
+RHEI02_1812,Scorpididae,Scorpis,aequipinnis,1,37361004,RHEI02_L.avi,36898,24.5987,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,No
+RHEI02_1812,Sillaginidae,Sillaginodes,punctatus,3,37330001,RHEI02_L.avi,19500,13,SWhitmarsh,7,NA,Algae; Sand; Sparse,60,2,1,1,No
+RHEI03_1812,Kyphosidae,Kyphosus,sydneyanus,7,37361001,RHEI03_L.avi,7315,4.8767,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Labridae,Achoerodus,gouldii,1,37384002,RHEI03_L.avi,10136,6.7573,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Labridae,Notolabrus,parilus,1,37384022,RHEI03_L.avi,8934,5.956,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Labridae,Notolabrus,tetricus,10,37384003,RHEI03_L.avi,9376,6.2507,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,Yes
+RHEI03_1812,Labridae,Pictilabrus,laticlavius,2,37384020,RHEI03_L.avi,6173,4.1153,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Monacanthidae,Acanthaluteres,brownii,20,37465001,RHEI03_L.avi,9327,6.218,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Monacanthidae,Acanthaluteres,vittiger,2,37465002,RHEI03_L.avi,9698,6.4653,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Monacanthidae,Meuschenia,hippocrepis,3,37465004,RHEI03_L.avi,62356,41.5707,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,Yes
+RHEI03_1812,Mullidae,Upeneichthys,vlamingii,3,37355029,RHEI03_L.avi,20838,13.892,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Odacidae,Olisthops,cyanomelas,14,37385001,RHEI03_L.avi,74613,49.742,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Pomacentridae,Parma,victoriae,1,37372006,RHEI03_L.avi,9327,6.218,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI03_1812,Scorpididae,Scorpis,aequipinnis,29,37361004,RHEI03_L.avi,20610,13.74,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,Yes
+RHEI03_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,RHEI03_L.avi,5848,3.8987,SWhitmarsh,7.6,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+RHEI04_1812,Carangidae,Pseudocaranx,sp,8,37337924,RHEI04_L.avi,36177,24.118,SWhitmarsh,8.4,Facing up,Missing Data,60,3,1,1,No
+RHEI04_1812,Kyphosidae,Kyphosus,sydneyanus,1,37361001,RHEI04_L.avi,35859,23.906,SWhitmarsh,8.4,Facing up,Missing Data,60,3,1,1,No
+RHEI04_1812,Labridae,Notolabrus,tetricus,9,37384003,RHEI04_L.avi,64426,42.9507,SWhitmarsh,8.4,Facing up,Missing Data,60,3,1,1,Yes
+RHEI04_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHEI04_L.avi,22999,15.3327,SWhitmarsh,8.4,Facing up,Missing Data,60,3,1,1,No
+RHEI04_1812,Scorpididae,Scorpis,aequipinnis,23,37361004,RHEI04_L.avi,89482,59.6547,SWhitmarsh,8.4,Facing up,Missing Data,60,3,1,1,Yes
+RHEI04_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,RHEI04_L.avi,83627,55.7513,SWhitmarsh,8.4,Facing up,Missing Data,60,3,1,1,No
+RHNI01_1812,Arripidae,Arripis,georgianus,2,37344001,RHNI01_L.avi,60233,40.1553,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,No
+RHNI01_1812,Labridae,Austrolabrus,maculatus,1,37384025,RHNI01_L.avi,10405,6.9367,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,No
+RHNI01_1812,Labridae,Notolabrus,parilus,2,37384022,RHNI01_L.avi,72900,48.6,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,Yes
+RHNI01_1812,Labridae,Notolabrus,tetricus,4,37384003,RHNI01_L.avi,26117,17.4113,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,Yes
+RHNI01_1812,Labridae,Pictilabrus,laticlavius,3,37384020,RHNI01_L.avi,20464,13.6427,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,Yes
+RHNI01_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHNI01_L.avi,8506,5.6707,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,Yes
+RHNI01_1812,Pomacentridae,Parma,victoriae,1,37372006,RHNI01_L.avi,68985,45.99,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,No
+RHNI01_1812,Scorpididae,Scorpis,aequipinnis,2,37361004,RHNI01_L.avi,51703,34.4687,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,Yes
+RHNI01_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,RHNI01_L.avi,66803,44.5353,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,Yes
+RHNI01_1812,Sparidae,Pagrus,auratus,2,37353001,RHNI01_L.avi,62617,41.7447,SWhitmarsh,9.1,"clapper wrong? Right only, facing down",Reef; Mixed algal; Flat,60,3,2,2,Yes
+RHNI02_1812,Arripidae,Arripis,georgianus,11,37344001,RHNI02_L.avi,8630,5.7533,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,No
+RHNI02_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHNI02_L.avi,26911,17.9407,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,No
+RHNI02_1812,Labridae,Notolabrus,parilus,1,37384022,RHNI02_L.avi,8029,5.3527,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,No
+RHNI02_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,RHNI02_L.avi,11117,7.4113,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,No
+RHNI02_1812,Platycephalidae,Platycephalus,speculator,1,37296037,RHNI02_L.avi,61636,41.0907,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,No
+RHNI02_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,RHNI02_L.avi,6016,4.0107,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,Yes
+RHNI02_1812,Sparidae,Pagrus,auratus,10,37353001,RHNI02_L.avi,69248,46.1653,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,Yes
+RHNI02_1812,Sphyraenidae,Sphyraena,novaehollandiae,1,37382002,RHNI02_L.avi,12030,8.02,SWhitmarsh,10.2,Clapper wrong?,Amphibolis; Sparse,60,1,1,2,No
+RHNI03_1812,Arripidae,Arripis,georgianus,8,37344001,RHNI03_L.avi,89528,59.6853,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,No
+RHNI03_1812,Labridae,Notolabrus,parilus,2,37384022,RHNI03_L.avi,16852,11.2347,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,No
+RHNI03_1812,Labridae,Notolabrus,tetricus,4,37384003,RHNI03_L.avi,22905,15.27,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHNI03_1812,Labridae,Pictilabrus,laticlavius,2,37384020,RHNI03_L.avi,7362,4.908,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,No
+RHNI03_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHNI03_L.avi,36512,24.3413,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHNI03_1812,Mullidae,Upeneichthys,vlamingii,10,37355029,RHNI03_L.avi,14889,9.926,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,No
+RHNI03_1812,Scorpididae,Scorpis,aequipinnis,4,37361004,RHNI03_L.avi,58687,39.1247,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHNI03_1812,Sparidae,Pagrus,auratus,2,37353001,RHNI03_L.avi,79119,52.746,SWhitmarsh,5.9,Clapper wrong?,Reef; Mixed algal; Flat,60,2,1,2,No
+RHNI04_1812,Carangidae,Pseudocaranx,sp,14,37337924,RHNI04_L.avi,75313,50.2087,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,No
+RHNI04_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,RHNI04_L.avi,11771,7.8473,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,No
+RHNI04_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHNI04_L.avi,7201,4.8007,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,No
+RHNI04_1812,Labridae,Notolabrus,parilus,3,37384022,RHNI04_L.avi,16558,11.0387,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,Yes
+RHNI04_1812,Labridae,Notolabrus,tetricus,4,37384003,RHNI04_L.avi,51695,34.4633,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,No
+RHNI04_1812,Labridae,Pictilabrus,laticlavius,2,37384020,RHNI04_L.avi,21733,14.4887,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,Yes
+RHNI04_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHNI04_L.avi,6820,4.5467,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,Yes
+RHNI04_1812,Pomacentridae,Parma,victoriae,1,37372006,RHNI04_L.avi,24723,16.482,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,No
+RHNI04_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,RHNI04_L.avi,38686,25.7907,SWhitmarsh,4.7,Clapper only partly visible,Reef; Fucoid; Flat,60,2,1,2,No
+RHNO01_1812,Arripidae,Arripis,georgianus,3,37344001,RHNO01_L.avi,19705,13.1367,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,No
+RHNO01_1812,Carangidae,Pseudocaranx,sp,8,37337924,RHNO01_L.avi,70341,46.894,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,No
+RHNO01_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHNO01_L.avi,53429,35.6193,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,No
+RHNO01_1812,Kyphosidae,Girella,zebra,5,37361008,RHNO01_L.avi,45735,30.49,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,No
+RHNO01_1812,Labridae,Notolabrus,parilus,2,37384022,RHNO01_L.avi,57179,38.1193,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,No
+RHNO01_1812,Labridae,Notolabrus,tetricus,5,37384003,RHNO01_L.avi,21456,14.304,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,No
+RHNO01_1812,Labridae,Pictilabrus,laticlavius,1,37384020,RHNO01_L.avi,8220,5.48,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,Yes
+RHNO01_1812,Monacanthidae,Acanthaluteres,brownii,1,37465001,RHNO01_L.avi,57207,38.138,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,No
+RHNO01_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHNO01_L.avi,51522,34.348,SWhitmarsh,5.5,NA,Seagrass and algae,60,3,1,2,Yes
+RHNO02_1812,Arripidae,Arripis,georgianus,6,37344001,RHNO02_L.avi,20074,13.3827,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Carangidae,Pseudocaranx,sp,13,37337924,RHNO02_L.avi,26448,17.632,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHNO02_L.avi,53049,35.366,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Kyphosidae,Girella,zebra,16,37361008,RHNO02_L.avi,90960,60.64,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Kyphosidae,Kyphosus,sydneyanus,17,37361001,RHNO02_L.avi,26228,17.4853,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Labridae,Achoerodus,gouldii,1,37384002,RHNO02_L.avi,18091,12.0607,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Labridae,Notolabrus,tetricus,6,37384003,RHNO02_L.avi,7016,4.6773,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Labridae,Pictilabrus,laticlavius,2,37384020,RHNO02_L.avi,19676,13.1173,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Monacanthidae,Meuschenia,hippocrepis,3,37465004,RHNO02_L.avi,67560,45.04,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,Yes
+RHNO02_1812,Pomacentridae,Parma,victoriae,2,37372006,RHNO02_L.avi,62182,41.4547,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO02_1812,Scorpididae,Scorpis,aequipinnis,5,37361004,RHNO02_L.avi,30977,20.6513,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,Yes
+RHNO02_1812,Scorpididae,Tilodon,sexfasciatus,1,37361003,RHNO02_L.avi,71919,47.946,SWhitmarsh,5.9,NA,Reef; Mixed algal; Flat,60,2,1,1,No
+RHNO03_1812,Carangidae,Pseudocaranx,sp,1,37337924,RHNO03_L.avi,75033,50.022,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,No
+RHNO03_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,RHNO03_L.avi,8004,5.336,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,No
+RHNO03_1812,Labridae,Austrolabrus,maculatus,1,37384025,RHNO03_L.avi,18231,12.154,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,No
+RHNO03_1812,Labridae,Notolabrus,tetricus,8,37384003,RHNO03_L.avi,86669,57.7793,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,Yes
+RHNO03_1812,Labridae,Pictilabrus,laticlavius,4,37384020,RHNO03_L.avi,47666,31.7773,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,Yes
+RHNO03_1812,Monacanthidae,Acanthaluteres,brownii,1,37465001,RHNO03_L.avi,51200,34.1333,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,No
+RHNO03_1812,Monacanthidae,Meuschenia,galii,1,37465040,RHNO03_L.avi,47744,31.8293,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,No
+RHNO03_1812,Monacanthidae,Meuschenia,hippocrepis,5,37465004,RHNO03_L.avi,55716,37.144,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,Yes
+RHNO03_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,RHNO03_L.avi,89509,59.6727,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,No
+RHNO03_1812,Sillaginidae,Sillaginodes,punctatus,2,37330001,RHNO03_L.avi,67276,44.8507,SWhitmarsh,6.3,Facing down,Reef; Mixed algal; Flat,60,3,1,1,Yes
+RHNO04_1812,Carangidae,Pseudocaranx,sp,8,37337924,RHNO4_L.avi,15127,10.0847,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,RHNO4_L.avi,39242,26.1613,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHNO4_L.avi,72643,48.4287,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Labridae,Austrolabrus,maculatus,1,37384025,RHNO4_L.avi,61810,41.2067,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Labridae,Notolabrus,parilus,1,37384022,RHNO4_L.avi,4736,3.1573,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Labridae,Notolabrus,tetricus,7,37384003,RHNO4_L.avi,28230,18.82,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,Yes
+RHNO04_1812,Labridae,Pictilabrus,laticlavius,1,37384020,RHNO4_L.avi,3932,2.6213,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Monacanthidae,Meuschenia,hippocrepis,1,37465004,RHNO4_L.avi,72446,48.2973,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Plesiopidae,Trachinops,noarlungae,8,37316017,RHNO4_L.avi,91502,61.0013,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,No
+RHNO04_1812,Scorpididae,Scorpis,aequipinnis,3,37361004,RHNO4_L.avi,89943,59.962,SWhitmarsh,6.1,NA,Reef; Mixed algal; Flat,60,1,1,2,Yes
+RHSO01_1812,Carangidae,Pseudocaranx,sp,1,37337924,RHSO01_L.avi,60770,40.5133,SWhitmarsh,14,NA,Posidonia; Dense,60,2,1,1,No
+RHSO01_1812,Labridae,Notolabrus,parilus,1,37384022,RHSO01_L.avi,83960,55.9733,SWhitmarsh,14,NA,Posidonia; Dense,60,2,1,1,No
+RHSO01_1812,Monacanthidae,unknown,sp,1,37465903,RHSO01_L.avi,17516,11.6773,SWhitmarsh,14,NA,Posidonia; Dense,60,2,1,1,Yes
+RHSO01_1812,Monacanthidae,Scobinichthys,granulatus,1,37465007,RHSO01_L.avi,27474,18.316,SWhitmarsh,14,NA,Posidonia; Dense,60,2,1,1,No
+RHSO01_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,RHSO01_L.avi,26550,17.7,SWhitmarsh,14,NA,Posidonia; Dense,60,2,1,1,No
+RHSO01_1812,Ostraciidae,Aracana,ornata,1,37466001,RHSO01_L.avi,9736,6.4907,SWhitmarsh,14,NA,Posidonia; Dense,60,2,1,1,No
+RHSO01_1812,Sillaginidae,Sillaginodes,punctatus,2,37330001,RHSO01_L.avi,40164,26.776,SWhitmarsh,14,NA,Posidonia; Dense,60,2,1,1,No
+RHSO02_1812,Carangidae,Pseudocaranx,sp,4,37337924,RHSO02_L.avi,9364,6.2427,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Labridae,Austrolabrus,maculatus,2,37384025,RHSO02_L.avi,8913,5.942,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Labridae,Notolabrus,parilus,2,37384022,RHSO02_L.avi,29794,19.8627,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Labridae,Pictilabrus,laticlavius,1,37384020,RHSO02_L.avi,5616,3.744,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Monacanthidae,Acanthaluteres,brownii,1,37465001,RHSO02_L.avi,48471,32.314,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Mullidae,Upeneichthys,vlamingii,2,37355029,RHSO02_L.avi,4942,3.2947,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Myliobatidae,Myliobatis,tenuicaudatus,1,37039001,RHSO02_L.avi,32643,21.762,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,Yes
+RHSO02_1812,Ostraciidae,Aracana,ornata,1,37466001,RHSO02_L.avi,18040,12.0267,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,RHSO02_L.avi,30841,20.5607,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO02_1812,Sphyraenidae,Sphyraena,novaehollandiae,1,37382002,RHSO02_L.avi,66963,44.642,SWhitmarsh,13.7,NA,Reef; Ecklonia; Flat,60,2,1,2,No
+RHSO03_1812,Arripidae,Arripis,georgianus,5,37344001,RHSO03_L.avi,29758,19.8387,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHSO03_1812,Carangidae,Pseudocaranx,sp,4,37337924,RHSO03_L.avi,55207,36.8047,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHSO03_1812,Labridae,Notolabrus,parilus,2,37384022,RHSO03_L.avi,49272,32.848,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Labridae,Notolabrus,tetricus,1,37384003,RHSO03_L.avi,92436,61.624,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Labridae,Pictilabrus,laticlavius,1,37384020,RHSO03_L.avi,58142,38.7613,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Loliginidae,Sepioteuthis,australis,13,23617005,RHSO03_L.avi,20639,13.7593,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Monacanthidae,Thamnaconus,degeni,1,37465037,RHSO03_L.avi,33832,22.5547,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHSO03_1812,Mullidae,Upeneichthys,vlamingii,22,37355029,RHSO03_L.avi,83422,55.6147,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Neosebastidae,Neosebastes,scorpaenoides,1,37287005,RHSO03_L.avi,58704,39.136,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Ostraciidae,Aracana,aurita,1,37466003,RHSO03_L.avi,24100,16.0667,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Pentacerotidae,Pentaceropsis,recurvirostris,1,37367003,RHSO03_L.avi,22210,14.8067,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Rhinobatidae,Trygonorrhina,dumerilii,1,37027011,RHSO03_L.avi,41417,27.6113,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,RHSO03_L.avi,95015,63.3433,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO03_1812,Sphyraenidae,Sphyraena,novaehollandiae,1,37382002,RHSO03_L.avi,39472,26.3147,SWhitmarsh,14.4,Right partially obscured,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Carangidae,Pseudocaranx,sp,14,37337924,RHSO04_L.avi,42010,28.0067,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Cheilodactylidae,Dactylophora,nigricans,1,37377005,RHSO04_L.avi,80451,53.634,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Labridae,Austrolabrus,maculatus,1,37384025,RHSO04_L.avi,11124,7.416,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Labridae,Notolabrus,parilus,2,37384022,RHSO04_L.avi,65458,43.6387,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Labridae,Notolabrus,tetricus,5,37384003,RHSO04_L.avi,23291,15.5273,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHSO04_1812,Labridae,Ophthalmolepis,lineolatus,1,37384040,RHSO04_L.avi,17729,11.8193,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Labridae,Pictilabrus,laticlavius,3,37384020,RHSO04_L.avi,23971,15.9807,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,Yes
+RHSO04_1812,Mullidae,Upeneichthys,vlamingii,1,37355029,RHSO04_L.avi,16693,11.1287,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Ostraciidae,Aracana,ornata,1,37466001,RHSO04_L.avi,72002,48.0013,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Sillaginidae,Sillaginodes,punctatus,1,37330001,RHSO04_L.avi,41228,27.4853,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+RHSO04_1812,Sphyraenidae,Sphyraena,novaehollandiae,1,37382002,RHSO04_L.avi,81271,54.1807,SWhitmarsh,12.7,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+SGCI01_1901,Chaetodontidae,Chelmonops,curiosus,2,37365066,SGCI01_L.avi,34860,23.24,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Kyphosidae,Girella,zebra,1,37361008,SGCI01_L.avi,10170,6.78,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGCI01_L.avi,12430,8.2867,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Labridae,Achoerodus,gouldii,1,37384002,SGCI01_L.avi,11479,7.6527,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Labridae,Notolabrus,parilus,1,37384022,SGCI01_L.avi,23010,15.34,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Labridae,Notolabrus,tetricus,12,37384003,SGCI01_L.avi,25135,16.7567,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,Yes
+SGCI01_1901,Labridae,Pictilabrus,laticlavius,2,37384020,SGCI01_L.avi,21263,14.1753,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Monacanthidae,Meuschenia,hippocrepis,2,37465004,SGCI01_L.avi,23667,15.778,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGCI01_L.avi,14332,9.5547,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Pomacentridae,Parma,victoriae,1,37372006,SGCI01_L.avi,75467,50.3113,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGCI01_1901,Scorpididae,Scorpis,aequipinnis,9,37361004,SGCI01_L.avi,38823,25.882,DEaston,6,NA,Reef; Mixed algal; Profile,60,2,2,1,Yes
+SGCI02_1901,Arripidae,Arripis,truttaceus,51,37344004,SGCI02_L25.avi,5758,3.8387,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Chaetodontidae,Chelmonops,curiosus,2,37365066,SGCI02_L25.avi,22743,15.162,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGCI02_L25.avi,5362,3.5747,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Kyphosidae,Girella,zebra,2,37361008,SGCI02_L25.avi,75467,50.3113,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGCI02_L25.avi,7612,5.0747,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Labridae,Achoerodus,gouldii,2,37384002,SGCI02_L25.avi,69552,46.368,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Labridae,Notolabrus,tetricus,8,37384003,SGCI02_L25.avi,18750,12.5,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,Yes
+SGCI02_1901,Labridae,Pictilabrus,laticlavius,3,37384020,SGCI02_L25.avi,88387,58.9247,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Monacanthidae,Meuschenia,flavolineata,2,37465035,SGCI02_L25.avi,10288,6.8587,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Monacanthidae,Meuschenia,hippocrepis,3,37465004,SGCI02_L25.avi,55585,37.0567,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGCI02_L25.avi,8758,5.8387,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Plesiopidae,Paraplesiops,meleagris,1,37316009,SGCI02_L25.avi,9558,6.372,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Pomacentridae,Parma,victoriae,1,37372006,SGCI02_L25.avi,5577,3.718,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI02_1901,Scorpididae,Scorpis,aequipinnis,9,37361004,SGCI02_L25.avi,20776,13.8507,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,Yes
+SGCI02_1901,Serranidae,Othos,dentex,1,37311005,SGCI02_L25.avi,31257,20.838,DEaston,6.7,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGCI03_1901,Carangidae,Pseudocaranx,sp,5,37337924,SGCI03_L.avi,43027,28.6847,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Chaetodontidae,Chelmonops,curiosus,2,37365066,SGCI03_L.avi,29604,19.736,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGCI03_L.avi,5801,3.8673,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGCI03_L.avi,83278,55.5187,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Enoplosidae,Enoplosus,armatus,2,37366001,SGCI03_L.avi,25463,16.9753,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Labridae,Achoerodus,gouldii,1,37384002,SGCI03_L.avi,24072,16.048,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Labridae,Austrolabrus,maculatus,2,37384025,SGCI03_L.avi,20506,13.6707,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Labridae,Notolabrus,tetricus,3,37384003,SGCI03_L.avi,51835,34.5567,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,Yes
+SGCI03_1901,Labridae,Pictilabrus,laticlavius,2,37384020,SGCI03_L.avi,7837,5.2247,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Monacanthidae,Meuschenia,flavolineata,2,37465035,SGCI03_L.avi,13368,8.912,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,Yes
+SGCI03_1901,Monacanthidae,Meuschenia,hippocrepis,2,37465004,SGCI03_L.avi,49049,32.6993,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,Yes
+SGCI03_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGCI03_L.avi,36170,24.1133,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Plesiopidae,Paraplesiops,meleagris,1,37316009,SGCI03_L.avi,22262,14.8413,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Pomacentridae,Parma,victoriae,1,37372006,SGCI03_L.avi,11915,7.9433,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Scorpididae,Scorpis,aequipinnis,8,37361004,SGCI03_L.avi,70856,47.2373,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,Yes
+SGCI03_1901,Serranidae,Caesioperca,rasor,2,37311003,SGCI03_L.avi,37687,25.1247,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Serranidae,Hypoplectrodes,nigroruber,1,37311037,SGCI03_L.avi,8965,5.9767,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI03_1901,Serranidae,Othos,dentex,1,37311005,SGCI03_L.avi,25357,16.9047,DEaston,15.3,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGCI04_1901,Chaetodontidae,Chelmonops,curiosus,1,37365066,SGCI04_L2.avi,12433,8.2887,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Kyphosidae,Girella,zebra,1,37361008,SGCI04_L2.avi,6385,4.2567,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Labridae,Achoerodus,gouldii,1,37384002,SGCI04_L2.avi,10663,7.1087,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Labridae,Austrolabrus,maculatus,1,37384025,SGCI04_L2.avi,7299,4.866,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Labridae,Notolabrus,parilus,1,37384022,SGCI04_L2.avi,18063,12.042,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Labridae,Notolabrus,tetricus,5,37384003,SGCI04_L2.avi,20980,13.9867,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Labridae,Pictilabrus,laticlavius,1,37384020,SGCI04_L2.avi,9269,6.1793,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Monacanthidae,Meuschenia,freycineti,1,37465036,SGCI04_L2.avi,64302,42.868,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Monacanthidae,Meuschenia,hippocrepis,1,37465004,SGCI04_L2.avi,17492,11.6613,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGCI04_L2.avi,28947,19.298,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Pomacentridae,Parma,victoriae,1,37372006,SGCI04_L2.avi,40839,27.226,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCI04_1901,Scorpididae,Scorpis,aequipinnis,10,37361004,SGCI04_L2.avi,79318,52.8787,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,Yes
+SGCI04_1901,Serranidae,Caesioperca,rasor,1,37311003,SGCI04_L2.avi,21877,14.5847,DEaston,11,NA,Reef; Mixed algal; Flat,60,3,1,1,No
+SGCO01_1901,Arripidae,Arripis,truttaceus,1,37344004,SGCO01_L.avi,27318,18.212,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Carangidae,Pseudocaranx,sp,1,37337924,SGCO01_L.avi,15598,10.3987,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Chaetodontidae,Chelmonops,curiosus,1,37365066,SGCO01_L.avi,72001,48.0007,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGCO01_L.avi,4882,3.2547,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGCO01_L.avi,58801,39.2007,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Kyphosidae,Girella,zebra,4,37361008,SGCO01_L.avi,8037,5.358,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGCO01_L.avi,5115,3.41,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Labridae,Achoerodus,gouldii,1,37384002,SGCO01_L.avi,4819,3.2127,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Labridae,Notolabrus,parilus,1,37384022,SGCO01_L.avi,21978,14.652,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Labridae,Notolabrus,tetricus,10,37384003,SGCO01_L.avi,23392,15.5947,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,Yes
+SGCO01_1901,Labridae,Pictilabrus,laticlavius,3,37384020,SGCO01_L.avi,49743,33.162,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Pomacentridae,Parma,victoriae,1,37372006,SGCO01_L.avi,5758,3.8387,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO01_1901,Scorpididae,Scorpis,aequipinnis,12,37361004,SGCO01_L.avi,29806,19.8707,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,Yes
+SGCO01_1901,Scorpididae,Tilodon,sexfasciatus,2,37361003,SGCO01_L.avi,5068,3.3787,DEaston,5,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGCO02_1901,Arripidae,Arripis,truttaceus,1,37344004,SGCO02_L(1).avi,32057,21.3713,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Carangidae,Pseudocaranx,sp,8,37337924,SGCO02_L(1).avi,56668,37.7787,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,Yes
+SGCO02_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGCO02_L(1).avi,12936,8.624,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Delphinidae,Tursiops,truncatus,1,41116019,SGCO02_L(1).avi,92066,61.3773,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Gerreidae,Parequula,melbournensis,1,37349001,SGCO02_L(1).avi,9798,6.532,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Kyphosidae,Girella,zebra,1,37361008,SGCO02_L(1).avi,9794,6.5293,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Kyphosidae,Kyphosus,sydneyanus,4,37361001,SGCO02_L(1).avi,9394,6.2627,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Labridae,Achoerodus,gouldii,1,37384002,SGCO02_L(1).avi,11205,7.47,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Labridae,Notolabrus,parilus,1,37384022,SGCO02_L(1).avi,10876,7.2507,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Labridae,Notolabrus,tetricus,6,37384003,SGCO02_L(1).avi,26482,17.6547,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Mullidae,Upeneichthys,vlamingii,1,37355029,SGCO02_L(1).avi,48819,32.546,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Scorpididae,Scorpis,aequipinnis,5,37361004,SGCO02_L(1).avi,20451,13.634,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,Yes
+SGCO02_1901,Scorpididae,Tilodon,sexfasciatus,1,37361003,SGCO02_L(1).avi,7152,4.768,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Sillaginidae,Sillaginodes,punctatus,1,37330001,SGCO02_L(1).avi,26357,17.5713,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO02_1901,Sparidae,Pagrus,auratus,6,37353001,SGCO02_L(1).avi,20439,13.626,DEaston,10.3,NA,Posidonia; Sparse,60,2,1,1,No
+SGCO03_1901,Arripidae,Arripis,truttaceus,9,37344004,SGCO03_L.avi,40009,26.6727,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Chaetodontidae,Chelmonops,curiosus,1,37365066,SGCO03_L.avi,59266,39.5107,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGCO03_L.avi,9353,6.2353,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGCO03_L.avi,27119,18.0793,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Cheilodactylidae,Nemadactylus,valenciennesi,2,37377004,SGCO03_L.avi,33898,22.5987,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Kyphosidae,Girella,zebra,6,37361008,SGCO03_L.avi,37953,25.302,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,Yes
+SGCO03_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGCO03_L.avi,42707,28.4713,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Labridae,Achoerodus,gouldii,1,37384002,SGCO03_L.avi,8498,5.6653,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Labridae,Austrolabrus,maculatus,1,37384025,SGCO03_L.avi,9871,6.5807,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Labridae,Notolabrus,parilus,1,37384022,SGCO03_L.avi,10350,6.9,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Labridae,Notolabrus,tetricus,12,37384003,SGCO03_L.avi,30754,20.5027,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,Yes
+SGCO03_1901,Monacanthidae,Meuschenia,hippocrepis,1,37465004,SGCO03_L.avi,32649,21.766,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Pomacentridae,Parma,victoriae,1,37372006,SGCO03_L.avi,8132,5.4213,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Scorpididae,Scorpis,aequipinnis,11,37361004,SGCO03_L.avi,18262,12.1747,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,Yes
+SGCO03_1901,Scorpididae,Tilodon,sexfasciatus,2,37361003,SGCO03_L.avi,8590,5.7267,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Serranidae,Caesioperca,rasor,3,37311003,SGCO03_L.avi,59763,39.842,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO03_1901,Sparidae,Pagrus,auratus,2,37353001,SGCO03_L.avi,41304,27.536,DEaston,13.9,NA,Algae; Boulders; Sparse,60,2,1,1,No
+SGCO04_1901,Chaetodontidae,Chelmonops,curiosus,1,37365066,SGCO04_L.avi,14298,9.532,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGCO04_L.avi,38730,25.82,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Cheilodactylidae,Nemadactylus,valenciennesi,1,37377004,SGCO04_L.avi,53454,35.636,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Kyphosidae,Girella,zebra,4,37361008,SGCO04_L.avi,6336,4.224,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGCO04_L.avi,5185,3.4567,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Labridae,Achoerodus,gouldii,3,37384002,SGCO04_L.avi,4791,3.194,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Labridae,Austrolabrus,maculatus,1,37384025,SGCO04_L.avi,8556,5.704,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Labridae,Notolabrus,parilus,1,37384022,SGCO04_L.avi,38533,25.6887,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Labridae,Notolabrus,tetricus,10,37384003,SGCO04_L.avi,20529,13.686,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,Yes
+SGCO04_1901,Labridae,Pictilabrus,laticlavius,2,37384020,SGCO04_L.avi,10394,6.9293,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Monacanthidae,Acanthaluteres,brownii,1,37465001,SGCO04_L.avi,8104,5.4027,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Monacanthidae,Eubalichthys,mosaicus,1,37465003,SGCO04_L.avi,15815,10.5433,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Monacanthidae,Meuschenia,freycineti,2,37465036,SGCO04_L.avi,96251,64.1673,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,Yes
+SGCO04_1901,Monacanthidae,Meuschenia,hippocrepis,1,37465004,SGCO04_L.avi,11274,7.516,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,Yes
+SGCO04_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGCO04_L.avi,6496,4.3307,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Pomacentridae,Parma,victoriae,1,37372006,SGCO04_L.avi,4972,3.3147,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Scorpididae,Scorpis,aequipinnis,14,37361004,SGCO04_L.avi,47122,31.4147,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,Yes
+SGCO04_1901,Serranidae,Othos,dentex,1,37311005,SGCO04_L.avi,51886,34.5907,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGCO04_1901,Sparidae,Pagrus,auratus,1,37353001,SGCO04_L.avi,17935,11.9567,DEaston,13.9,NA,Reef; Ecklonia; Profile,60,3,1,2,No
+SGEI01_1901,Arripidae,Arripis,georgianus,8,37344001,SGEI01_L25.avi,58867,39.2447,DEaston,9.5,NA,Seagrass; Sparse,60,2,1,2,No
+SGEI01_1901,Carangidae,Pseudocaranx,sp,5,37337924,SGEI01_L25.avi,89669,59.7793,DEaston,9.5,NA,Seagrass; Sparse,60,2,1,2,Yes
+SGEI01_1901,Gerreidae,Parequula,melbournensis,1,37349001,SGEI01_L25.avi,13525,9.0167,DEaston,9.5,NA,Seagrass; Sparse,60,2,1,2,No
+SGEI01_1901,Kyphosidae,Kyphosus,sydneyanus,11,37361001,SGEI01_L25.avi,24641,16.4273,DEaston,9.5,NA,Seagrass; Sparse,60,2,1,2,No
+SGEI01_1901,Labridae,Notolabrus,parilus,1,37384022,SGEI01_L25.avi,62550,41.7,DEaston,9.5,NA,Seagrass; Sparse,60,2,1,2,No
+SGEI01_1901,Mullidae,Upeneichthys,vlamingii,1,37355029,SGEI01_L25.avi,13930,9.2867,DEaston,9.5,NA,Seagrass; Sparse,60,2,1,2,No
+SGEI01_1901,Scorpididae,Scorpis,aequipinnis,17,37361004,SGEI01_L25.avi,52110,34.74,DEaston,9.5,NA,Seagrass; Sparse,60,2,1,2,Yes
+SGEI02_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGEI02_L.avi,12985,8.6567,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,No
+SGEI02_1901,Kyphosidae,Girella,zebra,27,37361008,SGEI02_L.avi,20895,13.93,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,No
+SGEI02_1901,Kyphosidae,Kyphosus,sydneyanus,2,37361001,SGEI02_L.avi,24873,16.582,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,No
+SGEI02_1901,Labridae,Achoerodus,gouldii,1,37384002,SGEI02_L.avi,6484,4.3227,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,No
+SGEI02_1901,Labridae,Notolabrus,tetricus,4,37384003,SGEI02_L.avi,69036,46.024,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,Yes
+SGEI02_1901,Monacanthidae,Meuschenia,hippocrepis,2,37465004,SGEI02_L.avi,79341,52.894,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,No
+SGEI02_1901,Platycephalidae,Platycephalus,speculator,1,37296037,SGEI02_L.avi,24138,16.092,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,No
+SGEI02_1901,Pomacentridae,Parma,victoriae,1,37372006,SGEI02_L.avi,10655,7.1033,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,No
+SGEI02_1901,Scorpididae,Scorpis,aequipinnis,22,37361004,SGEI02_L.avi,72041,48.0273,DEaston,6,NA,Reef; Sand; Transition,60,2,1,1,Yes
+SGEI03_1901,Chaetodontidae,Chelmonops,curiosus,2,37365066,SGEI03_L25.avi,67132,44.7547,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGEI03_L25.avi,73556,49.0373,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Kyphosidae,Girella,zebra,1,37361008,SGEI03_L25.avi,18530,12.3533,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGEI03_L25.avi,40724,27.1493,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Labridae,Austrolabrus,maculatus,1,37384025,SGEI03_L25.avi,45081,30.054,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Labridae,Notolabrus,parilus,1,37384022,SGEI03_L25.avi,36961,24.6407,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Labridae,Notolabrus,tetricus,4,37384003,SGEI03_L25.avi,43296,28.864,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,Yes
+SGEI03_1901,Labridae,Ophthalmolepis,lineolatus,1,37384040,SGEI03_L25.avi,44464,29.6427,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Labridae,Pictilabrus,laticlavius,1,37384020,SGEI03_L25.avi,41899,27.9327,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Monacanthidae,Meuschenia,freycineti,2,37465036,SGEI03_L25.avi,49354,32.9027,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,Yes
+SGEI03_1901,Monacanthidae,Meuschenia,hippocrepis,6,37465004,SGEI03_L25.avi,95917,63.9447,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,Yes
+SGEI03_1901,Pomacentridae,Parma,victoriae,1,37372006,SGEI03_L25.avi,31126,20.7507,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,No
+SGEI03_1901,Scorpididae,Scorpis,aequipinnis,11,37361004,SGEI03_L25.avi,81821,54.5473,DEaston,9.8,NA,Reef; Fucoid; Profile,60,2,1,1,Yes
+SGEI04_1901,Chaetodontidae,Chelmonops,curiosus,1,37365066,SGEI04_L.avi,88191,58.794,DEaston,11,Facing Up,Water Column,60,1,1,1,No
+SGEI04_1901,Enoplosidae,Enoplosus,armatus,1,37366001,SGEI04_L.avi,46209,30.806,DEaston,11,Facing Up,Water Column,60,1,1,1,No
+SGEI04_1901,Kyphosidae,Girella,zebra,1,37361008,SGEI04_L.avi,28079,18.7193,DEaston,11,Facing Up,Water Column,60,1,1,1,No
+SGEI04_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGEI04_L.avi,5880,3.92,DEaston,11,Facing Up,Water Column,60,1,1,1,No
+SGEI04_1901,Labridae,Notolabrus,tetricus,2,37384003,SGEI04_L.avi,31352,20.9013,DEaston,11,Facing Up,Water Column,60,1,1,1,Yes
+SGEI04_1901,Monacanthidae,Meuschenia,flavolineata,2,37465035,SGEI04_L.avi,16887,11.258,DEaston,11,Facing Up,Water Column,60,1,1,1,No
+SGEI04_1901,Monacanthidae,Meuschenia,hippocrepis,5,37465004,SGEI04_L.avi,31174,20.7827,DEaston,11,Facing Up,Water Column,60,1,1,1,Yes
+SGEI04_1901,Pomacentridae,Parma,victoriae,1,37372006,SGEI04_L.avi,22006,14.6707,DEaston,11,Facing Up,Water Column,60,1,1,1,No
+SGEI04_1901,Scorpididae,Scorpis,aequipinnis,7,37361004,SGEI04_L.avi,14390,9.5933,DEaston,11,Facing Up,Water Column,60,1,1,1,Yes
+SGEI04_1901,Tetraodontidae,Omegophora,armilla,1,37467002,SGEI04_L.avi,56684,37.7893,DEaston,11,Facing Up,Water Column,60,1,1,1,No
+SGEO01_1901,Kyphosidae,Girella,zebra,1,37361008,SGEO01_L.avi,87247,58.1647,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,No
+SGEO01_1901,Kyphosidae,Kyphosus,sydneyanus,2,37361001,SGEO01_L.avi,57014,38.0093,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,No
+SGEO01_1901,Labridae,Notolabrus,tetricus,7,37384003,SGEO01_L.avi,16645,11.0967,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,Yes
+SGEO01_1901,Labridae,Pictilabrus,laticlavius,3,37384020,SGEO01_L.avi,11654,7.7693,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,No
+SGEO01_1901,Mullidae,Upeneichthys,vlamingii,3,37355029,SGEO01_L.avi,69034,46.0227,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,No
+SGEO01_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGEO01_L.avi,52895,35.2633,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,No
+SGEO01_1901,Pomacentridae,Parma,victoriae,1,37372006,SGEO01_L.avi,67868,45.2453,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,No
+SGEO01_1901,Scorpididae,Scorpis,aequipinnis,23,37361004,SGEO01_L.avi,36338,24.2253,DEaston,5,NA,Algae; Sand; Medium,60,2,1,1,Yes
+SGEO02_1901,Arripidae,Arripis,georgianus,14,37344001,SGEO02_L25.avi,48185,32.1233,DEaston,6.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+SGEO02_1901,Carangidae,Pseudocaranx,sp,1,37337924,SGEO02_L25.avi,15594,10.396,DEaston,6.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+SGEO02_1901,Kyphosidae,Girella,zebra,3,37361008,SGEO02_L25.avi,70053,46.702,DEaston,6.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+SGEO02_1901,Labridae,Notolabrus,tetricus,2,37384003,SGEO02_L25.avi,63592,42.3947,DEaston,6.5,NA,Reef; Mixed algal; Flat,60,2,1,2,Yes
+SGEO02_1901,Labridae,Pictilabrus,laticlavius,2,37384020,SGEO02_L25.avi,17930,11.9533,DEaston,6.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+SGEO02_1901,Mullidae,Upeneichthys,vlamingii,1,37355029,SGEO02_L25.avi,18209,12.1393,DEaston,6.5,NA,Reef; Mixed algal; Flat,60,2,1,2,No
+SGEO02_1901,Scorpididae,Scorpis,aequipinnis,10,37361004,SGEO02_L25.avi,38065,25.3767,DEaston,6.5,NA,Reef; Mixed algal; Flat,60,2,1,2,Yes
+SGEO03_1901,Carangidae,Pseudocaranx,sp,2,37337924,SGEO03_L.avi,9050,6.0333,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Chaetodontidae,Chelmonops,curiosus,1,37365066,SGEO03_L.avi,61807,41.2047,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGEO03_L.avi,11916,7.944,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Chironemidae,Chironemus,maculosus,1,37375002,SGEO03_L.avi,82240,54.8267,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Kyphosidae,Girella,zebra,2,37361008,SGEO03_L.avi,6660,4.44,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Kyphosidae,Kyphosus,sydneyanus,7,37361001,SGEO03_L.avi,8387,5.5913,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Labridae,Achoerodus,gouldii,2,37384002,SGEO03_L.avi,15482,10.3213,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Labridae,Notolabrus,parilus,1,37384022,SGEO03_L.avi,31213,20.8087,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Labridae,Notolabrus,tetricus,4,37384003,SGEO03_L.avi,61474,40.9827,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Labridae,Pictilabrus,laticlavius,1,37384020,SGEO03_L.avi,8041,5.3607,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Monacanthidae,Meuschenia,flavolineata,1,37465035,SGEO03_L.avi,12431,8.2873,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Monacanthidae,Meuschenia,freycineti,2,37465036,SGEO03_L.avi,88378,58.9187,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,Yes
+SGEO03_1901,Monacanthidae,Meuschenia,hippocrepis,7,37465004,SGEO03_L.avi,101885,67.9233,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,Yes
+SGEO03_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGEO03_L.avi,2.00E+04,13.3333,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Odacidae,Siphonognathus,attenuatus,1,37385004,SGEO03_L.avi,30440,20.2933,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Pomacentridae,Parma,victoriae,1,37372006,SGEO03_L.avi,7854,5.236,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,No
+SGEO03_1901,Scorpididae,Scorpis,aequipinnis,16,37361004,SGEO03_L.avi,74303,49.5353,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,2,2,1,Yes
+SGEO04_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGEO04_L.avi,60946,40.6307,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGEO04_L.avi,9028,6.0187,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Kyphosidae,Girella,zebra,1,37361008,SGEO04_L.avi,31926,21.284,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Kyphosidae,Kyphosus,sydneyanus,2,37361001,SGEO04_L.avi,40410,26.94,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Labridae,Achoerodus,gouldii,1,37384002,SGEO04_L.avi,88694,59.1293,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Labridae,Notolabrus,parilus,1,37384022,SGEO04_L.avi,34190,22.7933,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Labridae,Notolabrus,tetricus,13,37384003,SGEO04_L.avi,60556,40.3707,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,Yes
+SGEO04_1901,Labridae,Pictilabrus,laticlavius,2,37384020,SGEO04_L.avi,7517,5.0113,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Monacanthidae,Meuschenia,hippocrepis,1,37465004,SGEO04_L.avi,89308,59.5387,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,Yes
+SGEO04_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGEO04_L.avi,5245,3.4967,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Pomacentridae,Parma,victoriae,1,37372006,SGEO04_L.avi,8758,5.8387,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,No
+SGEO04_1901,Scorpididae,Scorpis,aequipinnis,6,37361004,SGEO04_L.avi,57718,38.4787,DEaston,6.8,NA,Reef; Seirococcaceae; Profle,60,3,3,1,Yes
+SGWI01_1901,Arripidae,Arripis,truttaceus,2,37344004,SGWI01_L25.avi,24355,16.2367,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,SGWI01_L25.avi,88842,59.228,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Dinolestidae,Dinolestes,lewini,1,37327002,SGWI01_L25.avi,22981,15.3207,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Kyphosidae,Girella,zebra,1,37361008,SGWI01_L25.avi,45588,30.392,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Labridae,Achoerodus,gouldii,2,37384002,SGWI01_L25.avi,14173,9.4487,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Labridae,Notolabrus,parilus,2,37384022,SGWI01_L25.avi,19565,13.0433,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Labridae,Notolabrus,tetricus,9,37384003,SGWI01_L25.avi,28071,18.714,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,Yes
+SGWI01_1901,Labridae,Pictilabrus,laticlavius,2,37384020,SGWI01_L25.avi,15727,10.4847,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Monacanthidae,Meuschenia,hippocrepis,2,37465004,SGWI01_L25.avi,35377,23.5847,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,Yes
+SGWI01_1901,Mullidae,Upeneichthys,vlamingii,1,37355029,SGWI01_L25.avi,93078,62.052,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGWI01_L25.avi,14432,9.6213,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI01_1901,Scorpididae,Scorpis,aequipinnis,27,37361004,SGWI01_L25.avi,21977,14.6513,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,Yes
+SGWI01_1901,Scorpididae,Tilodon,sexfasciatus,1,37361003,SGWI01_L25.avi,24513,16.342,DEaston,10.1,maxN only,Algae and heterozostera; Medium,60,2,1,2,No
+SGWI02_1901,Chaetodontidae,Chelmonops,curiosus,2,37365066,SGWI02_L.avi,40245,26.83,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Cheilodactylidae,Cheilodactylus,nigripes,2,37377001,SGWI02_L.avi,79379,52.9193,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGWI02_L.avi,84043,56.0287,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Kyphosidae,Girella,zebra,3,37361008,SGWI02_L.avi,32933,21.9553,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGWI02_L.avi,32933,21.9553,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Labridae,Achoerodus,gouldii,1,37384002,SGWI02_L.avi,97023,64.682,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Labridae,Austrolabrus,maculatus,2,37384025,SGWI02_L.avi,12400,8.2667,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Labridae,Notolabrus,parilus,2,37384022,SGWI02_L.avi,56456,37.6373,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Labridae,Notolabrus,tetricus,4,37384003,SGWI02_L.avi,25953,17.302,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,Yes
+SGWI02_1901,Labridae,Pictilabrus,laticlavius,1,37384020,SGWI02_L.avi,54816,36.544,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Monacanthidae,Meuschenia,flavolineata,1,37465035,SGWI02_L.avi,36005,24.0033,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Monacanthidae,Meuschenia,freycineti,1,37465036,SGWI02_L.avi,92734,61.8227,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Monacanthidae,Meuschenia,hippocrepis,1,37465004,SGWI02_L.avi,6285,4.19,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,Yes
+SGWI02_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGWI02_L.avi,11092,7.3947,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Pempherididae,Pempheris,sp,4,37357903,SGWI02_L.avi,71160,47.44,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Pentacerotidae,Pentaceropsis,recurvirostris,1,37367003,SGWI02_L.avi,19395,12.93,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Plesiopidae,Paraplesiops,meleagris,2,37316009,SGWI02_L.avi,22251,14.834,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,Yes
+SGWI02_1901,Pomacentridae,Parma,victoriae,1,37372006,SGWI02_L.avi,9168,6.112,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Scorpididae,Scorpis,aequipinnis,2,37361004,SGWI02_L.avi,32601,21.734,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,Yes
+SGWI02_1901,Scorpididae,Tilodon,sexfasciatus,1,37361003,SGWI02_L.avi,26534,17.6893,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Serranidae,Caesioperca,rasor,1,37311003,SGWI02_L.avi,18084,12.056,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI02_1901,Serranidae,Othos,dentex,1,37311005,SGWI02_L.avi,32753,21.8353,DEaston,12,NA,Reef; Mixed algal; Profile,60,2,1,1,No
+SGWI03_1901,Chaetodontidae,Chelmonops,curiosus,1,37365066,SGWI03_L25.avi,20192,13.4613,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGWI03_L25.avi,23953,15.9687,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Enoplosidae,Enoplosus,armatus,1,37366001,SGWI03_L25.avi,30176,20.1173,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Kyphosidae,Girella,zebra,2,37361008,SGWI03_L25.avi,24758,16.5053,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Labridae,Achoerodus,gouldii,1,37384002,SGWI03_L25.avi,13373,8.9153,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Labridae,Austrolabrus,maculatus,1,37384025,SGWI03_L25.avi,9390,6.26,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Labridae,Notolabrus,parilus,1,37384022,SGWI03_L25.avi,16637,11.0913,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Labridae,Notolabrus,tetricus,6,37384003,SGWI03_L25.avi,24012,16.008,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,Yes
+SGWI03_1901,Monacanthidae,Acanthaluteres,brownii,1,37465001,SGWI03_L25.avi,81677,54.4513,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Mullidae,Upeneichthys,vlamingii,1,37355029,SGWI03_L25.avi,11115,7.41,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Ostraciidae,Aracana,ornata,1,37466001,SGWI03_L25.avi,70482,46.988,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Scorpididae,Scorpis,aequipinnis,14,37361004,SGWI03_L25.avi,24279,16.186,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,Yes
+SGWI03_1901,Scorpididae,Scorpis,georgiana,1,37361015,SGWI03_L25.avi,98688,65.792,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Scorpididae,Tilodon,sexfasciatus,1,37361003,SGWI03_L25.avi,8966,5.9773,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Serranidae,Caesioperca,rasor,13,37311003,SGWI03_L25.avi,49672,33.1147,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Serranidae,Hypoplectrodes,nigroruber,1,37311037,SGWI03_L25.avi,9514,6.3427,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Serranidae,Othos,dentex,1,37311005,SGWI03_L25.avi,9330,6.22,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Sparidae,Pagrus,auratus,1,37353001,SGWI03_L25.avi,9443,6.2953,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI03_1901,Tetraodontidae,Omegophora,armilla,1,37467002,SGWI03_L25.avi,10036,6.6907,DEaston,14,NA,Reef; Invertebrate; Medium; Profile,60,2,1,1,No
+SGWI04_1901,Arripidae,Arripis,georgianus,2,37344001,SGWI04_L.avi,79471,52.9807,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,No
+SGWI04_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGWI04_L.avi,36052,24.0347,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,No
+SGWI04_1901,Kyphosidae,Girella,zebra,2,37361008,SGWI04_L.avi,6943,4.6287,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,No
+SGWI04_1901,Kyphosidae,Kyphosus,sydneyanus,1,37361001,SGWI04_L.avi,52043,34.6953,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,No
+SGWI04_1901,Labridae,Notolabrus,parilus,1,37384022,SGWI04_L.avi,25128,16.752,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,No
+SGWI04_1901,Labridae,Notolabrus,tetricus,7,37384003,SGWI04_L.avi,12573,8.382,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,Yes
+SGWI04_1901,Labridae,Pictilabrus,laticlavius,1,37384020,SGWI04_L.avi,27815,18.5433,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,No
+SGWI04_1901,Monacanthidae,Meuschenia,flavolineata,1,37465035,SGWI04_L.avi,76150,50.7667,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,No
+SGWI04_1901,Monacanthidae,Meuschenia,hippocrepis,4,37465004,SGWI04_L.avi,20534,13.6893,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,Yes
+SGWI04_1901,Scorpididae,Scorpis,aequipinnis,19,37361004,SGWI04_L.avi,17793,11.862,DEaston,5,NA,Reef; Mixed algal; Profile,60,1,1,1,Yes
+SGWO01_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGWO01_L.avi,9139,6.0927,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Dinolestidae,Dinolestes,lewini,1,37327002,SGWO01_L.avi,63603,42.402,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Enoplosidae,Enoplosus,armatus,2,37366001,SGWO01_L.avi,20694,13.796,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Kyphosidae,Girella,zebra,2,37361008,SGWO01_L.avi,95335,63.5567,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Labridae,Dotalabrus,aurantiacus,1,37384018,SGWO01_L.avi,63043,42.0287,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Labridae,Notolabrus,tetricus,8,37384003,SGWO01_L.avi,21454,14.3027,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,Yes
+SGWO01_1901,Labridae,Pictilabrus,laticlavius,4,37384020,SGWO01_L.avi,49359,32.906,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,Yes
+SGWO01_1901,Monacanthidae,Meuschenia,freycineti,1,37465036,SGWO01_L.avi,30001,20.0007,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Monacanthidae,Meuschenia,hippocrepis,6,37465004,SGWO01_L.avi,38038,25.3587,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,Yes
+SGWO01_1901,Plesiopidae,Trachinops,sp,3,37316900,SGWO01_L.avi,8982,5.988,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Pomacentridae,Parma,victoriae,1,37372006,SGWO01_L.avi,4720,3.1467,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO01_1901,Scorpididae,Scorpis,aequipinnis,9,37361004,SGWO01_L.avi,15311,10.2073,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,Yes
+SGWO01_1901,Scorpididae,Tilodon,sexfasciatus,3,37361003,SGWO01_L.avi,68984,45.9893,DEaston,7.2,NA,Reef; Fucoid; Profile,60,3,1,1,No
+SGWO02_1901,Arripidae,Arripis,georgianus,5,37344001,SGWO02_L.avi,79275,52.85,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Arripidae,Arripis,truttaceus,7,37344004,SGWO02_L.avi,51620,34.4133,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGWO02_L.avi,8788,5.8587,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Cheilodactylidae,Dactylophora,nigricans,2,37377005,SGWO02_L.avi,21703,14.4687,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Kyphosidae,Girella,zebra,2,37361008,SGWO02_L.avi,22922,15.2813,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Labridae,Achoerodus,gouldii,1,37384002,SGWO02_L.avi,8552,5.7013,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Labridae,Austrolabrus,maculatus,2,37384025,SGWO02_L.avi,14218,9.4787,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Labridae,Notolabrus,tetricus,6,37384003,SGWO02_L.avi,40091,26.7273,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,Yes
+SGWO02_1901,Labridae,Pictilabrus,laticlavius,5,37384020,SGWO02_L.avi,14301,9.534,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Monacanthidae,Meuschenia,hippocrepis,1,37465004,SGWO02_L.avi,31724,21.1493,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Mullidae,Upeneichthys,vlamingii,1,37355029,SGWO02_L.avi,45492,30.328,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Plesiopidae,Paraplesiops,meleagris,1,37316009,SGWO02_L.avi,7269,4.846,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Pomacentridae,Parma,victoriae,1,37372006,SGWO02_L.avi,11262,7.508,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Scorpididae,Scorpis,aequipinnis,8,37361004,SGWO02_L.avi,60363,40.242,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,Yes
+SGWO02_1901,Scorpididae,Tilodon,sexfasciatus,1,37361003,SGWO02_L.avi,17741,11.8273,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO02_1901,Sillaginidae,Sillaginodes,punctatus,1,37330001,SGWO02_L.avi,34361,22.9073,DEaston,6.4,NA,Reef; Mixed algal; Profile,60,3,1,2,No
+SGWO03_1901,Arripidae,Arripis,georgianus,2,37344001,SGWO03_L.avi,83843,55.8953,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGWO03_L.avi,7385,4.9233,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Cheilodactylidae,Dactylophora,nigricans,1,37377005,SGWO03_L.avi,5170,3.4467,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Kyphosidae,Girella,zebra,1,37361008,SGWO03_L.avi,4380,2.92,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Labridae,Notolabrus,tetricus,10,37384003,SGWO03_L.avi,13203,8.802,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,Yes
+SGWO03_1901,Labridae,Pictilabrus,laticlavius,3,37384020,SGWO03_L.avi,20744,13.8293,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Loliginidae,Sepioteuthis,australis,2,23617005,SGWO03_L.avi,41766,27.844,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Monacanthidae,Meuschenia,hippocrepis,4,37465004,SGWO03_L.avi,85088,56.7253,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,Yes
+SGWO03_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGWO03_L.avi,10229,6.8193,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Phalacrocoracidae,Phalacrocorax,varius,1,40048006,SGWO03_L.avi,11105,7.4033,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Pomacentridae,Parma,victoriae,1,37372006,SGWO03_L.avi,17392,11.5947,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,No
+SGWO03_1901,Scorpididae,Scorpis,aequipinnis,4,37361004,SGWO03_L.avi,85375,56.9167,DEaston,3.6,NA,Reef; Ecklonia; Flat,60,2,1,1,Yes
+SGWO04_1901,Arripidae,Arripis,truttaceus,3,37344004,SGWO04_L.avi,35452,23.6347,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Carangidae,Pseudocaranx,sp,9,37337924,SGWO04_L.avi,60632,40.4213,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Cheilodactylidae,Cheilodactylus,nigripes,1,37377001,SGWO04_L.avi,91198,60.7987,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Kyphosidae,Girella,zebra,1,37361008,SGWO04_L.avi,26700,17.8,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Kyphosidae,Kyphosus,sydneyanus,2,37361001,SGWO04_L.avi,58456,38.9707,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Labridae,Dotalabrus,aurantiacus,2,37384018,SGWO04_L.avi,5711,3.8073,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Labridae,Notolabrus,tetricus,3,37384003,SGWO04_L.avi,29264,19.5093,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,Yes
+SGWO04_1901,Labridae,Pictilabrus,laticlavius,4,37384020,SGWO04_L.avi,81062,54.0413,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Monacanthidae,Meuschenia,hippocrepis,1,37465004,SGWO04_L.avi,10442,6.9613,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Odacidae,Olisthops,cyanomelas,1,37385001,SGWO04_L.avi,26452,17.6347,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Phalacrocoracidae,Phalacrocorax,varius,1,40048006,SGWO04_L.avi,45598,30.3987,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Pomacentridae,Parma,victoriae,1,37372006,SGWO04_L.avi,56962,37.9747,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No
+SGWO04_1901,Scorpididae,Scorpis,aequipinnis,5,37361004,SGWO04_L.avi,85752,57.168,DEaston,4.3,NA,Reef; Ecklonia; Profile,60,2,1,1,No

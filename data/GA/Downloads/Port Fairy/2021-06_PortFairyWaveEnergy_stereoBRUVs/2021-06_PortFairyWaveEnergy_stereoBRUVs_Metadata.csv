@@ -1,0 +1,27 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,Others,Comments
+WE01,-38.39388,142.16432,20210603,13:50:00,Port Fairy,Fished,Wave Energy Generator,8.85,Scott Gray,Yes,Yes,,Repeat a success. Good hard ground shallow
+WE02,-38.39423,142.1682,20210603,9:42:00,Port Fairy,Fished,Wave Energy Generator,9.8,Scott Gray,Yes,Yes,,
+WE03,-38.39452,142.17223,20210603,13:54:00,Port Fairy,Fished,Wave Energy Generator,7.67,NA,No,No,,Fail
+WE05,-38.3972,142.1842,20210603,9:55:00,Port Fairy,Fished,Wave Energy Generator,14.52,Scott Gray,Yes,Yes,,Abalone?
+WE06,-38.39752,142.18762,20210603,9:59:00,Port Fairy,Fished,Wave Energy Generator,11.92,Scott Gray,Yes,Yes,,Issue with go pro time - ongoiong issue camera works fine cant change time with WIFI
+WE07,-38.39657,142.15625,20210603,11:37:00,Port Fairy,Fished,Wave Energy Generator,23.35,Scott Gray,Yes,Yes,,
+WE08,-38.3965,142.15985,20210603,11:40:00,Port Fairy,Fished,Wave Energy Generator,23.12,NA,No,No,,Fail
+WE09,-38.39912,142.15837,20210603,11:43:00,Port Fairy,Fished,Wave Energy Generator,28.56,Scott Gray,Yes,Yes,,Sand whiting
+WE10,-38.39682,142.1641,20210603,11:46:00,Port Fairy,Fished,Wave Energy Generator,23.24,Sasha Whitmarsh,Yes,Yes,,Condensation on 6R - reads ok.
+WE11,-38.39712,142.16752,20210603,11:54:00,Port Fairy,Fished,Wave Energy Generator,24.09,Sasha Whitmarsh,Yes,Yes,,
+WE12,-38.39957,142.16537,20210603,11:51:00,Port Fairy,Fished,Wave Energy Generator,28.15,Sasha Whitmarsh,Yes,Yes,,Flathead?
+WE13,-38.39715,142.17102,20210603,11:56:00,Port Fairy,Fished,Wave Energy Generator,24.04,Sasha Whitmarsh,Yes,Yes,,
+WE14,-38.39747,142.1746,20210603,11:58:00,Port Fairy,Fished,Wave Energy Generator,24.42,Sasha Whitmarsh,Yes,No,,
+WE15,-38.40013,142.17207,20210603,12:02:00,Port Fairy,Fished,Wave Energy Generator,28.89,Sasha Whitmarsh,Yes,Yes,,
+WE16,-38.39952,142.17868,20210603,13:36:00,Port Fairy,Fished,Wave Energy Generator,30.68,Sasha Whitmarsh,Yes,No,,"3R is off, drop ok."
+WE17,-38.39992,142.18305,20210603,13:48:00,Port Fairy,Fished,Wave Energy Generator,29.39,Sasha Whitmarsh,Yes,Yes,,Good hard ground deep
+WE18,-38.40245,142.18,20210603,13:41:00,Port Fairy,Fished,Wave Energy Generator,31.67,Sasha Whitmarsh,Yes,Yes,,
+WE19,-38.40073,142.18772,20210603,10:12:00,Port Fairy,Fished,Wave Energy Generator,27.24,Sasha Whitmarsh,Yes,Yes,,
+WE20,-38.40095,142.19203,20210603,10:08:00,Port Fairy,Fished,Wave Energy Generator,24.32,Sasha Whitmarsh,Yes,Yes,,"Pinky, good"
+WE21,-38.40387,142.18937,20210603,14:04:00,Port Fairy,Fished,Wave Energy Generator,39.49,Sasha Whitmarsh,Yes,Yes,,Good hard ground
+WE22,-38.39844998,142.1724,20210603,9:30:00,Port Fairy,Fished,Wave Energy Generator,29.7,Sasha Whitmarsh,Yes,Yes,,
+WE23,-38.3983,142.172,20210603,11:31:00,Port Fairy,Fished,Wave Energy Generator,29.8,Sasha Whitmarsh,Yes,Yes,,"142 10.320, 38 23.898 epic placement can see lift bag left behind"
+WE24,-38.398283,142.172517,20210603,13:27:00,Port Fairy,Fished,Wave Energy Generator,27.3,Sasha Whitmarsh,Yes,No,,NE corner
+WE25,-38.39814999,142.1720833,20210603,13:31:00,Port Fairy,Fished,Wave Energy Generator,29.3,Sasha Whitmarsh,Yes,Yes,,NW corner
+WEER1,-38.39795,142.19085,20210603,10:04:00,Port Fairy,Fished,Wave Energy Generator,9.7,Sasha Whitmarsh,Yes,No,,216 not great
+WEER2,-38.39505,142.17545,20210603,9:50:00,Port Fairy,Fished,Wave Energy Generator,6.13,Sasha Whitmarsh,Yes,Yes,,Good

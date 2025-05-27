@@ -1,0 +1,11 @@
+"","name","value","is_filter"
+"1","Sampling: Bait quantity (g)","1000",FALSE
+"2","Sampling: Deployment duration (min)","60",TRUE
+"3","Sampling: Bait type","Pilchards",TRUE
+"4","Sampling: Minimum separation distance of samples (m)","500",FALSE
+"5","Sampling: Camera separation (mm)","500",FALSE
+"6","Sampling: Camera configuration","Stereo",FALSE
+"7","Sampling: Frame type","Steel",FALSE
+"8","Annotation: Upload type","EventMeasure database output",TRUE
+"9","Sampling: Camera type","SONY HDRA Full HD Action Cam",FALSE
+"10","Annotation: .EMObs uploaded as .zip","Yes",FALSE

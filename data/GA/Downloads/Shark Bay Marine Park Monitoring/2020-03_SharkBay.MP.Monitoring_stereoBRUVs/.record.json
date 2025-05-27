@@ -1,0 +1,201 @@
+{
+  "created_at": ["2023-12-01T06:57:28.553723"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [215],
+  "description": [""],
+  "files": [
+    {
+      "id": 13195,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Info.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13196,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Lengths.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13197,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_MovieSeq.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13198,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Period.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13199,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Points.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13200,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Source.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13202,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Camera.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13203,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_ImagePtPair.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13204,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_3DPoints.txt",
+      "user_id": 350
+    },
+    {
+      "id": 13189,
+      "iscompressed": true,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Metadata.csv",
+      "user_id": 350
+    },
+    {
+      "id": 13194,
+      "iscompressed": false,
+      "name": "2020-03_SharkBay.MP.Monitoring_stereoBRUVs_Emobs.zip",
+      "user_id": 350
+    }
+  ],
+  "id": [1147],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 160,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "800"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 175,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 36,
+      "id": 191,
+      "property": {
+        "id": 36,
+        "is_filter": false,
+        "name": "Sampling: Camera type"
+      },
+      "value": "SONY HDRA Full HD Action Cam"
+    },
+    {
+      "campaigninfoprop_id": 38,
+      "id": 196,
+      "property": {
+        "id": 38,
+        "is_filter": false,
+        "name": "Sampling: Camera separation (mm)"
+      },
+      "value": "500"
+    },
+    {
+      "campaigninfoprop_id": 37,
+      "id": 193,
+      "property": {
+        "id": 37,
+        "is_filter": false,
+        "name": "Sampling: Camera configuration"
+      },
+      "value": "Stereo"
+    },
+    {
+      "campaigninfoprop_id": 42,
+      "id": 210,
+      "property": {
+        "id": 42,
+        "is_filter": false,
+        "name": "Sampling: Frame type"
+      },
+      "value": "Steel"
+    },
+    {
+      "campaigninfoprop_id": 44,
+      "id": 219,
+      "property": {
+        "id": 44,
+        "is_filter": true,
+        "name": "Annotation: Upload type"
+      },
+      "value": "EventMeasure database output"
+    }
+  ],
+  "name": ["2020-03_SharkBay.MP.Monitoring_stereoBRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [true],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [308],
+    "is_public": [false],
+    "name": ["Shark Bay Marine Park Monitoring"]
+  },
+  "project_id": [308],
+  "user": {
+    "email": ["jordan.goetze@dbca.wa.gov.au"],
+    "first_name": ["Marine Science Program"],
+    "id": [350],
+    "is_admin": [false],
+    "last_name": ["DBCA"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

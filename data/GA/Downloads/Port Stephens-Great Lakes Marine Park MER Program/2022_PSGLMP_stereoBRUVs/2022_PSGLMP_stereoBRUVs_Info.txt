@@ -1,0 +1,113 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+BE01	ML	33	Camera fell over	Location	Seal Rocks	Zone	HPZ	 Name	Balmona	Date	09/11/2022								
+BE02	ML	33m		Location	Seal Rocks	Zone	HPZ	 Name	Balmona	Date	09/11/2022								
+BE03	ML	33m		Location	Seal Rocks	Zone	HPZ	 Name	Balmona	Date	09/11/2022								
+BE04	ML	36m	on sand adjacent to reef	Location	Seal Rocks	Zone	HPZ	 Name	Balmona	Date	09/11/2022								
+BH01	ML	31m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/9/22								
+BH02	ML	32m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/9/22								
+BH03	ML	33m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/9/22								
+BH04	ML	33m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/09/2022								
+BH06	ML	33m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/09/2022								
+BH07	ML	31m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/09/2022								
+BH08	ML	28m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/09/2022								
+BH09	ML	30m		Location	Black Head	Zone	OUT	 Name	Black Head	Date	19/09/2022								
+BIHPZ01	CG	25	29/06/22	Location	Broughton Island	Zone	HPZ	 Name											
+BIHPZ02	LH	25		Location	Broughton Island	Zone	HPZ	Name	BI	Date	29/6/22								
+BIHPZ03	LH	28		Location	Broughton Islandf	Zone	HPZ	Name	BIHPZ03	Date	29/6/22								
+BIHPZ04	CG	22	No stereo	Location	Broughton Island	Zone	HPZ	Name	BIHPZ	Date	29/06/22								
+BIHPZ05	LH	21		Location	Broughton Island	Zone	HPZ	Name	BIHPZ05	Date	29/6/22								
+BIHPZ06	LH	27	CAM1	Location	BI	Zone	HPZ06	Name	BIHPZ06	Date	29/6/22								
+BIHPZ07	LH	23		Location	Broughton Island	Zone	HPZ	Name	BIHPZ07	Date	29/6/22								
+BIHPZ09	LH	28		Location	Broughton Island	Zone	HPZ	Name	HPZ09	Date	30/6/22								
+BISZ01	CG	25		Location	Broughton Is	Zone	SZ	 Name	Broughton										
+BISZ03	CG	30	CAM1	Location	BISZ	Zone	SZ	 Name	BI										
+BISZ04	CG	28	29/06/22	Location	BI	Zone	SZ	 Name											
+BISZ05	CG	28	29/06/22	Location	BI	Zone	SZ	 Name											
+BISZ06	CG	31	Cam1	Location	BISZ06	Zone	SZ	 Name	Broughton Island										
+BISZ07	CG	31	Cam3	Location	Broughton	Zone	SZ	 Name	Broughton SZ										
+BISZ08	CG	23	cam4	Location	BI	Zone	SZ	 Name	Broughton Island										
+BISZ09	CG	26		Location	Broughton Island	Zone	SZ	 Name	BI										
+BOO01	JM	25																	
+BOO02	JM	22																	
+BOO03	JM	21																	
+BOO06	JM	24																	
+BS01	DH	25		Location	Big Seal	Site Name	Seal Rocks	Zoning	SZ										
+BS02	DH	27		Location	Big Seal	Site Name	Seal Rocks	Zoning	SZ										
+BS03	DH	27		Location	Big Seal	Site Name	Seal Rocks	Zoning	SZ										
+BS04	DH	27		Location	Big Seal	Site Name	Seal Rocks	Zoning	SZ										
+CT01	JM	16																	
+CT02	JM	20																	
+CT03	JM	20																	
+CT04	JM	19																	
+CT05	JM	19																	
+CT06	JM	14																	
+CT07	JM	17																	
+CT08	DH	19		Location	Cabbage Tree Island	Zone	SZ	 Name	CT08	Date	21/06/22								
+EB01	LH	25		Location	SR	Zone	GU	Name	EB	Date	23/6/22								
+EB02	LH	25		Location	SR	Zone	GU	Name	EB	Date	23/6/22								
+EB03	LH	30		Location	SR	Zone	GU	Name	EB	Date	23/6/22								
+EB04	LH	25		Location	SR	Zone	GU	Name	EB	Date	23/6/22								
+EB05	CG	31		Location	Seal Rocks	Zone	GU	 Name	EB	Date	23/06/22								
+EB06	DH	30		Location	Edith Breaker	Zone	HPZ	Name	EB06	Date	23/06/22								
+EB07	DH	29		Location	Edith Breaker	Zone	HPZ	Name	EB07	Date	23/06/22								
+EB08	DH	20		Location	Edith Breaker	Zone	HPZ	Name	EB08	Date	23/06/22								
+FIHPZ01	ML	26m		Location	Port Stephens	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FIHPZ02	ML	28		Location	Fingal Island	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FIHPZ04	ML	25m		Location	Fingal Island	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FIHPZ05	ML	23		Location	Fingal Island	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FIHPZ06	ML	28m		Location	Fingal Island	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FIHPZ07	ML	25m		Location	Fingal Island	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FIHPZ08	ML	30m		Location	Fingal Island	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FIHPZ09	ML	30m		Location	Fingal Island	Zone	HPZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ01	ML	30m	Low visibility	Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ02	ML	25m	2nd videos used as 1st lost. Low viz and surgey, on sand.	Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ03	ML	26m		Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ04	ML	26m	Low viz (~3m)	Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ06	ML	27m		Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ07	ML	28m		Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ08	ML	25m		Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+FISZ09	ML	24m	low viz (<2m)	Location	Fingal Island	Zone	SZ	 Name	Fingal Island	Date	19/10/2022								
+LI03	JM	20																	
+LI05	JM	20																	
+LI08	JM	28																	
+LI09	JM	20																	
+LS01	DH	29		Location	Little Seal	Site Name	Seal Rocks	Zoning	SZ										
+LS02	DH	28		Location	Little Seal	Site Name	Seal Rocks	Zoning	SZ										
+LS03	DH	25		Location	Little Seal	Site Name	Seal Rocks	Zoning	SZ										
+LS04	DH	23		Location	Little Seal	Site Name	Seal Rocks	Zoning	SZ										
+NR01	CG	20		Location	BI	Zone	GU	 Name	North Rock	Date	23/06/22								
+NR02	CG	17		Location	NR	Zone	GU	 Name	North Rock	Date	23/06/22								
+NR03	CG	24		Location	BI	Zone	GU	 Name	North Rock	Date	23/06/22								
+NR04	CG	21		Location	BI	Zone	GU	 Name	North Rock	Date	23/06/22								
+NR05	CG	24		Location	BI	Zone	GU	 Name	North Rock	Date	23/06/22								
+NR06	CG	25		Location	BI	Zone	GU	 Name	North Rock	Date	23/06/22								
+NR07	CG	23		Location	BI	Zone	GU	 Name	North Rock	Date	23/06/22								
+NR08	CG	20		Location	BI	Zone	GU	 Name	North Rock	Date	23/06/22								
+OG01	DH	36		Location	Outer Gibber	Zone	OUT	Name	OG01	Date	29/06/22								
+OG02	DH	38		Location	Outer Gibber	Zone	OUT	Name	OG02	Date	29/06/22								
+OG03	DH	45		Location	Outer Gibber	Zone	OUT	Name	OG03	Date	29/06/22								
+OG04	DH	38		Location	Outer Gibber	Zone	OUT	Name	OG06	Date	29/06/22								
+OG05	DH	36		Location	Outer Gibber	Zone	OUT	Name	OG05	Date	29/06/22								
+OG06	DH	36		Location	Outer Gibber	Zone	OUT	Name	OG06	Date	29/06/22								
+OG07	DH	38		Location	Outer Gibber	Zone	OUT	Name	OG07	Date	29/06/22								
+OG08	DH	31		Location	Outer Gibber	Zone	OUT	Name	OG08	Date	29/06/22								
+PN01	Art Schultz	32																	
+PN02	Art Schultz																		
+PN03	Art Schultz	35																	
+PN04	Art Schultz	35																	
+PN05	Art Schultz	40																	
+PN06	Art Schultz	43																	
+PN07	Art Schultz	43																	
+PN08	Art Schultz	37																	
+SM01	Art Schultz																		
+SM03	Art Schultz	48																	
+SM04	Art Schultz	47																	
+SM06	Art Schultz	47																	
+SNR02	ML	26m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								
+SNR03	ML	26m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								
+SNR05	ML	26m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								
+SNR06	ML	29m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								
+SNR07	ML	28m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								
+SNR08	ML	29m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								
+SNR09	ML	28m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								
+SNR10	ML	24m		Location	Snapper Rocks	Zone	OUT	 Name	Snapper Rocks	Date	19/09/2022								

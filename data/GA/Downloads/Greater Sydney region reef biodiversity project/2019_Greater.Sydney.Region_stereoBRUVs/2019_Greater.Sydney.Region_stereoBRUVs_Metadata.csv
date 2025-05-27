@@ -1,0 +1,347 @@
+Sample,Latitude,Longitude,Time,Status,Depth,Successful.count,Successful.length,max.distance,Date,Observer_count,Observer_length,Observer,Site,Location
+HM_4,-34.592205,150.908435,13:44:00,Fished,19,Yes,Yes,4406.3,20190805,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S1,Bass Point
+HM_3,-34.588546,150.902368,13:17:00,Fished,22.6,Yes,Yes,5058.898,20190805,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S1,Bass Point
+HM_2,-34.575536,150.885008,13:02:00,Fished,19,Yes,Yes,1597.44,20190805,Matthew Hammond,Matthew Hammond,Matthew Hammond,S2,Bass Point
+HM_1,-34.565314,150.882118,12:47:00,Fished,16.7,Yes,Yes,4386.727,20190805,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S2,Bass Point
+HP_1,-34.528927,150.907577,13:13:00,Fished,29,Yes,Yes,2030.524,20190509,Daniel Swadling,Daniel Swadling,Daniel Swadling,S3,Bass Point
+HM_6,-34.528782,150.90694,11:27:00,Fished,27.7,Yes,Yes,4088.759,20190612,Jason Jason Delamont,Jason Jason Delamont,Jason Jason Delamont,S3,Bass Point
+HM_7,-34.514861,150.932587,11:40:00,Fished,36,Yes,Yes,3001.916,20190612,Marty Hing,Marty Hing,Marty Hing,AS1,Five islands
+HM_8,-34.498255,150.930412,11:52:00,Fished,24.7,Yes,Yes,5863.446,20190612,Matthew Hammond,Matthew Hammond,Matthew Hammond,S4,Five islands
+HP_2,-34.497517,150.938089,12:56:00,Fished,26.9,Yes,Yes,2260.839,20190509,Daniel Swadling,Daniel Swadling,Daniel Swadling,S4,Five islands
+HM_10,-34.494703,150.941351,12:00:00,Fished,29,Yes,Yes,4610.95,20190612,Marty Hing,Marty Hing,Marty Hing,S4,Five islands
+HM_13,-34.485792,150.93842,12:11:00,Fished,21.5,Yes,Yes,6196.118,20190612,Marty Hing,Marty Hing,Marty Hing,AS2,Five islands
+HM_14,-34.481237,150.942087,12:19:00,Fished,27.9,Yes,Yes,3183.528,20190612,Marty Hing,Marty Hing,Marty Hing,AS2,Five islands
+HM_15,-34.475713,150.922962,13:30:00,Fished,16,Yes,Yes,2595.94,20190612,Marty Hing,Marty Hing,Marty Hing,AS2,Five islands
+HM_16,-34.472348,150.928482,13:39:00,Fished,20,Yes,Yes,4247.982,20190612,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS2,Five islands
+HP_5,-34.468679,150.945024,12:19:00,Fished,23.7,Yes,Yes,2961.263,20190509,Daniel Swadling,Daniel Swadling,Daniel Swadling,S5,Five islands
+HP_6,-34.464446,150.93782,12:11:00,Fished,25.6,Yes,Yes,6495.503,20190509,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS3,Five islands
+HM_17,-34.463194,150.949291,13:50:00,Fished,29.7,Yes,Yes,4655.42,20190612,Marty Hing,Marty Hing,Marty Hing,S5,Five islands
+HM_18,-34.462436,150.936654,8:30:00,Fished,23.7,Yes,Yes,6394.008,20190613,Marty Hing,Marty Hing,Marty Hing,AS3,Five islands
+HM_19,-34.462127,150.925363,10:54:00,Fished,19.6,Yes,Yes,7985.607,20190614,Matthew Hammond,Matthew Hammond,Matthew Hammond,S6,Five islands
+HM_21,-34.459613,150.951766,8:48:00,Fished,35.5,Yes,Yes,3292.149,20190613,Marty Hing,Marty Hing,Marty Hing,S5,Five islands
+HP_8,-34.458908,150.925579,11:59:00,Fished,24,Yes,Yes,3920.312,20190509,Daniel Swadling,Daniel Swadling,Daniel Swadling,S6,Five islands
+HM_22,-34.457239,150.939274,8:39:00,Fished,24,Yes,Yes,10574.34,20190613,Marty Hing,Marty Hing,Marty Hing,AS3,Five islands
+HM_26,-34.450952,150.94106,9:00:00,Fished,30.5,Yes,Yes,4508.902,20190613,Marty Hing,Marty Hing,Marty Hing,AS4,Five islands
+HM_28,-34.449174,150.931353,11:05:00,Fished,20.9,Yes,Yes,4173.289,20190614,Marty Hing,Marty Hing,Marty Hing,S6,Five islands
+HP_12,-34.446884,150.938674,13:44:00,Fished,25.6,Yes,Yes,6124.613,20190509,Marty Hing,Marty Hing,Marty Hing,S6,Five islands
+HM_29,-34.446714,150.954405,11:14:00,Fished,36,Yes,Yes,4393.836,20190614,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS4,Five islands
+HM_31,-34.439462,150.914138,11:38:00,Fished,22,Yes,Yes,4266.755,20190614,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS5,Wollongong
+HM_32,-34.436407,150.925677,11:32:00,Fished,25.6,Yes,Yes,5008.764,20190614,Marty Hing,Marty Hing,Marty Hing,AS5,Wollongong
+HM_35,-34.433977,150.979882,12:32:00,Fished,32.1,Yes,Yes,9871.659,20190807,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS6,Wollongong
+HM_37,-34.430006,150.929939,11:24:00,Fished,22.9,Yes,Yes,7586.921,20190614,Marty Hing,Marty Hing,Marty Hing,AS5,Wollongong
+HM_36,-34.428858,150.980538,8:27:00,Fished,29.7,Yes,Yes,2446.197,20190614,Marty Hing,Marty Hing,Marty Hing,AS6,Wollongong
+HM_39,-34.428206,150.955864,8:47:00,Fished,31.4,Yes,Yes,3062.619,20190614,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS7,Wollongong
+HM_40,-34.428176,150.961016,12:21:00,Fished,33.1,Yes,Yes,6290.576,20190807,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS7,Wollongong
+HM_41,-34.426568,150.925061,9:22:00,Fished,26.4,Yes,Yes,5812.434,20190614,Marty Hing,Marty Hing,Marty Hing,AS5,Wollongong
+HM_42,-34.423738,150.972866,8:36:00,Fished,35.2,Yes,Yes,6297.062,20190614,Marty Hing,Marty Hing,Marty Hing,AS6,Wollongong
+HM_43,-34.421342,150.951269,9:00:00,Fished,33.7,Yes,Yes,5420.429,20190614,Marty Hing,Marty Hing,Marty Hing,AS7,Wollongong
+HP_17,-34.418573,150.926114,9:44:00,Fished,25.9,Yes,No,3509.294,20190510,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS8,Wollongong
+HM_44,-34.417399,150.966952,12:14:00,Fished,39.1,Yes,Yes,3215.797,20190807,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS9,Wollongong
+HM_45,-34.41627,150.959467,12:05:00,Fished,34.1,Yes,Yes,5715.666,20190807,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS9,Wollongong
+HM_46,-34.415296,150.924126,9:12:00,Fished,25.8,Yes,Yes,5413.166,20190614,Marty Hing,Marty Hing,Marty Hing,AS8,Wollongong
+HP_19,-34.414746,150.923195,9:38:00,Fished,24.5,Yes,Yes,3981.717,20190510,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS8,Wollongong
+HM_47,-34.4085,150.955288,11:58:00,Fished,29.4,Yes,Yes,7758.585,20190807,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS10,Wollongong
+HM_48,-34.405591,150.958409,11:51:00,Fished,30.4,Yes,Yes,1539.253,20190807,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS10,Wollongong
+HM_49,-34.404666,150.965389,10:48:00,Fished,32.6,Yes,Yes,4389.66,20190807,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS10,Wollongong
+HP_20,-34.403586,150.951529,10:03:00,Fished,33.3,Yes,Yes,6444.061,20190510,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS10,Wollongong
+HM_50,-34.402652,150.932124,13:41:00,Fished,27.7,Yes,Yes,4306.914,20190613,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS11,Wollongong
+HM_53,-34.398116,150.962072,10:30:00,Fished,35.3,Yes,Yes,7249.366,20190807,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS10,Wollongong
+HM_54,-34.39696,150.982071,13:12:00,Fished,35.3,Yes,Yes,4207.778,20190613,Marty Hing,Marty Hing,Marty Hing,S7,Wollongong
+HM_56,-34.396314,150.949338,13:31:00,Fished,26.9,Yes,Yes,6541.426,20190613,Jason Jason Delamont,Jason Jason Delamont,Jason Jason Delamont,AS11,Wollongong
+HM_55,-34.396289,150.973039,13:19:00,Fished,34.5,Yes,Yes,7794.862,20190613,Marty Hing,Marty Hing,Marty Hing,S7,Wollongong
+HM_57,-34.394551,150.969035,10:22:00,Fished,34.9,Yes,Yes,5792.032,20190807,Matthew Hammond,Matthew Hammond,Matthew Hammond,S7,Wollongong
+HM_58,-34.394008,150.985989,13:05:00,Fished,39.9,Yes,Yes,10859.894,20190613,Jason Jason Delamont,Jason Jason Delamont,Jason Jason Delamont,S7,Wollongong
+HM_59,-34.387804,150.934027,13:51:00,Fished,20.1,Yes,Yes,4629.745,20190613,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS11,Wollongong
+HM_61,-34.383588,150.963553,11:29:00,Fished,31.6,Yes,Yes,5452.765,20190613,Jason Jason Delamont,Jason Jason Delamont,Jason Jason Delamont,AS12,Bellambi
+HM_64,-34.380294,150.967312,10:12:00,Fished,36.4,Yes,Yes,4723.236,20190613,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS12,Bellambi
+HM_65,-34.379484,150.950242,11:38:00,Fished,19.3,Yes,Yes,5965.2,20190613,Marty Hing,Marty Hing,Marty Hing,S8,Bellambi
+HM_66,-34.378688,150.972788,11:21:00,Fished,39.9,Yes,Yes,10697.607,20190613,Marty Hing,Marty Hing,Marty Hing,AS12,Bellambi
+HM_69,-34.377621,150.979398,10:01:00,Fished,41,Yes,Yes,5400.487,20190807,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS12,Bellambi
+HM_71,-34.374808,150.967675,11:09:00,Fished,35.5,Yes,Yes,10204.962,20190613,Marty Hing,Marty Hing,Marty Hing,AS12,Bellambi
+HM_72,-34.370801,150.960554,11:02:00,Fished,30.7,Yes,Yes,5428.473,20190613,Marty Hing,Marty Hing,Marty Hing,S8,Bellambi
+HM_73,-34.370347,150.978568,9:35:00,Fished,40,Yes,Yes,6158.989,20190807,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS12,Bellambi
+HM_74,-34.368764,150.946591,10:54:00,Fished,20,Yes,Yes,5383.406,20190613,Matthew Hammond,Matthew Hammond,Matthew Hammond,S8,Bellambi
+HM_329,-34.362808,150.948733,15:00:00,Fished,23.2,Yes,Yes,8495.887,20191003,Marty Hing,Marty Hing,Marty Hing,S8,Bellambi
+HM_343,-34.34818,150.943194,14:51:00,Fished,22.3,Yes,Yes,7973.835,20191003,Marty Hing,Marty Hing,Marty Hing,AS13,Bellambi
+HM_346,-34.339651,150.943174,14:44:00,Fished,23.2,Yes,Yes,11181.832,20191003,Marty Hing,Marty Hing,Marty Hing,AS13,Bellambi
+HM_347,-34.322683,150.950352,14:35:00,Fished,23.6,Yes,Yes,7589.537,20191003,Marty Hing,Marty Hing,Marty Hing,AS13,Coal coast
+HM_75,-34.322407,150.972403,12:15:00,Fished,37.7,Yes,Yes,10237.133,20190103,Marty Hing,Marty Hing,Marty Hing,AS14,Coal coast
+HM_77,-34.308215,150.961928,12:08:00,Fished,24.4,Yes,Yes,4695.143,20190103,Marty Hing,Marty Hing,Marty Hing,AS14,Coal coast
+HM_78,-34.307391,150.981588,12:27:00,Fished,35.6,Yes,Yes,12286.125,20190103,Marty Hing,Marty Hing,Marty Hing,AS14,Coal coast
+HM_79,-34.297263,150.968101,11:55:00,Fished,22.8,Yes,Yes,9328.692,20190103,Marty Hing,Marty Hing,Marty Hing,AS14,Coal coast
+HM_328,-34.296817,150.975662,11:49:00,Fished,25.4,Yes,Yes,7709.762,20191003,Marty Hing,Marty Hing,Marty Hing,AS14,Coal coast
+HM_82,-34.2794,150.990506,14:54:00,Fished,36.9,Yes,Yes,3526.412,20190806,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S9,Coal coast
+HM_83,-34.278144,150.97977,13:17:00,Fished,28.8,Yes,Yes,4309.7,20190806,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS15,Coal coast
+HM_349,-34.275217,150.992419,11:28:00,Fished,35.4,Yes,Yes,7475.226,20191003,Marty Hing,Marty Hing,Marty Hing,S9,Coal coast
+HM_327,-34.273998,150.974168,11:38:00,Fished,20.5,Yes,Yes,5428.329,20191003,Marty Hing,Marty Hing,Marty Hing,AS15,Coal coast
+HM_84,-34.271429,150.994404,14:41:00,Fished,36.1,Yes,Yes,2265.044,20190806,Matthew Hammond,Matthew Hammond,Matthew Hammond,S9,Coal coast
+HM_85,-34.271197,150.983554,13:08:00,Fished,27.4,Yes,Yes,3289.722,20190806,Matthew Hammond,Matthew Hammond,Matthew Hammond,S9,Coal coast
+HM_86,-34.266347,150.986605,13:01:00,Fished,28.4,Yes,Yes,2437.524,20190806,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS15,Coal coast
+HM_87,-34.263298,150.998531,14:34:00,Fished,35.1,Yes,Yes,5205.42,20190806,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S9,Coal coast
+HM_88,-34.262362,150.988957,12:52:00,Fished,27.8,Yes,Yes,3437.17,20190806,Matthew Hammond,Matthew Hammond,Matthew Hammond,S10,Coal coast
+HM_89,-34.258388,150.991364,12:43:00,Fished,27,Yes,No,3354.14,20190806,Matthew Hammond,Matthew Hammond,Matthew Hammond,S10,Coal coast
+HM_91_R,-34.253451,150.993622,11:04:00,Fished,28.1,Yes,Yes,10543.029,20191003,Marty Hing,Marty Hing,Marty Hing,S10,Coal coast
+HM_325,-34.245078,150.995201,10:55:00,Fished,25.6,Yes,Yes,6107.882,20191003,Marty Hing,Marty Hing,Marty Hing,S10,Coal coast
+HM_324,-34.227365,151.012412,9:28:00,Fished,26.1,Yes,Yes,10125.504,20191003,Marty Hing,Marty Hing,Marty Hing,S11,Otford
+HM_323,-34.226351,151.00907,9:20:00,Fished,21.1,Yes,No,3502.469,20191003,Marty Hing,Marty Hing,Marty Hing,S11,Otford
+HM_95,-34.221409,151.011273,11:39:00,Fished,15.6,Yes,Yes,2238.722,20190806,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S11,Otford
+HM_92_R,-34.219076,151.016757,9:11:00,Fished,16.9,Yes,Yes,9754.443,20191003,Marty Hing,Marty Hing,Marty Hing,S11,Otford
+HM_93_R,-34.215457,151.022502,9:02:00,Fished,20.8,Yes,Yes,8579.46,20191003,Marty Hing,Marty Hing,Marty Hing,S11,Otford
+HM_322,-34.212436,151.028417,8:53:00,Fished,25.4,Yes,Yes,6398.513,20191003,Marty Hing,Marty Hing,Marty Hing,S12,Otford
+HM_321,-34.211967,151.033758,8:41:00,Fished,26.2,Yes,Yes,7642.741,20191003,Marty Hing,Marty Hing,Marty Hing,S12,Otford
+HM_97,-34.138057,151.129585,9:50:00,Fished,17.4,Yes,Yes,5654.078,20190710,Marty Hing,Marty Hing,Marty Hing,S13,Royal NP
+HP_174,-34.115324,151.154071,13:00:00,Fished,18.2,Yes,Yes,6824.374,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,S13,Royal NP
+HP_51,-34.115132,151.154094,12:20:00,Fished,20.2,Yes,No,9000,20190515,Marty Hing,Marty Hing,Marty Hing,S13,Royal NP
+HM_98,-34.114576,151.154668,9:25:00,Fished,20.9,Yes,Yes,6170.776,20190710,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S13,Royal NP
+HM_99,-34.10695,151.1585,9:18:00,Fished,17.5,Yes,Yes,9223.342,20190710,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S13,Royal NP
+HP_52,-34.106793,151.158876,12:08:00,Fished,19.7,Yes,Yes,5755.68,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,S13,Royal NP
+HM_100,-34.105745,151.161089,9:05:00,Fished,23.6,Yes,No,11666.66667,20190710,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S13,Royal NP
+HM_102,-34.085877,151.175199,8:40:00,Fished,23.1,Yes,Yes,7814.24,20190710,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S14,Royal NP
+HM_101,-34.084978,151.177064,8:50:00,Fished,21.5,Yes,Yes,6235.441,20190710,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S14,Royal NP
+HP_53,-34.08069,151.179303,11:49:00,Fished,22.6,Yes,Yes,6594.954,20190515,Marty Hing,Marty Hing,Marty Hing,S14,Royal NP
+HP_54,-34.076296,151.181442,11:40:00,Fished,21.7,Yes,Yes,4529.091,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,S14,Royal NP
+HM_103,-34.061548,151.185982,10:02:00,Fished,19.4,Yes,Yes,4769.072,20190726,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS16,Cronulla
+HP_55,-34.061048,151.186664,11:26:00,Fished,20,Yes,Yes,4991.204,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS16,Cronulla
+HM_104,-34.05929,151.209385,10:18:00,Fished,35.2,Yes,Yes,6043.133,20190726,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS16,Cronulla
+HM_105,-34.051158,151.197764,10:41:00,Fished,26.7,Yes,Yes,5619.433,20190726,Marty Hing,Marty Hing,Marty Hing,S15,Cronulla
+HM_107,-34.047851,151.203138,10:33:00,Fished,21.1,Yes,Yes,6225.881,20190726,Marty Hing,Marty Hing,Marty Hing,S15,Cronulla
+HP_56,-34.046631,151.216852,10:00:00,Fished,31.2,Yes,Yes,4550.715,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,S16,Cronulla
+HP_57,-34.04579,151.22237,9:52:00,Fished,35.1,Yes,Yes,5162.957,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,S16,Cronulla
+HP_173,-34.04421,151.214518,10:19:00,Fished,20.8,Yes,Yes,5720.01,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,S16,Cronulla
+HM_108,-34.040813,151.225055,11:42:00,Fished,30.1,Yes,Yes,6744.137,20190710,Marty Hing,Marty Hing,Marty Hing,S16,Cronulla
+HP_175,-34.036938,151.226555,14:47:00,Fished,25.2,Yes,Yes,5557.286,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS17,South Botany
+HP_58,-34.036373,151.237548,9:39:00,Fished,47,Yes,Yes,5131.506,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS17,South Botany
+HP_177,-34.034567,151.228233,15:05:00,Fished,23.5,Yes,Yes,9332.629,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS17,South Botany
+HM_110,-34.032233,151.234951,15:21:00,Fished,40.5,Yes,Yes,4931.86,20190708,Marty Hing,Marty Hing,Marty Hing,AS17,South Botany
+HP_59,-34.031211,151.234067,9:29:00,Fished,35.3,Yes,Yes,3916.467,20190515,Jason Jason Delamont,Jason Jason Delamont,Jason Jason Delamont,AS17,South Botany
+HM_111,-34.028462,151.235388,15:13:00,Fished,33.5,Yes,Yes,4975.462,20190708,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS17,South Botany
+HP_176,-34.028452,151.231907,14:58:00,Fished,28.8,Yes,Yes,7267.493,20190515,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS17,South Botany
+HP_60,-34.023619,151.239942,9:30:00,Fished,42,Yes,Yes,3220.099,20190514,Marty Hing,Marty Hing,Marty Hing,S17,South Botany
+HM_112,-34.021625,151.235129,14:56:00,Fished,31.1,Yes,Yes,8871.199,20190808,Marty Hing,Marty Hing,Marty Hing,S17,South Botany
+HM_113,-34.019924,151.237576,14:48:00,Fished,33.5,Yes,Yes,6866.173,20190708,Marty Hing,Marty Hing,Marty Hing,S17,South Botany
+HP_61,-34.018671,151.235211,9:41:00,Fished,26.5,Yes,Yes,7234.781,20190514,Marty Hing,Marty Hing,Marty Hing,S17,South Botany
+HM_114,-34.015188,151.238905,14:40:00,Fished,31,Yes,Yes,5311.028,20190708,Matthew Hammond,Matthew Hammond,Matthew Hammond,S18,South Botany
+HP_62,-34.012906,151.236947,9:51:00,Fished,22.7,Yes,Yes,6172.134,20190514,Marty Hing,Marty Hing,Marty Hing,S18,South Botany
+HM_115,-34.010206,151.236574,14:30:00,Fished,21.5,Yes,Yes,6834.146,20190708,Marty Hing,Marty Hing,Marty Hing,S18,South Botany
+HP_63,-34.007966,151.251,10:25:00,Fished,26.7,Yes,Yes,5965.249,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S19,North Botany
+HM_116,-34.006833,151.248394,11:43:00,Fished,23.4,Yes,Yes,5127.56,20190726,Matthew Hammond,Matthew Hammond,Matthew Hammond,S19,North Botany
+HM_117,-34.005367,151.252164,11:50:00,Fished,27.1,Yes,Yes,5303.447,20190726,Matthew Hammond,Matthew Hammond,Matthew Hammond,S19,North Botany
+HP_64,-34.005143,151.247197,10:14:00,Fished,18.3,Yes,Yes,5657.935,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S19,North Botany
+HP_65,-34.002762,151.254541,10:35:00,Fished,30.5,Yes,Yes,4696.654,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S19,North Botany
+HM_118,-34.002041,151.244526,14:15:00,Fished,18.5,Yes,Yes,2155.887,20190710,Marty Hing,Marty Hing,Marty Hing,S20,North Botany
+HM_315,-34.000343,151.238713,14:20:00,Fished,20.9,Yes,Yes,5405.37,20190710,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S20,North Botany
+HP_66,-34.000148,151.238169,10:04:00,Fished,19.7,Yes,Yes,5135.263,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S20,North Botany
+HM_119,-33.999178,151.254753,12:45:00,Fished,31,Yes,Yes,7759.74,20190710,Marty Hing,Marty Hing,Marty Hing,AS18,North Botany
+HP_67,-33.998103,151.253219,10:43:00,Fished,21.6,Yes,Yes,5088.309,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS18,North Botany
+HM_120,-33.994986,151.256918,12:50:00,Fished,31.3,Yes,Yes,2189.333,20190710,Marty Hing,Marty Hing,Marty Hing,AS18,North Botany
+HP_68,-33.992632,151.257592,10:51:00,Fished,30.2,Yes,Yes,4974.555,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS18,North Botany
+HM_121,-33.990998,151.260475,12:57:00,Fished,40.2,Yes,Yes,7578.751,20190710,Marty Hing,Marty Hing,Marty Hing,S21,North Botany
+HM_122,-33.984938,151.259636,13:02:00,Fished,30.1,Yes,Yes,9088.182,20190710,Marty Hing,Marty Hing,Marty Hing,S21,North Botany
+HM_314,-33.97764,151.261921,13:09:00,Fished,26.5,Yes,Yes,6048.356,20190710,Marty Hing,Marty Hing,Marty Hing,S21,North Botany
+HP_69,-33.972611,151.267446,12:32:00,Fished,29,Yes,Yes,5788.09,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S22,North Botany
+HP_171,-33.965359,151.267198,12:48:00,Fished,20.5,Yes,No,9666.666667,20190514,Marty Hing,,Marty Hing,S22,North Botany
+HM_124,-33.939937,151.270147,14:10:00,Fished,24.1,Yes,Yes,6452.719,20190709,Marty Hing,Marty Hing,Marty Hing,AS19,Coogee-Bondi
+HM_125,-33.93766,151.27547,14:02:00,Fished,29.4,Yes,Yes,7101.142,20190709,Marty Hing,Marty Hing,Marty Hing,AS19,Coogee-Bondi
+HM_126,-33.937086,151.26941,13:54:00,Fished,27.1,Yes,Yes,4749.603,20190709,Marty Hing,Marty Hing,Marty Hing,AS19,Coogee-Bondi
+HP_70,-33.935815,151.271291,12:56:00,Fished,26,Yes,Yes,6406.2,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS19,Coogee-Bondi
+HM_127,-33.935036,151.266995,13:47:00,Fished,23.7,Yes,Yes,7408.196,20190709,Marty Hing,Marty Hing,Marty Hing,AS19,Coogee-Bondi
+HM_128,-33.930832,151.268344,13:38:00,Fished,22.9,Yes,No,11666.66667,20190709,Marty Hing,Marty Hing,Marty Hing,S23,Coogee-Bondi
+HP_172,-33.926627,151.268463,13:10:00,Fished,21,Yes,Yes,9696.026,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S23,Coogee-Bondi
+HM_129,-33.916033,151.273299,13:28:00,Fished,24.5,Yes,Yes,7227.506,20190709,Marty Hing,Marty Hing,Marty Hing,S23,Coogee-Bondi
+HM_130,-33.894439,151.28712,8:48:00,Fished,19.3,Yes,Yes,6117.521,20190709,Marty Hing,Marty Hing,Marty Hing,S24,Coogee-Bondi
+HP_71,-33.894349,151.288969,13:28:00,Fished,29.3,Yes,Yes,6275.738,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S24,Coogee-Bondi
+HM_131,-33.8892,151.290609,8:57:00,Fished,30.7,Yes,Yes,5102.311,20190709,Daniel Swadling,Daniel Swadling,Daniel Swadling,S24,Coogee-Bondi
+HP_72,-33.886571,151.291525,13:35:00,Fished,36.3,Yes,Yes,8279.857,20190514,Daniel Swadling,Daniel Swadling,Daniel Swadling,S24,Coogee-Bondi
+HM_132,-33.867603,151.286449,9:10:00,Fished,30.9,Yes,Yes,9702.548,20190709,Marty Hing,Marty Hing,Marty Hing,S25,Port Jackson Hd
+HM_133,-33.849385,151.292316,9:22:00,Fished,21.9,Yes,Yes,6429.664,20190709,Marty Hing,Marty Hing,Marty Hing,S25,Port Jackson Hd
+HM_134,-33.849275,151.289887,9:32:00,Fished,20.2,Yes,Yes,6609.484,20190709,Daniel Swadling,Daniel Swadling,Daniel Swadling,S25,Port Jackson Hd
+HP_73,-33.848857,151.290444,9:40:00,Fished,21.4,Yes,Yes,8152.667,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S25,Port Jackson Hd
+HM_135,-33.835073,151.284601,9:39:00,Fished,19.3,Yes,Yes,7773.04,20190709,Matthew Hammond,Matthew Hammond,Matthew Hammond,S25,Port Jackson Hd
+HP_74,-33.834126,151.284951,9:59:00,Fished,20,Yes,Yes,6429.121,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S25,Port Jackson Hd
+HM_136,-33.825242,151.304529,11:18:00,Fished,34.2,Yes,Yes,6716.415,20190709,Marty Hing,Marty Hing,Marty Hing,S26,Port Jackson Hd
+HP_75,-33.823954,151.303345,10:10:00,Fished,25.5,Yes,Yes,4622.976,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S26,Port Jackson Hd
+HM_137,-33.820815,151.305525,11:24:00,Fished,30,Yes,Yes,8165.047,20190709,Marty Hing,Marty Hing,Marty Hing,S26,Port Jackson Hd
+HM_138,-33.819568,151.30978,11:30:00,Fished,33,Yes,Yes,5908.076,20190709,Marty Hing,Marty Hing,Marty Hing,S26,Port Jackson Hd
+HP_76,-33.816332,151.309365,10:22:00,Fished,30.4,Yes,Yes,7286.657,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS20,Port Jackson Hd
+HM_139,-33.814071,151.307263,11:28:00,Fished,24,Yes,Yes,8557.114,20190709,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS20,Port Jackson Hd
+HM_140,-33.813471,151.311934,11:45:00,Fished,31.9,Yes,Yes,6338.633,20190709,Marty Hing,Marty Hing,Marty Hing,AS20,Port Jackson Hd
+HM_141,-33.809633,151.312407,11:58:00,Fished,31.2,Yes,Yes,5009.09,20190709,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS20,Port Jackson Hd
+HP_78,-33.805949,151.327286,12:28:00,Fished,38.2,Yes,Yes,5568.846,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS21,Port Jackson Hd
+HM_142,-33.804752,151.315452,12:41:00,Fished,33.6,Yes,Yes,5847.323,20190722,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS20,Port Jackson Hd
+HM_143,-33.80368,151.326479,12:51:00,Fished,35.6,Yes,Yes,4138.253,20190722,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS21,Port Jackson Hd
+HM_144,-33.8003,151.302573,12:28:00,Fished,17.8,Yes,Yes,6554.541,20190722,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S27,Manly
+HP_79,-33.799845,151.302958,11:34:00,Fished,19.3,Yes,Yes,4694.843,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S27,Manly
+HM_145,-33.795012,151.311315,13:16:00,Fished,30.1,Yes,Yes,5532.621,20190722,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S27,Manly
+HP_81,-33.794302,151.329062,12:14:00,Fished,35.1,Yes,Yes,4022.13,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS22,Manly
+HP_82,-33.793298,151.322007,12:00:00,Fished,32.2,Yes,Yes,2476.212,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS22,Manly
+HM_146,-33.792991,151.324142,13:01:00,Fished,33.2,Yes,Yes,6548.389,20190722,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,AS22,Manly
+HP_83,-33.792069,151.307035,11:48:00,Fished,20.5,Yes,Yes,5893.497,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S27,Manly
+HM_147,-33.788911,151.306724,13:11:00,Fished,23.1,Yes,Yes,5493.304,20190724,Marty Hing,Marty Hing,Marty Hing,S27,Manly
+HM_148,-33.786214,151.321142,14:36:00,Fished,32.8,Yes,Yes,5538.282,20190722,Daniel Swadling,Daniel Swadling,Daniel Swadling,S28,Manly
+HM_149,-33.785141,151.329024,14:44:00,Fished,34.2,Yes,Yes,7882.409,20190722,Marty Hing,Marty Hing,Marty Hing,S28,Manly
+HP_84,-33.785108,151.33142,12:10:00,Fished,35,Yes,Yes,6719.483,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S28,Manly
+HM_150,-33.782445,151.309636,15:04:00,Fished,27.6,Yes,Yes,11920.635,20190722,Marty Hing,Marty Hing,Marty Hing,S28,Manly
+HM_151,-33.78169,151.334714,14:53:00,Fished,38.8,Yes,Yes,8096.7,20190722,Marty Hing,Marty Hing,Marty Hing,AS23,Manly
+HM_152,-33.775307,151.315833,13:20:00,Fished,32.4,Yes,Yes,3744.561,20190724,Marty Hing,Marty Hing,Marty Hing,AS23,Manly
+HM_153,-33.767613,151.316786,13:32:00,Fished,21.9,Yes,Yes,6681.558,20190724,Marty Hing,Marty Hing,Marty Hing,AS24,Long Reef
+HM_154,-33.765607,151.32139,15:38:00,Fished,24.6,Yes,Yes,8915.875,20190724,Marty Hing,Marty Hing,Marty Hing,AS24,Long Reef
+HP_86,-33.765084,151.320163,13:47:00,Fished,20.1,Yes,Yes,2311.842,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS24,Long Reef
+HM_155,-33.764785,151.336452,15:29:00,Fished,30.8,Yes,Yes,7617.952,20190724,Marty Hing,Marty Hing,Marty Hing,AS25,Long Reef
+HM_157,-33.762999,151.338981,15:42:00,Fished,32.7,Yes,Yes,6351.416,20190724,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS25,Long Reef
+HP_88,-33.761131,151.333474,13:54:00,Fished,23.7,Yes,Yes,5872.998,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS25,Long Reef
+HM_158,-33.76014,151.32307,13:45:00,Fished,19.1,Yes,Yes,1960.466,20190724,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS24,Long Reef
+HM_159,-33.759155,151.354064,9:11:00,Fished,35,Yes,No,2369.452,20190723,Marty Hing,Marty Hing,Marty Hing,AS26,Long Reef
+HM_160,-33.758357,151.333555,15:43:00,Fished,24.5,Yes,Yes,8556.969,20190724,Marty Hing,Marty Hing,Marty Hing,AS25,Long Reef
+HM_161,-33.754332,151.326301,13:56:00,Fished,21.9,Yes,Yes,7047.821,20190724,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS24,Long Reef
+HM_162,-33.753788,151.335563,15:02:00,Fished,18.4,Yes,Yes,4399.136,20190724,Marty Hing,Marty Hing,Marty Hing,AS25,Long Reef
+HM_163,-33.753703,151.346817,9:02:00,Fished,30.4,Yes,Yes,6559.255,20190723,Marty Hing,Marty Hing,Marty Hing,AS26,Long Reef
+HM_164,-33.75252,151.357162,9:22:00,Fished,36.8,Yes,Yes,3703.47,20190723,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS26,Long Reef
+HM_165,-33.751033,151.33188,8:50:00,Fished,26.4,Yes,Yes,9433.026,20190723,Marty Hing,Marty Hing,Marty Hing,S31,Long Reef
+HM_166,-33.749987,151.341988,9:33:00,Fished,23.6,Yes,Yes,2565.899,20190723,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S30,Long Reef
+HP_94,-33.749035,151.337054,14:02:00,Fished,22.8,Yes,Yes,NA,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S31,Long Reef
+HM_167,-33.745054,151.335161,10:32:00,Fished,23.2,Yes,Yes,9849.228,20190723,Marty Hing,Marty Hing,Marty Hing,S31,Long Reef
+HM_168,-33.744312,151.341504,9:42:00,Fished,27.6,Yes,Yes,6801.064,20190723,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S30,Long Reef
+HM_169,-33.74228,151.345116,9:56:00,Fished,31.8,Yes,Yes,8923.933,20190723,Marty Hing,Marty Hing,Marty Hing,S30,Long Reef
+HM_170,-33.741384,151.335334,10:20:00,Fished,27.2,Yes,Yes,8702.793,20190723,Marty Hing,Marty Hing,Marty Hing,S31,Long Reef
+HM_171,-33.738044,151.340799,12:17:00,Fished,35.9,Yes,Yes,6912.688,20190723,Marty Hing,Marty Hing,Marty Hing,S30,Long Reef
+HM_172,-33.736631,151.329784,13:22:00,Fished,25.1,Yes,Yes,10648.316,20190723,Marty Hing,Marty Hing,Marty Hing,S31,Long Reef
+HP_97,-33.73649,151.337917,14:11:00,Fished,31.1,Yes,Yes,4627.911,20190517,Daniel Swadling,Daniel Swadling,Daniel Swadling,S30,Long Reef
+HM_173,-33.735015,151.333931,12:25:00,Fished,29.4,Yes,Yes,7545.515,20190723,Marty Hing,Marty Hing,Marty Hing,S31,Long Reef
+HM_174,-33.731922,151.320707,13:12:00,Fished,20.8,Yes,Yes,8189.51,20190723,Marty Hing,Marty Hing,Marty Hing,AS27,Long Reef
+HM_175,-33.72889,151.332419,12:32:00,Fished,30.8,Yes,Yes,9911.122,20190723,Marty Hing,Marty Hing,Marty Hing,AS27,Long Reef
+HM_176,-33.720522,151.328663,12:41:00,Fished,28.5,Yes,Yes,3717.84,20190723,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS27,Long Reef
+HM_177,-33.719526,151.322508,12:49:00,Fished,21.4,Yes,Yes,5987.097,20190723,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS27,Long Reef
+HM_178,-33.714491,151.316888,13:01:00,Fished,16,Yes,Yes,3878.476,20190723,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS28,Long Reef
+HM_179,-33.703276,151.324338,14:18:00,Fished,18.3,Yes,Yes,4359.748,20190725,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS28,Long Reef
+HM_180,-33.695252,151.329817,14:07:00,Fished,22.4,Yes,Yes,5710.515,20190725,Marty Hing,Marty Hing,Marty Hing,S32,Mona Vale
+HM_181,-33.689208,151.330646,13:58:00,Fished,22.9,Yes,Yes,6592.58,20190725,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S32,Mona Vale
+HM_182,-33.683429,151.33567,13:51:00,Fished,31.7,Yes,Yes,4128.324,20190725,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S32,Mona Vale
+HM_183,-33.674995,151.331553,13:42:00,Fished,21.6,Yes,No,8000,20190725,Marty Hing,Marty Hing,Marty Hing,S32,Mona Vale
+HM_184,-33.66594,151.33853,13:33:00,Fished,24.1,Yes,Yes,6298.477,20190725,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S33,Mona Vale
+HM_185,-33.658183,151.344274,9:01:00,Fished,28.4,Yes,Yes,8959.214,20190725,Daniel Swadling,Daniel Swadling,Daniel Swadling,S33,Mona Vale
+HM_186,-33.648115,151.341982,9:12:00,Fished,18.6,Yes,No,9333.333333,20190725,Marty Hing,Marty Hing,Marty Hing,S33,Mona Vale
+HM_188,-33.635201,151.353226,9:42:00,Fished,28.1,Yes,Yes,4948.839,20190725,Marty Hing,Marty Hing,Marty Hing,S34,Avalon
+HM_187,-33.634927,151.345734,9:22:00,Fished,23.2,Yes,Yes,5957.921,20190725,Matthew Hammond,Matthew Hammond,Matthew Hammond,S34,Avalon
+HP_104,-33.634542,151.346105,14:13:00,Fished,22.8,Yes,Yes,6094.345,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,S34,Avalon
+HP_106,-33.634494,151.346014,14:20:00,Fished,23.2,Yes,Yes,4055.64,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,S34,Avalon
+HP_105,-33.63309,151.352287,14:05:00,Fished,29.3,Yes,Yes,6373.739,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,S34,Avalon
+HM_189,-33.623124,151.357958,9:51:00,Fished,32,Yes,Yes,3729.515,20190725,Lachlan Fetterplace,Lachlan Fetterplace,Lachlan Fetterplace,S34,Avalon
+HM_190,-33.611416,151.344406,10:08:00,Fished,22.3,Yes,Yes,2360.647,20190725,Matthew Hammond,Matthew Hammond,Matthew Hammond,S35,Avalon
+HM_191,-33.600087,151.349526,10:17:00,Fished,28.1,Yes,Yes,6000.383,20190725,Marty Hing,Marty Hing,Marty Hing,S35,Avalon
+HP_107,-33.600034,151.345314,15:09:00,Fished,23.1,Yes,Yes,2434.018,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,S35,Avalon
+HM_192,-33.597213,151.337321,10:29:00,Fished,21.3,Yes,Yes,5456.185,20190725,Daniel Swadling,Daniel Swadling,Daniel Swadling,S35,Avalon
+HM_193,-33.58314,151.340494,10:42:00,Fished,20.5,Yes,Yes,6568.369,20190725,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS29,Avalon
+HP_108,-33.583051,151.340421,15:19:00,Fished,18.8,Yes,Yes,4693.333,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS29,Avalon
+HM_195,-33.552602,151.396172,14:12:00,Fished,23.2,Yes,Yes,6520.819,20190828,Marty Hing,Marty Hing,Marty Hing,S37,Hawkesbury
+HM_194,-33.552042,151.367986,14:02:00,Fished,21.7,Yes,Yes,4399.906,20190828,Marty Hing,Marty Hing,Marty Hing,S36,Hawkesbury
+HP_109,-33.550498,151.404186,11:36:00,Fished,26.5,Yes,Yes,6612.174,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,S37,Hawkesbury
+HM_196,-33.546861,151.398657,14:20:00,Fished,17.3,Yes,Yes,6399.173,20190828,Marty Hing,Marty Hing,Marty Hing,S37,Hawkesbury
+HP_113,-33.546351,151.400948,11:41:00,Fished,20.8,Yes,Yes,5016.325,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,S37,Hawkesbury
+HP_111,-33.545694,151.372347,11:17:00,Fished,20.5,Yes,Yes,2359.862,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,S36,Hawkesbury
+HM_197,-33.545533,151.368445,13:47:00,Fished,21.1,Yes,Yes,5020.51,20190828,Marty Hing,Marty Hing,Marty Hing,S36,Hawkesbury
+HM_198,-33.544335,151.386816,14:54:00,Fished,20.1,Yes,Yes,5630.681,20190828,Marty Hing,Marty Hing,Marty Hing,AS30,Hawkesbury
+HP_112,-33.542924,151.376322,11:25:00,Fished,19.2,Yes,Yes,2420.729,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS30,Hawkesbury
+HM_199,-33.540973,151.407747,14:30:00,Fished,23.4,Yes,Yes,10883.825,20190828,Marty Hing,Marty Hing,Marty Hing,AS31,Hawkesbury
+HM_200,-33.534877,151.417518,12:29:00,Fished,25.7,Yes,Yes,8503.064,20190828,Marty Hing,Marty Hing,Marty Hing,AS31,Hawkesbury
+HM_201,-33.531696,151.406596,14:40:00,Fished,18.1,Yes,Yes,7729.748,20190828,Marty Hing,Marty Hing,Marty Hing,AS31,Hawkesbury
+HM_202,-33.529497,151.424386,12:21:00,Fished,30.6,Yes,Yes,2770.784,20190828,Marty Hing,Marty Hing,Marty Hing,S38,Copacabana
+HM_203,-33.52494,151.420754,12:12:00,Fished,21.9,Yes,Yes,5408.353,20190828,Marty Hing,Marty Hing,Marty Hing,S38,Copacabana
+HP_178,-33.523859,151.420662,12:28:00,Fished,20.1,Yes,No,7333.333333,20190506,Marty Hing,Marty Hing,Marty Hing,S38,Copacabana
+HP_114,-33.521289,151.429571,11:57:00,Fished,32.7,Yes,Yes,4642.102,20190516,Marty Hing,Marty Hing,Marty Hing,S38,Copacabana
+HM_204,-33.519984,151.426589,12:06:00,Fished,29.8,Yes,Yes,5685.269,20190828,Marty Hing,Marty Hing,Marty Hing,S38,Copacabana
+HM_205,-33.512233,151.432901,11:57:00,Fished,31.1,Yes,Yes,5540.296,20190828,Marty Hing,Marty Hing,Marty Hing,AS32,Copacabana
+HP_115,-33.511892,151.430368,12:08:00,Fished,26.9,Yes,Yes,4991.636,20190516,Daniel Swadling,Daniel Swadling,Daniel Swadling,AS32,Copacabana
+HP_116,-33.507812,151.43526,12:15:00,Fished,26.7,Yes,No,7500,20190516,Marty Hing,Marty Hing,Marty Hing,AS32,Copacabana
+HM_206,-33.504852,151.436056,11:47:00,Fished,26.6,Yes,Yes,5944.743,20190828,Marty Hing,Marty Hing,Marty Hing,AS32,Copacabana
+HM_207,-33.495015,151.442746,9:19:00,Fished,23.2,Yes,Yes,7510.005,20190828,Marty Hing,Marty Hing,Marty Hing,S39,Copacabana
+HM_208,-33.489002,151.447732,9:28:00,Fished,21.9,Yes,Yes,5026.656,20190828,Marty Hing,Marty Hing,Marty Hing,S39,Copacabana
+HM_209,-33.483245,151.4537,9:37:00,Fished,29.9,Yes,Yes,11003.389,20190828,Marty Hing,Marty Hing,Marty Hing,S39,Copacabana
+HM_210,-33.47899,151.448925,10:13:00,Fished,20.8,Yes,Yes,5450.553,20190828,Marty Hing,Marty Hing,Marty Hing,AS33,Copacabana
+HM_211,-33.477415,151.456895,10:22:00,Fished,32.9,Yes,Yes,6570.995,20190828,Marty Hing,Marty Hing,Marty Hing,AS33,Copacabana
+HM_212,-33.472815,151.453418,10:34:00,Fished,25.5,Yes,Yes,8574.179,20190828,Marty Hing,Marty Hing,Marty Hing,AS33,Copacabana
+HM_213,-33.454398,151.47201,9:21:00,Fished,40,Yes,Yes,5652.929,20190814,Matthew Hammond,Matthew Hammond,Matthew Hammond,S43,Terrigal
+HM_214,-33.454282,151.46497,9:31:00,Fished,39,Yes,Yes,13193.981,20190814,Marty Hing,Marty Hing,Marty Hing,S43,Terrigal
+HM_215,-33.450052,151.454308,9:46:00,Fished,25,Yes,Yes,5514.552,20190814,Marty Hing,Marty Hing,Marty Hing,S42,Terrigal
+HM_216,-33.44516,151.476213,10:19:00,Fished,41,Yes,Yes,4182.517,20190814,Marty Hing,Marty Hing,Marty Hing,S42,Terrigal
+HM_217,-33.444508,151.461169,10:07:00,Fished,31,Yes,Yes,8304.607,20190814,Marty Hing,Marty Hing,Marty Hing,S42,Terrigal
+HM_218,-33.440175,151.455662,9:53:00,Fished,24,Yes,No,6166.666667,20190814,Marty Hing,Marty Hing,Marty Hing,AS34,Terrigal
+HM_219,-33.439121,151.465091,11:19:00,Fished,31,Yes,No,6500,20190814,Marty Hing,Marty Hing,Marty Hing,AS34,Terrigal
+HM_220,-33.436542,151.504936,11:42:00,Fished,42,Yes,Yes,4249.874,20190814,Marty Hing,Marty Hing,Marty Hing,AS35,Terrigal
+HM_221,-33.434201,151.483247,11:30:00,Fished,36,Yes,No,6833.333333,20190814,Marty Hing,Marty Hing,Marty Hing,AS35,Terrigal
+HM_222,-33.425492,151.478775,11:54:00,Fished,30,Yes,Yes,5828.827,20190814,Marty Hing,Marty Hing,Marty Hing,S40,Terrigal
+HM_223,-33.424691,151.48707,11:49:00,Fished,33,Yes,Yes,6407.207,20190814,Marty Hing,Marty Hing,Marty Hing,AS36,Terrigal
+HM_224,-33.424102,151.46844,12:04:00,Fished,20,Yes,Yes,5553.627,20190814,Marty Hing,Marty Hing,Marty Hing,S40,Terrigal
+HM_225,-33.418834,151.4888,13:31:00,Fished,31,Yes,No,4662.022,20190814,Marty Hing,Marty Hing,Marty Hing,AS36,Terrigal
+HM_226,-33.417934,151.473418,13:21:00,Fished,18,Yes,Yes,4369.548,20190814,Marty Hing,Marty Hing,Marty Hing,S40,Terrigal
+HM_227,-33.417002,151.500001,13:38:00,Fished,30,Yes,Yes,6216.829,20190814,Marty Hing,Marty Hing,Marty Hing,S41,Terrigal
+HM_230,-33.411693,151.491089,14:07:00,Fished,32,Yes,Yes,4104.253,20190814,Marty Hing,Marty Hing,Marty Hing,S41,Terrigal
+HM_228,-33.411538,151.510526,13:45:00,Fished,41,Yes,Yes,5106.077,20190814,Marty Hing,Marty Hing,Marty Hing,S41,Terrigal
+HM_229,-33.41058,151.499087,13:55:00,Fished,32,Yes,Yes,5384.894,20190814,Marty Hing,Marty Hing,Marty Hing,S41,Terrigal
+HM_232,-33.374772,151.520613,9:07:00,Fished,22,Yes,Yes,6555.245,20190815,Marty Hing,Marty Hing,Marty Hing,AS37,The Entrance
+HM_233,-33.372393,151.510226,8:59:00,Fished,27,Yes,Yes,5281.791,20190815,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS37,The Entrance
+HM_234,-33.372166,151.533922,9:14:00,Fished,27,Yes,Yes,3344.889,20190815,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS37,The Entrance
+HM_235,-33.367388,151.515134,9:45:00,Fished,17,Yes,Yes,6476.895,20190815,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS37,The Entrance
+HM_236,-33.365014,151.541951,9:24:00,Fished,30,Yes,Yes,6479.866,20190815,Marty Hing,Marty Hing,Marty Hing,AS37,The Entrance
+HM_237,-33.362892,151.525659,9:37:00,Fished,19,Yes,Yes,6858.341,20190815,Marty Hing,Marty Hing,Marty Hing,S45,The Entrance
+HM_238,-33.360711,151.516501,10:42:00,Fished,18,Yes,Yes,7816.701,20190815,Marty Hing,Marty Hing,Marty Hing,S45,The Entrance
+HM_239,-33.360505,151.54413,10:59:00,Fished,30,Yes,Yes,6040.211,20190815,Matthew Hammond,Matthew Hammond,Matthew Hammond,S44,The Entrance
+HM_240,-33.359788,151.53606,10:52:00,Fished,18,Yes,Yes,7193.719,20190815,Marty Hing,Marty Hing,Marty Hing,S44,The Entrance
+HM_241,-33.353697,151.523011,11:25:00,Fished,18,Yes,No,7333.333333,20190815,Marty Hing,Marty Hing,Marty Hing,S45,The Entrance
+HM_242,-33.352528,151.538506,11:04:00,Fished,23,Yes,Yes,4300.516,20190815,Marty Hing,Marty Hing,Marty Hing,S44,The Entrance
+HM_243,-33.35024,151.536155,11:17:00,Fished,23,Yes,Yes,5247.572,20190815,Marty Hing,Marty Hing,Marty Hing,S44,The Entrance
+HM_244,-33.349982,151.517596,12:23:00,Fished,23,Yes,Yes,2951.74,20190815,Matthew Hammond,Matthew Hammond,Matthew Hammond,S45,The Entrance
+HM_245,-33.344942,151.514885,12:28:00,Fished,18,Yes,Yes,6638.179,20190815,Marty Hing,Marty Hing,Marty Hing,AS38,The Entrance
+HM_246,-33.343906,151.533922,12:42:00,Fished,24,Yes,Yes,5076.171,20190815,Marty Hing,Marty Hing,Marty Hing,AS38,The Entrance
+HM_247,-33.341846,151.527509,12:37:00,Fished,26,Yes,Yes,5596.393,20190815,Marty Hing,Marty Hing,Marty Hing,AS38,The Entrance
+HM_248,-33.339053,151.543029,12:48:00,Fished,25,Yes,Yes,5526.184,20190815,Marty Hing,Marty Hing,Marty Hing,AS38,The Entrance
+HM_249,-33.332151,151.56216,13:36:00,Fished,25,Yes,Yes,5248.37,20190815,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS39,Norah Hd
+HM_250,-33.328929,151.564209,13:41:00,Fished,20,Yes,Yes,6881.719,20190815,Marty Hing,Marty Hing,Marty Hing,AS39,Norah Hd
+HM_251,-33.324751,151.569802,13:49:00,Fished,21,Yes,Yes,6356.25,20190815,Marty Hing,Marty Hing,Marty Hing,AS39,Norah Hd
+HM_252,-33.323613,151.573799,13:56:00,Fished,29,Yes,Yes,3198.859,20190815,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS39,Norah Hd
+HM_253,-33.323229,151.55914,14:03:00,Fished,27,Yes,Yes,5877.526,20190815,Matt Rees,Matt Rees,Matt Rees,AS39,Norah Hd
+HM_254,-33.320567,151.567924,8:56:00,Fished,17,Yes,Yes,9780.897,20190816,Matt Rees,Matt Rees,Matt Rees,S46,Norah Hd
+HM_255,-33.316795,151.574587,9:05:00,Fished,27,Yes,Yes,7997.304,20190816,Marty Hing,Marty Hing,Marty Hing,S46,Norah Hd
+HM_256,-33.315297,151.578765,9:10:00,Fished,25,Yes,Yes,8124.862,20190816,Matt Rees,Matt Rees,Matt Rees,S46,Norah Hd
+HM_257,-33.314277,151.584742,9:16:00,Fished,40,Yes,No,7166.666667,20190816,Matt Rees,Matt Rees,Matt Rees,S46,Norah Hd
+HM_259,-33.30808,151.57667,9:27:00,Fished,28,Yes,Yes,5008.441,20190816,Matt Rees,Matt Rees,Matt Rees,S46,Norah Hd
+HM_261,-33.306551,151.587766,10:34:00,Fished,35,Yes,No,5833.333333,20190816,Marty Hing,Marty Hing,Marty Hing,AS40,Norah Hd
+HM_262,-33.303084,151.596193,10:51:00,Fished,38,Yes,Yes,6389.774,20190816,Matt Rees,Matt Rees,Matt Rees,AS40,Norah Hd
+HM_263,-33.303053,151.585412,10:27:00,Fished,29,Yes,Yes,6934.623,20190816,Matt Rees,Matt Rees,Matt Rees,AS40,Norah Hd
+HM_264,-33.299644,151.590188,11:16:00,Fished,35,Yes,Yes,4787.745,20190816,Matt Rees,Matt Rees,Matt Rees,AS40,Norah Hd
+HM_265,-33.297105,151.599419,10:59:00,Fished,41,Yes,Yes,5741.55,20190816,Marty Hing,Marty Hing,Marty Hing,S47,Norah Hd
+HM_267,-33.290902,151.598705,12:05:00,Fished,33,Yes,Yes,9020.187,20190816,Matt Rees,Matt Rees,Matt Rees,S47,Norah Hd
+HM_268,-33.283062,151.599367,12:12:00,Fished,33,Yes,Yes,7297.805,20190816,Matt Rees,Matt Rees,Matt Rees,S47,Norah Hd
+HM_269,-33.27208,151.601153,12:18:00,Fished,38,Yes,Yes,5164.869,20190816,Matt Rees,Matt Rees,Matt Rees,S47,Norah Hd
+HM_271,-33.237525,151.616193,12:27:00,Fished,34,Yes,No,5166.666667,20190816,Marty Hing,Marty Hing,Marty Hing,S48,Bird Island
+HM_272,-33.23654,151.608084,12:40:00,Fished,30,Yes,Yes,8715.259,20190816,Matt Rees,Matt Rees,Matt Rees,S48,Bird Island
+HM_273,-33.233875,151.604338,13:37:00,Fished,22,Yes,Yes,6188.768,20190816,Matt Rees,Matt Rees,Matt Rees,S48,Bird Island
+HM_274,-33.232967,151.611864,13:41:00,Fished,29,Yes,No,7000,20190816,Matt Rees,Matt Rees,Matt Rees,S48,Bird Island
+HM_276,-33.227524,151.610794,14:03:00,Fished,22,Yes,Yes,5910.736,20190816,Marty Hing,Marty Hing,Marty Hing,S48,Bird Island
+HM_278,-33.22284,151.62166,13:49:00,Fished,33,Yes,Yes,10785.353,20190816,Matt Rees,Matt Rees,Matt Rees,S49,Bird Island
+HM_280,-33.216401,151.614379,13:54:00,Fished,25,Yes,Yes,5693.669,20190816,Marty Hing,Marty Hing,Marty Hing,S49,Bird Island
+HM_285,-33.161125,151.656534,9:38:00,Fished,29,Yes,Yes,5970.4,20190729,Marty Hing,Marty Hing,Marty Hing,AS41,Swansea
+HM_286,-33.159544,151.646609,9:48:00,Fished,28,Yes,No,6333.333333,20190729,Matt Rees,Matt Rees,Matt Rees,AS41,Swansea
+HM_287,-33.143232,151.661631,9:58:00,Fished,30,Yes,Yes,5197.488,20190729,Matt Rees,Matt Rees,Matt Rees,S50,Swansea
+HM_288,-33.140214,151.657817,10:05:00,Fished,27,Yes,Yes,6182.058,20190729,Matt Rees,Matt Rees,Matt Rees,S50,Swansea
+HM_289,-33.138459,151.653985,10:14:00,Fished,28,Yes,Yes,8084.903,20190729,Matt Rees,Matt Rees,Matt Rees,S50,Swansea
+HM_290,-33.133792,151.663124,10:24:00,Fished,31,Yes,Yes,8023.139,20190729,Marty Hing,Marty Hing,Marty Hing,S50,Swansea
+HM_291,-33.132561,151.650644,11:31:00,Fished,19,Yes,No,9000,20190729,Matt Rees,Matt Rees,Matt Rees,S50,Swansea
+HM_292,-33.128277,151.65489,11:38:00,Fished,25,Yes,Yes,7472.078,20190729,Matt Rees,Matt Rees,Matt Rees,S50,Swansea
+HM_293,-33.122708,151.665372,11:45:00,Fished,27,Yes,Yes,3928.524,20190729,Matt Rees,Matt Rees,Matt Rees,AS42,Swansea
+HM_294,-33.118932,151.658141,11:52:00,Fished,22,Yes,Yes,6973.233,20190729,Matt Rees,Matt Rees,Matt Rees,AS42,Swansea
+HM_295,-33.113972,151.666576,11:59:00,Fished,29,Yes,Yes,4912.955,20190729,Marty Hing,Marty Hing,Marty Hing,AS42,Swansea
+HM_266,-33.107904,151.669309,14:23:00,Fished,31,Yes,Yes,6108.168,20190726,Marty Hing,Marty Hing,Marty Hing,AS42,Swansea
+HM_297,-33.102762,151.669418,14:05:00,Fished,25,Yes,Yes,5587.606,20190726,Matt Rees,Matt Rees,Matt Rees,AS42,Swansea
+HM_298,-33.095601,151.67447,13:52:00,Fished,28,Yes,Yes,3725.216,20190726,Matt Rees,Matt Rees,Matt Rees,S51,Swansea
+HM_299,-33.088439,151.677949,13:46:00,Fished,26,Yes,Yes,4416.582,20190726,Matt Rees,Matt Rees,Matt Rees,S51,Swansea
+HM_300,-33.023879,151.727998,12:35:00,Fished,30,Yes,Yes,5742.027,20190729,Marty Hing,Marty Hing,Marty Hing,AS43,Newcastle
+HM_301,-33.020935,151.725495,12:27:00,Fished,21,Yes,Yes,3976.492,20190726,Matt Rees,Matt Rees,Matt Rees,AS43,Newcastle
+HM_302,-33.013132,151.732353,12:18:00,Fished,19,Yes,Yes,2237.264,20190726,Matt Rees,Matt Rees,Matt Rees,AS43,Newcastle
+HM_350,-33.0113,151.742353,12:02:00,Fished,26,Yes,Yes,3005.433,20190726,Marty Hing,Marty Hing,Marty Hing,AS43,Newcastle
+HM_303,-33.008782,151.746957,12:04:00,Fished,28,Yes,Yes,2024.855,20190726,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS43,Newcastle
+HM_304,-33.005925,151.736558,11:50:00,Fished,23,Yes,Yes,2230.882,20190726,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS43,Newcastle
+HM_307,-32.959507,151.777267,10:13:00,Fished,24,Yes,Yes,2017.435,20190726,Matthew Hammond,Matthew Hammond,Matthew Hammond,AS44,Newcastle
+HM_308,-32.952672,151.782118,10:03:00,Fished,24,Yes,Yes,3945.765,20190726,Marty Hing,Marty Hing,Marty Hing,AS44,Newcastle
+HM_309,-32.949381,151.773724,9:55:00,Fished,22,Yes,Yes,2189.837,20190726,Marty Hing,Marty Hing,Marty Hing,AS44,Newcastle
+HM_310,-32.946075,151.786964,9:39:00,Fished,25,Yes,Yes,3960.182,20190726,Marty Hing,Marty Hing,Marty Hing,AS44,Newcastle
+HM_312,-32.93661,151.794197,9:18:00,Fished,24,Yes,Yes,3572.836,20190726,Marty Hing,Marty Hing,Marty Hing,AS44,Newcastle

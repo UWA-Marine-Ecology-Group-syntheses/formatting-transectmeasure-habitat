@@ -1,0 +1,211 @@
+{
+  "created_at": ["2021-05-28T01:26:47.083158"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [56],
+  "description": [""],
+  "files": [
+    {
+      "id": 13078,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_3DPoints.txt",
+      "user_id": 15
+    },
+    {
+      "id": 13079,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_ImagePtPair.txt",
+      "user_id": 15
+    },
+    {
+      "id": 11125,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs._broad.habitat.csv",
+      "user_id": 15
+    },
+    {
+      "id": 11126,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs._detailed.habitat.csv",
+      "user_id": 15
+    },
+    {
+      "id": 13080,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_Info.txt",
+      "user_id": 15
+    },
+    {
+      "id": 13081,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_Lengths.txt",
+      "user_id": 15
+    },
+    {
+      "id": 13083,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_MovieSeq.txt",
+      "user_id": 15
+    },
+    {
+      "id": 13084,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_Period.txt",
+      "user_id": 15
+    },
+    {
+      "id": 13085,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_Points.txt",
+      "user_id": 15
+    },
+    {
+      "id": 13086,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_Source.txt",
+      "user_id": 15
+    },
+    {
+      "id": 13364,
+      "iscompressed": true,
+      "name": "2018-04_PortPhillipHeads_stereoBRUVs_Metadata.csv",
+      "user_id": 15
+    }
+  ],
+  "id": [994],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 174,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "250"
+    },
+    {
+      "campaigninfoprop_id": 45,
+      "id": 221,
+      "property": {
+        "id": 45,
+        "is_filter": false,
+        "name": "Annotation: Annotation tool/software"
+      },
+      "value": "EventMeasure-stereo"
+    },
+    {
+      "campaigninfoprop_id": 46,
+      "id": 229,
+      "property": {
+        "id": 46,
+        "is_filter": false,
+        "name": "Annotation: Taxa that have been ID'd"
+      },
+      "value": "All fauna"
+    },
+    {
+      "campaigninfoprop_id": 47,
+      "id": 233,
+      "property": {
+        "id": 47,
+        "is_filter": false,
+        "name": "Annotation: Taxonomic resolution"
+      },
+      "value": "All taxa identified to the lowest possible taxonomic level"
+    },
+    {
+      "campaigninfoprop_id": 48,
+      "id": 239,
+      "property": {
+        "id": 48,
+        "is_filter": false,
+        "name": "Annotation: Observer/Anotator experience (>years)"
+      },
+      "value": "4"
+    },
+    {
+      "campaigninfoprop_id": 51,
+      "id": 260,
+      "property": {
+        "id": 51,
+        "is_filter": false,
+        "name": "Annotation: Type of Length measure"
+      },
+      "value": "Total length"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 161,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "1000"
+    }
+  ],
+  "name": ["2018-04_PortPhillipHeads_stereoBRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [270],
+    "is_public": [false],
+    "name": ["Port Phillip Heads MNP 2018-2022"]
+  },
+  "project_id": [270],
+  "user": {
+    "email": ["iero@deakin.edu.au"],
+    "first_name": ["Daniel"],
+    "id": [15],
+    "is_admin": [false],
+    "last_name": ["Ierodiaconou"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+S101_D1	Jason Del	19.2																	
+S101_D2	Jason Del	21.4																	
+S101_D3	Jason Del	24.1																	
+S101_D4	Jason Del	28.6																	
+S102_D1	Jason Del	23.8																	
+S102_D4	Jason Del	22.8																	
+S103_D1	Jason Del	18.4																	
+S103_D2	Jason Del	21.0																	
+S103_D3	Jason Del	19.2																	
+S103_D4	Jason Del	26.3																	
+S104_D1	Jason Del	21.7																	
+S104_D2	Jason Del	20.3																	
+S104_D3	Jason Del	21.6																	
+S104_D4	Jason Del	28																	
+S10_D1	JM	21																	
+S10_D2	JM	21.5																	
+S10_D3	JM	24.9																	
+S10_D4	JM	22																	
+S11_D1	JM	35																	
+S11_D2	JM	30.4																	
+S11_D3	JM	30																	
+S11_D4	JM	42																	
+S12_D1	Jason Del	22.1																	
+S12_D2	Jason Del	20.6																	
+S12_D3	Jason Del	23.3																	
+S12_D4	Jason Del	24.4																	
+S13_D1	Jason Del	25.8																	
+S13_D2	Jason Del	22.3																	
+S13_D3	Jason Del	23.6																	
+S13_D4	Jason Del	21.2																	
+S18_D1	Jason Del	15.5																	
+S18_D2	Jason Del	17.5																	
+S18_D3	Jason Del	21.9																	
+S18_D4	Jason Del	27.5																	
+S19_D1	Jason Del	28.5																	
+S19_D2	Jason Del	26.6																	
+S19_D3	Jason Del	29.3																	
+S19_D4	Jason Del	22.3																	
+S201_D1	JM	24																	
+S201_D2	JM	23.1																	
+S201_D3	JM	20.7																	
+S201_D4	JM	27.5																	
+S201_D5	JM	19																	
+S202_D1	JM	27.9																	
+S202_D2	JM	29																	
+S202_D3	JM	20																	
+S202_D4	JM	25																	
+S203_D1	JM	29.6																	
+S203_D2	JM	30																	
+S203_D3	JM	20.2																	
+S203_D4	JM	17.5																	
+S203_D5	JM	27.7																	
+S204_D1	JM	29.1																	
+S204_D2	JM	29.1																	
+S204_D3	JM	23.1																	
+S204_D4	JM	28.1																	
+S6_D1	JM	26.9																	
+S6_D2	Jason Del	34.3																	
+S6_D3	JM	31.5																	
+S6_D4	Jason Del	31.6																	
+S6_D5	Adrian Ferguson	21.6																	
+S6_D6	Adrian Ferguson	17.4																	
+S7_D1	JM	22.4																	
+S7_D2	Jason Del	30.7																	
+S7_D3	JM	29.8																	
+S7_D4	Jason Del	32.2																	
+S7_D5	Jason Del	22.1																	
+S7_D6	JM	23.4																	
+S8_D1	JM	20																	
+S8_D2	JM	30																	
+S8_D3	JM	27																	
+S8_D4	JM	25.9																	
+S9_D1	JM	28																	
+S9_D2	JM	29																	
+S9_D3	JM	32																	
+S9_D4	JM	32																	

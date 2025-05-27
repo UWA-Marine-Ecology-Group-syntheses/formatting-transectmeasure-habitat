@@ -1,0 +1,74 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+AD12	Sam Wines	27.6	Nice Rhodolith drop w/ lots of snapper and agro gummys	Latitude	-38.403643	Longitude	144.267284	Date	2018-03-07	Time	917	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD18	Sam Wines	24.1	Macroalgae, not the greatest viz. Huge diveristy	Latitude	-38.42504471	Longitude	144.217496	Date	2018-03-07	Time	1429	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD33	Sam Wines	6.9	Kingies!, Poor Viz, lots of salps, macroalgae	Latitude	-38.40984	Longitude	144.23142	Date	2018-03-08	Time	1306	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD37	Sam Wines	12.1	Poor viz, eagle ray	Latitude	-38.38177895	Longitude	144.2744604	Date	2018-03-08	Time	1445	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD41	Sam Wines	26.8	No 173 Camera. Good viz. Mixed. Wobbegong	Latitude	-38.41993729	Longitude	144.23745	Date	2018-03-07	Time	1248	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD06	Sam Wines	27.9	Nice Transition drop w/ mixed inverts and some algae	Latitude	-38.41403037	Longitude	144.2552518	Date	2018-03-07	Time	1102	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD67	Sam Wines	35.3	Poor viz, Dark, Rhodoliths	Latitude	-38.42322154	Longitude	144.2505708	Date	2018-04-09	Time	1554	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD74	Sam Wines	43.5	Sand, 3 species	Latitude	-38.46420859	Longitude	144.1965273	Date	2018-03-07	Time	1618	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD81	Sam Wines	29.5	Heaps of fish, 15 species	Latitude	-38.46055032	Longitude	144.1781066	Date	2018-04-09	Time	1357	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD84	Sam Wines	30.4	Reasonable viz, ~ 10 sp, Mixed sparse inverts and macroalgae	Latitude	-38.47239535	Longitude	144.1360771	Date	2018-04-09	Time	1208	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD87	Sam Wines	26.3	Thresher, Kingies, 2.4m Wobbegong, No tail eagle ray	Latitude	-38.43415808	Longitude	144.2062223	Date	2018-03-08	Time	1133	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD09	Sam Wines	18.1	Green water, lots of snapper and caesioperca, baby gummy?	Latitude	-38.34523554	Longitude	144.3425393	Date	2018-03-08	Time	1622	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD13	Sam Wines	28.7	Good viz, No tail eagle ray	Latitude	-38.432258	Longitude	144.212661	Date	2018-03-07	Time	1439	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD14	Sam Wines	21.9	Reasonable viz, Mixed benthos, Not many fish	Latitude	-38.404027	Longitude	144.2557	Date	2018-03-07	Time	1112	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD20	Sam Wines	30.7	Bronze whaler	Latitude	-38.39554809	Longitude	144.2821979	Date	2018-03-07	Time	908	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD27	Sam Wines	6.6	15~ sp, reasonable viz	Latitude	-38.32852623	Longitude	144.3577025	Date	2018-03-08	Time	1633	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD03	Sam Wines	11.3	Kingies, 20 odd sp	Latitude	-38.4096112	Longitude	144.2435685	Date	2018-03-07	Time	1240	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD39	Sam Wines	9.5	Poor viz, lots of trachurus and snapper	Latitude	-38.40369378	Longitude	144.2272043	Date	2018-03-08	Time	1313	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD04	Sam Wines	5.6	Really poor viz	Latitude	-38.3901185	Longitude	144.2596761	Date	2018-04-09	Time	816	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD46	Sam Wines	24.3	Right Hand camera is actually AD68. No Right Hand AD46 Camera. Macroalgae	Latitude	-38.45795843	Longitude	144.166291	Date	2018-04-09	Time	1353	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD47	Sam Wines	15.4	Macroalgae, 7gill, big smooth ray, eagle rays	Latitude	-38.43246	Longitude	144.1899561	Date	2018-03-08	Time	942	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD52	Sam Wines	9.9	Clapper says 2017 but actually 2018. Also 2nd 52. Macroalgae	Latitude	-38.426151	Longitude	144.196981	Date	2018-03-08	Time	1122	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD61	Sam Wines	12.4	Sand, Poor viz	Latitude	-38.38907517	Longitude	144.2671832	Date	2018-03-08	Time	1439	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD68	Sam Wines	38.6	Right Hand camera is AD_178_177_177_46 | Drop is dark	Latitude	-38.42088717	Longitude	144.2683769	Date	2018-04-09	Time	1600	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD83	Sam Wines	38.5	Good viz, rhodoliths	Latitude	-38.44908379	Longitude	144.2052022	Date	2018-03-07	Time	1609	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD05	Sam Wines	11.3	View obstructed by Reef ledge	Latitude	-38.41254978	Longitude	144.2291417	Date	2018-03-08	Time	1301	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD11	Sam Wines	35.5	Pretty inverts, Cuttlefish!, lobster	Latitude	-38.411525	Longitude	144.27304	Date	2018-03-07	Time	925	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD21	Sam Wines	28.0	Sparse algae	Latitude	-38.427778	Longitude	144.223808	Date	2018-03-07	Time	1422	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD23	Sam Wines	33.4	Sparse algae	Latitude	-38.414502	Longitude	144.264939	Date	2018-03-07	Time	1054	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD25	Sam Wines	8.3	Macroalgae, around 10 sp	Latitude	-38.34546	Longitude	144.33151	Date	2018-03-08	Time	1618	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD28	Sam Wines	14.8	Macroalgae	Latitude	-38.43987518	Longitude	144.162649	Date	2018-04-09	Time	1345	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD29	Sam Wines	12.1	Macroalgae, Some obstruction from algae	Latitude	-38.44333265	Longitude	144.1420504	Date	2018-03-08	Time	925	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD34	Sam Wines	3.6	Shallow, Macroalgae, Lands facing down	Latitude	-38.41348	Longitude	144.21357	Date	2018-03-08	Time	1142	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD54	Sam Wines	34.4	Good viz, inverts, ~15 sp	Latitude	-38.42620528	Longitude	144.2397516	Date	2018-03-07	Time	1259	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD59	Sam Wines	50.7	Sand, saw shark, seal, arrow squid	Latitude	-38.45897127	Longitude	144.2132637	Date	2018-03-07	Time	1628	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD69	Sam Wines	7.6	Terrible viz	Latitude	-38.37809498	Longitude	144.2752488	Date	2018-03-08	Time	1448	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD71	Sam Wines	38.0	Lots of snapper and caesioperca	Latitude	-38.48621355	Longitude	144.1415019	Date	2018-04-09	Time	1226	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD01	Sam Wines	7.9	Facing down, Conger Eel, Kelpfish	Latitude	-38.40790848	Longitude	144.2180173	Date	2018-03-08	Time	1146	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD26	Sam Wines	8.2	No tail smooth ray	Latitude	-38.34669529	Longitude	144.3245494	Date	2018-03-08	Time	1613	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD31	Sam Wines	7.3	Macroalgae	Latitude	-38.43683638	Longitude	144.1414446	Date	2018-03-08	Time	921	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD35	Sam Wines	8.0	Facing up, fish only silhouettes. Macroalgae	Latitude	-38.40995412	Longitude	144.2352927	Date	2018-04-09	Time	826	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD36	Sam Wines	6.4	Around 15 sp	Latitude	-38.41419753	Longitude	144.2204386	Date	2018-03-08	Time	1257	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD40	Sam Wines	31.0	Nice mixed drop	Latitude	-38.407186	Longitude	144.269465	Date	2018-03-07	Time	920	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD43	Sam Wines	30.8	Nice mixed drop	Latitude	-38.41372211	Longitude	144.2618865	Date	2018-03-07	Time	1057	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD44	Sam Wines	28.8	Nice mixed drop	Latitude	-38.42839816	Longitude	144.2202511	Date	2018-03-07	Time	1426	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD45	Sam Wines	20.5	Macroalgae	Latitude	-38.417547	Longitude	144.228898	Date	2018-03-07	Time	1253	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD48	Sam Wines	37.8	Mixed	Latitude	-38.48602242	Longitude	144.1539924	Date	2018-04-09	Time	1222	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD51	Sam Wines	6.2	Massive ray and possible shark	Latitude	-38.416907	Longitude	144.205975	Date	2018-04-09	Time	949	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD63	Sam Wines	40.1	Dark	Latitude	-38.4168357	Longitude	144.2781845	Date	2018-04-09	Time	1604	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD75	Sam Wines	50.5	Nice drop with overhang bullseye and cray	Latitude	-38.46866294	Longitude	144.2016526	Date	2018-03-07	Time	1622	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD88	Sam Wines	24.3	Macroalgae	Latitude	-38.45482964	Longitude	144.1526844	Date	2018-04-09	Time	1349	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD16	Sam Wines	27.1	Only a and b of 226 available. Nice mixed drop	Latitude	-38.39212291	Longitude	144.2809152	Date	2018-03-07	Time	902	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD19	Sam Wines	26.8	Landed sideways. Sand	Latitude	-38.40072792	Longitude	144.26769	Date	2018-04-09	Time	1550	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD22	Sam Wines	17.2	Macroalgae	Latitude	-38.408566	Longitude	144.248844	Date	2018-03-07	Time	1237	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD38	Sam Wines	14.6	Mixed predominantly macroalgae	Latitude	-38.39949403	Longitude	144.2560552	Date	2018-03-07	Time	1117	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD42	Sam Wines	16.8	Sand inundated macroalgae	Latitude	-38.40453707	Longitude	144.239946	Date	2018-03-08	Time	1318	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD50	Sam Wines	19.9	Actually 2018 (Clapper says 2017). Macroalgae	Latitude	-38.44260318	Longitude	144.1747912	Date	2018-03-08	Time	1116	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD57	Sam Wines	39.6	Actually 2018 (Clapper says 2017). Sand and sparse mixed	Latitude	-38.44612119	Longitude	144.2144168	Date	2018-03-07	Time	1601	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD58	Sam Wines	54.6	Nice sponge. Dark though	Latitude	-38.45148083	Longitude	144.2336402	Date	2018-04-09	Time	1407	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD65	Sam Wines	34.0	Actually 2018 (Clapper says 2017). Invertebrates and sand	Latitude	-38.43346605	Longitude	144.2205721	Date	2018-03-07	Time	1444	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD72	Sam Wines	33.3	Nice mixed drop	Latitude	-38.48023634	Longitude	144.1302994	Date	2018-04-09	Time	1203	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD08	Sam Wines	9.3	2018 not 2017 (as clapper says)	Latitude	-38.32548601	Longitude	144.3649063	Date	2018-03-08	Time	1637	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD02	Sam Wines	27.1	Macroalgae	Latitude	-38.4179155	Longitude	144.2409312	Date	2018-03-07	Time	1245	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD07	Sam Wines	7.9	Macroalgae, Facing up slightly, so only silhouettes of lots of fish	Latitude	-38.38478802	Longitude	144.2680777	Date	2018-03-08	Time	1442	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD10	Sam Wines	22.5	Poor viz	Latitude	-38.33964381	Longitude	144.357411	Date	2018-03-08	Time	1628	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD15	Sam Wines	13.0	Facing up a bit, macroalgae	Latitude	-38.42652414	Longitude	144.2114516	Date	2018-03-07	Time	1433	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD17	Sam Wines	27.6	Nice mixed drop	Latitude	-38.40836732	Longitude	144.2610137	Date	2018-03-07	Time	1108	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD32	Sam Wines	14.7	Macroalgae. Poor viz	Latitude	-38.43604819	Longitude	144.1799687	Date	2018-03-08	Time	938	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD53	Sam Wines	11.9	Macroalgae	Latitude	-38.428778	Longitude	144.202837	Date	2018-03-08	Time	1126	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD60	Sam Wines	46.4	No 279 footage, Dark	Latitude	-38.43975266	Longitude	144.2339394	Date	2018-04-09	Time	1412	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	
+AD73	Sam Wines	35.4	Lots of sp for sand	Latitude	-38.48440798	Longitude	144.1292053	Date	2018-04-09	Time	1200	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD79	Sam Wines	35.1	Rhodoliths. Quiet	Latitude	-38.45202004	Longitude	144.1951133	Date	2018-03-07	Time	1613	MPAStatus	Fished	Site	Point Addis	Year	2018	Spare	
+AD55	Sam Wines	53.5	Sand. Full 60 minutes scored for fish	Latitude	-38.44226735	Longitude	144.258492	Date	2018-04-09	Time	1547	MPAStatus	NoTake	Site	Point Addis MNP	Year	2018	Spare	

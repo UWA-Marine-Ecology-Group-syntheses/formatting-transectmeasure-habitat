@@ -1,0 +1,121 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+RIMP_20220228_GC1-1	Chris Douglas	8.2		Date	28/2/2022	Time	14:31:39	Location	Rottnest	Site	GC1-1	Status		Latitude	-32.02133467	Longitude	115.4883016	Visibility	
+RIMP_20220228_GC1-2	Chris Douglas	5		Date	28/2/2022	Time	14:37:30	Location	Rottnest	Site	GC1-2	Status		Latitude	-32.01872465	Longitude	115.4840972	Visibility	
+RIMP_20220228_GC1-3		7		Date	20220228	Time		Location	Rottnest	Site	GC1-3	Status		Latitude	-32.01786458	Longitude	115.4818448	Visibility	
+RIMP_20220228_GC1-4	Chris Douglas	5		Date	28/2/2022	Time	14:46:28	Location	Rottnest	Site	GC1-4	Status		Latitude	-32.01736752	Longitude	115.4788925	Visibility	
+RIMP_20220228_GS1-1	Chris Douglas	6		Date	28/2/2022	Time	14:54:07	Location	Rottnest	Site	GS1-1	Status		Latitude	-32.0230733	Longitude	115.4924783	Visibility	
+RIMP_20220228_GS1-2		5		Date	20220228	Time		Location	Rottnest	Site	GS1-2	Status		Latitude	-32.02195083	Longitude	115.4963071	Visibility	
+RIMP_20220228_GS1-3	Chris Douglas	10		Date	28/2/2022	Time	15:03:14	Location	Rottnest	Site	GS1-3	Status		Latitude	-32.02080842	Longitude	115.5004815	Visibility	
+RIMP_20220228_GS1-4	Chris Douglas	4.6		Date	28/2/2022	Time	15:06:45	Location	Rottnest	Site	GS1-4	Status		Latitude	-32.01757797	Longitude	115.50074	Visibility	
+RIMP_20220228_WC1-1	Chris Douglas			Date	28/2/2022	Time	12:32:10	Location	Rottnest	Site	WC1-1	Status		Latitude	-32.02964068	Longitude	115.4591689	Visibility	
+RIMP_20220228_WC1-2	Chris Douglas			Date	28/2/2022	Time	12:35:42	Location	Rottnest	Site	WC1-2	Status		Latitude	-32.02866557	Longitude	115.4620503	Visibility	
+RIMP_20220228_WC1-3	Chris Douglas			Date	28/2/2022	Time	12:40:05	Location	Rottnest	Site	WC1-3	Status		Latitude	-32.02904658	Longitude	115.4654369	Visibility	
+RIMP_20220228_WC2-1	Chris Douglas			Date	28/2/2022	Time	12:53:19	Location	Rottnest	Site	WC2-1	Status		Latitude	-32.02471185	Longitude	115.4747875	Visibility	
+RIMP_20220228_WC2-4	Chris Douglas 			Date	28/2/2022	Time	13:05:50	Location	Rottnest	Site	WC2-4	Status		Latitude	-32.02477242	Longitude	115.4727287	Visibility	
+RIMP_20220228_WC2-5	Chris Douglas			Date	28/2/2022	Time	13:09:26	Location	Rottnest	Site	WC2-5	Status		Latitude	-32.0238992	Longitude	115.4777439	Visibility	
+RIMP_20220228_WS1-1	Chris Douglas			Date	28/2/2022	Time	10:16:45	Location	Rottnest	Site	WS1-1	Status		Latitude	-32.0174624	Longitude	115.442454	Visibility	
+RIMP_20220228_WS1-2	Chris Douglas			Date	28/2/2022	Time	10:24:34	Location	Rottnest	Site	WS1-2	Status		Latitude	-32.02041133	Longitude	115.4428062	Visibility	
+RIMP_20220228_WS1-3				Date	20220228	Time		Location	Rottnest	Site	WS1-3	Status		Latitude	-32.01986917	Longitude	115.4463847	Visibility	
+RIMP_20220228_WS1-4	Chris Douglas			Date	28/2/2022	Time	10:39:55	Location	Rottnest	Site	WS1-4	Status		Latitude	-32.02285398	Longitude	115.443471	Visibility	
+RIMP_20220228_WS2-1	Chris Douglas			Date	28/2/2022	Time	10:52:07	Location	Rottnest	Site	WS2-1	Status		Latitude	-32.0300364	Longitude	115.4544021	Visibility	
+RIMP_20220228_WS2-2	Chris Douglas			Date	28/2/2022	Time	10:55:43	Location	Rottnest	Site	WS2-2	Status		Latitude	-32.03196503	Longitude	115.4527722	Visibility	
+RIMP_20220228_WS2-3	Chris Douglas			Date	28/2/2022	Time	11:02:48	Location	Rottnest	Site	WS2-3	Status		Latitude	-32.02834682	Longitude	115.4505721	Visibility	
+RIMP_20220228_WS2-4	Chris Douglas			Date	28/2/2022	Time	11:26:34	Location	Rottnest	Site	WS2-4	Status		Latitude	-32.02921175	Longitude	115.4476542	Visibility	
+RIMP_20220301_AC1-1	Chris Douglas	10		Date	1/3/2022	Time	10:41:24	Location	Rottnest	Site	AC1-1	Status		Latitude	-31.98708128	Longitude	115.4994299	Visibility	
+RIMP_20220301_AC1-2	Chris Douglas	6		Date	1/3/2022	Time	10:52:08	Location	Rottnest	Site	AC1-2	Status		Latitude	-31.98820628	Longitude	115.4983853	Visibility	
+RIMP_20220301_AC1-3	Chris Douglas	6		Date	1/3/2022	Time	10:57:33	Location	Rottnest	Site	AC1-3	Status		Latitude	-31.98881578	Longitude	115.4961527	Visibility	
+RIMP_20220301_AC2-1	Chris Douglas	8		Date	1/3/2022	Time	11:11:05	Location	Rottnest	Site	AC2-1	Status		Latitude	-31.99575323	Longitude	115.4876633	Visibility	
+RIMP_20220301_AC2-3	Chris Douglas	9		Date	1/3/2022	Time	11:19:15	Location	Rottnest	Site	AC2-3	Status		Latitude	-31.99957108	Longitude	115.4837534	Visibility	
+RIMP_20220301_AC2-4	Chris Douglas	8		Date	1/3/2022	Time	11:21:48	Location	Rottnest	Site	AC2-4	Status		Latitude	-32.00153295	Longitude	115.4823744	Visibility	
+RIMP_20220301_AC3-1	Chris Douglas	8		Date	1/3/2022	Time	14:33:27	Location	Rottnest	Site	AC3-1	Status		Latitude	-31.98414847	Longitude	115.5143306	Visibility	
+RIMP_20220301_AC3-2	Chris Douglas	6.4		Date	1/3/2022	Time	14:37:27	Location	Rottnest	Site	AC3-2	Status		Latitude	-31.9859	Longitude	115.51545	Visibility	
+RIMP_20220301_AC3-3	Chris Douglas	7		Date	1/3/2022	Time	14:41;27	Location	Rottnest	Site	AC3-3	Status		Latitude	-31.98445	Longitude	115.5177833	Visibility	
+RIMP_20220301_AC3-4		9		Date	20220301	Time		Location	Rottnest	Site	AC3-4	Status		Latitude	-31.98323333	Longitude	115.5207333	Visibility	
+RIMP_20220301_AC4-1	Chris Douglas	7		Date	1/3/2022	Time	14:51:27	Location	Rottnest	Site	AC4-1	Status		Latitude	-31.98711667	Longitude	115.5334	Visibility	
+RIMP_20220301_AC4-2	Chris Douglas	8.5		Date	1/3/2022	Time	15:01:27	Location	Rottnest	Site	AC4-2	Status		Latitude	-31.98616667	Longitude	115.5310333	Visibility	
+RIMP_20220301_AC4-4	Chris Douglas	8.5		Date	1/3/2022	Time	15:07:27	Location	Rottnest	Site	AC4-4	Status		Latitude	-31.98485	Longitude	115.5258833	Visibility	
+RIMP_20220301_AS1-1	Chris Douglas	6		Date	1/3/2022	Time	12:44:26	Location	Rottnest	Site	AS1-1	Status		Latitude	-31.98848952	Longitude	115.5038333	Visibility	
+RIMP_20220301_AS1-2	Chris Douglas	6		Date	1/3/2022	Time	12:49:44	Location	Rottnest	Site	AS1-2	Status		Latitude	-31.98728938	Longitude	115.5017514	Visibility	
+RIMP_20220301_AS1-3	Chris Douglas	4		Date	1/3/2022	Time	12:55:25	Location	Rottnest	Site	AS1-3	Status		Latitude	-31.99077343	Longitude	115.5043605	Visibility	
+RIMP_20220301_AS1-4		7		Date	20220301	Time		Location	Rottnest	Site	AS1-4	Status		Latitude	-31.9885639	Longitude	115.5062918	Visibility	
+RIMP_20220301_AS2-1	Chris Douglas	6		Date	1/3/2022	Time	13:03:23	Location	Rottnest	Site	AS2-1	Status		Latitude	-31.9867433	Longitude	115.5079988	Visibility	
+RIMP_20220301_AS2-2	Chris Douglas	9		Date	1/3/2022	Time	13:06:05	Location	Rottnest	Site	AS2-2	Status		Latitude	-31.98450055	Longitude	115.5092912	Visibility	
+RIMP_20220301_AS2-3	Chris Douglas	6		Date	1/3/2022	Time	13:10:33	Location	Rottnest	Site	AS2-3	Status		Latitude	-31.98431283	Longitude	115.5124557	Visibility	
+RIMP_20220301_AS2-4	Chris Douglas 	6		Date	1/3/2022	Time	13:13:26	Location	Rottnest	Site	AS2-4	Status		Latitude	-31.98534717	Longitude	115.5116741	Visibility	
+RIMP_20220301_GC2-1	Chris Douglas	9		Date	1/3/2022	Time	8:38:55	Location	Rottnest	Site	GC2-1	Status		Latitude	-32.0172801	Longitude	115.5049036	Visibility	
+RIMP_20220301_GC2-2	Chris Douglas	5		Date	1/3/2022	Time	8:42:19	Location	Rottnest	Site	GC2-2	Status		Latitude	-32.01529483	Longitude	115.5063949	Visibility	
+RIMP_20220301_GC2-3	Chris Douglas 	4		Date	1/3/2022	Time	8:51:21	Location	Rottnest	Site	GC2-3	Status		Latitude	-32.01749353	Longitude	115.5028173	Visibility	
+RIMP_20220301_GC2-4	Chris Douglas	7		Date	1/3/2022	Time	8:51:21	Location	Rottnest	Site	GC2-4	Status		Latitude	-32.01862722	Longitude	115.5096612	Visibility	
+RIMP_20220301_GS2-1	Chris Douglas			Date	1/3/2022	Time	8:14:20	Location	Rottnest	Site	GS2-1	Status		Latitude	-32.02563723	Longitude	115.4640651	Visibility	
+RIMP_20220301_GS2-2	Chris Douglas	10		Date	1/3/2022	Time	8:19:23	Location	Rottnest	Site	GS2-2	Status		Latitude	-32.0180287	Longitude	115.4987731	Visibility	
+RIMP_20220301_GS2-3	Sarah	9		Date	1/3/2022	Time	8:24:20	Location	Rottnest	Site	GS2-3	Status		Latitude	-32.02155822	Longitude	115.4983228	Visibility	
+RIMP_20220301_GS2-4	Sarah	8		Date	1/3/2022	Time		Location	Rottnest	Site	GS2-4	Status		Latitude	-32.02229122	Longitude	115.4948118	Visibility	
+RIMP_20220302_KS1-1	Sarah	2.5		Date	2/3/2022	Time		Location	Rottnest	Site	KS1-1	Status		Latitude	-31.9917032	Longitude	115.5557432	Visibility	
+RIMP_20220302_KS1-2	Sarah	3		Date	2/3/2022	Time		Location	Rottnest	Site	KS1-2	Status		Latitude	-31.99072608	Longitude	115.5579357	Visibility	
+RIMP_20220302_KS1-3	Sarah	3.5		Date	2/3/2022	Time		Location	Rottnest	Site	KS1-3	Status		Latitude	-31.98943125	Longitude	115.5587348	Visibility	
+RIMP_20220302_KS1-4	Sarah	6		Date	2/3/2022	Time		Location	Rottnest	Site	KS1-4	Status		Latitude	-31.98734	Longitude	115.5555821	Visibility	
+RIMP_20220302_KS2-1	Chris Douglas	4.2		Date	2/3/2022	Time	8:44:01	Location	Rottnest	Site	KS2-1	Status		Latitude	-31.98650818	Longitude	115.556648	Visibility	
+RIMP_20220302_KS2-2	Chris Douglas	5		Date	2/3/2022	Time	7:52:44	Location	Rottnest	Site	KS2-2	Status		Latitude	-31.98556332	Longitude	115.5563499	Visibility	
+RIMP_20220302_KS2-3	Chris Douglas	5		Date	2/3/2022	Time	7:57:20	Location	Rottnest	Site	KS2-3	Status		Latitude	-31.98592252	Longitude	115.5538215	Visibility	
+RIMP_20220302_KS2-4	Chris Douglas	5		Date	2/3/2022	Time	8:06:31	Location	Rottnest	Site	KS2-4	Status		Latitude	-31.9859808	Longitude	115.5588636	Visibility	
+RIMP_20220304_KC1-1	Chris Douglas	6		Date	4/3/2022	Time	18:13:27	Location	Rottnest	Site	KC1-1	Status		Latitude	-31.98671997	Longitude	115.5358881	Visibility	
+RIMP_20220304_KC1-2	Chris Douglas	7		Date	4/3/2022	Time	8:19:47	Location	Rottnest	Site	KC1-2	Status		Latitude	-31.98553517	Longitude	115.5344533	Visibility	
+RIMP_20220304_KC1-3	Chris Douglas	6.6		Date	4/3/2022	Time	8:27:10	Location	Rottnest	Site	KC1-3	Status		Latitude	-31.98441333	Longitude	115.5362417	Visibility	
+RIMP_20220304_KC1-4	Chris Douglas	3.5		Date	4/3/2022	Time	8:33:05	Location	Rottnest	Site	KC1-4	Status		Latitude	-31.98583143	Longitude	115.5380773	Visibility	
+RIMP_20220304_KC2-1	Sarah	7		Date	4/3/2022	Time		Location	Rottnest	Site	KC2-1	Status		Latitude	-31.9834381	Longitude	115.5519	Visibility	
+RIMP_20220304_KC2-2		7		Date	20220304	Time		Location	Rottnest	Site	KC2-2	Status		Latitude	-31.98261307	Longitude	115.5543348	Visibility	
+RIMP_20220304_KC2-3	Chris Douglas	6		Date	4/3/2022	Time	8:57:01	Location	Rottnest	Site	KC2-3	Status		Latitude	-31.98518968	Longitude	115.5494193	Visibility	
+RIMP_20220304_KC2-4	Sarah	6		Date	4/3/2022	Time		Location	Rottnest	Site	KC2-4	Status		Latitude	-31.98651575	Longitude	115.5440364	Visibility	
+RIMP_20220304_KC3-1	Sarah	3		Date	4/3/2022	Time		Location	Rottnest	Site	KC3-1	Status		Latitude	-32.01118683	Longitude	115.5589366	Visibility	
+RIMP_20220304_KC3-2	Sarah	6		Date	4/3/2022	Time		Location	Rottnest	Site	KC3-2	Status		Latitude	-32.01363707	Longitude	115.5577547	Visibility	
+RIMP_20220304_KC3-3	Sarah	3		Date	4/3/2022	Time		Location	Rottnest	Site	KC3-3	Status		Latitude	-32.0139977	Longitude	115.5568691	Visibility	
+RIMP_20220304_KC3-4	Sarah	2		Date	4/3/2022	Time		Location	Rottnest	Site	KC3-4	Status		Latitude	-32.01363373	Longitude	115.55268	Visibility	
+RIMP_20220304_KC4-1	Sarah	5		Date	4/3/2022	Time		Location	Rottnest	Site	KC4-1	Status		Latitude	-32.01579942	Longitude	115.5471127	Visibility	
+RIMP_20220304_KC4-2	Sarah	5		Date	4/3/2022	Time		Location	Rottnest	Site	KC4-2	Status		Latitude	-32.01680617	Longitude	115.5466541	Visibility	
+RIMP_20220304_KC4-3	Sarah	3		Date	4/3/2022	Time		Location	Rottnest	Site	KC4-3	Status		Latitude	-32.01640622	Longitude	115.5436708	Visibility	
+RIMP_20220304_KC4-4	Sarah	3		Date	4/3/2022	Time		Location	Rottnest	Site	KC4-4	Status		Latitude	-32.01602653	Longitude	115.5412265	Visibility	
+RIMP_20220304_WC3-1		15		Date	20220304	Time		Location	Rottnest	Site	WC3-1	Status		Latitude	-32.01491918	Longitude	115.442742	Visibility	
+RIMP_20220304_WC3-2	Chris Douglas	13		Date	4/3/2022	Time		Location	Rottnest	Site	WC3-2	Status		Latitude	-32.01457608	Longitude	115.4426486	Visibility	
+RIMP_20220304_WC3-3	Chris Douglas	12		Date	4/3/2022	Time	10:41:32	Location	Rottnest	Site	WC3-3	Status		Latitude	-32.01457608	Longitude	115.4426486	Visibility	
+RIMP_20220304_WC3-4	Chris Douglas	15		Date	4/3/2022	Time	10:50:57	Location	Rottnest	Site	WC3-4	Status		Latitude	-32.01137935	Longitude	115.446088	Visibility	
+RIMP_20220304_WC4-1	Chris Douglas	11		Date	4/3/2022	Time	10:56:28	Location	Rottnest	Site	WC4-1	Status		Latitude	-32.00939798	Longitude	115.4546225	Visibility	
+RIMP_20220304_WC4-2	Chris Douglas	10		Date	4/3/2022	Time	11:02:57	Location	Rottnest	Site	WC4-2	Status		Latitude	-32.00587478	Longitude	115.4527965	Visibility	
+RIMP_20220304_WC4-3	Chris Douglas	8		Date	4/3/2022	Time	11:09:39	Location	Rottnest	Site	WC4-3	Status		Latitude	-32.0102989	Longitude	115.4576025	Visibility	
+RIMP_20220304_WC4-4	Chris Douglas	11		Date	4/3/2022	Time	11:18:13	Location	Rottnest	Site	WC4-4	Status		Latitude	-32.00374722	Longitude	115.4561857	Visibility	
+RIMP_20220309_GC3-1	Chris Douglas	4		Date	9/3/2022	Time	8:57:43	Location	Rottnest	Site	GC3-1	Status		Latitude	-32.01672655	Longitude	115.4794805	Visibility	
+RIMP_20220309_GC3-2	Chris Douglas	8		Date	9/3/2022	Time	9:03:16	Location	Rottnest	Site	GC3-2	Status		Latitude	-32.0182511	Longitude	115.482025	Visibility	
+RIMP_20220309_GC3-3	Chris Douglas	5		Date	9/3/2022	Time	9:10:58	Location	Rottnest	Site	GC3-3	Status		Latitude	-32.01947628	Longitude	115.4844274	Visibility	
+RIMP_20220309_GC3-4	Chris Douglas	10		Date	9/3/2022	Time	9:17:05	Location	Rottnest	Site	GC3-4	Status		Latitude	-32.02092847	Longitude	115.4865979	Visibility	
+RIMP_20220309_GC4-1	Chris Douglas 	11		Date	9/3/2022	Time	9:26:40	Location	Rottnest	Site	GC4-1	Status		Latitude	-32.0225041	Longitude	115.5046277	Visibility	
+RIMP_20220309_GC4-2		13		Date	20220309	Time		Location	Rottnest	Site	GC4-2	Status		Latitude	-32.02119705	Longitude	115.5065143	Visibility	
+RIMP_20220309_GC4-3	Chris Douglas	9		Date	9/3/2022	Time	9:41:35	Location	Rottnest	Site	GC4-3	Status		Latitude	-32.02013933	Longitude	115.5093988	Visibility	
+RIMP_20220309_GC4-4	Chris Douglas	8		Date	9/3/2022	Time	9:46:28	Location	Rottnest	Site	GC4-4	Status		Latitude	-32.0184996	Longitude	115.5095913	Visibility	
+RIMP_20220309_PC1-1	Chris Douglas	7		Date	9/3/2022	Time	10:53:59	Location	Rottnest	Site	PC1-1	Status		Latitude	-32.01868827	Longitude	115.5104537	Visibility	
+RIMP_20220309_PC1-2	Chris Douglas	7		Date	9/3/2022	Time	10:58:19	Location	Rottnest	Site	PC1-2	Status		Latitude	-32.02060748	Longitude	115.5116621	Visibility	
+RIMP_20220309_PC1-3	Chris Douglas	5		Date	9/3/2022	Time	11:02:12	Location	Rottnest	Site	PC1-3	Status		Latitude	-32.0190099	Longitude	115.5136759	Visibility	
+RIMP_20220309_PC1-4	Chris Douglas 	3.5		Date	9/3/2022	Time	11:05:49	Location	Rottnest	Site	PC1-4	Status		Latitude	-32.01714243	Longitude	115.5128425	Visibility	
+RIMP_20220309_PC2-1	Chris Douglas	7		Date	9/3/2022	Time	12:56:58	Location	Rottnest	Site	PC2-1	Status		Latitude	-32.02166337	Longitude	115.514852	Visibility	
+RIMP_20220309_PC2-2	Chris Douglas	7		Date	9/3/2022	Time	13:01:05	Location	Rottnest	Site	PC2-2	Status		Latitude	-32.02332503	Longitude	115.5130507	Visibility	
+RIMP_20220309_PC2-3	Chris Douglas	8		Date	9/3/2022	Time	11:18:49	Location	Rottnest	Site	PC2-3	Status		Latitude	-32.02436017	Longitude	115.5156854	Visibility	
+RIMP_20220309_PC2-4	Chris Douglas	10		Date	9/3/2022	Time	11:23:09	Location	Rottnest	Site	PC2-4	Status		Latitude	-32.0267828	Longitude	115.5179237	Visibility	
+RIMP_20220309_PC3-1	Chris Douglas	8		Date	9/3/2022	Time	14:11:38	Location	Rottnest	Site	PC3-1	Status		Latitude	-32.02733322	Longitude	115.5346588	Visibility	
+RIMP_20220309_PC3-2	Chris Douglas	5		Date	9/3/2022	Time	14:15:12	Location	Rottnest	Site	PC3-2	Status		Latitude	-32.02564962	Longitude	115.5379957	Visibility	
+RIMP_20220309_PC3-3	Chris Douglas	10		Date	9/3/2022	Time	14:18:09	Location	Rottnest	Site	PC3-3	Status		Latitude	-32.02466763	Longitude	115.5352908	Visibility	
+RIMP_20220309_PC3-4	Chris Douglas	6		Date	9/3/2022	Time	14:21:14	Location	Rottnest	Site	PC3-4	Status		Latitude	-32.02235477	Longitude	115.5365982	Visibility	
+RIMP_20220309_PC4-1	Chris Douglas	7		Date	9/3/2022	Time	14:26:00	Location	Rottnest	Site	PC4-1	Status		Latitude	-32.02007682	Longitude	115.5369116	Visibility	
+RIMP_20220309_PC4-2	Chris Douglas	5		Date	9/3/2022	Time	14:28:38	Location	Rottnest	Site	PC4-2	Status		Latitude	-32.0193325	Longitude	115.5395276	Visibility	
+RIMP_20220309_PC4-3	Chris Douglas	5		Date	9/3/2022	Time	14:31:43	Location	Rottnest	Site	PC4-3	Status		Latitude	-32.02032458	Longitude	115.5415937	Visibility	
+RIMP_20220309_PC4-4	Chris Douglas	7		Date	9/3/2022	Time	14:34:44	Location	Rottnest	Site	PC4-4	Status		Latitude	-32.02143628	Longitude	115.543997	Visibility	
+RIMP_20220309_PS1-1	Chris Douglas	5		Date	9/3/2022	Time	12:29:35	Location	Rottnest	Site	PS1-1	Status		Latitude	-32.02262648	Longitude	115.5176643	Visibility	
+RIMP_20220309_PS1-2	Chris Douglas	6		Date	9/3/2022	Time	12:34:14	Location	Rottnest	Site	PS1-2	Status		Latitude	-32.02523292	Longitude	115.518287	Visibility	
+RIMP_20220309_PS1-3	Chris Douglas	6		Date	9/3/2022	Time	12:37:53	Location	Rottnest	Site	PS1-3	Status		Latitude	-32.0274131	Longitude	115.520462	Visibility	
+RIMP_20220309_PS1-4	Chris Douglas	6		Date	9/3/2022	Time	12:44:42	Location	Rottnest	Site	PS1-4	Status		Latitude	-32.02914945	Longitude	115.5231091	Visibility	
+RIMP_20220309_PS2-1	Chris Douglas	9		Date	9/3/2022	Time	12:56:58	Location	Rottnest	Site	PS2-1	Status		Latitude	-32.03170657	Longitude	115.5252648	Visibility	
+RIMP_20220309_PS2-2	Chris Douglas	10		Date	9/3/2022	Time	13:01:05	Location	Rottnest	Site	PS2-2	Status		Latitude	-32.03005282	Longitude	115.5268897	Visibility	
+RIMP_20220309_PS2-3	Chris Douglas	5		Date	9/3/2022	Time	13:04:43	Location	Rottnest	Site	PS2-3	Status		Latitude	-32.02903005	Longitude	115.5293692	Visibility	
+RIMP_20220309_PS2-4	Chris Douglas	9		Date	9/3/2022	Time	13:08:56	Location	Rottnest	Site	PS2-4	Status		Latitude	-32.02768068	Longitude	115.531652	Visibility	
+RIMP_20220311_AC2-5	Chris Douglas	8		Date	11/3/2022	Time	13:05:18	Location	Rottnest	Site	AC2-5	Status		Latitude	-32.0016587	Longitude	115.4824388	Visibility	
+RIMP_20220311_AC2-6	Chris Douglas	9		Date	11/3/2022	Time	13:10:50	Location	Rottnest	Site	AC2-6	Status		Latitude	-31.9969363	Longitude	115.4871989	Visibility	
+RIMP_20220311_AC3-5	Chris Douglas	7		Date	11/3/2022	Time	13:29:36	Location	Rottnest	Site	AC3-5	Status		Latitude	-31.9848602	Longitude	115.5159414	Visibility	
+RIMP_20220311_AC4-5	Chris Douglas	3		Date	11/3/2022	Time	13:34:39	Location	Rottnest	Site	AC4-5	Status		Latitude	-31.9860098	Longitude	115.5292388	Visibility	
+RIMP_20220311_AS1-5	Chris Douglas	5		Date	11/3/2022	Time	13:19:02	Location	Rottnest	Site	AS1-5	Status		Latitude	-31.9889428	Longitude	115.505103	Visibility	

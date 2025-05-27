@@ -1,0 +1,131 @@
+Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,ReportID,Year,Comments
+DB_000,-38.3402255,141.3884961,20230313,13:32:00,Discovery Bay,No-take,Discovery Bay,8,Scott Gray,Yes,Yes,2023DB_000,2023,No lights
+DB_001,-38.3438104,141.384712,20230313,13:34:00,Discovery Bay,No-take,Discovery Bay,10,Scott Gray,Yes,Yes,2023DB_001,2023,No lights
+DB_002,-38.3445464,141.3759157,20230313,13:45:00,Discovery Bay,No-take,Discovery Bay,18,Scott Gray,Yes,Yes,2023DB_002,2023,No lights
+DB_003,-38.3189964,141.3786161,20230313,11:37:00,Discovery Bay,Fished,Discovery Bay,13,Scott Gray,Yes,Yes,2023DB_003,2023,No lights
+DB_004,-38.3229054,141.381513,20230313,11:40:00,Discovery Bay,Fished,Discovery Bay,12,Scott Gray,Yes,Yes,2023DB_004,2023,No lights
+DB_005,-38.3828795,141.3669808,20230314,11:27:00,Discovery Bay,Fished,Discovery Bay,17,Grace Cosgriff-Camm,Yes,Yes,2023DB_005,2023,"No lights, marked on clapper as 034 which is incorrect number. Site DB_005 - has been fixed on file labels"
+DB_006,-38.3399294,141.3803974,20230313,13:36:00,Discovery Bay,No-take,Discovery Bay,15,Scott Gray,Yes,Yes,2023DB_006,2023,"No lights, Flatty"
+DB_007,-38.3320162,141.3873328,20230313,13:28:00,Discovery Bay,Fished,Discovery Bay,9,Scott Gray,Yes,Yes,2023DB_007,2023,No lights
+DB_008,-38.3260988,141.3771828,20230313,11:42:00,Discovery Bay,Fished,Discovery Bay,18,Scott Gray,Yes,Yes,2023DB_008,2023,No lights
+DB_009,-38.3356826,141.3771185,20230313,13:39:00,Discovery Bay,No-take,Discovery Bay,19,Grace Cosgriff-Camm,Yes,Yes,2023DB_009,2023,"No lights, Fail visibility"
+DB_010,-38.3302549,141.3804642,20230313,11:45:00,Discovery Bay,Fished,Discovery Bay,15,Scott Gray,Yes,Yes,2023DB_010,2023,No lights
+DB_011,-38.3162705,141.3754096,20230313,11:34:00,Discovery Bay,Fished,Discovery Bay,13,Scott Gray,Yes,Yes,2023DB_011,2023,No lights
+DB_012,-38.325954,141.3675992,20230313,11:53:00,Discovery Bay,Fished,Discovery Bay,25,Scott Gray,Yes,Yes,2023DB_012,2023,No lights
+DB_013,-38.3175179,141.3706271,20230313,11:58:00,Discovery Bay,Fished,Discovery Bay,20,Louisa Graf ,Yes,Yes,2023DB_013,2023,"No lights, Elephant sharks"
+DB_014,-38.3865167,141.3700055,20230314,14:00:00,Discovery Bay,Fished,Discovery Bay,17,Scott Gray,Yes,Yes,2023DB_014,2023,No lights
+DB_015,-38.3836864,141.3681495,20230314,11:29:00,Discovery Bay,Fished,Discovery Bay,16,Grace Cosgriff-Camm,Yes,Yes,2023DB_015,2023,"No lights, clapper worng says DB_017 corrected later before deployment"
+DB_016,-38.3708601,141.36187,20230314,11:17:00,Discovery Bay,Fished,Discovery Bay,20,Grace Cosgriff-Camm,Yes,Yes,2023DB_016,2023,No lights
+DB_017,-38.3618732,141.3658893,20230314,9:54:00,Discovery Bay,Fished,Discovery Bay,20,Scott Gray,Yes,Yes,2023DB_017,2023,No lights
+DB_018,-38.3884664,141.3792295,20230314,11:44:00,Discovery Bay,Fished,Discovery Bay,15,Scott Gray,Yes,Yes,2023DB_018,2023,No lights
+DB_021,-38.3536943,141.3736465,20230314,9:48:00,Discovery Bay,Fished,Discovery Bay,15,Grace Cosgriff-Camm,Yes,Yes,2023DB_021,2023,No lights
+DB_022,-38.3446909,141.3872693,20230314,9:39:00,Discovery Bay,No-take,Discovery Bay,7,Louisa Graf ,Yes,Yes,2023DB_022,2023,No lights
+DB_024,-38.3565601,141.3690673,20230314,9:51:00,Discovery Bay,Fished,Discovery Bay,16,Louisa Graf,Yes,Yes,2023DB_024,2023,No lights
+DB_025,-38.3501202,141.3800057,20230314,9:44:00,Discovery Bay,Fished,Discovery Bay,9,Grace Cosgriff-Camm,Yes,Yes,2023DB_025,2023,No lights
+DB_026,-38.3414156,141.3919927,20230314,9:36:00,Discovery Bay,No-take,Discovery Bay,6,Grace Cosgriff-Camm,Yes,Yes,2023DB_026,2023,No lights
+DB_028,-38.3456118,141.3614531,20230313,13:51:00,Discovery Bay,No-take,Discovery Bay,31,Scott Gray,Yes,Yes,2023DB_028,2023,No lights
+DB_029,-38.3476774,141.3697695,20230313,13:48:00,Discovery Bay,No-take,Discovery Bay,22,Scott Gray,Yes,Yes,2023DB_029,2023,No lights
+DB_030,-38.3624636,141.3563772,20230313,13:57:00,Discovery Bay,No-take,Discovery Bay,29,Scott Gray,Yes,Yes,2023DB_030,2023,No lights
+DB_031,-38.3290472,141.3710823,20230313,11:50:00,Discovery Bay,Fished,Discovery Bay,24,Scott Gray,Yes,Yes,2023DB_031,2023,No lights
+DB_032,-38.3383243,141.3693453,20230313,13:42:00,Discovery Bay,No-take,Discovery Bay,25,Scott Gray,Yes,Yes,2023DB_032,2023,No lights
+DB_033,-38.3548972,141.3551972,20230312,12:15:00,Discovery Bay,No-take,Discovery Bay,34,Scott Gray,Yes,Yes,2023DB_033,2023,No lights
+DB_034,-38.361365,141.3642641,20230314,9:56:00,Discovery Bay,Fished,Discovery Bay,20,Grace Cosgriff-Camm,Yes,No,2023DB_034,2023,No lights
+DB_035,-38.3318588,141.3748848,20230313,11:48:00,Discovery Bay,Fished,Discovery Bay,21,Scott Gray,Yes,Yes,2023DB_035,2023,No lights
+DB_036,-38.3511878,141.3571562,20230312,12:10:00,Discovery Bay,No-take,Discovery Bay,32,Scott Gray,Yes,Yes,2023DB_036,2023,No lights
+DB_037,-38.3664186,141.3518064,20230313,10:01:00,Discovery Bay,No-take,Discovery Bay,34,Scott Gray,Yes,Yes,2023DB_037,2023,No lights
+DB_038,-38.3366863,141.3549212,20230312,11:46:00,Discovery Bay,No-take,Discovery Bay,35,Scott Gray,Yes,Yes,2023DB_038,2023,Lights test
+DB_039,-38.3734195,141.3505374,20230313,9:56:00,Discovery Bay,No-take,Discovery Bay,31,Scott Gray,Yes,Yes,2023DB_039,2023,No lights
+DB_040,-38.3424368,141.3528145,20230312,11:50:00,Discovery Bay,No-take,Discovery Bay,35,Scott Gray,Yes,Yes,2023DB_040,2023,No lights
+DB_041,-38.321749,141.3701416,20230313,11:56:00,Discovery Bay,Fished,Discovery Bay,22,Scott Gray,Yes,Yes,2023DB_041,2023,No lights. Port Jackson
+DB_042,-38.380545,141.3489126,20230312,14:10:00,Discovery Bay,Fished,Discovery Bay,31,Scott Gray,Yes,No,2023DB_042,2023,No lights
+DB_043,-38.3941307,141.3684233,20230313,9:39:00,Discovery Bay,Fished,Discovery Bay,30,Scott Gray,Yes,Yes,2023DB_043,2023,No lights
+DB_044,-38.3898399,141.3874282,20230314,14:07:00,Discovery Bay,Fished,Discovery Bay,22,Scott Gray,Yes,No,2023DB_044,2023,No lights
+DB_045,-38.3700391,141.3531778,20230313,9:59:00,Discovery Bay,No-take,Discovery Bay,30,Louisa Graf,Yes,Yes,2023DB_045,2023,No lights
+DB_046,-38.3473241,141.356118,20230312,12:07:00,Discovery Bay,No-take,Discovery Bay,38,Scott Gray,Yes,Yes,2023DB_046,2023,Lights with lobster
+DB_047,-38.3943985,141.3720073,20230313,9:36:00,Discovery Bay,Fished,Discovery Bay,24,Scott Gray,Yes,Yes,2023DB_047,2023,No lights
+DB_048,-38.3896205,141.3665325,20230314,11:38:00,Discovery Bay,Fished,Discovery Bay,26,Louisa Graf ,Yes,Yes,2023DB_048,2023,No lights
+DB_049,-38.3741437,141.3552221,20230313,9:53:00,Discovery Bay,No-take,Discovery Bay,28,Scott Gray,Yes,Yes,2023DB_049,2023,No lights
+DB_050,-38.3680438,141.36198,20230314,11:15:00,Discovery Bay,Fished,Discovery Bay,18,Grace Cosgriff-Camm,Yes,Yes,2023DB_050,2023,No lights
+DB_051,-38.3860159,141.3675106,20230314,13:57:00,Discovery Bay,Fished,Discovery Bay,20,Louisa Graf ,Yes,Yes,2023DB_051,2023,"No lights, Repeat"
+DB_052,-38.3545316,141.359255,20230312,12:13:00,Discovery Bay,No-take,Discovery Bay,29,Scott Gray,Yes,Yes,2023DB_052,2023,No lights
+DB_053,-38.3676801,141.3565627,20230314,10:00:00,Discovery Bay,No-take,Discovery Bay,28,Louisa Graf ,Yes,Yes,2023DB_053,2023,No lights
+DB_055,-38.3822112,141.3545926,20230313,9:47:00,Discovery Bay,Fished,Discovery Bay,26,Scott Gray,Yes,Yes,2023DB_055,2023,No lights
+DB_056,-38.3608238,141.3063585,20230311,14:02:00,Discovery Bay,Fished,Discovery Bay,61,Scott Gray,Yes,Yes,2023DB_056,2023,
+DB_057,-38.3515497,141.3207818,20230311,14:17:00,Discovery Bay,No-take,Discovery Bay,56,Scott Gray,Yes,Yes,2023DB_057,2023,no bait arm
+DB_058,-38.3648881,141.3344395,20230312,9:51:00,Discovery Bay,No-take,Discovery Bay,56,Scott Gray,Yes,Yes,2023DB_058,2023,Nice snapper and reef
+DB_059,-38.3412805,141.3468575,20230312,11:53:00,Discovery Bay,No-take,Discovery Bay,35,Scott Gray,Yes,Yes,2023DB_059,2023,No lights
+DB_060,-38.3388866,141.3218501,20230311,14:27:00,Discovery Bay,No-take,Discovery Bay,54,Scott Gray,Yes,Yes,2023DB_060,2023,smashing
+DB_061,-38.3841193,141.3458603,20230312,14:07:00,Discovery Bay,Fished,Discovery Bay,58,Scott Gray,Yes,Yes,2023DB_061,2023,No lights
+DB_062,-38.3983362,141.3651727,20230312,14:31:00,Discovery Bay,Fished,Discovery Bay,55,Scott Gray,Yes,Yes,2023DB_062,2023,No lights
+DB_063,-38.3524901,141.3480082,20230312,12:00:00,Discovery Bay,No-take,Discovery Bay,47,Scott Gray,Yes,Yes,2023DB_063,2023,No lights
+DB_064,-38.3914325,141.3594918,20230312,14:25:00,Discovery Bay,Fished,Discovery Bay,49,Scott Gray,Yes,Yes,2023DB_064,2023,No lights
+DB_065,-38.3609846,141.3325467,20230312,9:48:00,Discovery Bay,No-take,Discovery Bay,55,Scott Gray,Yes,Yes,2023DB_065,2023,Sand/ snapper
+DB_067,-38.3488643,141.3528214,20230312,12:04:00,Discovery Bay,No-take,Discovery Bay,42,Scott Gray,Yes,Yes,2023DB_067,2023,No lights
+DB_068,-38.3578496,141.321332,20230311,14:13:00,Discovery Bay,No-take,Discovery Bay,57,Scott Gray,Yes,Yes,2023DB_068,2023,no bait arm
+DB_069,-38.3460112,141.3421842,20230312,11:56:00,Discovery Bay,No-take,Discovery Bay,50,Scott Gray,Yes,Yes,2023DB_069,2023,No lights
+DB_070,-38.3452469,141.3219159,20230311,14:24:00,Discovery Bay,No-take,Discovery Bay,52,Scott Gray,Yes,Yes,2023DB_070,2023,
+DB_071,-38.3813893,141.3442892,20230312,14:03:00,Discovery Bay,Fished,Discovery Bay,57,Scott Gray,Yes,Yes,2023DB_071,2023,No lights
+DB_072,-38.3401741,141.3298734,20230312,9:38:00,Discovery Bay,No-take,Discovery Bay,57,Scott Gray,Yes,Yes,2023DB_072,2023,Lobster
+DB_073,-38.3346536,141.3200347,20230311,14:30:00,Discovery Bay,No-take,Discovery Bay,52,Scott Gray,Yes,Yes,2023DB_073,2023,bait arm broken
+DB_074,-38.38732,141.357773,20230313,9:43:00,Discovery Bay,Fished,Discovery Bay,27,Scott Gray,Yes,Yes,2023DB_074,2023,No lights
+DB_075,-38.349512,141.3300381,20230312,9:43:00,Discovery Bay,No-take,Discovery Bay,54,Scott Gray,Yes,Yes,2023DB_075,2023,Lights
+DB_076,-38.346169,141.3146394,20230311,14:20:00,Discovery Bay,No-take,Discovery Bay,54,Scott Gray,Yes,Yes,2023DB_076,2023,no bait arm
+DB_077,-38.3872541,141.3517127,20230312,14:17:00,Discovery Bay,Fished,Discovery Bay,47,Scott Gray,Yes,Yes,2023DB_077,2023,No lights
+DB_078,-38.3346009,141.332296,20230312,9:34:00,Discovery Bay,No-take,Discovery Bay,55,Scott Gray,Yes,Yes,2023DB_078,2023,
+DB_079,-38.3649189,141.3414439,20230312,13:57:00,Discovery Bay,No-take,Discovery Bay,54,Scott Gray,Yes,Yes,2023DB_079,2023,No lights
+DB_080,-38.3350815,141.3255308,20230311,14:33:00,Discovery Bay,No-take,Discovery Bay,53,Scott Gray,Yes,Yes,2023DB_080,2023,green water
+DB_081,-38.3969245,141.3730382,20230313,9:34:00,Discovery Bay,Fished,Discovery Bay,38,Scott Gray,Yes,Yes,2023DB_081,2023,"No lights, good drop"
+DB_082,-38.3839172,141.3505541,20230312,14:14:00,Discovery Bay,Fished,Discovery Bay,51,Scott Gray,Yes,Yes,2023DB_082,2023,No lights
+DB_083,-38.3961704,141.3630447,20230312,14:29:00,Discovery Bay,Fished,Discovery Bay,38,Scott Gray,Yes,Yes,2023DB_083,2023,No lights
+DB_084,-38.3894908,141.3117513,20230311,12:00:00,Discovery Bay,Fished,Discovery Bay,68,Scott Gray,Yes,Yes,2023DB_084,2023,
+DB_085,-38.4001925,141.3096361,20230311,11:49:00,Discovery Bay,Fished,Discovery Bay,71,Scott Gray,Yes,Yes,2023DB_085,2023,
+DB_086,-38.3739502,141.3323373,20230312,10:02:00,Discovery Bay,No-take,Discovery Bay,60,Scott Gray,Yes,Yes,2023DB_086,2023,
+DB_087,-38.3945922,141.351995,20230312,14:21:00,Discovery Bay,Fished,Discovery Bay,64,Scott Gray,Yes,Yes,2023DB_087,2023,No lights
+DB_088,-38.3867081,141.3380094,20230311,9:29:00,Discovery Bay,Fished,Discovery Bay,70,Scott Gray,Yes,Yes,2023DB_088,2023,snapper
+DB_089,-38.3639303,141.3218242,20230311,14:10:00,Discovery Bay,No-take,Discovery Bay,59,Scott Gray,Yes,Yes,2023DB_089,2023,
+DB_090,-38.363596,141.3124676,20230311,12:25:00,Discovery Bay,No-take,Discovery Bay,60,Scott Gray,Yes,Yes,2023DB_090,2023,
+DB_091,-38.3817956,141.3060277,20230311,12:12:00,Discovery Bay,Fished,Discovery Bay,68,Scott Gray,Yes,Yes,2023DB_091,2023,
+DB_092,-38.3741154,141.3160564,20230311,12:16:00,Discovery Bay,No-take,Discovery Bay,66,Scott Gray,Yes,Yes,2023DB_092,2023,Broken bait arm
+DB_093,-38.3920742,141.3286702,20230311,9:51:00,Discovery Bay,Fished,Discovery Bay,62,Scott Gray,Yes,Yes,2023DB_093,2023,legacy site but too close to 109
+DB_094,-38.398849,141.3236037,20230311,10:02:00,Discovery Bay,Fished,Discovery Bay,71,Scott Gray,Yes,Yes,2023DB_094,2023,
+DB_095,-38.3715619,141.3116251,20230311,12:21:00,Discovery Bay,No-take,Discovery Bay,67,Scott Gray,Yes,Yes,2023DB_095,2023,
+DB_096,-38.3878364,141.3235123,20230311,10:19:00,Discovery Bay,Fished,Discovery Bay,68,Scott Gray,Yes,Yes,2023DB_096,2023,
+DB_097,-38.3769912,141.3382257,20230312,10:06:00,Discovery Bay,No-take,Discovery Bay,60,Scott Gray,Yes,Yes,2023DB_097,2023,
+DB_098,-38.3933754,141.3301052,20230311,9:44:00,Discovery Bay,Fished,Discovery Bay,65,Scott Gray,Yes,Yes,2023DB_098,2023,snapper
+DB_099,-38.3963005,141.3131923,20230311,11:53:00,Discovery Bay,Fished,Discovery Bay,74,Scott Gray,Yes,Yes,2023DB_099,2023,
+DB_100,-38.381651,141.3156371,20230311,12:07:00,Discovery Bay,Fished,Discovery Bay,70,Scott Gray,Yes,Yes,2023DB_100,2023,"Broken bait arm, big gummy"
+DB_101,-38.3721349,141.3268316,20230312,9:59:00,Discovery Bay,No-take,Discovery Bay,61,Scott Gray,Yes,Yes,2023DB_101,2023,No lights
+DB_102,-38.3985779,141.3198081,20230311,10:07:00,Discovery Bay,Fished,Discovery Bay,72,Scott Gray,Yes,Yes,2023DB_102,2023,
+DB_103,-38.3886499,141.3152264,20230311,12:03:00,Discovery Bay,Fished,Discovery Bay,70,Scott Gray,Yes,Yes,2023DB_103,2023,Nice  
+DB_104,-38.3976312,141.327122,20230311,9:56:00,Discovery Bay,Fished,Discovery Bay,68,Scott Gray,Yes,Yes,2023DB_104,2023,
+DB_105,-38.3708825,141.3385401,20230312,10:09:00,Discovery Bay,No-take,Discovery Bay,57,Scott Gray,Yes,Yes,2023DB_105,2023,
+DB_106,-38.3934298,141.3089565,20230311,11:57:00,Discovery Bay,Fished,Discovery Bay,73,Scott Gray,Yes,Yes,2023DB_106,2023,Missing bag
+DB_107,-38.394568,141.3231094,20230311,10:13:00,Discovery Bay,Fished,Discovery Bay,65,Scott Gray,Yes,Yes,2023DB_107,2023,
+DB_108,-38.3699355,141.3296716,20230312,9:55:00,Discovery Bay,No-take,Discovery Bay,62,Scott Gray,Yes,Yes,2023DB_108,2023,Lights
+DB_109,-38.3896764,141.3329435,20230311,9:38:00,Discovery Bay,Fished,Discovery Bay,68,Scott Gray,Yes,Yes,2023DB_109,2023,striped trumpeter
+DB_110,-38.385098,141.3359215,20230311,9:32:00,Discovery Bay,Fished,Discovery Bay,68,Scott Gray,Yes,Yes,2023DB_110,2023,very nice
+DB_111,-38.3662986,141.3214757,20230311,14:07:00,Discovery Bay,No-take,Discovery Bay,62,Scott Gray,Yes,Yes,2023DB_111,2023,snapper finding nemo ray
+DB_120,-38.494475,141.2543514,20230310,13:09:00,Discovery Bay,Fished,Discovery Bay Deep,135,Scott Gray,Yes,Yes,2023DB_120,2023,
+DB_121,-38.5076375,141.2505691,20230310,13:16:00,Discovery Bay,Fished,Discovery Bay Deep,145,Scott Gray,Yes,Yes,2023DB_121,2023,Sand
+DB_122,-38.5001211,141.3063263,20230310,13:48:00,Discovery Bay,Fished,Discovery Bay Deep,97,Scott Gray,Yes,Yes,2023DB_122,2023,Sand
+DB_129,-38.4846365,141.3284942,20230310,16:04:00,Discovery Bay,Fished,Discovery Bay Deep,92,Scott Gray,Yes,Yes,2023DB_129,2023,"Nice sponge, silver dory, arrowhead squid"
+DB_130,-38.4796383,141.3163577,20230310,15:59:00,Discovery Bay,Fished,Discovery Bay Deep,100,Scott Gray,Yes,Yes,2023DB_130,2023,Sand
+DB_131,-38.4954559,141.3208857,20230310,15:49:00,Discovery Bay,Fished,Discovery Bay Deep,102,Scott Gray,Yes,Yes,2023DB_131,2023,Gummy headbutt
+DB_132,-38.4897593,141.3093792,20230310,15:54:00,Discovery Bay,Fished,Discovery Bay Deep,96,Scott Gray,Yes,Yes,2023DB_132,2023,Doplhin watch/Sponge
+DB_133,-38.5010991,141.2630493,20230310,13:31:00,Discovery Bay,Fished,Discovery Bay Deep,123,Scott Gray,Yes,Yes,2023DB_133,2023,Sponges/Sand
+DB_134,-38.5083872,141.3157033,20230310,13:53:00,Discovery Bay,Fished,Discovery Bay Deep,107,Scott Gray,Yes,Yes,2023DB_134,2023,"Light out, but readable"
+DB_135,-38.4903488,141.2650091,20230310,13:37:00,Discovery Bay,Fished,Discovery Bay Deep,120,Scott Gray,Yes,Yes,2023DB_135,2023,Sponge/Nice/Gummies
+DB_136,-38.5125604,141.2644376,20230310,13:25:00,Discovery Bay,Fished,Discovery Bay Deep,121,Scott Gray,Yes,Yes,2023DB_136,2023,
+DB_137,-38.5164773,141.2574488,20230310,13:21:00,Discovery Bay,Fished,Discovery Bay Deep,123,Scott Gray,Yes,Yes,2023DB_137,2023,
+DB_141,-38.4852537,141.2231854,20230310,11:01:00,Discovery Bay,Fished,Discovery Bay Deep,150,Scott Gray,Yes,Yes,2023DB_141,2023,
+DB_142,-38.4731797,141.2205019,20230310,10:51:00,Discovery Bay,Fished,Discovery Bay Deep,146,Scott Gray,Yes,Yes,2023DB_142,2023,Sand
+DB_143,-38.4811393,141.217137,20230310,10:57:00,Discovery Bay,Fished,Discovery Bay Deep,149,Scott Gray,Yes,Yes,2023DB_143,2023,
+DB_144,-38.4800265,141.241308,20230310,12:51:00,Discovery Bay,Fished,Discovery Bay Deep,146,Scott Gray,Yes,Yes,2023DB_144,2023,Sand
+DB_145,-38.4872829,141.2393837,20230310,13:01:00,Discovery Bay,Fished,Discovery Bay Deep,150,Scott Gray,Yes,Yes,2023DB_145,2023,
+DB_146,-38.4805982,141.2315801,20230310,11:07:00,Discovery Bay,Fished,Discovery Bay Deep,149,Scott Gray,Yes,Yes,2023DB_146,2023,Sand
+DB_147,-38.4676907,141.2630346,20230310,10:11:00,Discovery Bay,Fished,Discovery Bay Deep,121,Scott Gray,Yes,Yes,2023DB_147,2023,
+DB_148,-38.4604934,141.2449968,20230310,10:41:00,Discovery Bay,Fished,Discovery Bay Deep,136,Scott Gray,Yes,Yes,2023DB_148,2023,Check for pull over
+DB_149,-38.4544599,141.2602022,20230310,10:24:00,Discovery Bay,Fished,Discovery Bay Deep,126,Scott Gray,Yes,Yes,2023DB_149,2023,
+DB_150,-38.4563344,141.2529835,20230310,10:29:00,Discovery Bay,Fished,Discovery Bay Deep,134,Scott Gray,Yes,Yes,2023DB_150,2023,
+DB_153,-38.4639906,141.2543256,20230310,10:35:00,Discovery Bay,Fished,Discovery Bay Deep,133,Scott Gray,Yes,Yes,2023DB_153,2023,
+DB_155,-38.4603674,141.2648655,20230310,10:18:00,Discovery Bay,Fished,Discovery Bay Deep,119,Scott Gray,Yes,Yes,2023DB_155,2023,Check dolphins lots of fish/dolphins at surface

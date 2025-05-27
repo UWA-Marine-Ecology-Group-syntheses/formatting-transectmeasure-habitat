@@ -1,0 +1,905 @@
+Dot Point Measurements
+
+Generated: Monday 21 August 2023 13:46:53
+
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare									Radius %
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		139	196																					100.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		406	196																					89.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		139	578																					64.2
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		406	578																					46.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		674	578													Relief	Flat		0			82003001		46.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		139	960																					46.5
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		406	960																					15.5
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		674	960													Relief	Flat		0			82003001		15.5
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		139	1342																					64.2
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		406	1342																					46.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		139	1724																					100.0
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		406	1724																					89.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB11_1_01_Left_MAH00188.MP4_0054971.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		139	196																					100.0
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		406	196																					89.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		139	578																					64.2
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		406	578																					46.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		139	960																					46.5
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		406	960																					15.5
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		139	1342																					64.2
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		406	1342																					46.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		139	1724																					100.0
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		406	1724																					89.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB12_1_01_Left_MAH00193.MP4_0003079.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		139	196																					100.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		406	196																					89.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		139	578																					64.2
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		406	578																					46.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		139	960																					46.5
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		406	960																					15.5
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		139	1342																					64.2
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		406	1342																					46.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		139	1724																					100.0
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		406	1724																					89.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB13_1_01_Left_MAH01201.MP4_0063636.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		139	196																					100.0
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		406	196																					89.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		139	578																					64.2
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		406	578																					46.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		139	960																					46.5
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		406	960																					15.5
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		139	1342																					64.2
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		406	1342																					46.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		674	1342																					46.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		139	1724																					100.0
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		406	1724																					89.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB16_1_01_Left_MAH00158.MP4_0031193.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		139	196																					100.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		406	196																					89.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		139	578																					64.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		406	578																					46.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		139	960																					46.5
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		406	960																					15.5
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		139	1342																					64.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		406	1342																					46.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		139	1724																					100.0
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		406	1724																					89.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB21_1_01_Left_MAH00291.MP4_0030605.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		139	196																					100.0
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		406	196																					89.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		674	196													Relief	Flat		0			82003001		89.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		139	578																					64.2
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		406	578																					46.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		674	578													Relief	Flat		0			82003001		46.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		139	960																					46.5
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		406	960																					15.5
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		139	1342																					64.2
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		406	1342																					46.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		139	1724																					100.0
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		406	1724																					89.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB25_1_01_Left_MAH00296.MP4_0044322.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		139	196																					100.0
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		406	196																					89.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		139	578																					64.2
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		406	578																					46.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		674	578													Relief	Flat		0			82003001		46.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		139	960																					46.5
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		406	960																					15.5
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		139	1342																					64.2
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		406	1342																					46.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		139	1724																					100.0
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		406	1724																					89.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB28_1_01_Left_MAH01197.MP4_0043972.jpg	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		139	196																					100.0
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		406	196																					89.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		139	578																					64.2
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		406	578																					46.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		139	960																					46.5
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		406	960																					15.5
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		139	1342																					64.2
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		406	1342																					46.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		139	1724																					100.0
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		406	1724																					89.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB29_1_01_Left_MAH00198.MP4_0043176.jpg	      0		941	1724													Relief	High	High (>3m)	3			82003006		100.0
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		139	196																					100.0
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		406	196																					89.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		139	578																					64.2
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		406	578																					46.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		139	960																					46.5
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		406	960																					15.5
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		674	960													Relief	Flat		0			82003001		15.5
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		941	960																					46.5
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		139	1342																					64.2
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		406	1342																					46.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		139	1724																					100.0
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		406	1724																					89.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		674	1724													Relief	Flat		0			82003001		89.9
+PCB2_1_01_Left_MAH00202.MP4_0059637.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		139	196																					100.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		406	196																					89.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		139	578																					64.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		406	578																					46.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		674	578													Relief	Flat		0			82003001		46.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		139	960																					46.5
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		406	960																					15.5
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		674	960													Relief	Flat		0			82003001		15.5
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		139	1342																					64.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		406	1342																					46.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		674	1342													Relief	Flat		0			82003001		46.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		139	1724																					100.0
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		406	1724																					89.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		674	1724													Relief	Flat		0			82003001		89.9
+PCB30_1_01_Left_MAH00177.MP4_0000058.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		139	196																					100.0
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		406	196																					89.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		674	196																					89.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		139	578																					64.2
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		406	578																					46.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		674	578																					46.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		139	960																					46.5
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		406	960																					15.5
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		674	960																					15.5
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		139	1342																					64.2
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		406	1342																					46.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		674	1342																					46.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		139	1724																					100.0
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		406	1724																					89.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		674	1724																					89.9
+PCB3_1_01_Left_MAH00163.MP4_0044687.jpg	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		139	196																					100.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		406	196																					89.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		139	578																					64.2
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		406	578																					46.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		139	960																					46.5
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		406	960																					15.5
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		139	1342																					64.2
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		406	1342																					46.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		139	1724																					100.0
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		406	1724																					89.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCB4_1_01_Left_MAH00184.MP4_0014140.jpg	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		139	196																					100.0
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		406	196																					89.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		674	196																					89.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		139	578																					64.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		406	578																					46.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		674	578																					46.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		139	960																					46.5
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		406	960																					15.5
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		674	960																					15.5
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		139	1342																					64.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		406	1342																					46.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		674	1342																					46.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		139	1724																					100.0
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		406	1724																					89.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		674	1724																					89.9
+PCB9_1_01_Left_MAH00153.MP4_0036140.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		139	196																					100.0
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		406	196																					89.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		139	578																					64.2
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		406	578																					46.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		941	578													Relief	High	High (>3m)	3			82003006		64.2
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		139	960																					46.5
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		406	960																					15.5
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		674	960													Relief	High	Wall	4			82003007		15.5
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		139	1342																					64.2
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		406	1342																					46.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		941	1342													Relief	High	High (>3m)	3			82003006		64.2
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		139	1724																					100.0
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		406	1724																					89.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		674	1724													Relief	High	High (>3m)	3			82003006		89.9
+PCBP10_1_01_Left_MAH01192.MP4_0057075.jpg	      0		941	1724													Relief	High	Wall	4			82003007		100.0
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		139	196																					100.0
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		406	196																					89.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		139	578																					64.2
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		406	578																					46.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		139	960																					46.5
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		406	960																					15.5
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		139	1342																					64.2
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		406	1342																					46.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		139	1724																					100.0
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		406	1724																					89.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP11_1_01_Left_MAH00194.MP4_0023538.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		139	196																					100.0
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		406	196																					89.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		139	578																					64.2
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		406	578																					46.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		139	960																					46.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		406	960																					15.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		139	1342																					64.2
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		406	1342																					46.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		139	1724																					100.0
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		406	1724																					89.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		674	1724													Relief	Flat		0			82003001		89.9
+PCBP13_1_01_Left_MAH00189.MP4_0060093.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		139	196																					100.0
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		406	196																					89.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		139	578																					64.2
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		406	578																					46.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		139	960																					46.5
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		406	960																					15.5
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		139	1342																					64.2
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		406	1342																					46.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		674	1342																					46.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		139	1724																					100.0
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		406	1724																					89.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		674	1724																					89.9
+PCBP14_1_01_Left_MAH00202.MP4_0073178.jpg	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		139	196																					100.0
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		406	196																					89.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		139	578																					64.2
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		406	578																					46.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		139	960																					46.5
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		406	960																					15.5
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		674	960													Relief	Flat		0			82003001		15.5
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		139	1342																					64.2
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		406	1342																					46.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		139	1724																					100.0
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		406	1724																					89.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP15_1_01_Left_MAH00179.MP4_0011513.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		139	196																					100.0
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		406	196																					89.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		139	578																					64.2
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		406	578																					46.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		139	960																					46.5
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		406	960																					15.5
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		139	1342																					64.2
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		406	1342																					46.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		139	1724																					100.0
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		406	1724																					89.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP16_1_01_Left_MAH00197.MP4_0033496.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		139	196																					100.0
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		406	196																					89.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		674	196													Relief	High	High (>3m)	3			82003006		89.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		139	578																					64.2
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		406	578																					46.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		139	960																					46.5
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		406	960																					15.5
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		139	1342																					64.2
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		406	1342																					46.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		139	1724																					100.0
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		406	1724																					89.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP17_1_01_Left_MAH00300.MP4_0048446.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		139	196																					100.0
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		406	196																					89.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		674	196																					89.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		139	578																					64.2
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		406	578																					46.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		674	578																					46.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		139	960																					46.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		406	960																					15.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		674	960																					15.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		139	1342																					64.2
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		406	1342																					46.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		674	1342																					46.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		139	1724																					100.0
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		406	1724																					89.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		674	1724																					89.9
+PCBP18_1_01_Left_MAH00167.MP4_0072752.jpg	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		139	196													Relief	High	Wall	4			82003007		100.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		406	196													Relief	High	Wall	4			82003007		89.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		674	196													Relief	High	High (>3m)	3			82003006		89.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		941	196													Relief	High	High (>3m)	3			82003006		100.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		139	578																					64.2
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		406	578													Relief	High	Wall	4			82003007		46.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		139	960																					46.5
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		406	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		674	960													Relief	High	High (>3m)	3			82003006		15.5
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		139	1342																					64.2
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		406	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		674	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		139	1724																					100.0
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		406	1724													Relief	High	Wall	4			82003007		89.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP1_1_01_Left_MAH00181.MP4_0032805.jpg	      0		941	1724													Relief	High	High (>3m)	3			82003006		100.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		139	196																					100.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		406	196																					89.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		139	578																					64.2
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		406	578																					46.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		139	960																					46.5
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		406	960																					15.5
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		139	1342																					64.2
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		406	1342																					46.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		139	1724																					100.0
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		406	1724																					89.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP3_1_01_Left_MAH01206.MP4_0029291.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		139	196																					100.0
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		406	196																					89.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		139	578																					64.2
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		406	578																					46.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		139	960																					46.5
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		406	960																					15.5
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		139	1342																					64.2
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		406	1342																					46.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		139	1724																					100.0
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		406	1724																					89.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP6_1_01_Left_MAH00185.MP4_0046475.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		139	196																					100.0
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		406	196																					89.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		139	578																					64.2
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		406	578																					46.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		139	960																					46.5
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		406	960																					15.5
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		139	1342																					64.2
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		406	1342																					46.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		139	1724																					100.0
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		406	1724																					89.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP7_1_01_Left_MAH00192.MP4_0024065.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		139	196																					100.0
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		406	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		139	578																					64.2
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		406	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		139	960																					46.5
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		406	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		139	1342																					64.2
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		406	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		139	1724																					100.0
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		406	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP8_1_01_Left_MAH00287.MP4_0034125.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		139	196																					100.0
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		406	196																					89.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		139	578																					64.2
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		406	578																					46.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		139	960																					46.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		406	960																					15.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		139	1342																					64.2
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		406	1342																					46.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		139	1724																					100.0
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		406	1724																					89.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBP9_1_01_Left_MAH00190.MP4_0008676.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		139	196																					100.0
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		406	196																					89.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		139	578																					64.2
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		406	578																					46.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		139	960																					46.5
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		406	960																					15.5
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		674	960													Relief	Flat		0			82003001		15.5
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		139	1342																					64.2
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		406	1342																					46.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		674	1342													Relief	Flat		0			82003001		46.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		139	1724																					100.0
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		406	1724																					89.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV14_1_01_LEFT_MAH00161 (2).MP4_0048972.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		139	196																					100.0
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		406	196																					89.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		139	578																					64.2
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		406	578																					46.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		139	960																					46.5
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		406	960																					15.5
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		674	960													Relief	High	High (>3m)	3			82003006		15.5
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		139	1342																					64.2
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		406	1342																					46.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		674	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		139	1724																					100.0
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		406	1724																					89.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV15_1_01_L029_MAH00164.MP4_0059428.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		139	196																					100.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		406	196																					89.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		139	578																					64.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		406	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		139	960																					46.5
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		406	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		139	1342																					64.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		406	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		139	1724																					100.0
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		406	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV18_1_01_Left_MAH00123 (3).MP4_0015636.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		139	196																					100.0
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		406	196																					89.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		674	196													Relief	High	High (>3m)	3			82003006		89.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		941	196													Relief	High	Caves	5			82003008		100.0
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		139	578																					64.2
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		406	578																					46.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		674	578													Relief	High	High (>3m)	3			82003006		46.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		941	578													Relief	High	Wall	4			82003007		64.2
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		139	960																					46.5
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		406	960																					15.5
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		674	960													Relief	High	Wall	4			82003007		15.5
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		941	960													Relief	High	Caves	5			82003008		46.5
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		139	1342																					64.2
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		406	1342																					46.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		674	1342													Relief	High	Caves	5			82003008		46.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		941	1342													Relief	High	High (>3m)	3			82003006		64.2
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		139	1724																					100.0
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		406	1724																					89.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		674	1724													Relief	High	Wall	4			82003007		89.9
+PCBRUV19_1_01_L037_MAH00175.MP4_0038084.jpg	      0		941	1724													Relief	High	High (>3m)	3			82003006		100.0
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		139	196																					100.0
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		406	196																					89.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		139	578																					64.2
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		406	578																					46.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		139	960																					46.5
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		406	960																					15.5
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		139	1342																					64.2
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		406	1342																					46.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		139	1724																					100.0
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		406	1724																					89.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV1_1_01_Left_MAH00150.MP4_0047605.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		139	196																					100.0
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		406	196																					89.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		674	196													Relief	High	High (>3m)	3			82003006		89.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		139	578																					64.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		406	578																					46.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		139	960																					46.5
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		406	960																					15.5
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		139	1342																					64.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		406	1342																					46.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		139	1724																					100.0
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		406	1724																					89.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV20_1_01_Left_MAH00261 (4).MP4_0007596.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		139	196																					100.0
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		406	196																					89.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		674	196													Relief	Flat		0			82003001		89.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		139	578																					64.2
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		406	578																					46.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		139	960																					46.5
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		406	960																					15.5
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		139	1342																					64.2
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		406	1342																					46.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		139	1724																					100.0
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		406	1724																					89.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV22_1_01_MAH00153_l035 (14).MP4_0061860.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		139	196																					100.0
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		406	196																					89.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		139	578																					64.2
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		406	578																					46.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		139	960																					46.5
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		406	960																					15.5
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		139	1342																					64.2
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		406	1342																					46.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		139	1724																					100.0
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		406	1724																					89.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV23_1_01_L039_MAH00151.MP4_0059444.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		139	196																					100.0
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		406	196																					89.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		139	578																					64.2
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		406	578																					46.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		139	960																					46.5
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		406	960																					15.5
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		139	1342																					64.2
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		406	1342																					46.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		139	1724																					100.0
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		406	1724																					89.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV24_1_01_MAH00153_l035 (02).MP4_0064983.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		139	196																					100.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		406	196																					89.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		139	578																					64.2
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		406	578																					46.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		139	960																					46.5
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		406	960																					15.5
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		674	960													Relief	Flat		0			82003001		15.5
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		139	1342																					64.2
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		406	1342																					46.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		139	1724																					100.0
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		406	1724																					89.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV26_1_01_MAH00153_l035 (09).MP4_0019111.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		139	196																					100.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		406	196																					89.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		941	196													Relief	Flat		0			82003001		100.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		139	578																					64.2
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		406	578																					46.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		941	578													Relief	Flat		0			82003001		64.2
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		139	960																					46.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		406	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		139	1342																					64.2
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		406	1342																					46.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		139	1724																					100.0
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		406	1724																					89.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		674	1724													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV27_1_01_Right_MAH00148 (1).MP4_0068108.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		139	196																					100.0
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		406	196																					89.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		674	196																					89.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		139	578																					64.2
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		406	578																					46.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		674	578																					46.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		139	960																					46.5
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		406	960																					15.5
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		674	960																					15.5
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		941	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.5
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		139	1342																					64.2
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		406	1342																					46.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		674	1342																					46.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		139	1724																					100.0
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		406	1724																					89.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		674	1724																					89.9
+PCBRUV5_1_01_Left_PCBRUV5_MAH00155 (2).MP4_0079479.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		139	196																					100.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		406	196																					89.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		139	578																					64.2
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		406	578																					46.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		139	960																					46.5
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		406	960																					15.5
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		139	1342																					64.2
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		406	1342																					46.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		139	1724																					100.0
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		406	1724																					89.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV7_1_01_L031_MAH01143.MP4_0059272.jpg	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		139	196																					100.0
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		406	196																					89.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		139	578																					64.2
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		406	578																					46.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		139	960																					46.5
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		406	960																					15.5
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		139	1342																					64.2
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		406	1342																					46.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		139	1724																					100.0
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		406	1724																					89.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCBRUV8_1_01_Left_MAH00117 (3).MP4_0073175.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		139	196																					100.0
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		406	196																					89.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		674	196													Relief	Low / moderate	Low (<1m)	1			82003003		89.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		139	578																					64.2
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		406	578																					46.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		139	960																					46.5
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		406	960																					15.5
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		139	1342																					64.2
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		406	1342																					46.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		674	1342													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		941	1342													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		139	1724																					100.0
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		406	1724																					89.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF12_1_01_Left_PCPREF12MAH00155 (3).MP4_0001986.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		139	196																					100.0
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		406	196																					89.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		941	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		139	578																					64.2
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		406	578																					46.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		941	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		139	960																					46.5
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		406	960																					15.5
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		674	960													Relief	High	High (>3m)	3			82003006		15.5
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		139	1342																					64.2
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		406	1342																					46.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		941	1342													Relief	Flat		0			82003001		64.2
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		139	1724																					100.0
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		406	1724																					89.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF2_1_01_Left_PCPREF2_MAH00147 (4).MP4_0061205.jpg	      0		941	1724													Relief	Flat		0			82003001		100.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		139	196																					100.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		406	196													Relief	High	High (>3m)	3			82003006		89.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		139	578																					64.2
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		406	578													Relief	High	High (>3m)	3			82003006		46.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		674	578													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		139	960																					46.5
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		406	960													Relief	High	High (>3m)	3			82003006		15.5
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		674	960													Relief	Low / moderate	Low (<1m)	1			82003003		15.5
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		941	960													Relief	Low / moderate	Low (<1m)	1			82003003		46.5
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		139	1342																					64.2
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		406	1342													Relief	High	High (>3m)	3			82003006		46.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		674	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		46.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		941	1342													Relief	Low / moderate	Moderate (1-3m)	2			82003004		64.2
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		139	1724																					100.0
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		406	1724													Relief	High	High (>3m)	3			82003006		89.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		674	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF4_1_01_L031_MAH01138.MP4_0005428.jpg	      0		941	1724													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		139	196																					100.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		406	196																					89.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		674	196													Relief	Low / moderate	Moderate (1-3m)	2			82003004		89.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		941	196													Relief	Low / moderate	Low (<1m)	1			82003003		100.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		139	578																					64.2
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		406	578																					46.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		674	578													Relief	Low / moderate	Low (<1m)	1			82003003		46.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		941	578													Relief	Low / moderate	Low (<1m)	1			82003003		64.2
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		139	960																					46.5
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		406	960																					15.5
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		674	960													Relief	Low / moderate	Moderate (1-3m)	2			82003004		15.5
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		941	960													Relief	Flat		0			82003001		46.5
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		139	1342																					64.2
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		406	1342																					46.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		674	1342													Relief	High	Wall	4			82003007		46.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		941	1342													Relief	High	High (>3m)	3			82003006		64.2
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		139	1724																					100.0
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		406	1724																					89.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		674	1724													Relief	High	Caves	5			82003008		89.9
+PCPREF5_1_01_Left_MAH00267 (2).MP4_0079392.jpg	      0		941	1724													Relief	Low / moderate	Moderate (1-3m)	2			82003004		100.0

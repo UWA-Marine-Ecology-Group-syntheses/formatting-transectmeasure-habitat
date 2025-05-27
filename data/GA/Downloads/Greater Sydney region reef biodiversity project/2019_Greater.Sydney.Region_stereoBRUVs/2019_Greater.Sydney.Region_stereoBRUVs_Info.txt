@@ -1,0 +1,347 @@
+OpCode	TapeReader	Depth	Comment	Info5Name	Info5Value	Info6Name	Info6Value	Info7Name	Info7Value	Info8Name	Info8Value	Info9Name	Info9Value	Info10Name	Info10Value	Info11Name	Info11Value	Info12Name	Info12Value
+HM_1	Lachlan																		
+HM_10	Hing	29																	
+HM_100	Lachlan																		
+HM_101	Lachlan																		
+HM_102	Lachlan																		
+HM_103	Lachlan																		
+HM_104	Lachlan																		
+HM_105	Hing	26.7																	
+HM_107	Hing	21.1																	
+HM_108	Hing	30.1																	
+HM_110	Hing	40.5																	
+HM_111	Hammond	40.5		Lat		Long		Time											
+HM_112	Hing	31.1																	
+HM_113	Hing	33.5																	
+HM_114	Hammond	31		Lat		Long		Time											
+HM_115	Hing	21.5																	
+HM_116	Hammond	23.4		Lat		Long		Time											
+HM_117	Hammond	27.1		Lat		Long		Time											
+HM_118	Hing	27.1																	
+HM_119	Hing	31																	
+HM_120	Hing	31.3																	
+HM_121	Hing	40.2																	
+HM_122	Hing	30.1																	
+HM_124	Hing	24.1																	
+HM_125	Hing	29.4																	
+HM_126	Hing	27.1																	
+HM_127	Hing	23.7																	
+HM_128	Hing	22.9																	
+HM_129	Hing	24.5																	
+HM_13	Hing	21.5																	
+HM_130	Hing	19.3																	
+HM_131	DS	30.7		Lat		Long		Time											
+HM_132	Hing	30.9																	
+HM_133	Hing	21.9																	
+HM_134	DS	20.2		Lat		Long		Time											
+HM_135	Hammond	19.3		Lat		Long		Time											
+HM_136	Hing	34.2																	
+HM_137	Hing	30																	
+HM_138	Hing	33																	
+HM_139	Hammond	24		Lat		Long		Time											
+HM_14	Hing	27.9																	
+HM_140	Hing	31.9																	
+HM_141	Hammond	31.2		Lat		Long		Time											
+HM_142	Lachlan																		
+HM_143	Lachlan																		
+HM_144	Lachlan																		
+HM_145	Lachlan																		
+HM_146	Lachlan																		
+HM_147	Hing	23.1																	
+HM_148	DS	32.8		Lat		Long		Time											
+HM_149	Hing	34.2																	
+HM_15	Hing	16																	
+HM_150	Hing	27.6																	
+HM_151	Hing	38.8																	
+HM_152	Hing	32.4																	
+HM_153	Hing	21.9																	
+HM_154	Hing	24.6																	
+HM_155	Hing	30.8																	
+HM_157	DS	32.7		Lat		Long		Time											
+HM_158	DS	19.1		Lat		Long		Time											
+HM_159	Hing	35																	
+HM_16	Hammond	20		Lat		Long		Time											
+HM_160	Hing	24.5																	
+HM_161	Hammond	21.9		Lat		Long		Time											
+HM_162	Hing	18.4																	
+HM_163	Hing	30.4																	
+HM_164	Hammond	36.8		Lat		Long		Time											
+HM_165	Hing	26.4																	
+HM_166	Lachlan																		
+HM_167	Hing	23.2																	
+HM_168	Lachlan																		
+HM_169	Hing	31.8																	
+HM_17	Hing	29.7																	
+HM_170	Hing	27.2																	
+HM_171	Hing	35.9																	
+HM_172	Hing	25.1																	
+HM_173	Hing	29.4																	
+HM_174	Hing	20.8																	
+HM_175	Hing	30.8																	
+HM_176	Hammond	28.5		Lat		Long		Time											
+HM_177	Hammond	21.4		Lat		Long		Time											
+HM_178	Hammond	16		Lat		Long		Time											
+HM_179	Hammond	18.3		Lat		Long		Time											
+HM_18	Hing	23.7																	
+HM_180	Hing	22.4																	
+HM_181	Lachlan																		
+HM_182	Lachlan																		
+HM_183	Hing	21.6																	
+HM_184	Lachlan																		
+HM_185	DS	28.4		Lat		Long		Time											
+HM_186	Hing	18.6																	
+HM_187	Hammond	23.2		Lat		Long		Time											
+HM_188	Hing	28.1																	
+HM_189	Lachlan																		
+HM_19	Hammond	19.6		Lat		Long		Time											
+HM_190	Hammond	22.3		Lat		Long		Time											
+HM_191	Hing	28.1																	
+HM_192	DS	21.3		Lat		Long		Time											
+HM_193	DS	20.5		Lat		Long		Time											
+HM_194	Hing	21.7																	
+HM_195	Hing	23.2																	
+HM_196	Hing	17.3																	
+HM_197	Hing	21.1																	
+HM_198	Hing	20.1																	
+HM_199	Hing	23.4																	
+HM_2	Hammond	19																	
+HM_200	Hing	25.7																	
+HM_201	Hing	18.1																	
+HM_202	Hing	30.6																	
+HM_203	Hing	21.9																	
+HM_204	Hing	29.8																	
+HM_205	Hing	31.1																	
+HM_206	Hing	26.6																	
+HM_207	Hing	23.2																	
+HM_208	Hing	21.9																	
+HM_209	Hing	29.9																	
+HM_21	Hing	35.5																	
+HM_210	Hing	20.8																	
+HM_211	Hing	32.9																	
+HM_212	Hing	25.5																	
+HM_213	Hammond	40		Lat		Long		Time											
+HM_214	Hing	39																	
+HM_215	Hing																		
+HM_216	Hing	41																	
+HM_217	Hing	31																	
+HM_218	Hing	24																	
+HM_219	Hing	31																	
+HM_22	Hing	24																	
+HM_220	Hing																		
+HM_221	Hing	36																	
+HM_222	Hing	30																	
+HM_223	Hing	33																	
+HM_224	Hing	20																	
+HM_225	Hing																		
+HM_226	Hing	18																	
+HM_227	Hing	30																	
+HM_228	Hing	41																	
+HM_229	Hing	32																	
+HM_230	Hing																		
+HM_232	Hing	22																	
+HM_233	Hammond	27		Lat		Long		Time											
+HM_234	Hammond	27		Lat		Long		Time											
+HM_235	Hammond	17		Lat		Long		Time											
+HM_236	Hing	30																	
+HM_237	Hing	19																	
+HM_238	Hing	18																	
+HM_239	Hammond	10		Lat		Long		Time											
+HM_240	Hing																		
+HM_241	Hing	18																	
+HM_242	Hing	23																	
+HM_243	Hing	23																	
+HM_244	Hammond	23		Lat		Long		Time											
+HM_245	Hing																		
+HM_246	Hing	24																	
+HM_247	Hing	26																	
+HM_248	Hing																		
+HM_249	Hammond	25		Lat		Long		Time											
+HM_250	Hing																		
+HM_251	Hing	21																	
+HM_252	Hammond	29		Lat		Long		Time											
+HM_253	Matt Rees			Lat		Long		Time											
+HM_254	Matt Rees			Lat		Long		Time											
+HM_255	Hing																		
+HM_256	Matt Rees			Lat		Long		Time											
+HM_257	Matt Rees			Lat		Long		Time											
+HM_259	Matt Rees			Lat		Long		Time											
+HM_26	Hing	30.5																	
+HM_261	Hing																		
+HM_262	Matt Rees			Lat		Long		Time											
+HM_263	Matt Rees			Lat		Long		Time											
+HM_264	Matt Rees			Lat		Long		Time											
+HM_265	Hing																		
+HM_266	Hing	31																	
+HM_267	Matt Rees			Lat		Long		Time											
+HM_268	Matt Rees			Lat		Long		Time											
+HM_269	Matt Rees			Lat		Long		Time											
+HM_271	Hing																		
+HM_272	Matt Rees			Lat		Long		Time											
+HM_273	Matt Rees			Lat		Long		Time											
+HM_274	Matt Rees			Lat		Long		Time											
+HM_276	Hing																		
+HM_278	Matt Rees			Lat		Long		Time											
+HM_28	Hing	20.9																	
+HM_280	Hing																		
+HM_285	Hing																		
+HM_286	Matt Rees			Lat		Long		Time											
+HM_287	Matt Rees			Lat		Long		Time											
+HM_288	Matt Rees																		
+HM_289	Matt Rees																		
+HM_29	Hammond	36		Lat		Long		Time											
+HM_290	Hing																		
+HM_291	Matt Rees																		
+HM_292	Matt Rees																		
+HM_293	Matt Rees																		
+HM_294	Matt Rees																		
+HM_295	Hing																		
+HM_297	Matt Rees																		
+HM_298	Matt Rees																		
+HM_299	Matt Rees																		
+HM_3	Lachlan																		
+HM_300	Hing																		
+HM_301	Matt Rees																		
+HM_302	Matt Rees																		
+HM_303	Hammond	28		Lat		Long		Time											
+HM_304	Hammond	23		Lat		Long		Time											
+HM_307	Hammond	24		Lat		Long		Time											
+HM_308	Hing	24																	
+HM_309	Hing	22																	
+HM_31	Lachlan																		
+HM_310	Hing	25																	
+HM_312	Hing	24																	
+HM_314	Hing	26.5																	
+HM_315	Lachlan																		
+HM_32	Hing	25.6																	
+HM_321	Hing	26.2																	
+HM_322	Hing	25.4																	
+HM_323	Hing	21.1																	
+HM_324	Hing																		
+HM_325	Hing	25.6																	
+HM_327	Hing	20.5																	
+HM_328	Hing	25.4																	
+HM_329	Hing																		
+HM_343	Hing	22.3																	
+HM_346	Hing	23.2																	
+HM_347	Hing	23.6																	
+HM_349	Hing	35.4																	
+HM_35	Hammond	32.1		Lat		Long		Time											
+HM_350	Hing	26																	
+HM_36	Hing	29.7																	
+HM_37	Hing	22.9																	
+HM_39	Hammond	31.4		Lat		Long		Time											
+HM_4	Lachlan																		
+HM_40	Hammond	33.1		Lat		Long		Time											
+HM_41	Hing	26.4																	
+HM_42	Hing	35.2																	
+HM_43	Hing	33.7																	
+HM_44	Lachlan																		
+HM_45	Lachlan																		
+HM_46	Hing	25.8																	
+HM_47	Hammond	29.4		Lat		Long		Time											
+HM_48	Hammond	30.4		Lat		Long		Time											
+HM_49	Hammond	32.6		Lat		Long		Time											
+HM_50	Hammond	27.7		Lat		Long		Time											
+HM_53	Hammond	35.3		Lat		Long		Time											
+HM_54	Hing	35.3																	
+HM_55	Hing	34.5																	
+HM_56	Jason Delamont	26.9		FOV	Standard	Camera													
+HM_57	Hammond	34.9		Lat		Long		Time											
+HM_58	Jason Delamont	39.9		FOV	Standard	Camera													
+HM_59	Hammond	20.1		Lat		Long		Time											
+HM_6	Jason Delamont	27.7		FOV	Small	Camera													
+HM_61	Jason Delamont	31.6		FOV	Standard	Camera													
+HM_64	Hammond	36.4		Lat		Long		Time											
+HM_65	Hing	19.3																	
+HM_66	Hing	39.9																	
+HM_69	Lachlan																		
+HM_7	Hing	36																	
+HM_71	Hing	35.5																	
+HM_72	Hing	30.7																	
+HM_73	Lachlan																		
+HM_74	Hammond	20		Lat		Long		Time											
+HM_75	Hing	37.7																	
+HM_77	Hing	24.4																	
+HM_78	Hing	35.6																	
+HM_79	Hing																		
+HM_8	Hammond	24.7		Lat		Long		Time											
+HM_82	Lachlan																		
+HM_83	Lachlan																		
+HM_84	Hammond	36.1		Lat		Long		Time											
+HM_85	Hammond	27.4		Lat		Long		Time											
+HM_86	Hammond	28.4		Lat		Long		Time											
+HM_87	Lachlan																		
+HM_88	Hammond	27.8		Lat		Long		Time											
+HM_89	Hammond	27		Lat		Long		Time											
+HM_91_R	Hing	28.1																	
+HM_92_R	Hing	16.9																	
+HM_93_R	Hing	20.8																	
+HM_95	Lachlan																		
+HM_97	Hing	17.4																	
+HM_98	Lachlan																		
+HM_99	Lachlan																		
+HP_1	DS			Lat		Long		Time											
+HP_104	DS			Lat		Long		Time											
+HP_105	DS			Lat		Long		Time											
+HP_106	DS			Lat		Long		Time											
+HP_107	DS			Lat		Long		Time											
+HP_108	DS			Lat		Long		Time											
+HP_109	DS			Lat		Long		Time											
+HP_111	DS			Lat		Long		Time											
+HP_112	DS			Lat		Long		Time											
+HP_113	DS			Lat		Long		Time											
+HP_114	Hing																		
+HP_115	DS			Lat		Long		Time											
+HP_116	Hing	26.7																	
+HP_12	Hing	25.6																	
+HP_17	DS			Lat		Long		Time											
+HP_171	Hing																		
+HP_172	DS			Lat		Long		Time											
+HP_173	DS		CALs off	Lat		Long		Time											
+HP_174	DS			Lat		Long		Time											
+HP_175	DS			Lat		Long		Time											
+HP_176	DS			Lat		Long		Time											
+HP_177	DS			Lat		Long		Time											
+HP_178	Hing	20.1																	
+HP_19	DS			Lat		Long		Time											
+HP_2	DS			Lat		Long		Time											
+HP_20	DS			Lat		Long		Time											
+HP_5	DS			Lat		Long		Time											
+HP_51	Hing	20.2																	
+HP_52	DS			Lat		Long		Time											
+HP_53	Hing	22.6																	
+HP_54	DS			Lat		Long		Time											
+HP_55	DS		CALs wrong	Lat		Long		Time											
+HP_56	DS			Lat		Long		Time											
+HP_57	DS			Lat		Long		Time											
+HP_58	DS			Lat		Long		Time											
+HP_59	Jason Delamont			FOV	Standard	Camera	Sony												
+HP_6	DS			Lat		Long		Time											
+HP_60	Hing	42																	
+HP_61	Hing	26.5																	
+HP_62	Hing	22.7																	
+HP_63	DS			Lat		Long		Time											
+HP_64	DS			Lat		Long		Time											
+HP_65	DS			Lat		Long		Time											
+HP_66	DS			Lat		Long		Time											
+HP_67	DS			Lat		Long		Time											
+HP_68	DS			Lat		Long		Time											
+HP_69	DS			Lat		Long		Time											
+HP_70	DS			Lat		Long		Time											
+HP_71	DS			Lat		Long		Time											
+HP_72	DS			Lat		Long		Time											
+HP_73	DS			Lat		Long		Time											
+HP_74	DS			Lat		Long		Time											
+HP_75	DS		bait bag hidden behind crack	Lat		Long		Time											
+HP_76	DS			Lat		Long		Time											
+HP_78	DS		intial CALs look wrong	Lat		Long		Time											
+HP_79	DS			Lat		Long		Time											
+HP_8	DS			Lat		Long		Time											
+HP_81	DS			Lat		Long		Time											
+HP_82	DS			Lat		Long		Time											
+HP_83	DS			Lat		Long		Time											
+HP_84	DS			Lat		Long		Time											
+HP_86	DS			Lat		Long		Time											
+HP_88	DS			Lat		Long		Time											
+HP_94	DS			Lat		Long		Time											
+HP_97	DS			Lat		Long		Time											

@@ -1,0 +1,308 @@
+campaignid,sample,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,count
+2019-08-Ningaloo-deep_stereo-BRUVS,1.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,1.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,1.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,1.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,1.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,1.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,10.01,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.01,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,10.01,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,10.02,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,10.02,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,10.02,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.02,Biota,Cnidaria,Hydrocorals,Branching,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.02,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,12
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,10.04,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,10.04,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.04,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,6
+2019-08-Ningaloo-deep_stereo-BRUVS,10.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,14
+2019-08-Ningaloo-deep_stereo-BRUVS,10.07,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.07,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,10.07,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.07,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,10.07,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,11
+2019-08-Ningaloo-deep_stereo-BRUVS,10.08,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.08,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.08,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.08,Biota,Echinoderms,Feather stars,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,18
+2019-08-Ningaloo-deep_stereo-BRUVS,10.09,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.09,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,10.11,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,10.12,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.12,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,17
+2019-08-Ningaloo-deep_stereo-BRUVS,10.13,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.13,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,13
+2019-08-Ningaloo-deep_stereo-BRUVS,10.13,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.13,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,10.13,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,10.14,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.14,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,10.14,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,9
+2019-08-Ningaloo-deep_stereo-BRUVS,10.15,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,11.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,11.02,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,11.02,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,11.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,11.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,11.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,11.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,11.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,22
+2019-08-Ningaloo-deep_stereo-BRUVS,11.06,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,11.06,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,11.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,12.02,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,12.02,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,12.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,12.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,12.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,12.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,12.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,22
+2019-08-Ningaloo-deep_stereo-BRUVS,12.11,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,12.11,Biota,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,12.11,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,12.11,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,12.11,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,8
+2019-08-Ningaloo-deep_stereo-BRUVS,13.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,26
+2019-08-Ningaloo-deep_stereo-BRUVS,13.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,22
+2019-08-Ningaloo-deep_stereo-BRUVS,13.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,13.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,11
+2019-08-Ningaloo-deep_stereo-BRUVS,13.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,13.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,13.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,13.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,13.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,14.01,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,14.01,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,14.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,14.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,14.03,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,14.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,14.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,14.11,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,14.12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,14.13,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,14.13,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,15.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,22
+2019-08-Ningaloo-deep_stereo-BRUVS,15.02,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,15.05,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.05,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,15.07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,15.12,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.12,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.12,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.12,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,15.12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,11
+2019-08-Ningaloo-deep_stereo-BRUVS,16.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,16.02,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,16.02,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,16.02,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,16.02,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,16.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,16.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,16.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,16.05,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,16.05,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,16.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,24
+2019-08-Ningaloo-deep_stereo-BRUVS,17.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,22
+2019-08-Ningaloo-deep_stereo-BRUVS,18.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,24
+2019-08-Ningaloo-deep_stereo-BRUVS,18.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,27
+2019-08-Ningaloo-deep_stereo-BRUVS,18.03,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,6
+2019-08-Ningaloo-deep_stereo-BRUVS,18.03,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,18.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,18.04,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,9
+2019-08-Ningaloo-deep_stereo-BRUVS,18.04,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,18.04,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,18.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,9
+2019-08-Ningaloo-deep_stereo-BRUVS,18.07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,18.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,19.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,19.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,19.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,22
+2019-08-Ningaloo-deep_stereo-BRUVS,19.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,19.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,19.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,2.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,2.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,2.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,2.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,2.05,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Biologenic,NA,NA,NA,NA,NA,NA,6
+2019-08-Ningaloo-deep_stereo-BRUVS,2.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,2.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,26
+2019-08-Ningaloo-deep_stereo-BRUVS,2.07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,26
+2019-08-Ningaloo-deep_stereo-BRUVS,23.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,23.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,23.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,23.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,23.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,23.09,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,23.09,Biota,Echinoderms,Feather stars,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,23.09,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,3.01,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Biologenic,NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,3.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,3.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,3.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,26
+2019-08-Ningaloo-deep_stereo-BRUVS,3.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,3.05,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,3.05,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,3.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,3.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,30.01,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,30.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,30.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,30.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,30.04,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,30.04,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,30.04,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,30.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,30.05,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,30.05,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,30.05,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,30.05,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,30.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,30.06,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,30.06,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,30.06,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,30.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,30.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,31.01,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,31.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,31.02,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,31.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,31.03,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,31.03,Biota,Cnidaria,Hydrocorals,Branching,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,31.03,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,31.03,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,31.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,31.04,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,31.04,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,31.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,31.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,31.05,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,31.05,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,31.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,16
+2019-08-Ningaloo-deep_stereo-BRUVS,31.06,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,31.06,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,31.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,4.01,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,4.01,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,4.01,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,4.02,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,4.02,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.02,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,4.02,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,4.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,17
+2019-08-Ningaloo-deep_stereo-BRUVS,4.03,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,4.03,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.03,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,4.03,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,13
+2019-08-Ningaloo-deep_stereo-BRUVS,4.08,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.08,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,4.08,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,8
+2019-08-Ningaloo-deep_stereo-BRUVS,4.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,4.11,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,4.11,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.11,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,6
+2019-08-Ningaloo-deep_stereo-BRUVS,4.11,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,4.11,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,12
+2019-08-Ningaloo-deep_stereo-BRUVS,4.12,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,8
+2019-08-Ningaloo-deep_stereo-BRUVS,4.12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,18
+2019-08-Ningaloo-deep_stereo-BRUVS,5.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,5.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,5.07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,5.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,5.11,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,23
+2019-08-Ningaloo-deep_stereo-BRUVS,5.13,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,5.13,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,6.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,6.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,6.03,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,6.03,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,6.03,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,6.03,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,6.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,6.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,6.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,6.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,6.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
+2019-08-Ningaloo-deep_stereo-BRUVS,6.12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,19
+2019-08-Ningaloo-deep_stereo-BRUVS,6.12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,7.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,22
+2019-08-Ningaloo-deep_stereo-BRUVS,7.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,16
+2019-08-Ningaloo-deep_stereo-BRUVS,7.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,7.03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,7.04,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,7.04,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,25
+2019-08-Ningaloo-deep_stereo-BRUVS,7.05,Biota,Echinoderms,Feather stars,NA,NA,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,7.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,7.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
+2019-08-Ningaloo-deep_stereo-BRUVS,8.01,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,8.01,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,8.01,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,8.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,24
+2019-08-Ningaloo-deep_stereo-BRUVS,8.02,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,8.02,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,8
+2019-08-Ningaloo-deep_stereo-BRUVS,8.02,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,8.02,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,7
+2019-08-Ningaloo-deep_stereo-BRUVS,8.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,6
+2019-08-Ningaloo-deep_stereo-BRUVS,8.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,8.06,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,8.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,21
+2019-08-Ningaloo-deep_stereo-BRUVS,8.07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,26
+2019-08-Ningaloo-deep_stereo-BRUVS,8.12,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,8.12,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,8.12,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2019-08-Ningaloo-deep_stereo-BRUVS,8.12,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,18
+2019-08-Ningaloo-deep_stereo-BRUVS,9.01,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.01,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.01,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,9.01,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,9.01,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2019-08-Ningaloo-deep_stereo-BRUVS,9.01,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,12
+2019-08-Ningaloo-deep_stereo-BRUVS,9.02,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.02,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.02,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,9.02,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,14
+2019-08-Ningaloo-deep_stereo-BRUVS,9.05,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,24
+2019-08-Ningaloo-deep_stereo-BRUVS,9.06,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.06,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,9.06,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,9.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,6
+2019-08-Ningaloo-deep_stereo-BRUVS,9.06,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,6
+2019-08-Ningaloo-deep_stereo-BRUVS,9.07,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,9.07,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.07,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,5
+2019-08-Ningaloo-deep_stereo-BRUVS,9.07,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,9.07,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2019-08-Ningaloo-deep_stereo-BRUVS,9.08,Biota,Cnidaria,Corals,Black & Octocorals,Whip,NA,NA,NA,NA,NA,NA,4
+2019-08-Ningaloo-deep_stereo-BRUVS,9.08,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2019-08-Ningaloo-deep_stereo-BRUVS,9.08,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,19

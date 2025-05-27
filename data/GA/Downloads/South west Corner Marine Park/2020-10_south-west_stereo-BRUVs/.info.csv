@@ -1,0 +1,17 @@
+"","name","value","is_filter"
+"1","Sampling: Deployment duration (min)","60",TRUE
+"2","Sampling: Bait type","Pilchards",TRUE
+"3","Sampling: Bait quantity (g)","1000",FALSE
+"4","Sampling: Bait consistency","Mushed",FALSE
+"5","Sampling: Camera configuration","Stereo",FALSE
+"6","Sampling: Frame type","Steel",FALSE
+"7","Sampling: Artificial lighting","White",FALSE
+"8","Annotation: Upload type","EventMeasure database output",TRUE
+"9","Annotation: Annotation tool/software","EventMeasure-stereo",FALSE
+"10","Annotation: Taxa that have been ID'd","Fish, Sharks, Rays and sea snakes",FALSE
+"11","Annotation: Observation/Annotation checked by expert","Yes",FALSE
+"12","Annotation: Lengths measured for","All fish",TRUE
+"13","Annotation: Habitat information from each sample","Cover of benthos and score of complexity",TRUE
+"14","Sampling: Bait arm length (m)","1.2",FALSE
+"15","Sampling: Bait deployment","Plastic coated wire mesh bag",FALSE
+"16","Annotation: Observer/Anotator experience (>years)","1",FALSE

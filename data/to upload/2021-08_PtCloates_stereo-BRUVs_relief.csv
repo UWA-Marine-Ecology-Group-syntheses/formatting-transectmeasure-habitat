@@ -1,0 +1,144 @@
+campaignid,sample,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,count
+2021-08_PtCloates_stereo-BRUVs,PCB11,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCB11,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCB12,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCB12,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCB12,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCB13,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCB13,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,12
+2021-08_PtCloates_stereo-BRUVs,PCB13,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCB16,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCB16,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCB16,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,9
+2021-08_PtCloates_stereo-BRUVs,PCB16,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,8
+2021-08_PtCloates_stereo-BRUVs,PCB2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCB2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCB21,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCB21,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,10
+2021-08_PtCloates_stereo-BRUVs,PCB21,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCB25,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCB25,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCB28,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCB28,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCB28,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,14
+2021-08_PtCloates_stereo-BRUVs,PCB28,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCB29,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCB29,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCB29,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCB3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,9
+2021-08_PtCloates_stereo-BRUVs,PCB3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCB30,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCB30,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCB30,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCB4,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCB4,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCB4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCB9,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCB9,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,14
+2021-08_PtCloates_stereo-BRUVs,PCBP1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBP1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCBP1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBP1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBP10,Physical,Relief,High,Caves,5,NA,NA,NA,,,,2
+2021-08_PtCloates_stereo-BRUVs,PCBP10,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCBP10,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBP10,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,11
+2021-08_PtCloates_stereo-BRUVs,PCBP11,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBP11,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBP13,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBP13,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBP14,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCBP14,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBP15,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBP15,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBP16,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBP16,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBP16,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBP17,Physical,Relief,High,Caves,5,NA,NA,NA,,,,1
+2021-08_PtCloates_stereo-BRUVs,PCBP17,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCBP17,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,8
+2021-08_PtCloates_stereo-BRUVs,PCBP17,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCBP18,Physical,Relief,High,Caves,5,NA,NA,NA,,,,1
+2021-08_PtCloates_stereo-BRUVs,PCBP18,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBP18,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBP18,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBP18,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCBP3,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBP3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,14
+2021-08_PtCloates_stereo-BRUVs,PCBP3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCBP6,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,9
+2021-08_PtCloates_stereo-BRUVs,PCBP6,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBP7,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBP7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBP7,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCBP7,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCBP8,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,9
+2021-08_PtCloates_stereo-BRUVs,PCBP8,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,11
+2021-08_PtCloates_stereo-BRUVs,PCBP9,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBP9,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBP9,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBRUV1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBRUV1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBRUV1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,14
+2021-08_PtCloates_stereo-BRUVs,PCBRUV1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBRUV10,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBRUV10,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBRUV14,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,8
+2021-08_PtCloates_stereo-BRUVs,PCBRUV14,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,11
+2021-08_PtCloates_stereo-BRUVs,PCBRUV14,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV15,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBRUV15,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBRUV15,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,10
+2021-08_PtCloates_stereo-BRUVs,PCBRUV18,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBRUV18,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,14
+2021-08_PtCloates_stereo-BRUVs,PCBRUV18,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV19,Physical,Relief,High,Caves,5,NA,NA,NA,,,,6
+2021-08_PtCloates_stereo-BRUVs,PCBRUV19,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBRUV19,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBRUV20,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCBRUV20,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV20,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,10
+2021-08_PtCloates_stereo-BRUVs,PCBRUV20,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCBRUV22,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,11
+2021-08_PtCloates_stereo-BRUVs,PCBRUV22,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,8
+2021-08_PtCloates_stereo-BRUVs,PCBRUV22,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV23,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBRUV23,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,13
+2021-08_PtCloates_stereo-BRUVs,PCBRUV24,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,14
+2021-08_PtCloates_stereo-BRUVs,PCBRUV24,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCBRUV26,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCBRUV26,Physical,Relief,High,Caves,5,NA,NA,NA,,,,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV26,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV26,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCBRUV26,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,10
+2021-08_PtCloates_stereo-BRUVs,PCBRUV26,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV27,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCBRUV27,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,13
+2021-08_PtCloates_stereo-BRUVs,PCBRUV27,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBRUV5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCBRUV5,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,8
+2021-08_PtCloates_stereo-BRUVs,PCBRUV5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,8
+2021-08_PtCloates_stereo-BRUVs,PCBRUV7,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,2
+2021-08_PtCloates_stereo-BRUVs,PCBRUV7,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,11
+2021-08_PtCloates_stereo-BRUVs,PCBRUV7,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCBRUV8,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,13
+2021-08_PtCloates_stereo-BRUVs,PCBRUV8,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCPREF12,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCPREF12,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,14
+2021-08_PtCloates_stereo-BRUVs,PCPREF12,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCPREF2,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCPREF2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCPREF2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,4
+2021-08_PtCloates_stereo-BRUVs,PCPREF2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,10
+2021-08_PtCloates_stereo-BRUVs,PCPREF3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCPREF3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCPREF4,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCPREF4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,5
+2021-08_PtCloates_stereo-BRUVs,PCPREF4,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,11
+2021-08_PtCloates_stereo-BRUVs,PCPREF4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,6
+2021-08_PtCloates_stereo-BRUVs,PCPREF5,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCPREF5,Physical,Relief,High,Caves,5,NA,NA,NA,,,,5
+2021-08_PtCloates_stereo-BRUVs,PCPREF5,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,3
+2021-08_PtCloates_stereo-BRUVs,PCPREF5,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,1
+2021-08_PtCloates_stereo-BRUVs,PCPREF5,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,7
+2021-08_PtCloates_stereo-BRUVs,PCPREF5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,6

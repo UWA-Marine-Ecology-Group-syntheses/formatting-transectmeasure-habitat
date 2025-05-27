@@ -1,0 +1,214 @@
+{
+  "created_at": ["2023-02-16T06:40:19.844951"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [125],
+  "description": [""],
+  "files": [
+    {
+      "id": 11318,
+      "iscompressed": true,
+      "name": "blank_Camera.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11328,
+      "iscompressed": false,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_EMOBs.zip",
+      "user_id": 199
+    },
+    {
+      "id": 11329,
+      "iscompressed": false,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_Calibration_Files.zip",
+      "user_id": 199
+    },
+    {
+      "id": 11428,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_Source.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11429,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_Points.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11430,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_Period.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11431,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_MovieSeq.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11432,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_Metadata.csv",
+      "user_id": 199
+    },
+    {
+      "id": 11434,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_Info.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11435,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_ImagePtPair.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11436,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_3DPoints.txt",
+      "user_id": 199
+    },
+    {
+      "id": 11437,
+      "iscompressed": true,
+      "name": "2022-03_Rottnest.MP.Monitoring_stereoBRUVs_Lengths.txt",
+      "user_id": 199
+    }
+  ],
+  "id": [1054],
+  "info": [
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 32,
+      "id": 160,
+      "property": {
+        "id": 32,
+        "is_filter": false,
+        "name": "Sampling: Bait quantity (g)"
+      },
+      "value": "800"
+    },
+    {
+      "campaigninfoprop_id": 42,
+      "id": 212,
+      "property": {
+        "id": 42,
+        "is_filter": false,
+        "name": "Sampling: Frame type"
+      },
+      "value": "Aluminimum"
+    },
+    {
+      "campaigninfoprop_id": 33,
+      "id": 164,
+      "property": {
+        "id": 33,
+        "is_filter": false,
+        "name": "Sampling: Bait deployment"
+      },
+      "value": "Plastic mesh bag"
+    },
+    {
+      "campaigninfoprop_id": 57,
+      "id": 283,
+      "property": {
+        "id": 57,
+        "is_filter": false,
+        "name": "Annotation: .EMObs uploaded as .zip"
+      },
+      "value": "Yes"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 49,
+      "id": 251,
+      "property": {
+        "id": 49,
+        "is_filter": false,
+        "name": "Annotation: Observation/Annotation checked by expert"
+      },
+      "value": "Yes"
+    },
+    {
+      "campaigninfoprop_id": 50,
+      "id": 254,
+      "property": {
+        "id": 50,
+        "is_filter": true,
+        "name": "Annotation: Lengths measured for"
+      },
+      "value": "All fish"
+    },
+    {
+      "campaigninfoprop_id": 47,
+      "id": 233,
+      "property": {
+        "id": 47,
+        "is_filter": false,
+        "name": "Annotation: Taxonomic resolution"
+      },
+      "value": "All taxa identified to the lowest possible taxonomic level"
+    }
+  ],
+  "name": ["2022-03_Rottnest.MP.Monitoring_stereoBRUVs"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [311],
+    "is_public": [false],
+    "name": ["Rottnest Island fish monitoring"]
+  },
+  "project_id": [311],
+  "user": {
+    "email": ["adrian.ferguson@dbca.wa.gov.au"],
+    "first_name": ["Rottnest Island"],
+    "id": [199],
+    "is_admin": [false],
+    "last_name": ["Authority"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    },
+    {
+      "current_user_is_member": false,
+      "current_user_is_owner": true,
+      "id": 322,
+      "is_public": false,
+      "name": "Rottnest BRUVs"
+    }
+  ]
+}

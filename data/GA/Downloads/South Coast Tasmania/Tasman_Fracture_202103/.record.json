@@ -1,0 +1,177 @@
+{
+  "created_at": ["2023-06-19T00:38:04.189988"],
+  "current_user_has_access": [true],
+  "current_user_is_owner": [true],
+  "deployment_count": [113],
+  "description": [""],
+  "files": [
+    {
+      "id": 11386,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_MovieSeq.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11387,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_Period.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11388,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_Points.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11389,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_Source.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11390,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_3DPoints.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11391,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_ImagePtPair.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11392,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_Info.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11393,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_Lengths.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11394,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_Habitat_Dot Point Measurements.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11395,
+      "iscompressed": false,
+      "name": "Tasman_Fracture_202103_EMObs.zip",
+      "user_id": 5
+    },
+    {
+      "id": 11396,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_hack_file_do_not_use_Camera.txt",
+      "user_id": 5
+    },
+    {
+      "id": 11400,
+      "iscompressed": true,
+      "name": "Tasman_Fracture_202103_Metadata.csv",
+      "user_id": 5
+    }
+  ],
+  "id": [1066],
+  "info": [
+    {
+      "campaigninfoprop_id": 30,
+      "id": 147,
+      "property": {
+        "id": 30,
+        "is_filter": true,
+        "name": "Sampling: Deployment duration (min)"
+      },
+      "value": "60"
+    },
+    {
+      "campaigninfoprop_id": 31,
+      "id": 150,
+      "property": {
+        "id": 31,
+        "is_filter": true,
+        "name": "Sampling: Bait type"
+      },
+      "value": "Pilchards"
+    },
+    {
+      "campaigninfoprop_id": 34,
+      "id": 169,
+      "property": {
+        "id": 34,
+        "is_filter": false,
+        "name": "Sampling: Bait consistency"
+      },
+      "value": "Mushed"
+    },
+    {
+      "campaigninfoprop_id": 33,
+      "id": 164,
+      "property": {
+        "id": 33,
+        "is_filter": false,
+        "name": "Sampling: Bait deployment"
+      },
+      "value": "Plastic mesh bag"
+    },
+    {
+      "campaigninfoprop_id": 35,
+      "id": 173,
+      "property": {
+        "id": 35,
+        "is_filter": false,
+        "name": "Sampling: Minimum separation distance of samples (m)"
+      },
+      "value": "200"
+    },
+    {
+      "campaigninfoprop_id": 43,
+      "id": 215,
+      "property": {
+        "id": 43,
+        "is_filter": false,
+        "name": "Sampling: Artificial lighting"
+      },
+      "value": "White"
+    }
+  ],
+  "name": ["Tasman_Fracture_202103"],
+  "platform": {
+    "created_at": ["2017-05-04T06:56:34.962233"],
+    "fileurl": ["/api/platform_file/1"],
+    "id": [1],
+    "name": ["stereo-BRUVs"]
+  },
+  "project": {
+    "current_user_is_member": [false],
+    "current_user_is_owner": [true],
+    "grouptype": ["project"],
+    "id": [148],
+    "is_public": [true],
+    "name": ["South Coast Tasmania"]
+  },
+  "project_id": [148],
+  "user": {
+    "email": ["jacquomo.monk@utas.edu.au"],
+    "first_name": ["Jacquomo"],
+    "id": [5],
+    "is_admin": [false],
+    "last_name": ["Monk"],
+    "role_id": {}
+  },
+  "workgroups": [
+    {
+      "current_user_is_member": true,
+      "current_user_is_owner": true,
+      "id": 190,
+      "is_public": true,
+      "name": "2024 Australian BRUV synthesis"
+    }
+  ]
+}

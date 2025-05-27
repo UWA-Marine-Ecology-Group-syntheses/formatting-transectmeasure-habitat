@@ -1,0 +1,78 @@
+CampaignID,Sample,Latitude,Longitude,Date,Time,Location,Status,Site,Depth,Observer,Successful.count,Successful.length,EstimatedVisibility,Others,Comment
+2018-03-PA-BRUV,AD01,-38.40790848,144.2180173,20180308,11:46:00,Point Addis MNP,No-take,AD,7.9,Sam Wines,Yes,Yes,3,NA,"Facing down, Conger Eel, Kelpfish"
+2018-03-PA-BRUV,AD02,-38.4179155,144.2409312,20180307,12:45:00,Point Addis MNP,No-take,AD,27.1,Sam Wines,Yes,Yes,7,NA,Macroalgae
+2018-03-PA-BRUV,AD03,-38.4096112,144.2435685,20180307,12:40:00,Point Addis MNP,No-take,AD,11.3,Sam Wines,Yes,Yes,6,NA,"Kingies, 20 odd sp"
+2018-03-PA-BRUV,AD04,-38.3901185,144.2596761,20180409,8:16:00,Point Addis MNP,No-take,AD,5.6,Sam Wines,Yes,Yes,1,NA,Really poor viz
+2018-03-PA-BRUV,AD05,-38.41254978,144.2291417,20180308,13:01:00,Point Addis MNP,No-take,AD,11.3,Sam Wines,Yes,Yes,4,NA,View obstructed by Reef ledge
+2018-03-PA-BRUV,AD06,-38.41403037,144.2552518,20180307,11:02:00,Point Addis MNP,No-take,AD,27.9,Sam Wines,Yes,Yes,8,NA,Nice Transition drop w/ mixed inverts and some algae
+2018-03-PA-BRUV,AD07,-38.38478802,144.2680777,20180308,14:42:00,Point Addis MNP,No-take,AD,7.9,Sam Wines,Yes,Yes,5,NA,"Macroalgae, Facing up slightly, so only silhouettes of lots of fish"
+2018-03-PA-BRUV,AD08,-38.32548601,144.3649063,20180308,16:37:00,Point Addis,Fished,AD,9.3,Sam Wines,Yes,Yes,6,NA,2018 not 2017 (as clapper says)
+2018-03-PA-BRUV,AD09,-38.34523554,144.3425393,20180308,16:22:00,Point Addis,Fished,AD,18.1,Sam Wines,Yes,Yes,4,NA,"Green water, lots of snapper and caesioperca, baby gummy?"
+2018-03-PA-BRUV,AD10,-38.33964381,144.357411,20180308,16:28:00,Point Addis,Fished,AD,22.5,Sam Wines,Yes,Yes,3,NA,Poor viz
+2018-03-PA-BRUV,AD11,-38.411525,144.27304,20180307,9:25:00,Point Addis MNP,No-take,AD,35.5,Sam Wines,Yes,Yes,15,NA,"Pretty inverts, Cuttlefish!, lobster"
+2018-03-PA-BRUV,AD12,-38.403643,144.267284,20180307,9:17:00,Point Addis MNP,No-take,AD,27.6,Sam Wines,Yes,Yes,10,NA,Nice Rhodolith drop w/ lots of snapper and agro gummys
+2018-03-PA-BRUV,AD13,-38.432258,144.212661,20180307,14:39:00,Point Addis MNP,No-take,AD,28.7,Sam Wines,Yes,Yes,10,NA,"Good viz, No tail eagle ray"
+2018-03-PA-BRUV,AD14,-38.404027,144.2557,20180307,11:12:00,Point Addis MNP,No-take,AD,21.9,Sam Wines,Yes,Yes,6,NA,"Reasonable viz, Mixed benthos, Not many fish"
+2018-03-PA-BRUV,AD15,-38.42652414,144.2114516,20180307,14:33:00,Point Addis MNP,No-take,AD,13,Sam Wines,Yes,Yes,6,NA,"Facing up a bit, macroalgae"
+2018-03-PA-BRUV,AD16,-38.39212291,144.2809152,20180307,9:02:00,Point Addis MNP,No-take,AD,27.1,Sam Wines,Yes,No,6,NA,Only a and b of 226 available. Nice mixed drop
+2018-03-PA-BRUV,AD17,-38.40836732,144.2610137,20180307,11:08:00,Point Addis MNP,No-take,AD,27.6,Sam Wines,Yes,Yes,7,NA,Nice mixed drop
+2018-03-PA-BRUV,AD18,-38.42504471,144.217496,20180307,14:29:00,Point Addis MNP,No-take,AD,24.1,Sam Wines,Yes,Yes,6,NA,"Macroalgae, not the greatest viz. Huge diveristy"
+2018-03-PA-BRUV,AD19,-38.40072792,144.26769,20180409,15:50:00,Point Addis MNP,No-take,AD,26.8,Sam Wines,Yes,Yes,5,NA,Landed sideways. Sand
+2018-03-PA-BRUV,AD20,-38.39554809,144.2821979,20180307,9:08:00,Point Addis MNP,No-take,AD,30.7,Sam Wines,Yes,Yes,8,NA,Bronze whaler
+2018-03-PA-BRUV,AD21,-38.427778,144.223808,20180307,14:22:00,Point Addis MNP,No-take,AD,28,Sam Wines,Yes,Yes,13,NA,Sparse algae
+2018-03-PA-BRUV,AD22,-38.408566,144.248844,20180307,12:37:00,Point Addis MNP,No-take,AD,17.2,Sam Wines,Yes,Yes,5,NA,Macroalgae
+2018-03-PA-BRUV,AD23,-38.414502,144.264939,20180307,10:54:00,Point Addis MNP,No-take,AD,33.4,Sam Wines,Yes,Yes,8,NA,Sparse algae
+2018-03-PA-BRUV,AD24,-38.41636,144.19649,20180409,9:53:00,Point Addis,Fished,AD,5.9,Sam Wines,No,No,1,NA,Terrible viz
+2018-03-PA-BRUV,AD25,-38.34546,144.33151,20180308,16:18:00,Point Addis,Fished,AD,8.3,Sam Wines,Yes,Yes,8,NA,"Macroalgae, around 10 sp"
+2018-03-PA-BRUV,AD26,-38.34669529,144.3245494,20180308,16:13:00,Point Addis,Fished,AD,8.2,Sam Wines,Yes,Yes,5,NA,No tail smooth ray
+2018-03-PA-BRUV,AD27,-38.32852623,144.3577025,20180308,16:33:00,Point Addis,Fished,AD,6.6,Sam Wines,Yes,Yes,6,NA,"15~ sp, reasonable viz"
+2018-03-PA-BRUV,AD28,-38.43987518,144.162649,20180409,13:45:00,Point Addis,Fished,AD,14.8,Sam Wines,Yes,Yes,7,NA,Macroalgae
+2018-03-PA-BRUV,AD29,-38.44333265,144.1420504,20180308,9:25:00,Point Addis,Fished,AD,12.1,Sam Wines,Yes,Yes,7,NA,"Macroalgae, Some obstruction from algae"
+2018-03-PA-BRUV,AD30,-38.42144883,144.1902493,20180409,10:01:00,Point Addis,Fished,AD,9.9,Sam Wines,No,No,2,NA,Very green
+2018-03-PA-BRUV,AD31,-38.43683638,144.1414446,20180308,9:21:00,Point Addis,Fished,AD,7.3,Sam Wines,Yes,Yes,5,NA,Macroalgae
+2018-03-PA-BRUV,AD32,-38.43604819,144.1799687,20180308,9:38:00,Point Addis,Fished,AD,14.7,Sam Wines,Yes,Yes,4,NA,Macroalgae. Poor viz
+2018-03-PA-BRUV,AD33,-38.40984,144.23142,20180308,13:06:00,Point Addis MNP,No-take,AD,6.9,Sam Wines,Yes,Yes,4,NA,"Kingies!, Poor Viz, lots of salps, macroalgae"
+2018-03-PA-BRUV,AD34,-38.41348,144.21357,20180308,11:42:00,Point Addis MNP,No-take,AD,3.6,Sam Wines,Yes,Yes,5,NA,"Shallow, Macroalgae, Lands facing down"
+2018-03-PA-BRUV,AD35,-38.40995412,144.2352927,20180409,8:26:00,Point Addis MNP,No-take,AD,8,Sam Wines,Yes,Yes,4,NA,"Facing up, fish only silhouettes. Macroalgae"
+2018-03-PA-BRUV,AD36,-38.41419753,144.2204386,20180308,12:57:00,Point Addis MNP,No-take,AD,6.4,Sam Wines,Yes,Yes,5,NA,Around 15 sp
+2018-03-PA-BRUV,AD37,-38.38177895,144.2744604,20180308,14:45:00,Point Addis MNP,No-take,AD,12.1,Sam Wines,Yes,Yes,3,NA,"Poor viz, eagle ray"
+2018-03-PA-BRUV,AD38,-38.39949403,144.2560552,20180307,11:17:00,Point Addis MNP,No-take,AD,14.6,Sam Wines,Yes,Yes,5,NA,Mixed predominantly macroalgae
+2018-03-PA-BRUV,AD39,-38.40369378,144.2272043,20180308,13:13:00,Point Addis MNP,No-take,AD,9.5,Sam Wines,Yes,Yes,3,NA,"Poor viz, lots of trachurus and snapper"
+2018-03-PA-BRUV,AD40,-38.407186,144.269465,20180307,9:20:00,Point Addis MNP,No-take,AD,31,Sam Wines,Yes,Yes,10,NA,Nice mixed drop
+2018-03-PA-BRUV,AD41,-38.41993729,144.23745,20180307,12:48:00,Point Addis MNP,No-take,AD,26.8,Sam Wines,Yes,No,7,NA,No 173 Camera. Good viz. Mixed. Wobbegong
+2018-03-PA-BRUV,AD42,-38.40453707,144.239946,20180308,13:18:00,Point Addis MNP,No-take,AD,16.8,Sam Wines,Yes,Yes,4,NA,Sand inundated macroalgae
+2018-03-PA-BRUV,AD43,-38.41372211,144.2618865,20180307,10:57:00,Point Addis MNP,No-take,AD,30.8,Sam Wines,Yes,Yes,9,NA,Nice mixed drop
+2018-03-PA-BRUV,AD44,-38.42839816,144.2202511,20180307,14:26:00,Point Addis MNP,No-take,AD,28.8,Sam Wines,Yes,Yes,9,NA,Nice mixed drop
+2018-03-PA-BRUV,AD45,-38.417547,144.228898,20180307,12:53:00,Point Addis MNP,No-take,AD,20.5,Sam Wines,Yes,Yes,5,NA,Macroalgae
+2018-03-PA-BRUV,AD46,-38.45795843,144.166291,20180409,13:53:00,Point Addis,Fished,AD,24.3,Sam Wines,Yes,No,5,NA,Right Hand camera is actually AD68. No Right Hand AD46 Camera. Macroalgae
+2018-03-PA-BRUV,AD47,-38.43246,144.1899561,20180308,9:42:00,Point Addis,Fished,AD,15.4,Sam Wines,Yes,Yes,4,NA,"Macroalgae, 7gill, big smooth ray, eagle rays"
+2018-03-PA-BRUV,AD48,-38.48602242,144.1539924,20180409,12:22:00,Point Addis,Fished,AD,37.8,Sam Wines,Yes,Yes,9,NA,Mixed
+2018-03-PA-BRUV,AD50,-38.44260318,144.1747912,20180308,11:16:00,Point Addis,Fished,AD,19.9,Sam Wines,Yes,Yes,5,NA,Actually 2018 (Clapper says 2017). Macroalgae
+2018-03-PA-BRUV,AD51,-38.416907,144.205975,20180409,9:49:00,Point Addis,Fished,AD,6.2,Sam Wines,Yes,Yes,3,NA,Massive ray and possible shark
+2018-03-PA-BRUV,AD52,-38.426151,144.196981,20180308,11:22:00,Point Addis,Fished,AD,9.9,Sam Wines,Yes,Yes,4,NA,Clapper says 2017 but actually 2018. Also 2nd 52. Macroalgae
+2018-03-PA-BRUV,AD53,-38.428778,144.202837,20180308,11:26:00,Point Addis,Fished,AD,11.9,Sam Wines,Yes,Yes,5,NA,Macroalgae
+2018-03-PA-BRUV,AD54,-38.42620528,144.2397516,20180307,12:59:00,Point Addis MNP,No-take,AD,34.4,Sam Wines,Yes,Yes,10,NA,"Good viz, inverts, ~15 sp"
+2018-03-PA-BRUV,AD55,-38.44226735,144.258492,20180409,15:47:00,Point Addis MNP,No-take,AD,53.5,Sam Wines,Yes,No,5,NA,Sand. Full 60 minutes scored for fish
+2018-03-PA-BRUV,AD57,-38.44612119,144.2144168,20180307,16:01:00,Point Addis MNP,No-take,AD,39.6,Sam Wines,Yes,Yes,10,NA,Actually 2018 (Clapper says 2017). Sand and sparse mixed
+2018-03-PA-BRUV,AD58,-38.45148083,144.2336402,20180409,14:07:00,Point Addis MNP,No-take,AD,54.6,Sam Wines,Yes,Yes,4,NA,Nice sponge. Dark though
+2018-03-PA-BRUV,AD59,-38.45897127,144.2132637,20180307,16:28:00,Point Addis MNP,No-take,AD,50.7,Sam Wines,Yes,Yes,7,NA,"Sand, saw shark, seal, arrow squid"
+2018-03-PA-BRUV,AD60,-38.43975266,144.2339394,20180409,14:12:00,Point Addis MNP,No-take,AD,46.4,Sam Wines,Yes,No,3,NA,"No 279 footage, Dark"
+2018-03-PA-BRUV,AD61,-38.38907517,144.2671832,20180308,14:39:00,Point Addis MNP,No-take,AD,12.4,Sam Wines,Yes,Yes,3,NA,"Sand, Poor viz"
+2018-03-PA-BRUV,AD63,-38.4168357,144.2781845,20180409,16:04:00,Point Addis MNP,No-take,AD,40.1,Sam Wines,Yes,Yes,5,NA,Dark
+2018-03-PA-BRUV,AD65,-38.43346605,144.2205721,20180307,14:44:00,Point Addis MNP,No-take,AD,34,Sam Wines,Yes,Yes,10,NA,Actually 2018 (Clapper says 2017). Invertebrates and sand
+2018-03-PA-BRUV,AD67,-38.42322154,144.2505708,20180409,15:54:00,Point Addis MNP,No-take,AD,35.3,Sam Wines,Yes,Yes,3,NA,"Poor viz, Dark, Rhodoliths"
+2018-03-PA-BRUV,AD68,-38.42088717,144.2683769,20180409,16:00:00,Point Addis MNP,No-take,AD,38.6,Sam Wines,Yes,Yes,5,NA,Right Hand camera is AD_178_177_177_46 | Drop is dark
+2018-03-PA-BRUV,AD69,-38.37809498,144.2752488,20180308,14:48:00,Point Addis MNP,No-take,AD,7.6,Sam Wines,Yes,Yes,1,NA,Terrible viz
+2018-03-PA-BRUV,AD70,-38.37638278,144.2791782,20180409,8:06:00,Point Addis MNP,No-take,AD,8.2,Sam Wines,No,No,3,NA,Cant see substrate
+2018-03-PA-BRUV,AD71,-38.48621355,144.1415019,20180409,12:26:00,Point Addis,Fished,AD,38,Sam Wines,Yes,Yes,6,NA,Lots of snapper and caesioperca
+2018-03-PA-BRUV,AD72,-38.48023634,144.1302994,20180409,12:03:00,Point Addis,Fished,AD,33.3,Sam Wines,Yes,Yes,7,NA,Nice mixed drop
+2018-03-PA-BRUV,AD73,-38.48440798,144.1292053,20180409,12:00:00,Point Addis,Fished,AD,35.4,Sam Wines,Yes,Yes,6,NA,Lots of sp for sand
+2018-03-PA-BRUV,AD74,-38.46420859,144.1965273,20180307,16:18:00,Point Addis,Fished,AD,43.5,Sam Wines,Yes,Yes,10,NA,"Sand, 3 species"
+2018-03-PA-BRUV,AD75,-38.46866294,144.2016526,20180307,16:22:00,Point Addis,Fished,AD,50.5,Sam Wines,Yes,Yes,7,NA,Nice drop with overhang bullseye and cray
+2018-03-PA-BRUV,AD78,-38.42415657,144.1850678,20180409,10:05:00,Point Addis,Fished,AD,5.8,Sam Wines,No,No,3,NA,"Poor viz, quiet drop"
+2018-03-PA-BRUV,AD79,-38.45202004,144.1951133,20180307,16:13:00,Point Addis,Fished,AD,35.1,Sam Wines,Yes,Yes,6,NA,Rhodoliths. Quiet
+2018-03-PA-BRUV,AD81,-38.46055032,144.1781066,20180409,13:57:00,Point Addis,Fished,AD,29.5,Sam Wines,Yes,Yes,8,NA,"Heaps of fish, 15 species"
+2018-03-PA-BRUV,AD83,-38.44908379,144.2052022,20180307,16:09:00,Point Addis,Fished,AD,38.5,Sam Wines,Yes,Yes,10,NA,"Good viz, rhodoliths"
+2018-03-PA-BRUV,AD84,-38.47239535,144.1360771,20180409,12:08:00,Point Addis,Fished,AD,30.4,Sam Wines,Yes,Yes,7,NA,"Reasonable viz, ~ 10 sp, Mixed sparse inverts and macroalgae"
+2018-03-PA-BRUV,AD87,-38.43415808,144.2062223,20180308,11:33:00,Point Addis,Fished,AD,26.3,Sam Wines,Yes,Yes,7,NA,"Thresher, Kingies, 2.4m Wobbegong, No tail eagle ray"
+2018-03-PA-BRUV,AD88,-38.45482964,144.1526844,20180409,13:49:00,Point Addis,Fished,AD,24.3,Sam Wines,Yes,Yes,7,NA,Macroalgae
