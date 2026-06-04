@@ -4,6 +4,8 @@ library(readr)
 library(CheckEM)
 library(googlesheets4)
 library(stringr)
+schema <- CheckEM::catami%>%
+  dplyr::mutate(caab_code = as.numeric(caab_code))
 
 # HABITAT -----
 metadata <- read_metadata(here::here("data/2021-05_Abrolhos_stereo-BRUVs/")) %>%
@@ -15,21 +17,24 @@ metadata <- read_metadata(here::here("data/2021-05_Abrolhos_stereo-BRUVs/")) %>%
 forwards <- read.delim("data/2021-05_Abrolhos_stereo-BRUVs/2021-05_Abrolhos_stereo-BRUVs_Forwards_Dot Point Measurements.txt", 
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
-  clean_names()
+  clean_names()%>%
+  dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
+  dplyr::mutate(direction = "forwards")
 
 # read in forwards annotations
 backwards <- read.delim("data/2021-05_Abrolhos_stereo-BRUVs/2021-05_Abrolhos_stereo-BRUVs_Backwards_Dot Point Measurements.txt", 
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
-  clean_names()
+  clean_names()%>%
+  dplyr::mutate(caab_code = as.numeric(caab_code))%>%
+  dplyr::mutate(direction = "backwards")
 
-habitat_with_schema <- bind_rows(forwards, backwards) %>%
-  dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
+habitat_with_schema <- bind_rows(forwards, backwards)  %>%
   dplyr::mutate(caab_code = case_when(
-    broad %in% c("Unknown", "Open Water") ~ 1,
-    broad %in% "Invertebrate Complex" ~ 2,
+    broad %in% c("Unknown", "Open Water") ~ 00000001,
+    broad %in% "Invertebrate Complex" ~ 99900044,
     
-    morphology %in% "Bryozoa / Cnidaria Matrix" ~ 2,
+    morphology %in% "Bryozoa / Cnidaria Matrix" ~ 99900044,
     
     type %in% "Thalassodendrum sp." ~ 63618905, # fix incorrect caab code
     type %in% "Thalassodendrum sp. with epiphytes algae" ~ 63618905, # fix incorrect caab code
@@ -40,8 +45,10 @@ habitat_with_schema <- bind_rows(forwards, backwards) %>%
     
     .default = caab_code
   )) %>%
-  dplyr::left_join(CheckEM::catami) %>%
+  dplyr::left_join(CheckEM::catami %>% mutate(caab_code = as.numeric(caab_code))) %>%
   dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")))
+
+missing_in_schema <- anti_join(habitat_with_schema, schema)
 
 distinct_hab_types <- habitat_with_schema %>%
   select(broad, morphology, type, starts_with("level"), family, genus, species, caab_code) %>%
@@ -76,15 +83,16 @@ metadata.missing.habitat <- anti_join(metadata, habitat_with_schema, by = c("sam
 tidy_habitat <- habitat_with_schema %>%
   dplyr::mutate(number = 1) %>%                                     
   dplyr::mutate(campaignid = "2021-05_Abrolhos_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
+  dplyr::rename(opcode = sample) %>%
   glimpse()
 
-write_csv(tidy_habitat, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_benthos.csv")
+write_csv(tidy_habitat, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_benthos-count.csv")
 
 
 # RELIEF ----
@@ -119,12 +127,13 @@ metadata.missing.relief <- anti_join(metadata, relief_with_schema, by = c("sampl
 tidy_relief <- relief_with_schema %>%
   dplyr::mutate(number = 1) %>%                                     
   dplyr::mutate(campaignid = "2021-05_Abrolhos_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
+  dplyr::rename(opcode = sample) %>%
   glimpse()
 
-write_csv(tidy_relief, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_relief.csv")
+write_csv(tidy_relief, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_benthos-relief.csv")

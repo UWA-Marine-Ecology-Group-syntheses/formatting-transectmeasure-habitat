@@ -70,7 +70,8 @@ metadata.missing.habitat <- anti_join(metadata, habitat_with_schema, by = c("sam
   glimpse()
 
 tidy_habitat <- habitat_with_schema %>%
-  dplyr::mutate(number = 1) %>%                                     
+  dplyr::mutate(number = 1) %>%  
+  dplyr::mutate(caab_code = as.character(caab_code)) %>%
   left_join(catami) %>%
   dplyr::mutate(campaignid = "2022-11_Salisbury_stereo-BRUVs") %>%
   dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
@@ -81,7 +82,7 @@ tidy_habitat <- habitat_with_schema %>%
   dplyr::select(campaignid, sample, level_1, everything()) %>%
   glimpse()
 
-write_csv(tidy_habitat, "data/to upload/2022-11_Salisbury_stereo-BRUVs_benthos.csv")
+write_csv(tidy_habitat, "data/to upload/2022-11_Salisbury_stereo-BRUVs_benthos-count.csv")
 
 # RELIEF ----
 # read in forwards annotations
@@ -120,4 +121,4 @@ tidy_relief <- relief_with_schema %>%
   dplyr::select(campaignid, sample, level_1, everything()) %>%
   glimpse()
 
-write_csv(tidy_relief, "data/to upload/2022-11_Salisbury_stereo-BRUVs_relief.csv")
+write_csv(tidy_relief, "data/to upload/2022-11_Salisbury_stereo-BRUVs_benthos-relief.csv")
