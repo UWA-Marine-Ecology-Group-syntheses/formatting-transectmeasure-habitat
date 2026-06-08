@@ -18,7 +18,7 @@ forwards <- read.delim("data/2021-05_Abrolhos_stereo-BRUVs/2021-05_Abrolhos_ster
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
   clean_names()%>%
-  dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
+  dplyr::mutate(caab_code = as.numeric(code)) %>%
   dplyr::mutate(direction = "forwards")
 
 # read in forwards annotations
@@ -26,7 +26,7 @@ backwards <- read.delim("data/2021-05_Abrolhos_stereo-BRUVs/2021-05_Abrolhos_ste
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
   clean_names()%>%
-  dplyr::mutate(caab_code = as.numeric(caab_code))%>%
+  dplyr::mutate(caab_code = as.numeric(code))%>%
   dplyr::mutate(direction = "backwards")
 
 habitat_with_schema <- bind_rows(forwards, backwards)  %>%
@@ -100,21 +100,25 @@ write_csv(tidy_habitat, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_benthos-co
 forwards_relief <- read.delim("data/2021-05_Abrolhos_stereo-BRUVs/2021-05_Abrolhos_stereo-BRUVs_Forwards_Relief_Dot Point Measurements.txt", 
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
-  clean_names()
-
+  clean_names() %>%
+glimpse
+  
 # read in forwards annotations
 backwards_relief <- read.delim("data/2021-05_Abrolhos_stereo-BRUVs/2021-05_Abrolhos_stereo-BRUVs_Backwards_Relief_Dot Point Measurements.txt", 
                         header = T, skip = 4, stringsAsFactors = FALSE, 
                         colClasses = "character", na.strings = "") %>%
-  clean_names() 
+  clean_names() %>%
+  glimpse
+
 
 relief_with_schema <- bind_rows(forwards_relief, backwards_relief) %>%
-  dplyr::select(filename, fieldofview) %>%
+  dplyr::select(filename, relief) %>%
   dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = ""))) %>%
-  dplyr::filter(!is.na(fieldofview)) %>%
-  dplyr::mutate(level_5 = str_sub(fieldofview, 2, 2)) %>%
+  dplyr::filter(!is.na(relief)) %>%
+  dplyr::mutate(level_5 = str_sub(relief, 2, 2)) %>%
   dplyr::filter(!level_5 %in% "n") %>%
-  dplyr::left_join(catami) 
+  dplyr::left_join(catami) %>%
+  glimpse
 
 unique(relief_with_schema$level_5)
 
@@ -137,3 +141,36 @@ tidy_relief <- relief_with_schema %>%
   glimpse()
 
 write_csv(tidy_relief, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_benthos-relief.csv")
+
+
+relief_clean <- tidy_relief %>%
+  group_by(campaignid, opcode) %>%
+  summarise(relief_sample = n(), .groups = "drop")
+
+benthos_clean <- tidy_habitat %>%
+  group_by(campaignid, opcode) %>%
+  summarise(benthos_sample = n(), .groups = "drop")
+
+sample_summary <- full_join(
+  relief_clean,
+  benthos_clean,
+  by = c("campaignid", "opcode")
+)
+
+
+relief_samples <- tidy_relief %>% 
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  summarise(relief_sample = n(), .groups = "drop")
+
+benthos_samples <- tidy_habitat %>%
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  summarise(benthos_sample = n(), .groups = "drop")
+
+sample_summary <- full_join(
+  relief_samples,
+  benthos_samples,
+  by = c("campaignid")
+)
+

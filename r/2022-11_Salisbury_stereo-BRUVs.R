@@ -16,15 +16,16 @@ forwards <- read.delim("data/2022-11_Salisbury_stereo-BRUVs/2022-11_Salisbury_st
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
   clean_names()  %>%
-  dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
-  dplyr::mutate(direction = "forwards")
+  #dplyr::mutate(caab_code = as.numeric(code)) %>%
+  dplyr::mutate(direction = "forwards") %>%
+  glimpse
 
 # read in forwards annotations
 backwards <- read.delim("data/2022-11_Salisbury_stereo-BRUVs/2022-11_Salisbury_stereo-BRUVs_Backwards_Dot Point Measurements.txt", 
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
   clean_names() %>%
-  dplyr::mutate(caab_code = as.numeric(caab_code))%>%
+  #dplyr::mutate(caab_code = as.numeric(code))%>%
   dplyr::mutate(direction = "backwards")
 
 combined <- bind_rows(forwards, backwards) %>%
@@ -47,7 +48,8 @@ rosetta <- read_sheet(url) %>%
 
 habitat_with_schema <- left_join(combined, rosetta) %>%
   # dplyr::select(!c(catami_l2_l3, catami_l4, catami_l5, qualifiers)) %>%
-  dplyr::rename(sample = opcode)
+  dplyr::rename(sample = opcode) %>%
+  glimpse
 
 missing_schema <- habitat_with_schema %>%
   dplyr::filter(is.na(caab_code)) %>%
@@ -86,9 +88,13 @@ tidy_habitat <- habitat_with_schema %>%
   group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
-  dplyr::select(campaignid, sample, level_1, everything()) %>%
+  dplyr::select(campaignid, sample, level_1, everything(), -caab_code) %>%
+  left_join(catami %>% select(-qualifiers)) %>%
   dplyr::rename(opcode = sample)%>%
   glimpse()
+
+missing_from_schema <- anti_join(tidy_habitat, catami)
+
 
 write_csv(tidy_habitat, "data/to upload/2022-11_Salisbury_stereo-BRUVs_benthos-count.csv")
 
@@ -107,6 +113,8 @@ backwards_relief <- read.delim("data/2022-11_Salisbury_stereo-BRUVs/2022-11_Sali
 #separate(filename, into = c("opcode","extra"), sep = ".JPG")
 
 relief_with_schema <- bind_rows(forwards_relief, backwards_relief) %>%
+  filter(!is.na(level_5)) %>%
+  dplyr::select(campaignid, opcode, level_5)%>%
   dplyr::left_join(catami) %>%
   dplyr::rename(sample = opcode) 
 
@@ -129,5 +137,24 @@ tidy_relief <- relief_with_schema %>%
   dplyr::select(campaignid, sample, level_1, everything()) %>%
   dplyr::rename(opcode = sample)%>%
   glimpse()
+  
+test <- tidy_relief %>%
+  filter(is.na(caab_code))
 
 write_csv(tidy_relief, "data/to upload/2022-11_Salisbury_stereo-BRUVs_benthos-relief.csv")
+
+relief_samples <- tidy_relief %>% 
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  summarise(relief_sample = n(), .groups = "drop")
+
+benthos_samples <- tidy_habitat %>%
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  summarise(benthos_sample = n(), .groups = "drop")
+
+sample_summary <- full_join(
+  relief_samples,
+  benthos_samples,
+  by = c("campaignid")
+)
