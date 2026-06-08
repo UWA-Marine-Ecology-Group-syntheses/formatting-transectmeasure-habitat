@@ -1,8 +1,8 @@
 Dot Point Measurements
 
-Generated: Friday 22 July 2022 11:50:49
+Generated: Friday 05 June 2026 09:49:18
 
-Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Broad	Morphology	Type	Fine	FieldOfView	CAAB_CODE			Radius %
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	BROAD	MORPHOLOGY	TYPE	FieldOfView	Relief	CODE			Radius %
 npz6.10.JPG	      0		2036	2929													Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			70.2
 npz6.10.JPG	      0		2426	2709													Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			59.3
 npz6.10.JPG	      0		1892	2439													Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			42.1
@@ -143,7 +143,7 @@ npz6.2.JPG	      0		1480	3415													Unknown			Open					63.6
 npz6.2.JPG	      0		2400	2043													Macroalgae	Encrusting	Red	Open		80300929			16.6
 npz6.2.JPG	      0		2529	2419													Macroalgae	Encrusting	Red	Open		80300929			24.8
 npz6.2.JPG	      0		2418	3555													Macroalgae	Small mixed		Open		80300000			66.3
-npz6.20.JPG	      0		2727	2983																					68.7
+npz6.20.JPG	      0		2727	2983													Macroalgae	Encrusting	Red	Open		80300929			68.7
 npz6.20.JPG	      0		2539	648													Unknown			Limited					74.8
 npz6.20.JPG	      0		2397	1856													Consolidated	Cobbles	No biota	Open		82001004			14.7
 npz6.20.JPG	      0		1429	882													Open Water			Open					70.7
@@ -369,7 +369,7 @@ npz6.9.JPG	      0		1550	696													Invertebrate Complex	Complex 1		Open			
 npz6.9.JPG	      0		1820	3281													Invertebrate Complex	Complex 1		Open					86.7
 npz6.9.JPG	      0		1938	3524													Invertebrate Complex	Complex 1		Open					100.0
 npz6.9.JPG	      0		1478	356													Invertebrate Complex	Complex 1		Open					87.0
-npz6.9.JPG	      0		1950	356																					81.7
+npz6.9.JPG	      0		1950	356													Invertebrate Complex								81.7
 npz6.9.JPG	      0		2165	182													Unconsolidated	Pebble	gravel (gravel 2-10mm)	Open		82001011			92.0
 npz6.9.JPG	      0		1669	2389													Invertebrate Complex	Complex 1		Open					39.9
 npz6.9.JPG	      0		2307	1594													Invertebrate Complex	Complex 1		Open					20.3

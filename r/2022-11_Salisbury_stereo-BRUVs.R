@@ -3,6 +3,9 @@ library(tidyr)
 library(readr)
 library(CheckEM)
 library(googlesheets4)
+library(stringr)
+schema <- CheckEM::catami%>%
+  dplyr::mutate(caab_code = as.numeric(caab_code))
 
 metadata <- read_metadata(here::here("data/2022-11_Salisbury_stereo-BRUVs/")) %>%
   dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, successful_count, successful_length, successful_habitat_forward, successful_habitat_backward) %>%
@@ -12,13 +15,17 @@ metadata <- read_metadata(here::here("data/2022-11_Salisbury_stereo-BRUVs/")) %>
 forwards <- read.delim("data/2022-11_Salisbury_stereo-BRUVs/2022-11_Salisbury_stereo-BRUVs_Forwards_Dot Point Measurements.txt", 
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
-  clean_names()
+  clean_names()  %>%
+  dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
+  dplyr::mutate(direction = "forwards")
 
 # read in forwards annotations
 backwards <- read.delim("data/2022-11_Salisbury_stereo-BRUVs/2022-11_Salisbury_stereo-BRUVs_Backwards_Dot Point Measurements.txt", 
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
-  clean_names()
+  clean_names() %>%
+  dplyr::mutate(caab_code = as.numeric(caab_code))%>%
+  dplyr::mutate(direction = "backwards")
 
 combined <- bind_rows(forwards, backwards) %>%
   dplyr::select(filename, opcode, period, catami_l2_l3, catami_l4, catami_l5)
@@ -74,12 +81,13 @@ tidy_habitat <- habitat_with_schema %>%
   dplyr::mutate(caab_code = as.character(caab_code)) %>%
   left_join(catami) %>%
   dplyr::mutate(campaignid = "2022-11_Salisbury_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
+  dplyr::rename(opcode = sample)%>%
   glimpse()
 
 write_csv(tidy_habitat, "data/to upload/2022-11_Salisbury_stereo-BRUVs_benthos-count.csv")
@@ -113,12 +121,13 @@ metadata.missing.relief <- anti_join(metadata, relief_with_schema, by = c("sampl
 tidy_relief <- relief_with_schema %>%
   dplyr::mutate(number = 1) %>%                                     
   dplyr::mutate(campaignid = "2022-11_Salisbury_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
+  dplyr::rename(opcode = sample)%>%
   glimpse()
 
 write_csv(tidy_relief, "data/to upload/2022-11_Salisbury_stereo-BRUVs_benthos-relief.csv")

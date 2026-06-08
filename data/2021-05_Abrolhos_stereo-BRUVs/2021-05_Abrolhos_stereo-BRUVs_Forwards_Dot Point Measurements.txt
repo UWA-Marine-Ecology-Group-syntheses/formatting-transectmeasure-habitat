@@ -1,8 +1,8 @@
 Dot Point Measurements
 
-Generated: Friday 22 July 2022 11:50:50
+Generated: Friday 05 June 2026 09:49:18
 
-Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Broad	Morphology	Type	Fine	FieldOfView	CAAB_CODE			Radius %
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	BROAD	MORPHOLOGY	TYPE	FieldOfView	Relief	CODE			Radius %
 npz6.10.jpg	      0		768	1103													Unknown			Limited					15.8
 npz6.10.jpg	      0		725	718													Unknown			Open					28.8
 npz6.10.jpg	      0		785	1047													Unknown			Limited					9.5
@@ -313,7 +313,7 @@ npz6.36.jpg	      0		929	737													Unconsolidated	Sand	mud (coarse sand)	O
 npz6.36.jpg	      0		760	928													Consolidated	Boulder	Turf mat	Open		82001003			13.8
 npz6.36.jpg	      0		988	1653													Sponges	Massive forms		Open		10000903			89.5
 npz6.36.jpg	      0		619	565													Unconsolidated	Sand	mud (coarse sand)	Open		82001014			36.1
-npz6.36.jpg	      0		931	673																					18.9
+npz6.36.jpg	      0		931	673													Sessile invertebrates								18.9
 npz6.36.jpg	      0		617	523													Unconsolidated	Sand	mud (coarse sand)	Open		82001014			39.8
 npz6.36.jpg	      0		712	1756													Open Water			Open					100.0
 npz6.36.jpg	      0		919	1412													Unknown			Limited					63.1
@@ -789,7 +789,7 @@ npz9.26.jpg	      0		805	1136													Unconsolidated	Sand	mud (fine sand)	Op
 npz9.26.jpg	      0		930	357													Unconsolidated	Sand	mud (coarse sand)	Open		82001014			48.7
 npz9.26.jpg	      0		563	647													Unknown			Open					31.8
 npz9.26.jpg	      0		926	187													Unknown			Limited					64.4
-npz9.26.jpg	      0		1073	148																					71.3
+npz9.26.jpg	      0		1073	148													Sessile invertebrates								71.3
 npz9.26.jpg	      0		616	1418													Unconsolidated	Sand	mud (fine sand)	Open		82001015			55.6
 npz9.26.jpg	      0		770	118													Unconsolidated	Sand	mud (fine sand)	Open		82001015			70.2
 npz9.26.jpg	      0		948	1870													Invertebrate Complex	Complex 1		Open					95.4
