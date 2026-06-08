@@ -1,8 +1,8 @@
 Dot Point Measurements
 
-Generated: Thursday 25 January 2024 11:19:01
+Generated: Monday 08 June 2026 15:10:43
 
-Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	CATAMI_L2_L3	CATAMI_L4	CATAMI_L5	Relief					Radius %
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	level_2	level_3	level_4	level_5	scientific	qualifiers	check		Radius %
 CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		598	1825													CP1	1					Unscorable								91.2
 CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		638	1144													CP1	1					Unscorable								26.0
 CP1_1_01_Right_MAH00269.MP4_0008162.jpg	      0		1063	40													CP1	1					Macroalgae > Large canopy-forming	Brown	Scytothalia dorycarpa						96.9
@@ -163,6 +163,26 @@ INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		797	141													INV-BV
 INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		579	1020													INV-BV-07	1					Unscorable								29.3
 INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		551	517													INV-BV-07	1					Unscorable								67.5
 INV-BV-07_1_01_Left_MAH00261.MP4_0063077.jpg	      0		642	1652													INV-BV-07	1					Matrix > Mixed Sessile Invertebrate								65.4
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		766	634													INV-BV-09	1					Unscorable								38.0
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		785	1617													INV-BV-09	1					Unscorable								66.7
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		1072	1117													INV-BV-09	1					Unscorable								27.3
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		1068	1691													INV-BV-09	1					Unscorable								77.7
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		795	975													INV-BV-09	1					Unscorable								5.7
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		763	720													INV-BV-09	1					Unscorable								29.4
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		826	317													INV-BV-09	1					Unscorable								70.3
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		1045	762													INV-BV-09	1					Unscorable								31.3
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		829	590													INV-BV-09	1					Unscorable								41.7
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		548	746													INV-BV-09	1					Unscorable								40.4
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		742	1285													INV-BV-09	1					Unscorable								33.4
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		916	1787													INV-BV-09	1					Unscorable								84.6
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		705	422													INV-BV-09	1					Unscorable								61.2
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		917	511													INV-BV-09	1					Unscorable								50.5
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		1059	59													INV-BV-09	1					Unscorable								100.0
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		837	846													INV-BV-09	1					Unscorable								14.8
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		1066	1816													INV-BV-09	1					Unscorable								90.3
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		870	1011													INV-BV-09	1					Unscorable								3.5
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		708	1326													INV-BV-09	1					Unscorable								38.7
+INV-BV-09_1_01_Left_MAH00374.MP4_0046480.jpg	      0		652	1485													INV-BV-09	1					Unscorable								56.4
 INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		586	1327													INV-BV-11	1					Unscorable								56.5
 INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		987	1260													INV-BV-11	1					Matrix > Mixed Sessile Invertebrate								50.7
 INV-BV-11_1_01_Left_MAH00259.MP4_0023446.jpg	      0		697	1301													INV-BV-11	1					Unscorable								51.0
@@ -603,6 +623,26 @@ INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		686	1684													INV-B
 INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		797	1094													INV-BV-62	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						17.3
 INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		551	296													INV-BV-62	1					Unscorable								71.9
 INV-BV-62_1_01_Left_MAH00359.MP4_0044587.jpg	      0		594	6													INV-BV-62	1					Unscorable								100.0
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		944	1097													INV-BV-66	1					Substrate	Unconsolidated (soft)							23.4
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		756	470													INV-BV-66	1					Substrate	Unconsolidated (soft)							58.5
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		550	607													INV-BV-66	1					Unscorable								52.6
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		1056	487													INV-BV-66	1					Substrate	Unconsolidated (soft)							62.8
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		752	1541													INV-BV-66	1					Substrate	Unconsolidated (soft)							71.8
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		783	1392													INV-BV-66	1					Substrate	Unconsolidated (soft)							53.6
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		1006	995													INV-BV-66	1					Substrate	Unconsolidated (soft)							23.3
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		713	1625													INV-BV-66	1					Substrate	Unconsolidated (soft)							82.6
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		964	1266													INV-BV-66	1					Substrate	Unconsolidated (soft)							42.0
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		739	398													INV-BV-66	1					Substrate	Unconsolidated (soft)							67.3
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		551	1219													INV-BV-66	1					Unscorable								45.8
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		742	889													INV-BV-66	1					Substrate	Unconsolidated (soft)							11.8
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		967	612													INV-BV-66	1					Substrate	Unconsolidated (soft)							44.6
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		544	923													INV-BV-66	1					Unscorable								33.3
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		1077	1300													INV-BV-66	1													52.6
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		732	584													INV-BV-66	1					Substrate	Unconsolidated (soft)							45.4
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		665	902													INV-BV-66	1					Unscorable								19.4
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		1041	728													INV-BV-66	1					Substrate	Unconsolidated (soft)							38.0
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		874	1776													INV-BV-66	1					Substrate	Unconsolidated (soft)							100.0
+INV-BV-66_1_01_Left_MAH00279.MP4_0048858.jpg	      0		904	190													INV-BV-66	1					Substrate	Unconsolidated (soft)							92.4
 INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		1021	1341													INV-BV-69	1					Sponges > Erect forms	Laminar							49.6
 INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		806	866													INV-BV-69	1					Substrate > Unconsolidated (soft)	Sand / mud (<2mm)	Coarse sand (with shell fragments)						1.5
 INV-BV-69_1_01_Left_MAH00276.MP4_0055942.jpg	      0		744	592													INV-BV-69	1					Macroalgae > Erect fine branching	Red							28.9

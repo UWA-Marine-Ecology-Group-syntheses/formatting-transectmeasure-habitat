@@ -1,8 +1,8 @@
 Dot Point Measurements
 
-Generated: Monday 26 May 2025 13:41:41
+Generated: Monday 26 May 2025 14:20:32
 
-Filename	Frame	Time (mins)	Image row	Image col											campaignid	relief_annotated	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	level_2	level_3	level_4	level_5	scientific	qualifiers			Radius %
+Filename	Frame	Time (mins)	Image row	Image col											campaignid	relief_annotated	OpCode	Period	Frame info 3	Frame info 4	Frame info 5	Frame info 6	level_2	level_3	level_4	level_5	scientific	qualifiers	CAAB_code		Radius %
 CP1_1_X.JPG	      0		139	196											2022-11_Investigator_stereo-BRUVs	Yes	CP1	1					Relief	High	High (>3m)	3					100.0
 CP1_1_X.JPG	      0		406	196											2022-11_Investigator_stereo-BRUVs	Yes	CP1	1					Relief	High	High (>3m)	3					89.9
 CP1_1_X.JPG	      0		674	196											2022-11_Investigator_stereo-BRUVs	Yes	CP1	1					Relief	High	High (>3m)	3					89.9
