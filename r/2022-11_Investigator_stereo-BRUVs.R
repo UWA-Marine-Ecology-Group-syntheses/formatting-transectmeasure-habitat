@@ -43,7 +43,7 @@ combined <- bind_rows(forwards, backwards) %>%
 
 
 unique_class <- combined %>%
-  distinct(level_2, level_3, level_3, level_4, level_5, scientific)
+  distinct(catami_l2_l3, catami_l4, catami_l5)
 
 # write_csv(unique_class, "data/2022-11_Investigator_stereo-BRUVs/unique_classes.csv")
 
@@ -99,8 +99,7 @@ metadata.missing.habitat <- anti_join(metadata, habitat_with_schema, by = c("sam
   glimpse()
 
 tidy_habitat <- habitat_with_schema %>%
- 
-  dplyr::mutate(caab_code = as.character(caab_code)) %>%
+  dplyr::mutate(caab_code = as.character(caab_code),number=1) %>%
   left_join(catami) %>%
   dplyr::mutate(campaignid = "2022-11_Investigator_stereo-BRUVs") %>%
   dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
@@ -148,7 +147,7 @@ tidy_relief <- relief_with_schema %>%
   group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
-  dplyr::select(campaignid, sample, level_5) %>%
+  dplyr::select(campaignid, sample, level_5, count) %>%
   rename(opcode = sample) %>%
   left_join(catami %>% select(-qualifiers)) %>%
   glimpse()

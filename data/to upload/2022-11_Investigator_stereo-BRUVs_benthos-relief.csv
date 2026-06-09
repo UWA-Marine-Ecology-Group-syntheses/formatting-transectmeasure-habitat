@@ -1,75 +1,75 @@
-campaignid,opcode,level_5,caab_code,level_1,level_2,level_3,level_4,level_6,level_7,level_8,family,genus,species
-2022-11_Investigator_stereo-BRUVs,CP1,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,CP1,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,CP2,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,CP2,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,CP3,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,CP3,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,CP4,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-02,0,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-02,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-02,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-03,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-03,4,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-03,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-03,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-05,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-07,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-07,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-07,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-09,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-09,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-11,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-11,4,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-14,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-17,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-17,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-20,0,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-20,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-22,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-22,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-24,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-24,4,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-24,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-24,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-25,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-26,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-26,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-27,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-27,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-28,0,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-28,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-29,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-35,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-35,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-36,5,82003008,Physical,Relief,High,Caves,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-36,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-36,4,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-36,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-42,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-44,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-44,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-44,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-48,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-48,4,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-51,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-53,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-53,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-55,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-55,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-55,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-57,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-58,0,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-58,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-60,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-60,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-60,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-62,0,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-62,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-66,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-66,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-69,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-69,1,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-69,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-70,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
-2022-11_Investigator_stereo-BRUVs,INV-BV-70,4,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
+campaignid,opcode,level_5,count,caab_code,level_1,level_2,level_3,level_4,level_6,level_7,level_8,family,genus,species
+2022-11_Investigator_stereo-BRUVs,CP1,3,22,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,CP1,2,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,CP2,1,8,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,CP2,2,11,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,CP3,1,10,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,CP3,2,7,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,CP4,1,20,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-02,0,1,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-02,1,12,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-02,2,7,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-03,3,8,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-03,4,1,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-03,1,2,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-03,2,6,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-05,1,17,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-07,3,9,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-07,1,5,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-07,2,5,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-09,1,14,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-09,2,6,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-11,3,14,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-11,4,13,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-14,1,17,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-17,1,15,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-17,2,5,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-20,0,1,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-20,1,19,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-22,3,8,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-22,2,12,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-24,3,5,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-24,4,7,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-24,1,8,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-24,2,2,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-25,2,12,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-26,1,9,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-26,2,9,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-27,1,9,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-27,2,12,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-28,0,6,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-28,1,13,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-29,1,20,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-35,1,11,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-35,2,5,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-36,5,1,82003008,Physical,Relief,High,Caves,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-36,3,16,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-36,4,3,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-36,2,5,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-42,1,19,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-44,3,6,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-44,1,3,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-44,2,8,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-48,3,13,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-48,4,10,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-51,3,18,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-53,1,8,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-53,2,9,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-55,3,2,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-55,1,4,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-55,2,12,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-57,1,17,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-58,0,1,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-58,1,19,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-60,3,3,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-60,1,9,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-60,2,5,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-62,0,1,82003001,Physical,Relief,Flat,NA,NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-62,1,19,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-66,1,13,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-66,2,8,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-69,3,7,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-69,1,4,82003003,Physical,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-69,2,7,82003004,Physical,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-70,3,7,82003006,Physical,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA
+2022-11_Investigator_stereo-BRUVs,INV-BV-70,4,18,82003007,Physical,Relief,High,Wall,NA,NA,NA,NA,NA,NA

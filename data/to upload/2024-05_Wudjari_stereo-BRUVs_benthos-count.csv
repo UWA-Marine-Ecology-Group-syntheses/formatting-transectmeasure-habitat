@@ -1,0 +1,663 @@
+campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,count
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-01,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-01,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-01,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-01,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,21
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-02,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-02,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-02,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Sargassaceae,Sargassum,spp,13
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-02,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-02,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-04,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-05,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,38
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-06,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-06,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-06,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-06,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-06,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-07,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-07,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-08,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-08,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-08,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-09,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Phyllospora,spp,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-09,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-10,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-10,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-10,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-10,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-11,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-12,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-13,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-13,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-14,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-14,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-14,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-14,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-14,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-15,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-15,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-15,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-15,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-15,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP2,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP3,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP3,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP3,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP3,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP3,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,FIG-BV-CP3,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-001,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-001,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-003,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-005,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-005,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-005,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-05_Wudjari_stereo-BRUVs,INV-BV-007,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-007,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-008,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-05_Wudjari_stereo-BRUVs,INV-BV-010,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-010,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-011,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-011,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-011,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-012,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-013,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-013,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-013,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-013,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-014,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-014,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-015,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-016,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-016,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-016,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-017,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-017,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-019,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-020,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-05_Wudjari_stereo-BRUVs,INV-BV-021,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-05_Wudjari_stereo-BRUVs,INV-BV-023,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-023,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-023,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-024,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-024,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-024,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-027,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-028,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-029,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-029,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-029,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-029,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-029,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-030,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-031,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-031,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-031,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-032,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-035,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-035,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,26
+2024-05_Wudjari_stereo-BRUVs,INV-BV-036,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-036,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-036,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-036,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-039,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-039,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-040,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-040,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-040,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-041,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-041,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-043,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-044,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-044,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-044,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-046,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,37
+2024-05_Wudjari_stereo-BRUVs,INV-BV-047,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-047,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-047,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-048,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-051,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-051,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-051,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-051,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-051,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-052,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-054,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-054,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-054,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-054,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-054,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-054,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-05_Wudjari_stereo-BRUVs,INV-BV-055,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-055,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-055,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-055,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-055,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-056,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-057,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-057,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-057,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-05_Wudjari_stereo-BRUVs,INV-BV-058,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-058,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-058,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-058,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-058,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-05_Wudjari_stereo-BRUVs,INV-BV-059,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-059,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-060,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-062,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-062,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-064,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-064,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-064,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-064,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-067,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-067,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,38
+2024-05_Wudjari_stereo-BRUVs,INV-BV-068,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-068,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-068,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,24
+2024-05_Wudjari_stereo-BRUVs,INV-BV-070,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-071,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-071,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-071,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-071,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-071,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,24
+2024-05_Wudjari_stereo-BRUVs,INV-BV-072,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-05_Wudjari_stereo-BRUVs,INV-BV-073,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-075,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-075,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-075,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-05_Wudjari_stereo-BRUVs,INV-BV-078,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-078,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-079,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-05_Wudjari_stereo-BRUVs,INV-BV-082,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-083,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-083,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-083,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-084,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-084,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-05_Wudjari_stereo-BRUVs,INV-BV-086,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-087,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-087,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-087,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,INV-BV-087,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-088,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-05_Wudjari_stereo-BRUVs,INV-BV-089,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-089,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-091,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-05_Wudjari_stereo-BRUVs,INV-BV-092,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-094,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-094,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-094,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-094,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-095,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-095,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-095,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-095,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-095,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-095,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-05_Wudjari_stereo-BRUVs,INV-BV-096,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-098,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-098,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-098,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-099,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-100,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-100,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-100,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-100,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,INV-BV-100,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-05_Wudjari_stereo-BRUVs,INV-BV-101,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-102,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-103,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-103,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-104,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-104,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-104,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-107,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-108,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-108,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-110,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-111,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-111,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-112,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-112,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-112,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-05_Wudjari_stereo-BRUVs,INV-BV-114,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-115,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-115,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,INV-BV-115,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-05_Wudjari_stereo-BRUVs,INV-BV-116,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-118,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-118,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-118,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-118,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-118,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-118,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-118,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-119,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-119,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-119,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-120,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-120,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-120,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-120,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-05_Wudjari_stereo-BRUVs,INV-BV-121,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-122,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-122,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-05_Wudjari_stereo-BRUVs,INV-BV-123,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-124,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-124,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-124,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-124,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-126,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-05_Wudjari_stereo-BRUVs,INV-BV-127,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-127,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-127,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-128,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-128,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-05_Wudjari_stereo-BRUVs,INV-BV-130,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-130,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-130,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-130,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-130,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,INV-BV-132,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-132,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-132,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-132,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-132,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-05_Wudjari_stereo-BRUVs,INV-BV-134,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-135,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-135,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-135,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-135,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-135,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-135,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-05_Wudjari_stereo-BRUVs,INV-BV-136,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-136,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-136,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-136,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-05_Wudjari_stereo-BRUVs,INV-BV-137,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-137,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-137,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-05_Wudjari_stereo-BRUVs,INV-BV-138,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-138,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-138,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-05_Wudjari_stereo-BRUVs,INV-BV-139,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-139,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,24
+2024-05_Wudjari_stereo-BRUVs,INV-BV-140,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-142,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-142,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-142,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-142,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-143,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-05_Wudjari_stereo-BRUVs,INV-BV-144,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-144,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-146,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-05_Wudjari_stereo-BRUVs,INV-BV-147,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-147,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-147,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-147,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-147,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-147,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-147,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-148,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-148,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-148,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-148,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-05_Wudjari_stereo-BRUVs,INV-BV-150,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-150,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-150,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-150,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-150,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-151,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-152,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-152,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-152,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-153,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-154,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-154,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-154,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-05_Wudjari_stereo-BRUVs,INV-BV-155,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-155,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-05_Wudjari_stereo-BRUVs,INV-BV-156,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,38
+2024-05_Wudjari_stereo-BRUVs,INV-BV-158,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-158,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-05_Wudjari_stereo-BRUVs,INV-BV-159,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-159,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-159,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-159,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-159,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-160,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-05_Wudjari_stereo-BRUVs,INV-BV-161,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-162,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-162,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-05_Wudjari_stereo-BRUVs,INV-BV-162,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-05_Wudjari_stereo-BRUVs,INV-BV-163,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-05_Wudjari_stereo-BRUVs,INV-BV-164,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-05_Wudjari_stereo-BRUVs,INV-BV-165,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-166,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-05_Wudjari_stereo-BRUVs,INV-BV-167,Biota,Ascidians,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-167,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,INV-BV-167,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-167,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-167,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-167,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-169,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-169,Biota,Cnidaria,Hydrocorals,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-169,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-169,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-169,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-170,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-170,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-170,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-171,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-171,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-171,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-171,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-05_Wudjari_stereo-BRUVs,INV-BV-171,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-171,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-05_Wudjari_stereo-BRUVs,INV-BV-173,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-173,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-173,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-174,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-05_Wudjari_stereo-BRUVs,INV-BV-175,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-175,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-176,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,37
+2024-05_Wudjari_stereo-BRUVs,INV-BV-177,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-177,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-177,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-177,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-177,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-05_Wudjari_stereo-BRUVs,INV-BV-178,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-179,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-181,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,37
+2024-05_Wudjari_stereo-BRUVs,INV-BV-182,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-185,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-185,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-185,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-05_Wudjari_stereo-BRUVs,INV-BV-186,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-187,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-187,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,30
+2024-05_Wudjari_stereo-BRUVs,INV-BV-188,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-188,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31
+2024-05_Wudjari_stereo-BRUVs,INV-BV-189,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-189,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-189,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-189,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,16
+2024-05_Wudjari_stereo-BRUVs,INV-BV-189,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-190,Biota,Ascidians,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-190,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-190,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-190,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-190,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-190,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-192,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-192,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-192,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-193,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-05_Wudjari_stereo-BRUVs,INV-BV-195,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-195,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-195,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-195,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,22
+2024-05_Wudjari_stereo-BRUVs,INV-BV-197,Biota,Cnidaria,Corals,Black & Octocorals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-197,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-197,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-197,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-197,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-198,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-199,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-199,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-199,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-199,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-199,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-201,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-201,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-201,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-201,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,12
+2024-05_Wudjari_stereo-BRUVs,INV-BV-201,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-201,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-202,Biota,Ascidians,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-202,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-202,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-202,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-202,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2024-05_Wudjari_stereo-BRUVs,INV-BV-202,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-203,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-203,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-203,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-203,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-203,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-204,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-205,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-206,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,38
+2024-05_Wudjari_stereo-BRUVs,INV-BV-208,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-208,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-208,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-208,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-05_Wudjari_stereo-BRUVs,INV-BV-208,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-208,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-209,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-209,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,37
+2024-05_Wudjari_stereo-BRUVs,INV-BV-210,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-211,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-211,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-211,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-211,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-211,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,24
+2024-05_Wudjari_stereo-BRUVs,INV-BV-213,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-213,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-213,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,26
+2024-05_Wudjari_stereo-BRUVs,INV-BV-214,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-214,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-214,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-215,Biota,Ascidians,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-215,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-215,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-215,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-217,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-217,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-217,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-218,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-219,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-220,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-221,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,28
+2024-05_Wudjari_stereo-BRUVs,INV-BV-222,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,36
+2024-05_Wudjari_stereo-BRUVs,INV-BV-224,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-224,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-224,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-224,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-225,Biota,Ascidians,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-225,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-225,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-225,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,14
+2024-05_Wudjari_stereo-BRUVs,INV-BV-225,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-225,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-226,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-226,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,38
+2024-05_Wudjari_stereo-BRUVs,INV-BV-228,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-228,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-228,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-228,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-229,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-230,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-230,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,34
+2024-05_Wudjari_stereo-BRUVs,INV-BV-231,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-231,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-233,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-233,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-233,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-233,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-233,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-233,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-234,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-234,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-234,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-235,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,37
+2024-05_Wudjari_stereo-BRUVs,INV-BV-236,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-236,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-236,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-236,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-05_Wudjari_stereo-BRUVs,INV-BV-237,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-238,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-238,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-240,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-241,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-241,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-242,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-242,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,33
+2024-05_Wudjari_stereo-BRUVs,INV-BV-243,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-243,Biota,Cnidaria,Corals,Stony corals,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-243,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-243,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
+2024-05_Wudjari_stereo-BRUVs,INV-BV-243,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-243,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-245,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-245,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-05_Wudjari_stereo-BRUVs,INV-BV-246,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-246,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,23
+2024-05_Wudjari_stereo-BRUVs,INV-BV-247,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-247,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-247,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-249,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-250,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-250,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-250,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-250,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2024-05_Wudjari_stereo-BRUVs,INV-BV-250,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-275,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-275,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-275,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-275,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP1,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP1,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP1,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,19
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP2,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP2,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP2,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP2,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP2,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP3,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP3,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,10
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP3,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP3,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP4,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP4,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-CP4,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,29
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC1,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC1,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,17
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC1,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC1,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC1,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC10,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC10,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC10,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,8
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC10,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC10,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC10,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC11,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC11,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC11,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC11,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC11,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC11,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC12,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC12,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC12,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC13,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC13,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,20
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC14,Biota,Ascidians,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC14,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC14,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC14,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC14,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Posidoniaceae,Posidonia,spp,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC14,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC14,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC15,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC15,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC15,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC15,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC15,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,15
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC15,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC16,Biota,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC16,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,9
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC16,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,10
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC16,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC16,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC16,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC17,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC17,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC17,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC17,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC17,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC18,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC18,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC18,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC18,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC2,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC2,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC2,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,25
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC2,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC3,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC3,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC3,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,18
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC4,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,27
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC5,Biota,Fishes,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC5,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,4
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC5,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,7
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC5,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC5,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC5,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC6,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,32
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC7,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,35
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC8,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,25
+2024-05_Wudjari_stereo-BRUVs,INV-BV-DOC9,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,31

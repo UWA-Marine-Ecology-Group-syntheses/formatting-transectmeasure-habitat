@@ -1,9 +1,11 @@
 campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,count,caab_code
+2022-11_Investigator_stereo-BRUVs,CP1,Biota,Macroalgae,Encrusting,NA,NA,NA,NA,NA,NA,NA,NA,4,80300926
 2022-11_Investigator_stereo-BRUVs,CP1,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,9,54102005
+2022-11_Investigator_stereo-BRUVs,CP1,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,NA,NA,NA,15,80300902
 2022-11_Investigator_stereo-BRUVs,CP2,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,3,20000907
+2022-11_Investigator_stereo-BRUVs,CP2,Biota,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,1,80300909
 2022-11_Investigator_stereo-BRUVs,CP2,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,4,80300910
 2022-11_Investigator_stereo-BRUVs,CP2,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2,80300907
-2022-11_Investigator_stereo-BRUVs,CP2,Biota,Sponges,Cup-likes,Cups,NA,NA,NA,NA,NA,NA,NA,1,10000910
 2022-11_Investigator_stereo-BRUVs,CP2,Biota,Sponges,Massive forms,Simple,NA,NA,NA,NA,NA,NA,NA,2,10000904
 2022-11_Investigator_stereo-BRUVs,CP2,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,5,82001011
 2022-11_Investigator_stereo-BRUVs,CP2,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,6,82001012
@@ -15,7 +17,8 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,CP3,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,1,80300907
 2022-11_Investigator_stereo-BRUVs,CP3,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1,82001012
 2022-11_Investigator_stereo-BRUVs,CP3,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,27,82001014
-2022-11_Investigator_stereo-BRUVs,CP4,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,33,82001014
+2022-11_Investigator_stereo-BRUVs,CP4,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,4,82001011
+2022-11_Investigator_stereo-BRUVs,CP4,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,29,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-02,Biota,Macroalgae,Articulated calcareous,Red,NA,NA,NA,NA,NA,NA,NA,1,80300913
 2022-11_Investigator_stereo-BRUVs,INV-BV-02,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,2,80300903
 2022-11_Investigator_stereo-BRUVs,INV-BV-02,Biota,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,2,80300909
@@ -32,8 +35,8 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,INV-BV-03,Biota,Sponges,Massive forms,Simple,NA,NA,NA,NA,NA,NA,NA,4,10000904
 2022-11_Investigator_stereo-BRUVs,INV-BV-03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-03,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,6,82001015
-2022-11_Investigator_stereo-BRUVs,INV-BV-05,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,1,20000907
 2022-11_Investigator_stereo-BRUVs,INV-BV-05,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,1,80300910
+2022-11_Investigator_stereo-BRUVs,INV-BV-05,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,1,80300930
 2022-11_Investigator_stereo-BRUVs,INV-BV-05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,11,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-05,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,16,82001015
 2022-11_Investigator_stereo-BRUVs,INV-BV-07,Biota,Bryozoa,Soft,Dendroid,NA,NA,NA,NA,NA,NA,NA,1,20000906
@@ -48,11 +51,15 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,INV-BV-07,Biota,Sponges,Massive forms,Cryptic,NA,NA,NA,NA,NA,NA,NA,1,10000908
 2022-11_Investigator_stereo-BRUVs,INV-BV-07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,4,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-07,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,9,82001015
+2022-11_Investigator_stereo-BRUVs,INV-BV-09,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,20000000
+2022-11_Investigator_stereo-BRUVs,INV-BV-09,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,2,80300907
+2022-11_Investigator_stereo-BRUVs,INV-BV-09,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,17,82001005
 2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1,11168902
 2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1,11168912
 2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,3,80300929
+2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,2,80300906
 2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,6,54079009
-2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,3,54102005
+2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Seirococcaceae,Scytothalia,dorycarpa,1,54102005
 2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,99900044
 2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Sponges,Crusts,Encrusting,NA,NA,NA,NA,NA,NA,NA,10,10000902
 2022-11_Investigator_stereo-BRUVs,INV-BV-11,Biota,Sponges,Erect forms,Laminar,NA,NA,NA,NA,NA,NA,NA,3,10000913
@@ -68,11 +75,10 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,INV-BV-17,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,16,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-17,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,11,82001015
 2022-11_Investigator_stereo-BRUVs,INV-BV-20,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,33,82001014
-2022-11_Investigator_stereo-BRUVs,INV-BV-22,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,2,20000907
 2022-11_Investigator_stereo-BRUVs,INV-BV-22,Biota,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,1,80300906
 2022-11_Investigator_stereo-BRUVs,INV-BV-22,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,6,80300910
 2022-11_Investigator_stereo-BRUVs,INV-BV-22,Biota,Macroalgae,Erect fine branching,NA,NA,NA,NA,NA,NA,NA,NA,7,80300907
-2022-11_Investigator_stereo-BRUVs,INV-BV-22,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,10,80300930
+2022-11_Investigator_stereo-BRUVs,INV-BV-22,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,7,80300930
 2022-11_Investigator_stereo-BRUVs,INV-BV-22,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,1,82001002
 2022-11_Investigator_stereo-BRUVs,INV-BV-22,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,4,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-22,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,5,82001015
@@ -103,7 +109,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,INV-BV-27,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,5,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-27,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,11,82001015
 2022-11_Investigator_stereo-BRUVs,INV-BV-28,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,30,82001014
-2022-11_Investigator_stereo-BRUVs,INV-BV-29,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,5,82001012
+2022-11_Investigator_stereo-BRUVs,INV-BV-29,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,5,82001011
 2022-11_Investigator_stereo-BRUVs,INV-BV-29,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,30,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-35,Biota,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2,80300904
 2022-11_Investigator_stereo-BRUVs,INV-BV-35,Biota,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,5,80300909
@@ -136,15 +142,17 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,INV-BV-48,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4,99900044
 2022-11_Investigator_stereo-BRUVs,INV-BV-48,Biota,Sponges,Crusts,Encrusting,NA,NA,NA,NA,NA,NA,NA,2,10000902
 2022-11_Investigator_stereo-BRUVs,INV-BV-48,Biota,Sponges,Cup-likes,Cups,NA,NA,NA,NA,NA,NA,NA,1,10000910
+2022-11_Investigator_stereo-BRUVs,INV-BV-49,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,20,99900044
 2022-11_Investigator_stereo-BRUVs,INV-BV-51,Biota,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2,80300904
 2022-11_Investigator_stereo-BRUVs,INV-BV-51,Biota,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,12,80300909
 2022-11_Investigator_stereo-BRUVs,INV-BV-51,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,9,80300910
 2022-11_Investigator_stereo-BRUVs,INV-BV-51,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3,80300000
 2022-11_Investigator_stereo-BRUVs,INV-BV-51,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,10000000
 2022-11_Investigator_stereo-BRUVs,INV-BV-51,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,2,82001011
-2022-11_Investigator_stereo-BRUVs,INV-BV-53,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,3,20000907
+2022-11_Investigator_stereo-BRUVs,INV-BV-53,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,1,20000907
 2022-11_Investigator_stereo-BRUVs,INV-BV-53,Biota,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2,80300904
 2022-11_Investigator_stereo-BRUVs,INV-BV-53,Biota,Macroalgae,Erect coarse branching,NA,NA,NA,NA,NA,NA,NA,NA,1,80300903
+2022-11_Investigator_stereo-BRUVs,INV-BV-53,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2,80300910
 2022-11_Investigator_stereo-BRUVs,INV-BV-53,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,2,82001012
 2022-11_Investigator_stereo-BRUVs,INV-BV-53,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-55,Biota,Ascidians,Stalked,Solitary,NA,NA,NA,NA,NA,NA,NA,1,35000905
@@ -160,7 +168,8 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,INV-BV-57,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1,99900044
 2022-11_Investigator_stereo-BRUVs,INV-BV-57,Biota,Sponges,Erect forms,Branching,NA,NA,NA,NA,NA,NA,NA,1,10000915
 2022-11_Investigator_stereo-BRUVs,INV-BV-57,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,1,82001002
-2022-11_Investigator_stereo-BRUVs,INV-BV-57,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,22,82001014
+2022-11_Investigator_stereo-BRUVs,INV-BV-57,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,2,82001011
+2022-11_Investigator_stereo-BRUVs,INV-BV-57,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-58,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,32,82001014
 2022-11_Investigator_stereo-BRUVs,INV-BV-60,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,7,20000907
 2022-11_Investigator_stereo-BRUVs,INV-BV-60,Biota,Sponges,Erect forms,Branching,NA,NA,NA,NA,NA,NA,NA,1,10000915
@@ -172,6 +181,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2022-11_Investigator_stereo-BRUVs,INV-BV-66,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,6,80300910
 2022-11_Investigator_stereo-BRUVs,INV-BV-66,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,7,82001011
 2022-11_Investigator_stereo-BRUVs,INV-BV-66,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,5,82001014
+2022-11_Investigator_stereo-BRUVs,INV-BV-66,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,15,82001005
 2022-11_Investigator_stereo-BRUVs,INV-BV-69,Biota,Bryozoa,Hard,Fenestrate,NA,NA,NA,NA,NA,NA,NA,1,20000903
 2022-11_Investigator_stereo-BRUVs,INV-BV-69,Biota,Bryozoa,Soft,Dendroid,NA,NA,NA,NA,NA,NA,NA,1,20000906
 2022-11_Investigator_stereo-BRUVs,INV-BV-69,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,3,20000907

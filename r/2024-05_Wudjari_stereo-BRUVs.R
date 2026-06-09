@@ -57,9 +57,10 @@ tidy_habitat <- combined %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
+  rename(opcode = sample) %>%
   glimpse()
 
-write_csv(tidy_habitat, "data/to upload/2024-05_Wudjari_stereo-BRUVs_benthos.csv")
+write_csv(tidy_habitat, "data/to upload/2024-05_Wudjari_stereo-BRUVs_benthos-count.csv")
 
 # RELIEF ----
 # read in forwards annotations
@@ -96,6 +97,23 @@ tidy_relief <- relief_with_schema %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
+  rename(opcode = sample) %>%
   glimpse()
 
-write_csv(tidy_relief, "data/to upload/2024-05_Wudjari_stereo-BRUVs_relief.csv")
+write_csv(tidy_relief, "data/to upload/2024-05_Wudjari_stereo-BRUVs_benthos-relief.csv")
+
+relief_samples <- tidy_relief %>% 
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  summarise(relief_sample = n(), .groups = "drop")
+
+benthos_samples <- tidy_habitat %>%
+  distinct(campaignid, opcode) %>%
+  group_by(campaignid) %>%
+  summarise(benthos_sample = n(), .groups = "drop")
+
+sample_summary <- full_join(
+  relief_samples,
+  benthos_samples,
+  by = c("campaignid")
+)
