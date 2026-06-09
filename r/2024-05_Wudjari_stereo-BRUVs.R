@@ -4,6 +4,9 @@ library(readr)
 library(CheckEM)
 library(googlesheets4)
 
+schema <- CheckEM::catami%>%
+  dplyr::mutate(caab_code = as.numeric(caab_code))
+
 metadata <- read_metadata(here::here("data/2024-05_Wudjari_stereo-BRUVs/")) %>%
   dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, successful_count, successful_length, successful_habitat_forwards, successful_habitat_backwards) %>%
   glimpse()
@@ -48,12 +51,14 @@ metadata.missing.habitat <- anti_join(metadata, combined, by = c("sample")) %>%
 
 tidy_habitat <- combined %>%
   separate(scientific, into = c("genus", "species")) %>%
-  dplyr::mutate(number = 1) %>%                                     
+  dplyr::mutate(number = 1) %>%  
   left_join(catami) %>%
+  dplyr::mutate(caab_code = as.character(caab_code)) %>%
+  #left_join(catami) %>%
   dplyr::mutate(campaignid = "2024-05_Wudjari_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
@@ -91,9 +96,9 @@ metadata.missing.relief <- anti_join(metadata, relief_with_schema, by = c("sampl
 tidy_relief <- relief_with_schema %>%
   dplyr::mutate(number = 1) %>%                                     
   dplyr::mutate(campaignid = "2024-05_Wudjari_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
