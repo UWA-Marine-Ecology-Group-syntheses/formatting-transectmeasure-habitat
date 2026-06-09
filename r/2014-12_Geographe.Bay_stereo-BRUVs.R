@@ -20,8 +20,8 @@ forwards <- read.delim("data/2024-04_Geographe_stereo-BRUVs/2024-04_Geographe_st
 
 # read in forwards annotations
 backwards <- read.delim("data/2024-04_Geographe_stereo-BRUVs/2024-04_Geographe_stereo-BRUVs_backwards_Dot Point Measurements.txt", 
-                       header = T, skip = 4, stringsAsFactors = FALSE, 
-                       colClasses = "character", na.strings = "") %>%
+                        header = T, skip = 4, stringsAsFactors = FALSE, 
+                        colClasses = "character", na.strings = "") %>%
   clean_names()
 
 names(forwards)
