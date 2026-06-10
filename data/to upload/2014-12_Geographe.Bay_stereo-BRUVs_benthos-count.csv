@@ -1,0 +1,524 @@
+campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,caab_code,count
+2014-12_Geographe-bay_stereo-BRUVs,1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,10,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,10,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,100,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,100,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,10000,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,10001,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,10001,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,10002,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,10003,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,10004,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,10004,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,10005,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,10005,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,10005,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,4
+2014-12_Geographe-bay_stereo-BRUVs,101,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,101,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,5
+2014-12_Geographe-bay_stereo-BRUVs,102,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,103,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,1038,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,104,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,2
+2014-12_Geographe-bay_stereo-BRUVs,104,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,12
+2014-12_Geographe-bay_stereo-BRUVs,106,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,107,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,13
+2014-12_Geographe-bay_stereo-BRUVs,107,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,108,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,11,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,11,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,110,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,1108,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,1108,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,1108,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,111,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,111,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,112,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,112,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,113,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,114,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,115,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,116,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,119,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,8
+2014-12_Geographe-bay_stereo-BRUVs,119,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,11R1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,11R2,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,11R3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,11R3,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,11R4,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,9
+2014-12_Geographe-bay_stereo-BRUVs,12,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,122,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,122,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,12
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,12RC2,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,12RC3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,12RC5,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,12RC6,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,12RC7,Biota,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,11500000,1
+2014-12_Geographe-bay_stereo-BRUVs,12RC7,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,14
+2014-12_Geographe-bay_stereo-BRUVs,12RC8,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,19
+2014-12_Geographe-bay_stereo-BRUVs,12RC8,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,1
+2014-12_Geographe-bay_stereo-BRUVs,12RC9,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,16
+2014-12_Geographe-bay_stereo-BRUVs,13,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,15
+2014-12_Geographe-bay_stereo-BRUVs,135,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,135,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,138,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,138,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,139,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,139,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,13RC1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC11,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,13RC11,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,13RC12,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,13RC13,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC15,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,13RC15,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,13RC2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,19
+2014-12_Geographe-bay_stereo-BRUVs,13RC3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,12
+2014-12_Geographe-bay_stereo-BRUVs,13RC4,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC5,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,13RC5,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,9
+2014-12_Geographe-bay_stereo-BRUVs,13RC6,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,13RC6,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,1
+2014-12_Geographe-bay_stereo-BRUVs,13RC6,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,7
+2014-12_Geographe-bay_stereo-BRUVs,13RC7,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC8,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,13RC8,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC9,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,13RC9,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,13RC9,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,14,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,11
+2014-12_Geographe-bay_stereo-BRUVs,14,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,14,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,143,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,9
+2014-12_Geographe-bay_stereo-BRUVs,144,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,15,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,15,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,151,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,151,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,151,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,154,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,154,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,16,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,8
+2014-12_Geographe-bay_stereo-BRUVs,16,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,160,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,14
+2014-12_Geographe-bay_stereo-BRUVs,167,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,17,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,17,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,17,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,17,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,170,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,175,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,176,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,18,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,183,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,183,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,19,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,192,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,12
+2014-12_Geographe-bay_stereo-BRUVs,192,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,196,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,196,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,12
+2014-12_Geographe-bay_stereo-BRUVs,196,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,199,Biota,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,11500000,1
+2014-12_Geographe-bay_stereo-BRUVs,199,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,12
+2014-12_Geographe-bay_stereo-BRUVs,199,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,1
+2014-12_Geographe-bay_stereo-BRUVs,2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,9
+2014-12_Geographe-bay_stereo-BRUVs,2,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,20,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,202,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,207,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,208,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,13
+2014-12_Geographe-bay_stereo-BRUVs,21,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,215,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,218,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,22,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,22,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,224,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,224,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,23,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,234,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,236,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,236,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,236,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,24,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,24,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,5
+2014-12_Geographe-bay_stereo-BRUVs,240,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,8
+2014-12_Geographe-bay_stereo-BRUVs,240,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,240,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,4
+2014-12_Geographe-bay_stereo-BRUVs,247,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,25,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,250,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,256,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,256,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,256,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,26,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,267,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,1
+2014-12_Geographe-bay_stereo-BRUVs,267,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,9
+2014-12_Geographe-bay_stereo-BRUVs,27,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,270,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,271,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,272,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,279,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,279,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,28,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,8
+2014-12_Geographe-bay_stereo-BRUVs,28,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,282,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,282,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,282,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,287,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,287,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,288,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,288,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,288,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,29,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,13
+2014-12_Geographe-bay_stereo-BRUVs,295,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,298,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,298,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,3,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,30,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,304,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,31,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,314,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,316,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,316,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,32,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,32,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,320,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,320,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,4
+2014-12_Geographe-bay_stereo-BRUVs,327,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,327,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,327,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,33,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,33,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,33,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,330,Biota,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,11500000,2
+2014-12_Geographe-bay_stereo-BRUVs,330,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,330,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,330,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,2
+2014-12_Geographe-bay_stereo-BRUVs,331,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,331,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,331,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,335,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,335,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,4
+2014-12_Geographe-bay_stereo-BRUVs,34,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,346,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,346,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,35,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,35,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,35,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,1
+2014-12_Geographe-bay_stereo-BRUVs,352,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,352,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,352,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,36,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,362,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,368,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,37,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,375,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,378,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,378,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,38,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,9
+2014-12_Geographe-bay_stereo-BRUVs,384,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,384,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,39,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,391,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,12
+2014-12_Geographe-bay_stereo-BRUVs,391,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,394,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,395,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,399,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,4,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,40,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,400,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,400,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,400,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,407,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,407,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,41,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,416,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,12
+2014-12_Geographe-bay_stereo-BRUVs,42,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,12
+2014-12_Geographe-bay_stereo-BRUVs,428,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,9
+2014-12_Geographe-bay_stereo-BRUVs,432,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,432,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,432,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,439,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,13
+2014-12_Geographe-bay_stereo-BRUVs,44,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,44,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,7
+2014-12_Geographe-bay_stereo-BRUVs,442,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,8
+2014-12_Geographe-bay_stereo-BRUVs,442,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,443,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,443,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,448,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,45,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,5
+2014-12_Geographe-bay_stereo-BRUVs,451,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,451,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,455,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,455,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,458,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,46,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,46,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,463,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,47,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,47,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,474,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,48,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,48,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,480,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,480,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,49,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,490,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,492,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,15
+2014-12_Geographe-bay_stereo-BRUVs,496,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,496,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,496,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,499,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,13
+2014-12_Geographe-bay_stereo-BRUVs,5,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,5,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,5,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,50,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,16
+2014-12_Geographe-bay_stereo-BRUVs,503,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,503,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,506,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,9
+2014-12_Geographe-bay_stereo-BRUVs,51,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,512,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,512,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,52,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,523,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,13
+2014-12_Geographe-bay_stereo-BRUVs,523,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,527,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,528,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,528,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,53,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,11
+2014-12_Geographe-bay_stereo-BRUVs,538,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,538,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,54,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,54,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,543,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,20
+2014-12_Geographe-bay_stereo-BRUVs,544,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,544,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,55,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,55,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,4
+2014-12_Geographe-bay_stereo-BRUVs,551,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,554,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,56,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,56,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,560,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,560,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,567,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,12
+2014-12_Geographe-bay_stereo-BRUVs,567,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,570,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,570,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,572,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,579,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,58,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,583,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,13
+2014-12_Geographe-bay_stereo-BRUVs,583,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,2
+2014-12_Geographe-bay_stereo-BRUVs,586,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,586,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,587,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,592,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,592,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,599,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,7
+2014-12_Geographe-bay_stereo-BRUVs,599,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,599,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,6,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,60,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,7
+2014-12_Geographe-bay_stereo-BRUVs,60,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,602,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,602,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,608,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,608,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,61,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,7
+2014-12_Geographe-bay_stereo-BRUVs,61,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,611,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,615,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,618,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,618,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,62,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,62,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,623,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,624,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,624,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,63,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,63,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,7
+2014-12_Geographe-bay_stereo-BRUVs,631,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,631,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,633,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,633,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,634,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,634,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,635,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,635,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,635,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,64,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,64,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,640,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,640,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,647,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,65,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,650,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,650,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,655,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,655,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,655,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,656,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,13
+2014-12_Geographe-bay_stereo-BRUVs,666,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,666,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,67,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,672,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,12
+2014-12_Geographe-bay_stereo-BRUVs,679,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,679,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,9
+2014-12_Geographe-bay_stereo-BRUVs,68,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,682,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,12
+2014-12_Geographe-bay_stereo-BRUVs,684,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,688,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,69,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,694,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,694,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,698,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,7,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,15
+2014-12_Geographe-bay_stereo-BRUVs,70,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,7
+2014-12_Geographe-bay_stereo-BRUVs,704,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,71,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,71,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,711,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,711,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,5
+2014-12_Geographe-bay_stereo-BRUVs,714,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,714,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,5
+2014-12_Geographe-bay_stereo-BRUVs,719,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,719,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,72,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,1
+2014-12_Geographe-bay_stereo-BRUVs,72,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,11
+2014-12_Geographe-bay_stereo-BRUVs,720,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,720,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,11
+2014-12_Geographe-bay_stereo-BRUVs,73,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,735,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,736,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,736,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,736,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,4
+2014-12_Geographe-bay_stereo-BRUVs,746,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,746,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,748,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,7
+2014-12_Geographe-bay_stereo-BRUVs,748,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,75,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,15
+2014-12_Geographe-bay_stereo-BRUVs,752,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,752,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,1
+2014-12_Geographe-bay_stereo-BRUVs,752,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,5
+2014-12_Geographe-bay_stereo-BRUVs,755,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,8
+2014-12_Geographe-bay_stereo-BRUVs,759,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,76,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,762,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,16
+2014-12_Geographe-bay_stereo-BRUVs,764,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,764,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,77,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,779,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,779,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,779,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,1
+2014-12_Geographe-bay_stereo-BRUVs,78,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,3
+2014-12_Geographe-bay_stereo-BRUVs,78,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,782,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,783,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,783,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,4
+2014-12_Geographe-bay_stereo-BRUVs,784,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,79,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,79,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,8
+2014-12_Geographe-bay_stereo-BRUVs,791,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,7
+2014-12_Geographe-bay_stereo-BRUVs,791,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,1
+2014-12_Geographe-bay_stereo-BRUVs,794,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,80,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,80,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,800,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,800,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,800,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,800,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,807,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,807,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,81,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,81,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,810,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,816,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,82,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,823,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,826,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,828,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,83,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,83,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,832,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,832,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,5
+2014-12_Geographe-bay_stereo-BRUVs,839,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,84,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,842,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,842,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,3
+2014-12_Geographe-bay_stereo-BRUVs,843,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,848,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,848,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,855,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,855,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,858,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,12
+2014-12_Geographe-bay_stereo-BRUVs,86,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,86,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,864,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,13
+2014-12_Geographe-bay_stereo-BRUVs,864,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,87,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,879,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,88,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,11
+2014-12_Geographe-bay_stereo-BRUVs,880,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,89,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,9,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,9,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,9
+2014-12_Geographe-bay_stereo-BRUVs,90,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,6
+2014-12_Geographe-bay_stereo-BRUVs,91,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,92,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,92,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,9
+2014-12_Geographe-bay_stereo-BRUVs,93,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,95,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,96,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,6
+2014-12_Geographe-bay_stereo-BRUVs,96,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,96,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,97,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,97,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,1
+2014-12_Geographe-bay_stereo-BRUVs,97,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,7
+2014-12_Geographe-bay_stereo-BRUVs,98,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,99,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,9
+2014-12_Geographe-bay_stereo-BRUVs,GBR-BOB,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-1,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,15
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-3,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,11
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,2
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,2
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-1,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,2
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-2,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-2,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,2
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,7
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-3,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,3
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-4,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-1,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,5
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,2
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,4
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,7
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-3,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,4
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-3,Physical,Substrate,Consolidated (hard),NA,NA,NA,NA,NA,NA,NA,NA,82001001,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR4-1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,12
+2014-12_Geographe-bay_stereo-BRUVs,GBR4-2,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,10
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-2,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,9
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-2,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-3,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,12
+2014-12_Geographe-bay_stereo-BRUVs,RB1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,10
+2014-12_Geographe-bay_stereo-BRUVs,RB2,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,10
+2014-12_Geographe-bay_stereo-BRUVs,RC1,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,8
+2014-12_Geographe-bay_stereo-BRUVs,RC1,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,6
+2014-12_Geographe-bay_stereo-BRUVs,RC2,Biota,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,11500000,1
+2014-12_Geographe-bay_stereo-BRUVs,RC2,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5
+2014-12_Geographe-bay_stereo-BRUVs,RC2,Biota,Seagrasses,NA,NA,NA,NA,NA,NA,NA,NA,NA,63600901,7
+2014-12_Geographe-bay_stereo-BRUVs,RC2,Biota,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,10000000,2
+2014-12_Geographe-bay_stereo-BRUVs,RC2,Physical,Substrate,Unconsolidated (soft),NA,NA,NA,NA,NA,NA,NA,NA,82001005,1
+2014-12_Geographe-bay_stereo-BRUVs,RC3,Biota,Cnidaria,NA,NA,NA,NA,NA,NA,NA,NA,NA,11500000,1
+2014-12_Geographe-bay_stereo-BRUVs,RC3,Biota,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,80300000,5

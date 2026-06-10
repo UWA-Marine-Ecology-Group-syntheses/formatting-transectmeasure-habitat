@@ -6,113 +6,187 @@ library(googlesheets4)
 library(stringr)
 
 schema <- CheckEM::catami%>%
-  dplyr::mutate(caab_code = as.numeric(caab_code))
+  dplyr::mutate(caab_code = as.numeric(caab_code))%>%
+  select(-qualifiers)
 
-metadata <- read_metadata(here::here("data/2024-04_Geographe_stereo-BRUVs/")) %>%
-  dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, successful_count, successful_length, successful_habitat_forwards, successful_habitat_backwards) %>%
+
+head(schema)
+
+metadata <- read_metadata(here::here("data/2014-12_Geographe.Bay_stereo-BRUVs//")) %>%
+  dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, 
+                #successful_count, successful_length, successful_habitat_forwards, successful_habitat_backwards
+                ) %>%
   glimpse()
 
 # read in forwards annotations
-forwards <- read.delim("data/2024-04_Geographe_stereo-BRUVs/2024-04_Geographe_stereo-BRUVs_forwards_Dot Point Measurements.txt", 
-                       header = T, skip = 4, stringsAsFactors = FALSE, 
+forwards <- read.delim("data/2014-12_Geographe.Bay_stereo-BRUVs/2014-12_Geographe.Bay_stereoBRUVs_habitat.txt", 
+                       header = T, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
-  clean_names()
+  clean_names() %>%
+  glimpse
 
-# read in forwards annotations
-backwards <- read.delim("data/2024-04_Geographe_stereo-BRUVs/2024-04_Geographe_stereo-BRUVs_backwards_Dot Point Measurements.txt", 
-                        header = T, skip = 4, stringsAsFactors = FALSE, 
-                        colClasses = "character", na.strings = "") %>%
-  clean_names()
 
-names(forwards)
+benthos <- forwards %>%
+  select(
+    sample,
+    campaignid,
+    starts_with("biota_")) %>%
+ rename(opcode = sample)
 
-combined <- bind_rows(forwards, backwards) %>%
-  dplyr::select(campaignid, opcode, level_2, level_3, level_4, level_5, scientific) %>%
-  dplyr::rename(sample = opcode)
 
-num.points <- 20
+benthos_long <- benthos %>%
+  pivot_longer(
+    cols = starts_with("biota_"),
+    names_to = "benthos_category",
+    values_to = "count"
+  ) %>%
+  mutate(count = as.numeric(count))
 
-wrong_points_habitat <- combined %>%
-  group_by(sample) %>%
-  summarise(points.annotated = n()) %>%
-  left_join(metadata) %>%
-  dplyr::mutate(expected = case_when(
-    successful_habitat_forwards %in% "Yes" & successful_habitat_backwards %in% "Yes" ~ num.points * 2, 
-    successful_habitat_forwards %in% "Yes" & successful_habitat_backwards %in% "No" ~ num.points * 1, 
-    successful_habitat_forwards %in% "No" & successful_habitat_backwards %in% "Yes" ~ num.points * 1, 
-    successful_habitat_forwards %in% "No" & successful_habitat_backwards %in% "No" ~ num.points * 0)) %>%
-  dplyr::filter(!points.annotated == expected) %>%
-  glimpse()
 
-habitat.missing.metadata <- anti_join(combined, metadata, by = c("sample")) %>%
-  glimpse()
+benthos_filtered <- benthos_long %>%
+  filter(count > 0)
 
-metadata.missing.habitat <- anti_join(metadata, combined, by = c("sample")) %>%
-  glimpse()
+head(benthos_filtered)
 
-tidy_habitat <- combined %>%
-  separate(scientific, into = c("genus", "species")) %>%
-  dplyr::mutate(number = 1) %>%                                     
-  left_join(catami) %>%
-  dplyr::mutate(caab_code = as.character(caab_code)) %>%
-  dplyr::mutate(campaignid = "2024-04_Geographe_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
-  dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
-  dplyr::tally(number, name = "count") %>%
-  ungroup() %>%                                                     
-  dplyr::select(campaignid, sample, level_1, everything()) %>%
-  dplyr::rename(opcode = sample)%>%
-  glimpse()
+schema %>%
+  filter(level_1 == "Biota") %>%
+  distinct(level_2) %>%
+  arrange(level_2)
 
-write_csv(tidy_habitat, "data/to upload/2024-04_Geographe_stereo-BRUVs_benthos-count.csv")
+unique(benthos_filtered$benthos_category)
 
-# RELIEF ----
-# read in forwards annotations
-forwards_relief <- read.delim("data/2024-04_Geographe_stereo-BRUVs/2024-04_Geographe_stereo-BRUVs_forwards_relief_Dot Point Measurements.txt", 
-                              header = T, skip = 4, stringsAsFactors = FALSE, 
-                              colClasses = "character", na.strings = "") %>%
-  clean_names()
+benthos_lookup <- tibble::tribble(
+  ~benthos_category,       ~level_2,
+  "biota_macroalgae",      "Macroalgae",
+  "biota_seagrasses",      "Seagrasses",
+  "biota_sponges",         "Sponges",
+  "biota_cnidaria",        "Cnidaria",
+  "biota_crustacea",       "Crustacea",
+  "biota_echinoderms",     "Echinoderms",
+  "biota_fishes",          "Fishes",
+  "biota_molluscs",        "Molluscs",
+  "biota_worms",           "Worms",
+  "biota_bryozoa",         "Bryozoa",
+  "biota_ascidians",       "Ascidians",
+  "biota_octocoral_black", "Cnidaria",
+  "biota_stony_corals",    "Cnidaria",
+  "biota_unconsolidated",  "Substrate",
+  "biota_consolidated",  "Substrate")
 
-# read in forwards annotations
-backwards_relief <- read.delim("data/2024-04_Geographe_stereo-BRUVs/2024-04_Geographe_stereo-BRUVs_backwards_relief_Dot Point Measurements.txt", 
-                               header = T, skip = 4, stringsAsFactors = FALSE, 
-                               colClasses = "character", na.strings = "") %>%
-  clean_names() #%>%
-#separate(filename, into = c("opcode","extra"), sep = ".JPG")
+benthos_lookup_level3 <- tibble::tribble(
+  ~benthos_category,       ~level_3,
+  "biota_unconsolidated",  "Unconsolidated (soft)",
+  "biota_consolidated",    "Consolidated (hard)")
 
-relief_with_schema <- bind_rows(forwards_relief, backwards_relief) %>%
-  dplyr::left_join(catami) %>%
-  dplyr::rename(sample = opcode) 
+benthos_caab <- benthos_long %>% 
+  left_join(benthos_lookup, by = "benthos_category") %>%
+  left_join(benthos_lookup_level3, by = "benthos_category") %>%
+  mutate(level_4 = NA) %>%
+  filter(count > 0)
 
-relief.missing.metadata <- anti_join(relief_with_schema, metadata, by = c("sample")) %>%
-  glimpse()
+benthos_caab_joined <- benthos_caab %>% left_join( schema )
 
-unique(relief.missing.metadata$filename)
+benthos_summary <- benthos_caab_joined %>%
+  group_by(
+    campaignid,
+    opcode,
+    level_1,
+    level_2,
+    level_3,
+    level_4,
+    level_5,
+    level_6,
+    level_7,
+    level_8,
+    family,
+    genus,
+    species,
+    caab_code
+  ) %>%
+  mutate(campaignid = "2014-12_Geographe-bay_stereo-BRUVs") %>%
+  summarise(
+    count = sum(count, na.rm = TRUE),
+    .groups = "drop") %>%
+  #dplyr::filter(!level_2 %in% c("","Unscorable", NA))
+  glimpse
 
-metadata.missing.relief <- anti_join(metadata, relief_with_schema, by = c("sample")) %>%
-  glimpse()
+unique(benthos_summary$level_2)
+unique(benthos_summary$level_3)
 
-tidy_relief <- relief_with_schema %>%
-  dplyr::mutate(number = 1) %>%                                     
-  dplyr::mutate(campaignid = "2024-04_Geographe_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
-  dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
-  dplyr::tally(number, name = "count") %>%
-  ungroup() %>%                                                     
-  dplyr::select(campaignid, sample, level_1, everything()) %>%
-  dplyr::rename(opcode = sample)%>%
-  glimpse()
+write_csv(benthos_summary, "data/to upload/2014-12_Geographe.Bay_stereo-BRUVs_benthos-count.csv")
 
-write_csv(tidy_relief, "data/to upload/2024-04_Geographe_stereo-BRUVs_benthos-relief.csv")
 
-relief_samples <- tidy_relief %>% 
+#RELIEF
+
+relief <- forwards %>%
+  select(
+    sample,
+    campaignid,
+    starts_with("relief_"))%>%
+  rename(opcode = sample)
+
+relief_long <- relief %>%
+  pivot_longer(
+    cols = starts_with("relief_"),
+    names_to = "relief_category",
+    values_to = "count") %>%
+  mutate(count = as.numeric(count))
+
+relief_filtered <- relief_long %>%
+  filter(count > 0)
+
+
+
+names(relief)
+
+schema %>%
+  filter(level_2 == "Relief") %>%
+  select(caab_code, level_1, level_2, level_3, level_4)
+
+relief_lookup <- tibble::tribble(
+  ~relief_category, ~caab_code,
+  "relief_0_flat_substrate_sandy_rubble_with_few_features_0_substrate_slope_", 82003001,
+  "relief_1_some_relief_features_amongst_mostly_flat_substrate_sand_rubble_45_degree_substrate_slope_", 82003003,
+  "relief_2_mostly_relief_features_amongst_some_flat_substrate_or_rubble_45_substrate_slope_", 82003004,
+  "relief_3_good_relief_structure_with_some_overhangs_45_substrate_slope_", 82003006,
+  "relief_4_high_structural_complexity_fissures_and_caves_vertical_wall_90_substrate_slope_", 82003007
+)
+
+relief_with_schema <- relief_filtered %>%
+  left_join(relief_lookup, by = "relief_category") %>%
+  left_join(schema, by = "caab_code")
+
+schema %>%
+  filter(level_2 == "Relief") %>%
+  select(caab_code, level_3, level_4)
+
+relief_summary <- relief_with_schema %>%
+  select(
+    campaignid,
+    opcode,
+    level_1,
+    level_2,
+    level_3,
+    level_4,
+    level_5,
+    level_6,
+    level_7,
+    level_8,
+    family,
+    genus,
+    species,
+    caab_code,
+    count
+  )
+
+ write_csv(relief_summary, "data/to upload/2014-12_Geographe.Bay_stereo-BRUVs_benthos-relief.csv")
+
+relief_samples <- relief_summary %>% 
   distinct(campaignid, opcode) %>%
   group_by(campaignid) %>%
   summarise(relief_sample = n(), .groups = "drop")
 
-benthos_samples <- tidy_habitat %>%
+benthos_samples <- benthos_summary %>%
   distinct(campaignid, opcode) %>%
   group_by(campaignid) %>%
   summarise(benthos_sample = n(), .groups = "drop")

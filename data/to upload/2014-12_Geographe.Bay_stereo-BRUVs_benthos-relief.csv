@@ -1,0 +1,447 @@
+campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,caab_code,count
+2014-12_Geographe-bay_stereo-BRUVs,1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,10,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,10,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,100,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,10000,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,10001,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,5
+2014-12_Geographe-bay_stereo-BRUVs,10001,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,10001,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,10002,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,10003,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,10004,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,10004,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,10005,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,3
+2014-12_Geographe-bay_stereo-BRUVs,10005,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,10005,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,101,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,4
+2014-12_Geographe-bay_stereo-BRUVs,101,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,102,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,103,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,1038,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,104,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,11
+2014-12_Geographe-bay_stereo-BRUVs,104,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,106,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,107,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,107,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,108,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,11,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,11,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,110,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,1108,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,1108,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,111,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,111,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,112,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,14
+2014-12_Geographe-bay_stereo-BRUVs,113,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,7
+2014-12_Geographe-bay_stereo-BRUVs,113,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,114,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,115,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,9
+2014-12_Geographe-bay_stereo-BRUVs,115,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,116,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,119,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,119,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,7
+2014-12_Geographe-bay_stereo-BRUVs,11R1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,11R2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,11R3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,11R4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,9
+2014-12_Geographe-bay_stereo-BRUVs,12,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,122,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,122,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,1
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,12RC1,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,82003007,15
+2014-12_Geographe-bay_stereo-BRUVs,12RC2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,12RC3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,12RC5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,12RC6,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,12RC7,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,12RC7,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,11
+2014-12_Geographe-bay_stereo-BRUVs,12RC8,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,12RC8,Physical,Relief,High,Wall,4,NA,NA,NA,NA,NA,NA,82003007,17
+2014-12_Geographe-bay_stereo-BRUVs,12RC9,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,16
+2014-12_Geographe-bay_stereo-BRUVs,13,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,15
+2014-12_Geographe-bay_stereo-BRUVs,135,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,138,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,139,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,13RC1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC11,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,13RC11,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,13RC12,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,13RC13,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC15,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,13RC15,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,13RC2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,19
+2014-12_Geographe-bay_stereo-BRUVs,13RC3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,12
+2014-12_Geographe-bay_stereo-BRUVs,13RC4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC5,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,1
+2014-12_Geographe-bay_stereo-BRUVs,13RC5,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,8
+2014-12_Geographe-bay_stereo-BRUVs,13RC5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,13RC6,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,7
+2014-12_Geographe-bay_stereo-BRUVs,13RC6,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,13RC7,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC8,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,13RC8,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,13RC9,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,13RC9,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,14,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,14,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,14
+2014-12_Geographe-bay_stereo-BRUVs,143,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,144,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,15,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,15,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,151,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,154,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,16,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,160,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,14
+2014-12_Geographe-bay_stereo-BRUVs,167,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,17,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,17,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,170,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,175,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,176,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,18,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,183,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,19,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,192,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,192,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,196,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,196,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,14
+2014-12_Geographe-bay_stereo-BRUVs,199,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,14
+2014-12_Geographe-bay_stereo-BRUVs,2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,20,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,202,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,207,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,208,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,21,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,215,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,218,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,22,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,224,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,23,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,234,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,236,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,24,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,5
+2014-12_Geographe-bay_stereo-BRUVs,24,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,240,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,4
+2014-12_Geographe-bay_stereo-BRUVs,240,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,247,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,25,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,250,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,256,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,256,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,26,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,267,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,9
+2014-12_Geographe-bay_stereo-BRUVs,267,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,27,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,270,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,271,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,272,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,279,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,28,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,28,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,282,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,287,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,287,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,288,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,288,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,29,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,295,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,298,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,3,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,30,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,304,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,31,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,314,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,316,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,32,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,320,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,4
+2014-12_Geographe-bay_stereo-BRUVs,320,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,327,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,33,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,33,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,330,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,330,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,4
+2014-12_Geographe-bay_stereo-BRUVs,331,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,331,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,335,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,34,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,346,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,35,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,35,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,352,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,352,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,36,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,362,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,368,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,37,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,375,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,378,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,378,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,38,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,9
+2014-12_Geographe-bay_stereo-BRUVs,384,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,39,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,39,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,5
+2014-12_Geographe-bay_stereo-BRUVs,391,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,391,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,394,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,395,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,399,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,4,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,40,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,400,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,400,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,407,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,407,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,41,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,416,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,42,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,42,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,10
+2014-12_Geographe-bay_stereo-BRUVs,428,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,432,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,432,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,439,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,44,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,44,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,442,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,15
+2014-12_Geographe-bay_stereo-BRUVs,443,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,448,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,45,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,5
+2014-12_Geographe-bay_stereo-BRUVs,451,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,455,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,455,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,458,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,46,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,46,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,463,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,47,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,47,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,474,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,48,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,48,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,11
+2014-12_Geographe-bay_stereo-BRUVs,480,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,49,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,9
+2014-12_Geographe-bay_stereo-BRUVs,49,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,490,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,492,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,11
+2014-12_Geographe-bay_stereo-BRUVs,492,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,496,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,499,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,5,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,50,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,16
+2014-12_Geographe-bay_stereo-BRUVs,503,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,506,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,51,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,10
+2014-12_Geographe-bay_stereo-BRUVs,512,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,8
+2014-12_Geographe-bay_stereo-BRUVs,512,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,52,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,523,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,523,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,527,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,528,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,53,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,11
+2014-12_Geographe-bay_stereo-BRUVs,538,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,54,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,1
+2014-12_Geographe-bay_stereo-BRUVs,54,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,7
+2014-12_Geographe-bay_stereo-BRUVs,54,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,543,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,20
+2014-12_Geographe-bay_stereo-BRUVs,544,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,55,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,4
+2014-12_Geographe-bay_stereo-BRUVs,55,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,551,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,554,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,56,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,8
+2014-12_Geographe-bay_stereo-BRUVs,56,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,560,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,560,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,567,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,567,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,570,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,570,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,572,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,579,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,58,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,10
+2014-12_Geographe-bay_stereo-BRUVs,583,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,15
+2014-12_Geographe-bay_stereo-BRUVs,586,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,587,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,592,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,592,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,599,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,14
+2014-12_Geographe-bay_stereo-BRUVs,6,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,60,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,60,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,4
+2014-12_Geographe-bay_stereo-BRUVs,602,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,602,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,608,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,61,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,61,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,611,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,615,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,618,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,62,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,62,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,623,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,624,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,63,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,63,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,631,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,633,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,634,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,635,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,635,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,64,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,64,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,5
+2014-12_Geographe-bay_stereo-BRUVs,640,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,647,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,65,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,650,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,655,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,655,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,656,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,666,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,666,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,67,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,672,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,679,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,9
+2014-12_Geographe-bay_stereo-BRUVs,679,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,68,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,682,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,682,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,10
+2014-12_Geographe-bay_stereo-BRUVs,684,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,688,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,69,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,694,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,698,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,7,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,15
+2014-12_Geographe-bay_stereo-BRUVs,70,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,70,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,704,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,71,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,10
+2014-12_Geographe-bay_stereo-BRUVs,711,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,5
+2014-12_Geographe-bay_stereo-BRUVs,711,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,714,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,714,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,719,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,719,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,72,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,7
+2014-12_Geographe-bay_stereo-BRUVs,72,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,4
+2014-12_Geographe-bay_stereo-BRUVs,72,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,720,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,7
+2014-12_Geographe-bay_stereo-BRUVs,720,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,4
+2014-12_Geographe-bay_stereo-BRUVs,720,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,73,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,735,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,736,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,736,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,6
+2014-12_Geographe-bay_stereo-BRUVs,746,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,8
+2014-12_Geographe-bay_stereo-BRUVs,746,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,2
+2014-12_Geographe-bay_stereo-BRUVs,748,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,75,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,15
+2014-12_Geographe-bay_stereo-BRUVs,752,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,4
+2014-12_Geographe-bay_stereo-BRUVs,752,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,752,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,755,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,759,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,76,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,762,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,16
+2014-12_Geographe-bay_stereo-BRUVs,764,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,77,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,779,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,779,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,1
+2014-12_Geographe-bay_stereo-BRUVs,78,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,78,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,5
+2014-12_Geographe-bay_stereo-BRUVs,782,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,783,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,783,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,784,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,79,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,8
+2014-12_Geographe-bay_stereo-BRUVs,79,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,2
+2014-12_Geographe-bay_stereo-BRUVs,791,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,794,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,80,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,800,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,800,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,807,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,81,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,6
+2014-12_Geographe-bay_stereo-BRUVs,81,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,810,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,816,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,82,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,823,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,826,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,828,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,83,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,832,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,5
+2014-12_Geographe-bay_stereo-BRUVs,832,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,839,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,84,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,842,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,842,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,843,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,848,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,855,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,858,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,8
+2014-12_Geographe-bay_stereo-BRUVs,858,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,4
+2014-12_Geographe-bay_stereo-BRUVs,86,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,86,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,864,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,864,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,13
+2014-12_Geographe-bay_stereo-BRUVs,87,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,879,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,88,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,11
+2014-12_Geographe-bay_stereo-BRUVs,880,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,89,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,10
+2014-12_Geographe-bay_stereo-BRUVs,9,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,6
+2014-12_Geographe-bay_stereo-BRUVs,9,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,9,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,90,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,6
+2014-12_Geographe-bay_stereo-BRUVs,91,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,7
+2014-12_Geographe-bay_stereo-BRUVs,91,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,3
+2014-12_Geographe-bay_stereo-BRUVs,92,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,8
+2014-12_Geographe-bay_stereo-BRUVs,92,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,93,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,10
+2014-12_Geographe-bay_stereo-BRUVs,95,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,96,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,96,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,97,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,5
+2014-12_Geographe-bay_stereo-BRUVs,97,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,98,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,99,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,GBR-BOB,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,14
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,3
+2014-12_Geographe-bay_stereo-BRUVs,GBR1-4,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,11
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,4
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,11
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,GBR2-4,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,7
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,GBR3-3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,GBR4-1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,4
+2014-12_Geographe-bay_stereo-BRUVs,GBR4-1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR4-2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,8
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,2
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-2,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,GBR5-3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,12
+2014-12_Geographe-bay_stereo-BRUVs,RB1,Physical,Relief,Flat,NA,0,NA,NA,NA,NA,NA,NA,82003001,9
+2014-12_Geographe-bay_stereo-BRUVs,RB1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,1
+2014-12_Geographe-bay_stereo-BRUVs,RB2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,10
+2014-12_Geographe-bay_stereo-BRUVs,RC1,Physical,Relief,Low / moderate,Low (<1m),1,NA,NA,NA,NA,NA,NA,82003003,5
+2014-12_Geographe-bay_stereo-BRUVs,RC1,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,5
+2014-12_Geographe-bay_stereo-BRUVs,RC1,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,4
+2014-12_Geographe-bay_stereo-BRUVs,RC2,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,9
+2014-12_Geographe-bay_stereo-BRUVs,RC2,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,7
+2014-12_Geographe-bay_stereo-BRUVs,RC3,Physical,Relief,Low / moderate,Moderate (1-3m),2,NA,NA,NA,NA,NA,NA,82003004,1
+2014-12_Geographe-bay_stereo-BRUVs,RC3,Physical,Relief,High,High (>3m),3,NA,NA,NA,NA,NA,NA,82003006,5
