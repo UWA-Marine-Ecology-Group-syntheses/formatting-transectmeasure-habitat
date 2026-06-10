@@ -16,6 +16,7 @@ metadata <- read_metadata(here::here("data/2014-12_Geographe.Bay_stereo-BRUVs//"
   dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, 
                 #successful_count, successful_length, successful_habitat_forwards, successful_habitat_backwards
                 ) %>%
+  rename(opcode = sample) %>%
   glimpse()
 
 # read in forwards annotations
@@ -107,6 +108,7 @@ benthos_summary <- benthos_caab_joined %>%
   summarise(
     count = sum(count, na.rm = TRUE),
     .groups = "drop") %>%
+  semi_join(metadata) %>%
   #dplyr::filter(!level_2 %in% c("","Unscorable", NA))
   glimpse
 
@@ -177,7 +179,9 @@ relief_summary <- relief_with_schema %>%
     species,
     caab_code,
     count
-  )
+  ) %>%
+  mutate(campaignid = "2014-12_Geographe-bay_stereo-BRUVs") %>%
+  semi_join(metadata)
 
  write_csv(relief_summary, "data/to upload/2014-12_Geographe.Bay_stereo-BRUVs_benthos-relief.csv")
 
@@ -196,3 +200,18 @@ sample_summary <- full_join(
   benthos_samples,
   by = c("campaignid")
 )
+
+# metadata <- metadata %>%
+#   rename(opcode = sample)
+
+habitat.missing.metadata <- anti_join(benthos_summary, metadata, by = c("opcode")) %>%
+  glimpse()
+
+metadata.missing.habitat <- anti_join(metadata, benthos_summary, by = c("opcode")) %>%
+  glimpse()
+
+relief.missing.metadata <- anti_join(relief_summary, metadata, by = c("opcode")) %>%
+  glimpse()
+
+metadata.missing.relief <- anti_join(metadata, relief_summary, by = c("opcode")) %>%
+  glimpse()
