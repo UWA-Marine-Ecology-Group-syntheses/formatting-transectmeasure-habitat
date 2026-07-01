@@ -5,6 +5,12 @@ library(CheckEM)
 library(googlesheets4)
 library(stringr)
 
+schema <- CheckEM::catami%>%
+  dplyr::mutate(caab_code = as.numeric(caab_code))%>%
+  select(-qualifiers)
+
+head(schema)
+
 # HABITAT -----
 metadata <- read_metadata(here::here("data/2020-06_south-west_stereo-BRUVs/")) %>%
   dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, #observer_count, observer_length,
@@ -38,8 +44,10 @@ habitat_with_schema <- bind_rows(forwards, backwards) %>%
     
     .default = caab_code
   )) %>%
-  dplyr::left_join(CheckEM::catami) %>%
+  dplyr::left_join(schema) %>%
   dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = ""))) 
+
+missing_in_schema <- anti_join(habitat_with_schema, schema)
 
 distinct_hab_types <- habitat_with_schema %>%
   select(broad, morphology, type, starts_with("level"), family, genus, species, caab_code) %>%
@@ -128,3 +136,34 @@ tidy_relief <- relief_with_schema %>%
   glimpse()
 
 write_csv(tidy_relief, "data/to upload/2020-06_south-west_stereo-BRUVs_relief.csv")
+
+
+relief_clean <- tidy_relief %>%
+  group_by(campaignid, sample) %>%
+  summarise(relief_sample = n(), .groups = "drop")
+
+benthos_clean <- tidy_habitat %>%
+  group_by(campaignid, sample) %>%
+  summarise(benthos_sample = n(), .groups = "drop")
+
+sample_summary <- full_join(
+  relief_clean,
+  benthos_clean,
+  by = c("campaignid", "sample")
+)
+
+relief_samples <- tidy_relief %>% 
+  distinct(campaignid, sample) %>%
+  group_by(campaignid) %>%
+  summarise(relief_sample = n(), .groups = "drop")
+
+benthos_samples <- tidy_habitat %>%
+  distinct(campaignid, sample) %>%
+  group_by(campaignid) %>%
+  summarise(benthos_sample = n(), .groups = "drop")
+
+sample_summary <- full_join(
+  relief_samples,
+  benthos_samples,
+  by = c("campaignid")
+)
