@@ -10,13 +10,13 @@ schema <- CheckEM::catami%>%
   select(-qualifiers)
 
 # HABITAT -----
-metadata <- read_metadata(here::here("data/2020-10_south-west_stereo-BRUVs/")) %>%
+metadata <- read_metadata(here::here("data/2023-03_SwC_stereo-BRUVs/")) %>%
   dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, #observer_count, observer_length,
                 successful_count, successful_length) %>%
   glimpse()
 
 # read in forwards annotations
-forwards <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo-BRUVs_random-points_forwards_Dot Point Measurements.txt", 
+forwards <- read.delim("data/2023-03_SwC_stereo-BRUVs/2023-03_SwC_stereo-BRUVs_random-points_forwards_Dot Point Measurements.txt", 
                        header = T, skip = 4, stringsAsFactors = FALSE, 
                        colClasses = "character", na.strings = "") %>%
   clean_names() %>%
@@ -24,9 +24,9 @@ forwards <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_
   dplyr::mutate(filename = str_replace_all(filename, "take 2", ""))
 
 # read in forwards annotations
-backwards <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo-BRUVs_random-points_backwards_Dot Point Measurements.txt", 
-                       header = T, skip = 4, stringsAsFactors = FALSE, 
-                       colClasses = "character", na.strings = "") %>%
+backwards <- read.delim("data/2023-03_SwC_stereo-BRUVs/2023-03_SwC_stereo-BRUVs_random-points_backwards_Dot Point Measurements.txt", 
+                        header = T, skip = 4, stringsAsFactors = FALSE, 
+                        colClasses = "character", na.strings = "") %>%
   clean_names()
 
 habitat_with_schema <- bind_rows(forwards, backwards) %>%
@@ -76,7 +76,7 @@ habitat.missing.metadata <- anti_join(habitat_with_schema, metadata, by = c("sam
 tidy_habitat <- habitat_with_schema %>%
   dplyr::mutate(sample = str_trim(sample))%>%
   dplyr::mutate(number = 1) %>%                                     
-  dplyr::mutate(campaignid = "2020-10_south-west_stereo-BRUVs") %>%
+  dplyr::mutate(campaignid = "2023-03_SwC_stereo-BRUVs") %>%
   dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
   group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
@@ -93,22 +93,22 @@ metadata.missing.habitat <- anti_join(
   glimpse()
 
 write_csv(tidy_habitat %>%
-          dplyr::rename(opcode = sample),"data/to upload/2020-10_south-west_stereo-BRUVs_benthos-count.csv")
+            dplyr::rename(opcode = sample),"data/to upload/2023-03_SwC_stereo-BRUVs_benthos-count.csv")
 
 
 # RELIEF ----
 # read in forwards annotations
-forwards_relief <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo_BRUVs_Habitat_grid_forwards_Dot Point Measurements.txt", 
-                       header = T, skip = 4, stringsAsFactors = FALSE, 
-                       colClasses = "character", na.strings = "") %>%
+forwards_relief <- read.delim("data/2023-03_SwC_stereo-BRUVs/2023-03_SwC_stereo-BRUVs_Habitat_grid_forwards_Dot Point Measurements.txt", 
+                              header = T, skip = 4, stringsAsFactors = FALSE, 
+                              colClasses = "character", na.strings = "") %>%
   clean_names()%>%
   dplyr::filter(!filename %in% "IO333.jpg") %>%
   dplyr::mutate(filename = str_replace_all(filename, "take 2", ""))
 
 # read in forwards annotations
-backwards_relief <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo_BRUVs_Habitat_grid_backwards_Dot Point Measurements.txt", 
-                        header = T, skip = 4, stringsAsFactors = FALSE, 
-                        colClasses = "character", na.strings = "") %>%
+backwards_relief <- read.delim("data/2023-03_SwC_stereo-BRUVs/2023-03_SwC_stereo-BRUVs_Habitat_grid_backwards_Dot Point Measurements.txt", 
+                               header = T, skip = 4, stringsAsFactors = FALSE, 
+                               colClasses = "character", na.strings = "") %>%
   clean_names() 
 
 relief_with_schema <- bind_rows(forwards_relief, backwards_relief) %>%
@@ -129,7 +129,7 @@ relief.missing.metadata <- anti_join(relief_with_schema, metadata, by = c("sampl
 tidy_relief <- relief_with_schema %>%
   dplyr::mutate(sample = str_trim(sample))%>%
   dplyr::mutate(number = 1) %>%                                     
-  dplyr::mutate(campaignid = "2020-10_south-west_stereo-BRUVs") %>%
+  dplyr::mutate(campaignid = "2023-03_SwC_stereo-BRUVs") %>%
   dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
   group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
@@ -145,32 +145,4 @@ metadata.missing.relief <- anti_join(metadata %>% dplyr::filter(successful_count
   glimpse()
 
 write_csv(tidy_relief %>%
-            dplyr::rename(opcode = sample), "data/to upload/2020-10_south-west_stereo-BRUVs_benthos-relief.csv")
-
-names(tidy_habitat)
-names(metadata)
-
-unique(tidy_habitat$campaignid)
-unique(metadata$campaignid)
-setdiff(unique(tidy_habitat$campaignid), unique(metadata$campaignid))
-
-anti_join(
-  tidy_habitat %>% distinct(campaignid, sample),
-  metadata %>% distinct(campaignid, sample),
-  by = c("campaignid", "sample")
-)
-
-class(tidy_habitat$sample)
-class(metadata$sample)
-
-dplyr::full_join(
-  tidy_habitat %>% distinct(campaignid, sample) %>% dplyr::mutate(in_habitat = TRUE),
-  metadata %>% distinct(campaignid, sample) %>% dplyr::mutate(in_metadata = TRUE),
-  by = c("campaignid", "sample")
-) %>%
-  dplyr::filter(is.na(in_habitat) | is.na(in_metadata))
-
-metadata %>% dplyr::filter(str_detect(sample, "IO254"))
-tidy_habitat %>% dplyr::filter(str_detect(sample, "IO254"))
-
-metadata %>% dplyr::filter(sample == "IO282")
+            dplyr::rename(opcode = sample), "data/to upload/2023-03_SwC_stereo-BRUVs_benthos-relief.csv")

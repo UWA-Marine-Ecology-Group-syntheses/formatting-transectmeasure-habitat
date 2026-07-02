@@ -1,4 +1,4 @@
-campaignid,sample,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,caab_code,count
+campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,caab_code,count
 2020-10_south-west_stereo-BRUVs,FH10,Biota,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,80300904,6
 2020-10_south-west_stereo-BRUVs,FH10,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,80300910,7
 2020-10_south-west_stereo-BRUVs,FH10,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,63618905,5
@@ -1114,11 +1114,9 @@ campaignid,sample,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2020-10_south-west_stereo-BRUVs,IO330,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,10
 2020-10_south-west_stereo-BRUVs,IO331,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,34
 2020-10_south-west_stereo-BRUVs,IO332,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,35
-2020-10_south-west_stereo-BRUVs,IO333,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,1
+2020-10_south-west_stereo-BRUVs,IO333,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,2
 2020-10_south-west_stereo-BRUVs,IO333,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,10000903,1
-2020-10_south-west_stereo-BRUVs,IO333,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,17
-2020-10_south-west_stereo-BRUVs,IO333 ,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,1
-2020-10_south-west_stereo-BRUVs,IO333 ,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,13
+2020-10_south-west_stereo-BRUVs,IO333,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,30
 2020-10_south-west_stereo-BRUVs,IO334,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,35
 2020-10_south-west_stereo-BRUVs,IO335,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,20000000,1
 2020-10_south-west_stereo-BRUVs,IO335,Biota,Macroalgae,Erect coarse branching,Green,NA,NA,NA,NA,NA,NA,NA,80300905,2
