@@ -1,0 +1,74 @@
+campaignid,opcode,level_1,level_2,level_3,level_4,level_5,caab_code,count
+2023-03_SwC_stereo-BRUVs,10,Physical,Relief,High,High (>3m),3,82003006,8
+2023-03_SwC_stereo-BRUVs,10,Physical,Relief,High,Wall,4,82003007,10
+2023-03_SwC_stereo-BRUVs,10,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,5
+2023-03_SwC_stereo-BRUVs,12,Physical,Relief,High,High (>3m),3,82003006,17
+2023-03_SwC_stereo-BRUVs,12,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,4
+2023-03_SwC_stereo-BRUVs,14,Physical,Relief,High,High (>3m),3,82003006,14
+2023-03_SwC_stereo-BRUVs,14,Physical,Relief,Low / moderate,Low (<1m),1,82003003,3
+2023-03_SwC_stereo-BRUVs,14,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,8
+2023-03_SwC_stereo-BRUVs,15,Physical,Relief,High,High (>3m),3,82003006,16
+2023-03_SwC_stereo-BRUVs,15,Physical,Relief,High,Wall,4,82003007,1
+2023-03_SwC_stereo-BRUVs,15,Physical,Relief,Low / moderate,Low (<1m),1,82003003,4
+2023-03_SwC_stereo-BRUVs,15,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,6
+2023-03_SwC_stereo-BRUVs,16,Physical,Relief,High,Wall,4,82003007,20
+2023-03_SwC_stereo-BRUVs,17,Physical,Relief,High,High (>3m),3,82003006,2
+2023-03_SwC_stereo-BRUVs,17,Physical,Relief,High,Wall,4,82003007,13
+2023-03_SwC_stereo-BRUVs,17,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,6
+2023-03_SwC_stereo-BRUVs,19,Physical,Relief,High,High (>3m),3,82003006,14
+2023-03_SwC_stereo-BRUVs,19,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,10
+2023-03_SwC_stereo-BRUVs,2,Physical,Relief,High,High (>3m),3,82003006,8
+2023-03_SwC_stereo-BRUVs,2,Physical,Relief,High,Wall,4,82003007,12
+2023-03_SwC_stereo-BRUVs,21,Physical,Relief,High,High (>3m),3,82003006,3
+2023-03_SwC_stereo-BRUVs,21,Physical,Relief,Low / moderate,Low (<1m),1,82003003,7
+2023-03_SwC_stereo-BRUVs,21,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,5
+2023-03_SwC_stereo-BRUVs,22,Physical,Relief,High,High (>3m),3,82003006,12
+2023-03_SwC_stereo-BRUVs,22,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,8
+2023-03_SwC_stereo-BRUVs,23,Physical,Relief,High,Wall,4,82003007,14
+2023-03_SwC_stereo-BRUVs,23,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,4
+2023-03_SwC_stereo-BRUVs,24,Physical,Relief,High,High (>3m),3,82003006,16
+2023-03_SwC_stereo-BRUVs,24,Physical,Relief,High,Wall,4,82003007,9
+2023-03_SwC_stereo-BRUVs,26,Physical,Relief,High,Wall,4,82003007,26
+2023-03_SwC_stereo-BRUVs,29,Physical,Relief,High,Wall,4,82003007,25
+2023-03_SwC_stereo-BRUVs,3,Physical,Relief,High,High (>3m),3,82003006,4
+2023-03_SwC_stereo-BRUVs,3,Physical,Relief,High,Wall,4,82003007,1
+2023-03_SwC_stereo-BRUVs,3,Physical,Relief,Low / moderate,Low (<1m),1,82003003,13
+2023-03_SwC_stereo-BRUVs,3,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,7
+2023-03_SwC_stereo-BRUVs,31,Physical,Relief,High,High (>3m),3,82003006,18
+2023-03_SwC_stereo-BRUVs,31,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,4
+2023-03_SwC_stereo-BRUVs,32,Physical,Relief,High,High (>3m),3,82003006,4
+2023-03_SwC_stereo-BRUVs,32,Physical,Relief,Low / moderate,Low (<1m),1,82003003,7
+2023-03_SwC_stereo-BRUVs,32,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,10
+2023-03_SwC_stereo-BRUVs,34,Physical,Relief,High,High (>3m),3,82003006,12
+2023-03_SwC_stereo-BRUVs,34,Physical,Relief,Low / moderate,Low (<1m),1,82003003,3
+2023-03_SwC_stereo-BRUVs,34,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,5
+2023-03_SwC_stereo-BRUVs,35,Physical,Relief,High,High (>3m),3,82003006,6
+2023-03_SwC_stereo-BRUVs,35,Physical,Relief,High,Wall,4,82003007,14
+2023-03_SwC_stereo-BRUVs,35,Physical,Relief,Low / moderate,Low (<1m),1,82003003,4
+2023-03_SwC_stereo-BRUVs,35,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,5
+2023-03_SwC_stereo-BRUVs,36,Physical,Relief,High,High (>3m),3,82003006,7
+2023-03_SwC_stereo-BRUVs,36,Physical,Relief,High,Wall,4,82003007,11
+2023-03_SwC_stereo-BRUVs,37,Physical,Relief,Low / moderate,Low (<1m),1,82003003,20
+2023-03_SwC_stereo-BRUVs,37,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,3
+2023-03_SwC_stereo-BRUVs,39,Physical,Relief,High,High (>3m),3,82003006,15
+2023-03_SwC_stereo-BRUVs,39,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,5
+2023-03_SwC_stereo-BRUVs,4,Physical,Relief,High,High (>3m),3,82003006,5
+2023-03_SwC_stereo-BRUVs,4,Physical,Relief,High,Wall,4,82003007,16
+2023-03_SwC_stereo-BRUVs,40,Physical,Relief,High,High (>3m),3,82003006,11
+2023-03_SwC_stereo-BRUVs,40,Physical,Relief,Low / moderate,Low (<1m),1,82003003,2
+2023-03_SwC_stereo-BRUVs,40,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,12
+2023-03_SwC_stereo-BRUVs,44,Physical,Relief,High,High (>3m),3,82003006,7
+2023-03_SwC_stereo-BRUVs,44,Physical,Relief,High,Wall,4,82003007,13
+2023-03_SwC_stereo-BRUVs,45,Physical,Relief,High,High (>3m),3,82003006,6
+2023-03_SwC_stereo-BRUVs,45,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,20
+2023-03_SwC_stereo-BRUVs,46,Physical,Relief,High,High (>3m),3,82003006,1
+2023-03_SwC_stereo-BRUVs,46,Physical,Relief,High,Wall,4,82003007,25
+2023-03_SwC_stereo-BRUVs,46,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,1
+2023-03_SwC_stereo-BRUVs,47,Physical,Relief,High,High (>3m),3,82003006,10
+2023-03_SwC_stereo-BRUVs,5,Physical,Relief,High,Wall,4,82003007,19
+2023-03_SwC_stereo-BRUVs,5,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,1
+2023-03_SwC_stereo-BRUVs,6,Physical,Relief,High,High (>3m),3,82003006,10
+2023-03_SwC_stereo-BRUVs,6,Physical,Relief,Low / moderate,Moderate (1-3m),2,82003004,7
+2023-03_SwC_stereo-BRUVs,7,Physical,Relief,High,High (>3m),3,82003006,20
+2023-03_SwC_stereo-BRUVs,8,Physical,Relief,High,High (>3m),3,82003006,15
+2023-03_SwC_stereo-BRUVs,8,Physical,Relief,High,Wall,4,82003007,5
