@@ -11,10 +11,14 @@ schema <- CheckEM::catami%>%
 
 head(schema)
 
+metadata_raw <- read_metadata(here::here("data/2020-06_south-west_stereo-BRUVs/"))
+names(metadata_raw)
+"sample" %in% names(metadata_raw)
+"opcode" %in% names(metadata_raw)
+
 # HABITAT -----
 metadata <- read_metadata(here::here("data/2020-06_south-west_stereo-BRUVs/")) %>%
-  dplyr::rename(opcode = sample) %>%
-  dplyr::select(campaignid, opcode, longitude_dd, latitude_dd, date_time, location, site, depth_m, #observer_count, observer_length,
+  dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m,
                 successful_count, successful_length) %>%
   glimpse()
 
