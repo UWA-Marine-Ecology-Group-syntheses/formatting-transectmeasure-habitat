@@ -13,7 +13,8 @@ head(schema)
 
 # HABITAT -----
 metadata <- read_metadata(here::here("data/2020-06_south-west_stereo-BRUVs/")) %>%
-  dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, #observer_count, observer_length,
+  dplyr::rename(opcode = sample) %>%
+  dplyr::select(campaignid, opcode, longitude_dd, latitude_dd, date_time, location, site, depth_m, #observer_count, observer_length,
                 successful_count, successful_length) %>%
   glimpse()
 
@@ -82,15 +83,16 @@ metadata.missing.habitat <- anti_join(metadata, habitat_with_schema, by = c("sam
 tidy_habitat <- habitat_with_schema %>%
   dplyr::mutate(number = 1) %>%                                     
   dplyr::mutate(campaignid = "2020-06_south-west_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
-  dplyr::select(campaignid, sample, level_1, everything()) %>%
+  dplyr::select(campaignid, sample, level_1, caab_code, everything()) %>%
   glimpse()
 
-write_csv(tidy_habitat, "data/to upload/2020-06_south-west_stereo-BRUVs_benthos.csv")
+write_csv(tidy_habitat %>%
+            dplyr::rename(opcode = sample), "data/to upload/2020-06_south-west_stereo-BRUVs_benthos-count.csv")
 
 
 # RELIEF ----
@@ -114,7 +116,7 @@ relief_with_schema <- bind_rows(forwards_relief, backwards_relief) %>%
   dplyr::filter(!is.na(relief)) %>%
   dplyr::mutate(level_5 = str_sub(relief, 2, 2)) %>%
   dplyr::filter(!level_5 %in% "n") %>%
-  dplyr::left_join(catami) 
+  dplyr::left_join(schema)   # <-- was catami
 
 unique(relief_with_schema$level_5)
 
@@ -127,15 +129,16 @@ metadata.missing.relief <- anti_join(metadata, relief_with_schema, by = c("sampl
 tidy_relief <- relief_with_schema %>%
   dplyr::mutate(number = 1) %>%                                     
   dplyr::mutate(campaignid = "2020-06_south-west_stereo-BRUVs") %>%
-  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species) %>%
+  dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
-  group_by(campaignid, sample, across(starts_with("level")), family, genus, species) %>%
+  group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
-  dplyr::select(campaignid, sample, level_1, everything()) %>%
+  dplyr::select(campaignid, sample, level_1, caab_code, everything()) %>%
   glimpse()
 
-write_csv(tidy_relief, "data/to upload/2020-06_south-west_stereo-BRUVs_relief.csv")
+write_csv(tidy_relief %>%
+            dplyr::rename(opcode = sample), "data/to upload/2020-06_south-west_stereo-BRUVs_benthos-relief.csv")
 
 
 relief_clean <- tidy_relief %>%
