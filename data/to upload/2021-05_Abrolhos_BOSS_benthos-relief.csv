@@ -1,0 +1,165 @@
+campaignid,period,level_1,level_5,level_2,level_3,level_4,level_6,level_7,level_8,family,genus,species,caab_code,count
+2021-05_Abrolhos_BOSS,npz6.1,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,35
+2021-05_Abrolhos_BOSS,npz6.1,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,23
+2021-05_Abrolhos_BOSS,npz6.1,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,5
+2021-05_Abrolhos_BOSS,npz6.10,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,40
+2021-05_Abrolhos_BOSS,npz6.11,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,21
+2021-05_Abrolhos_BOSS,npz6.11,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,46
+2021-05_Abrolhos_BOSS,npz6.12,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,40
+2021-05_Abrolhos_BOSS,npz6.13,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,62
+2021-05_Abrolhos_BOSS,npz6.14,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,7
+2021-05_Abrolhos_BOSS,npz6.14,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,57
+2021-05_Abrolhos_BOSS,npz6.14,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,2
+2021-05_Abrolhos_BOSS,npz6.15,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,1
+2021-05_Abrolhos_BOSS,npz6.15,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,18
+2021-05_Abrolhos_BOSS,npz6.15,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,45
+2021-05_Abrolhos_BOSS,npz6.15,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,2
+2021-05_Abrolhos_BOSS,npz6.15,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,2
+2021-05_Abrolhos_BOSS,npz6.16,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,45
+2021-05_Abrolhos_BOSS,npz6.17,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,1
+2021-05_Abrolhos_BOSS,npz6.17,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,31
+2021-05_Abrolhos_BOSS,npz6.17,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,32
+2021-05_Abrolhos_BOSS,npz6.18,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,9
+2021-05_Abrolhos_BOSS,npz6.18,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,47
+2021-05_Abrolhos_BOSS,npz6.18,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,7
+2021-05_Abrolhos_BOSS,npz6.18,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,1
+2021-05_Abrolhos_BOSS,npz6.19,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,1
+2021-05_Abrolhos_BOSS,npz6.19,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,60
+2021-05_Abrolhos_BOSS,npz6.19,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,3
+2021-05_Abrolhos_BOSS,npz6.2,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,4
+2021-05_Abrolhos_BOSS,npz6.2,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,1
+2021-05_Abrolhos_BOSS,npz6.2,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,16
+2021-05_Abrolhos_BOSS,npz6.2,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,18
+2021-05_Abrolhos_BOSS,npz6.2,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,23
+2021-05_Abrolhos_BOSS,npz6.20,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,27
+2021-05_Abrolhos_BOSS,npz6.20,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,16
+2021-05_Abrolhos_BOSS,npz6.20,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,9
+2021-05_Abrolhos_BOSS,npz6.20,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,17
+2021-05_Abrolhos_BOSS,npz6.21,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,19
+2021-05_Abrolhos_BOSS,npz6.21,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,35
+2021-05_Abrolhos_BOSS,npz6.21,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,12
+2021-05_Abrolhos_BOSS,npz6.23,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,43
+2021-05_Abrolhos_BOSS,npz6.23,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,2
+2021-05_Abrolhos_BOSS,npz6.24,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,47
+2021-05_Abrolhos_BOSS,npz6.24,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,3
+2021-05_Abrolhos_BOSS,npz6.25,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,47
+2021-05_Abrolhos_BOSS,npz6.25,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,7
+2021-05_Abrolhos_BOSS,npz6.25,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,4
+2021-05_Abrolhos_BOSS,npz6.25,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,1
+2021-05_Abrolhos_BOSS,npz6.26,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,65
+2021-05_Abrolhos_BOSS,npz6.27,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,45
+2021-05_Abrolhos_BOSS,npz6.28,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,53
+2021-05_Abrolhos_BOSS,npz6.28,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,7
+2021-05_Abrolhos_BOSS,npz6.29,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,5
+2021-05_Abrolhos_BOSS,npz6.29,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,60
+2021-05_Abrolhos_BOSS,npz6.3,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,6
+2021-05_Abrolhos_BOSS,npz6.3,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,17
+2021-05_Abrolhos_BOSS,npz6.3,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,25
+2021-05_Abrolhos_BOSS,npz6.3,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,3
+2021-05_Abrolhos_BOSS,npz6.30,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,60
+2021-05_Abrolhos_BOSS,npz6.31,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,62
+2021-05_Abrolhos_BOSS,npz6.32,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,45
+2021-05_Abrolhos_BOSS,npz6.33,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,60
+2021-05_Abrolhos_BOSS,npz6.34,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,17
+2021-05_Abrolhos_BOSS,npz6.34,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,48
+2021-05_Abrolhos_BOSS,npz6.35,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,40
+2021-05_Abrolhos_BOSS,npz6.36,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,25
+2021-05_Abrolhos_BOSS,npz6.36,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,37
+2021-05_Abrolhos_BOSS,npz6.37,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,3
+2021-05_Abrolhos_BOSS,npz6.37,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,62
+2021-05_Abrolhos_BOSS,npz6.38,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,70
+2021-05_Abrolhos_BOSS,npz6.39,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,2
+2021-05_Abrolhos_BOSS,npz6.39,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,60
+2021-05_Abrolhos_BOSS,npz6.4,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,45
+2021-05_Abrolhos_BOSS,npz6.40,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,61
+2021-05_Abrolhos_BOSS,npz6.40,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,1
+2021-05_Abrolhos_BOSS,npz6.42,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,45
+2021-05_Abrolhos_BOSS,npz6.43,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,36
+2021-05_Abrolhos_BOSS,npz6.43,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,24
+2021-05_Abrolhos_BOSS,npz6.43,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,13
+2021-05_Abrolhos_BOSS,npz6.43,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,1
+2021-05_Abrolhos_BOSS,npz6.45,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,47
+2021-05_Abrolhos_BOSS,npz6.46,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,1
+2021-05_Abrolhos_BOSS,npz6.46,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,42
+2021-05_Abrolhos_BOSS,npz6.46,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,2
+2021-05_Abrolhos_BOSS,npz6.47,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,48
+2021-05_Abrolhos_BOSS,npz6.47,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,10
+2021-05_Abrolhos_BOSS,npz6.47,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,2
+2021-05_Abrolhos_BOSS,npz6.49,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,53
+2021-05_Abrolhos_BOSS,npz6.49,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,6
+2021-05_Abrolhos_BOSS,npz6.5,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,59
+2021-05_Abrolhos_BOSS,npz6.5,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,6
+2021-05_Abrolhos_BOSS,npz6.5,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,4
+2021-05_Abrolhos_BOSS,npz6.50,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,50
+2021-05_Abrolhos_BOSS,npz6.6,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,65
+2021-05_Abrolhos_BOSS,npz6.7,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,25
+2021-05_Abrolhos_BOSS,npz6.7,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,34
+2021-05_Abrolhos_BOSS,npz6.7,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,1
+2021-05_Abrolhos_BOSS,npz6.8,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,47
+2021-05_Abrolhos_BOSS,npz6.8,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,10
+2021-05_Abrolhos_BOSS,npz6.8,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,10
+2021-05_Abrolhos_BOSS,npz6.8,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,1
+2021-05_Abrolhos_BOSS,npz6.8,Physical,5,Relief,High,Caves,NA,NA,NA,NA,NA,NA,82003008,3
+2021-05_Abrolhos_BOSS,npz6.9,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,10
+2021-05_Abrolhos_BOSS,npz6.9,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,36
+2021-05_Abrolhos_BOSS,npz6.9,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,4
+2021-05_Abrolhos_BOSS,npz9.1,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,50
+2021-05_Abrolhos_BOSS,npz9.1,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,8
+2021-05_Abrolhos_BOSS,npz9.1,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,5
+2021-05_Abrolhos_BOSS,npz9.13,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,62
+2021-05_Abrolhos_BOSS,npz9.14,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,60
+2021-05_Abrolhos_BOSS,npz9.16,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,62
+2021-05_Abrolhos_BOSS,npz9.16,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,2
+2021-05_Abrolhos_BOSS,npz9.17,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,7
+2021-05_Abrolhos_BOSS,npz9.17,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,21
+2021-05_Abrolhos_BOSS,npz9.17,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,36
+2021-05_Abrolhos_BOSS,npz9.17,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,3
+2021-05_Abrolhos_BOSS,npz9.19,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,49
+2021-05_Abrolhos_BOSS,npz9.19,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,4
+2021-05_Abrolhos_BOSS,npz9.21,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,49
+2021-05_Abrolhos_BOSS,npz9.21,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,1
+2021-05_Abrolhos_BOSS,npz9.22,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,59
+2021-05_Abrolhos_BOSS,npz9.22,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,6
+2021-05_Abrolhos_BOSS,npz9.23,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,59
+2021-05_Abrolhos_BOSS,npz9.24,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,44
+2021-05_Abrolhos_BOSS,npz9.24,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,22
+2021-05_Abrolhos_BOSS,npz9.25,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,1
+2021-05_Abrolhos_BOSS,npz9.25,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,57
+2021-05_Abrolhos_BOSS,npz9.26,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,4
+2021-05_Abrolhos_BOSS,npz9.26,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,56
+2021-05_Abrolhos_BOSS,npz9.27,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,68
+2021-05_Abrolhos_BOSS,npz9.4,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,61
+2021-05_Abrolhos_BOSS,npz9.4,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,7
+2021-05_Abrolhos_BOSS,npz9.4,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,1
+2021-05_Abrolhos_BOSS,npz9.41,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,54
+2021-05_Abrolhos_BOSS,npz9.41,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,8
+2021-05_Abrolhos_BOSS,npz9.42,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,56
+2021-05_Abrolhos_BOSS,npz9.42,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,4
+2021-05_Abrolhos_BOSS,npz9.43,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,37
+2021-05_Abrolhos_BOSS,npz9.43,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,26
+2021-05_Abrolhos_BOSS,npz9.44,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,21
+2021-05_Abrolhos_BOSS,npz9.44,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,49
+2021-05_Abrolhos_BOSS,npz9.45,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,5
+2021-05_Abrolhos_BOSS,npz9.45,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,31
+2021-05_Abrolhos_BOSS,npz9.45,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,27
+2021-05_Abrolhos_BOSS,npz9.46,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,6
+2021-05_Abrolhos_BOSS,npz9.46,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,15
+2021-05_Abrolhos_BOSS,npz9.46,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,28
+2021-05_Abrolhos_BOSS,npz9.46,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,15
+2021-05_Abrolhos_BOSS,npz9.47,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,19
+2021-05_Abrolhos_BOSS,npz9.47,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,28
+2021-05_Abrolhos_BOSS,npz9.47,Physical,4,Relief,High,Wall,NA,NA,NA,NA,NA,NA,82003007,18
+2021-05_Abrolhos_BOSS,npz9.48,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,6
+2021-05_Abrolhos_BOSS,npz9.48,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,49
+2021-05_Abrolhos_BOSS,npz9.48,Physical,3,Relief,High,High (>3m),NA,NA,NA,NA,NA,NA,82003006,8
+2021-05_Abrolhos_BOSS,npz9.49,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,57
+2021-05_Abrolhos_BOSS,npz9.49,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,10
+2021-05_Abrolhos_BOSS,npz9.5,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,56
+2021-05_Abrolhos_BOSS,npz9.5,Physical,2,Relief,Low / moderate,Moderate (1-3m),NA,NA,NA,NA,NA,NA,82003004,13
+2021-05_Abrolhos_BOSS,npz9.50,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,40
+2021-05_Abrolhos_BOSS,npz9.6,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,60
+2021-05_Abrolhos_BOSS,npz9.7,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,1
+2021-05_Abrolhos_BOSS,npz9.7,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,59
+2021-05_Abrolhos_BOSS,npz9.8,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,60
+2021-05_Abrolhos_BOSS,npz9.9,Physical,0,Relief,Flat,NA,NA,NA,NA,NA,NA,NA,82003001,10
+2021-05_Abrolhos_BOSS,npz9.9,Physical,1,Relief,Low / moderate,Low (<1m),NA,NA,NA,NA,NA,NA,82003003,50
