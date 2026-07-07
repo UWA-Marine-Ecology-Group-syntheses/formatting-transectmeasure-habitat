@@ -97,17 +97,17 @@ tidy_habitat <- habitat_with_schema %>%
   group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%
-  dplyr::rename(opcode = sample) %>%
-  dplyr::select(campaignid, opcode,
+  dplyr::rename(period = sample) %>%
+  dplyr::select(campaignid, period,
                 level_1, level_2, level_3, level_4, level_5, level_6, level_7, level_8,
                 family, genus, species, caab_code, count) %>%
   glimpse()
 
 metadata.missing.habitat <- anti_join(
   metadata %>% dplyr::filter(successful_count == "Yes" | successful_length == "Yes") %>%
-    dplyr::rename(opcode = sample),
+    dplyr::rename(period = sample),
   tidy_habitat,
-  by = c("campaignid", "opcode")
+  by = c("campaignid", "period")
 ) %>%
   glimpse()
 

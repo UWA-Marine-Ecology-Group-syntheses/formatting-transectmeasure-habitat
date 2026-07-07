@@ -1,4 +1,4 @@
-campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,caab_code,count
+campaignid,period,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,caab_code,count
 2021-03_Geographe_BOSS,1,Biota,Macroalgae,Filamentous / filiform,NA,NA,NA,NA,NA,NA,NA,NA,80300930,4
 2021-03_Geographe_BOSS,1,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,NA,NA,NA,63600903,61
 2021-03_Geographe_BOSS,1,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,3
