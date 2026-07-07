@@ -37,18 +37,18 @@ panoramic <- read.delim(
   dplyr::mutate(sample = str_remove(filename, "\\.jpg$"))
 
 # read in downwards annotations
-downwards <- read.delim(
-  here::here("data/2021-03_Geographe_BOSS/2021-03_Geographe_BOSS_Downwards_Dot Point Measurements.txt"),
-  header = TRUE, skip = 4, stringsAsFactors = FALSE,
-  colClasses = "character", na.strings = ""
-) %>%
-  clean_names() %>%
-  dplyr::mutate(sample = str_remove(filename, "\\.jpg$"))
+# downwards <- read.delim(
+#   here::here("data/2021-03_Geographe_BOSS/2021-03_Geographe_BOSS_Downwards_Dot Point Measurements.txt"),
+#   header = TRUE, skip = 4, stringsAsFactors = FALSE,
+#   colClasses = "character", na.strings = ""
+# ) %>%
+#   clean_names() %>%
+#   dplyr::mutate(sample = str_remove(filename, "\\.jpg$"))
 
 names(panoramic)
-names(downwards)
+# names(downwards)
 
-habitat_with_schema <- bind_rows(panoramic, downwards) %>%
+habitat_with_schema <- panoramic %>%
   dplyr::mutate(caab_code = as.numeric(code)) %>%   # raw "CODE" column holds the CATAMI code
   dplyr::left_join(schema, by = "caab_code") %>%
   dplyr::mutate(
@@ -75,7 +75,7 @@ missing_caab_code_raw <- habitat_with_schema %>%
 
 unique(habitat_with_schema$sample) %>% sort()
 
-num.points <- 20
+num.points <- 80
 
 wrong_points_habitat <- habitat_with_schema %>%
   group_by(sample) %>%
