@@ -33,8 +33,11 @@ panoramic <- read.delim(
   clean_names() %>%
   dplyr::mutate(sample = str_remove(filename, "\\.jpg$"))
 
+
 names(panoramic)
 head(panoramic[, c("scientific", "qualifiers", "check")], 10)
+
+
 
 habitat_with_schema <- panoramic %>%
   rename(caab_code = qualifiers) %>%
@@ -46,53 +49,82 @@ habitat_with_schema <- panoramic %>%
       TRUE ~ "Biota"
     )
   ) %>%
+mutate(
+    level_2 = case_when(
+      level_2 == "Invertebrate Complex" & level_3 == "Complex 1" ~ "Sessile invertebrates",
+      TRUE ~ level_2
+    ),
+    level_3 = case_when(
+      level_2 == "Sessile invertebrates" ~ NA_character_,
+      level_2 == "Macroalgae" & level_3 == "Drift" ~ NA_character_,   # <-- added back
+      level_3 == "Erect course branching" ~ "Erect coarse branching",
+      TRUE ~ level_3
+    )
+  ) %>%
   ensure_cols(c(
     "level_1", "level_2", "level_3", "level_4", "level_5",
     "level_6", "level_7", "level_8",
     "family", "genus", "species"
   ))
 
+
+# pull the "flat" (no-colour) caab_code for these two categories from the schema
+flat_codes <- schema %>%
+  dplyr::filter(is.na(level_4), is.na(family), is.na(genus), is.na(species)) %>%
+  dplyr::distinct(level_1, level_2, level_3, flat_caab_code = caab_code)
+
+habitat_with_schema_clean <- habitat_with_schema %>%
+  dplyr::left_join(flat_codes, by = c("level_1", "level_2", "level_3")) %>%
+  dplyr::mutate(
+    caab_code = dplyr::case_when(
+      level_4 == "Ecklonia radiata" ~ caab_code,   # keep its own specific code
+      !is.na(flat_caab_code)         ~ flat_caab_code,  # otherwise collapse to the level_3 flat code
+      TRUE                           ~ caab_code   # no flat code exists in schema — keep original
+    )
+  ) %>%
+  dplyr::select(-flat_caab_code)
+
 missing_caab_code_raw <- panoramic %>%
   filter(is.na(suppressWarnings(as.numeric(qualifiers)))) %>%
   distinct(qualifiers)
 missing_caab_code_raw
 
-missing_caab_code <- habitat_with_schema %>%
+missing_caab_code <- habitat_with_schema_clean %>%
   dplyr::filter(is.na(level_1)) %>%
   distinct(caab_code)
 missing_caab_code
 
-names(habitat_with_schema)
+names(habitat_with_schema_clean)
 
-distinct_hab_types <- habitat_with_schema %>%
+distinct_hab_types <- habitat_with_schema_clean %>%
   select(starts_with("level"), family, genus, species, caab_code) %>%
   distinct()
 
-missing_caab_code_raw <- habitat_with_schema %>%
+missing_caab_code_raw <- habitat_with_schema_clean %>%
   dplyr::filter(is.na(caab_code)) %>%
   distinct(sample, filename)
 
-unique(habitat_with_schema$sample) %>% sort()
+unique(habitat_with_schema_clean$sample) %>% sort()
 
-num.points <- 20
+num.points <- 80
 
-wrong_points_habitat <- habitat_with_schema %>%
+wrong_points_habitat <- habitat_with_schema_clean %>%
   group_by(sample) %>%
   summarise(points.annotated = n()) %>%
   left_join(metadata, by = "sample") %>%
   glimpse()
 
-habitat.missing.metadata <- anti_join(habitat_with_schema, metadata, by = c("sample")) %>%
+habitat.missing.metadata <- anti_join(habitat_with_schema_clean, metadata, by = c("sample")) %>%
   glimpse()
 
-tidy_habitat <- habitat_with_schema %>%
+tidy_habitat <- habitat_with_schema_clean %>%
   dplyr::mutate(sample = str_trim(sample)) %>%
   dplyr::mutate(number = 1) %>%
   dplyr::mutate(campaignid = "2021-05_Abrolhos_BOSS") %>%
   ensure_cols(c("level_1", "level_2", "level_3", "level_4", "level_5",
                 "level_6", "level_7", "level_8", "family", "genus", "species")) %>%
   dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
-  dplyr::filter(!level_2 %in% c("", "Unscorable", NA)) %>%
+  dplyr::filter(!level_2 %in% c("", "Unknown", "Open Water", NA)) %>%   # <-- added "Open Water"
   group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%
@@ -112,7 +144,14 @@ metadata.missing.habitat <- anti_join(
 
 write_csv(tidy_habitat, here::here("data/to upload/2021-05_Abrolhos_BOSS_benthos-count.csv"))
 
+schema %>%
+  dplyr::filter(level_2 == "Macroalgae", level_3 == "Erect coarse branching") %>%
+  dplyr::select(level_3, level_4, caab_code)
 
+schema %>%
+  dplyr::filter(level_2 == "Macroalgae")
+
+habitat_with_schema %>% filter(str_detect(level_4, "Ecklonia")) %>% distinct(level_3, level_4)
 
 # RELIEF ----
 # read in forwards annotations

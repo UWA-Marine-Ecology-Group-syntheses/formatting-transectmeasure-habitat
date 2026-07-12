@@ -1,64 +1,56 @@
 campaignid,period,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,caab_code,count
-2021-05_Abrolhos_BOSS,npz6.1,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,27
+2021-05_Abrolhos_BOSS,npz6.1,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,27
 2021-05_Abrolhos_BOSS,npz6.1,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,1
 2021-05_Abrolhos_BOSS,npz6.1,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,2
 2021-05_Abrolhos_BOSS,npz6.1,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,5
 2021-05_Abrolhos_BOSS,npz6.1,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,40
-2021-05_Abrolhos_BOSS,npz6.1,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,4
 2021-05_Abrolhos_BOSS,npz6.10,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz6.11,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,8
 2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Articulated calcareous,NA,Open,NA,NA,NA,NA,NA,NA,80300911,2
-2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,15
-2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300909,4
-2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,39
+2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,15
+2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300907,4
+2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,39
 2021-05_Abrolhos_BOSS,npz6.11,Biota,Macroalgae,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,80300000,1
 2021-05_Abrolhos_BOSS,npz6.11,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,4
-2021-05_Abrolhos_BOSS,npz6.11,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,7
 2021-05_Abrolhos_BOSS,npz6.12,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz6.13,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,77
 2021-05_Abrolhos_BOSS,npz6.13,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,3
 2021-05_Abrolhos_BOSS,npz6.14,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,15
 2021-05_Abrolhos_BOSS,npz6.14,Biota,Consolidated,Rock,Veneer,Open,NA,NA,NA,NA,NA,NA,82001002,2
-2021-05_Abrolhos_BOSS,npz6.14,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,7
-2021-05_Abrolhos_BOSS,npz6.14,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,5
-2021-05_Abrolhos_BOSS,npz6.14,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,46
+2021-05_Abrolhos_BOSS,npz6.14,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,7
+2021-05_Abrolhos_BOSS,npz6.14,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,5
+2021-05_Abrolhos_BOSS,npz6.14,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,46
 2021-05_Abrolhos_BOSS,npz6.14,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,1
-2021-05_Abrolhos_BOSS,npz6.14,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,4
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Bryozoa,NA,NA,Open,NA,NA,NA,NA,NA,NA,20000000,1
-2021-05_Abrolhos_BOSS,npz6.15,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,37
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Octocoral/Black,Branching (3D),NA,Open,NA,NA,NA,NA,NA,NA,11168902,1
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Octocoral/Black,Fan (2D),NA,Open,NA,NA,NA,NA,NA,NA,11168912,1
+2021-05_Abrolhos_BOSS,npz6.15,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,37
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,4
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,3
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,2
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,3
 2021-05_Abrolhos_BOSS,npz6.15,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,24
-2021-05_Abrolhos_BOSS,npz6.15,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,5
 2021-05_Abrolhos_BOSS,npz6.16,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz6.17,Biota,Hydroids,NA,NA,Open,NA,NA,NA,NA,NA,NA,11001000,1
-2021-05_Abrolhos_BOSS,npz6.17,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,32
-2021-05_Abrolhos_BOSS,npz6.17,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,5
+2021-05_Abrolhos_BOSS,npz6.17,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,32
 2021-05_Abrolhos_BOSS,npz6.17,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,3
 2021-05_Abrolhos_BOSS,npz6.17,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,2
 2021-05_Abrolhos_BOSS,npz6.17,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,9
 2021-05_Abrolhos_BOSS,npz6.17,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,20
 2021-05_Abrolhos_BOSS,npz6.17,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,4
-2021-05_Abrolhos_BOSS,npz6.17,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,4
 2021-05_Abrolhos_BOSS,npz6.18,Biota,Bryozoa,NA,NA,Open,NA,NA,NA,NA,NA,NA,20000000,1
 2021-05_Abrolhos_BOSS,npz6.18,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,34
-2021-05_Abrolhos_BOSS,npz6.18,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,3
-2021-05_Abrolhos_BOSS,npz6.18,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,2
-2021-05_Abrolhos_BOSS,npz6.18,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,1
-2021-05_Abrolhos_BOSS,npz6.18,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_BOSS,npz6.18,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,2
+2021-05_Abrolhos_BOSS,npz6.18,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,1
+2021-05_Abrolhos_BOSS,npz6.18,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,3
 2021-05_Abrolhos_BOSS,npz6.18,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,1
 2021-05_Abrolhos_BOSS,npz6.18,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,24
 2021-05_Abrolhos_BOSS,npz6.18,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,12
-2021-05_Abrolhos_BOSS,npz6.18,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz6.19,Biota,Ascidians,NA,NA,Open,NA,NA,NA,NA,NA,NA,35000000,1
 2021-05_Abrolhos_BOSS,npz6.19,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,23
-2021-05_Abrolhos_BOSS,npz6.19,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,5
-2021-05_Abrolhos_BOSS,npz6.19,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,17
-2021-05_Abrolhos_BOSS,npz6.19,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,4
+2021-05_Abrolhos_BOSS,npz6.19,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,5
+2021-05_Abrolhos_BOSS,npz6.19,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,17
+2021-05_Abrolhos_BOSS,npz6.19,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,4
 2021-05_Abrolhos_BOSS,npz6.19,Biota,Octocoral/Black,Fan (2D),NA,Open,NA,NA,NA,NA,NA,NA,11168912,1
 2021-05_Abrolhos_BOSS,npz6.19,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,2
 2021-05_Abrolhos_BOSS,npz6.19,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,9
@@ -66,41 +58,33 @@ campaignid,period,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2021-05_Abrolhos_BOSS,npz6.19,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,16
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Bryozoa,NA,NA,Open,NA,NA,NA,NA,NA,NA,20000000,1
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Hydroids,NA,NA,Open,NA,NA,NA,NA,NA,NA,11001000,2
-2021-05_Abrolhos_BOSS,npz6.2,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,19
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Octocoral/Black,Branching (3D),NA,Open,NA,NA,NA,NA,NA,NA,11168902,5
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Octocoral/Black,Fan (2D),NA,Open,NA,NA,NA,NA,NA,NA,11168912,2
-2021-05_Abrolhos_BOSS,npz6.2,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,3
+2021-05_Abrolhos_BOSS,npz6.2,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,19
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,9
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,11
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,19
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,5
 2021-05_Abrolhos_BOSS,npz6.2,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,4
 2021-05_Abrolhos_BOSS,npz6.20,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,61
-2021-05_Abrolhos_BOSS,npz6.20,Biota,Macroalgae,Erect fine branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300908,1
-2021-05_Abrolhos_BOSS,npz6.20,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,6
+2021-05_Abrolhos_BOSS,npz6.20,Biota,Macroalgae,Erect fine branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300907,1
+2021-05_Abrolhos_BOSS,npz6.20,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,6
 2021-05_Abrolhos_BOSS,npz6.20,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,11
-2021-05_Abrolhos_BOSS,npz6.20,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz6.21,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,5
-2021-05_Abrolhos_BOSS,npz6.21,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,1
-2021-05_Abrolhos_BOSS,npz6.21,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,7
+2021-05_Abrolhos_BOSS,npz6.21,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,1
 2021-05_Abrolhos_BOSS,npz6.21,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,64
-2021-05_Abrolhos_BOSS,npz6.21,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,3
-2021-05_Abrolhos_BOSS,npz6.23,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,3
 2021-05_Abrolhos_BOSS,npz6.23,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,77
 2021-05_Abrolhos_BOSS,npz6.24,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,43
-2021-05_Abrolhos_BOSS,npz6.24,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,3
-2021-05_Abrolhos_BOSS,npz6.24,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,3
+2021-05_Abrolhos_BOSS,npz6.24,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,3
+2021-05_Abrolhos_BOSS,npz6.24,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,3
 2021-05_Abrolhos_BOSS,npz6.24,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,4
 2021-05_Abrolhos_BOSS,npz6.24,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,4
 2021-05_Abrolhos_BOSS,npz6.24,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,2
-2021-05_Abrolhos_BOSS,npz6.24,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,21
-2021-05_Abrolhos_BOSS,npz6.25,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,50
-2021-05_Abrolhos_BOSS,npz6.25,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,4
+2021-05_Abrolhos_BOSS,npz6.25,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,50
 2021-05_Abrolhos_BOSS,npz6.25,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,5
 2021-05_Abrolhos_BOSS,npz6.25,Biota,Unconsolidated,Pebble,gravel (biogenic),Open,NA,NA,NA,NA,NA,NA,82001007,2
 2021-05_Abrolhos_BOSS,npz6.25,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,14
-2021-05_Abrolhos_BOSS,npz6.25,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,5
-2021-05_Abrolhos_BOSS,npz6.26,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,57
+2021-05_Abrolhos_BOSS,npz6.26,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,57
 2021-05_Abrolhos_BOSS,npz6.26,Biota,Macroalgae,Large canopy-forming,Ecklonia radiata,Open,NA,NA,NA,NA,NA,NA,54080001,12
 2021-05_Abrolhos_BOSS,npz6.26,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,3
 2021-05_Abrolhos_BOSS,npz6.26,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,6
@@ -108,179 +92,159 @@ campaignid,period,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2021-05_Abrolhos_BOSS,npz6.26,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,1
 2021-05_Abrolhos_BOSS,npz6.27,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz6.28,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,68
-2021-05_Abrolhos_BOSS,npz6.28,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,10
+2021-05_Abrolhos_BOSS,npz6.28,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,10
 2021-05_Abrolhos_BOSS,npz6.28,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,1
 2021-05_Abrolhos_BOSS,npz6.29,Biota,Consolidated,Boulder,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001003,2
 2021-05_Abrolhos_BOSS,npz6.29,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,2
 2021-05_Abrolhos_BOSS,npz6.29,Biota,Consolidated,Rock,Veneer,Open,NA,NA,NA,NA,NA,NA,82001002,1
-2021-05_Abrolhos_BOSS,npz6.29,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,2
-2021-05_Abrolhos_BOSS,npz6.29,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,1
-2021-05_Abrolhos_BOSS,npz6.29,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,4
+2021-05_Abrolhos_BOSS,npz6.29,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,2
+2021-05_Abrolhos_BOSS,npz6.29,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,1
+2021-05_Abrolhos_BOSS,npz6.29,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,4
 2021-05_Abrolhos_BOSS,npz6.29,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,10
 2021-05_Abrolhos_BOSS,npz6.29,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,59
-2021-05_Abrolhos_BOSS,npz6.3,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,11
-2021-05_Abrolhos_BOSS,npz6.3,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,17
+2021-05_Abrolhos_BOSS,npz6.3,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,11
 2021-05_Abrolhos_BOSS,npz6.3,Biota,Sponges,Crusts,NA,Open,NA,NA,NA,NA,NA,NA,10000901,2
 2021-05_Abrolhos_BOSS,npz6.3,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,3
 2021-05_Abrolhos_BOSS,npz6.3,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,14
 2021-05_Abrolhos_BOSS,npz6.3,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,12
 2021-05_Abrolhos_BOSS,npz6.3,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,9
 2021-05_Abrolhos_BOSS,npz6.3,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,4
-2021-05_Abrolhos_BOSS,npz6.3,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,8
 2021-05_Abrolhos_BOSS,npz6.30,Biota,Consolidated,Cobbles,Veneer,Open,NA,NA,NA,NA,NA,NA,82001004,51
-2021-05_Abrolhos_BOSS,npz6.30,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_BOSS,npz6.30,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,1
 2021-05_Abrolhos_BOSS,npz6.30,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,27
-2021-05_Abrolhos_BOSS,npz6.30,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz6.31,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,1
 2021-05_Abrolhos_BOSS,npz6.31,Biota,Consolidated,Cobbles,Veneer,Open,NA,NA,NA,NA,NA,NA,82001004,55
 2021-05_Abrolhos_BOSS,npz6.31,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,24
 2021-05_Abrolhos_BOSS,npz6.32,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
-2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,Drift,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
-2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,7
-2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300909,7
-2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,64
+2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,7
+2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300907,7
+2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,64
+2021-05_Abrolhos_BOSS,npz6.33,Biota,Macroalgae,NA,NA,Open,NA,NA,NA,NA,NA,NA,80300000,1
 2021-05_Abrolhos_BOSS,npz6.34,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
-2021-05_Abrolhos_BOSS,npz6.34,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,1
-2021-05_Abrolhos_BOSS,npz6.34,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,3
+2021-05_Abrolhos_BOSS,npz6.34,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,1
+2021-05_Abrolhos_BOSS,npz6.34,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,3
 2021-05_Abrolhos_BOSS,npz6.34,Biota,Macroalgae,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,80300000,4
 2021-05_Abrolhos_BOSS,npz6.34,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,15
 2021-05_Abrolhos_BOSS,npz6.34,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,23
 2021-05_Abrolhos_BOSS,npz6.34,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,3
 2021-05_Abrolhos_BOSS,npz6.34,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,27
-2021-05_Abrolhos_BOSS,npz6.34,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,3
 2021-05_Abrolhos_BOSS,npz6.35,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz6.36,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,15
-2021-05_Abrolhos_BOSS,npz6.36,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,1
-2021-05_Abrolhos_BOSS,npz6.36,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_BOSS,npz6.36,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,1
 2021-05_Abrolhos_BOSS,npz6.36,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,63
 2021-05_Abrolhos_BOSS,npz6.37,Biota,Consolidated,Boulder,Veneer,Open,NA,NA,NA,NA,NA,NA,82001003,1
 2021-05_Abrolhos_BOSS,npz6.37,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,11
 2021-05_Abrolhos_BOSS,npz6.37,Biota,Consolidated,Cobbles,Veneer,Open,NA,NA,NA,NA,NA,NA,82001004,6
 2021-05_Abrolhos_BOSS,npz6.37,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,4
-2021-05_Abrolhos_BOSS,npz6.37,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,13
-2021-05_Abrolhos_BOSS,npz6.37,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,12
+2021-05_Abrolhos_BOSS,npz6.37,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,13
+2021-05_Abrolhos_BOSS,npz6.37,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,12
 2021-05_Abrolhos_BOSS,npz6.37,Biota,Macroalgae,Filamentous and filiform,NA,Open,NA,NA,NA,NA,NA,NA,80300930,1
-2021-05_Abrolhos_BOSS,npz6.37,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,2
 2021-05_Abrolhos_BOSS,npz6.37,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,20
-2021-05_Abrolhos_BOSS,npz6.37,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,10
 2021-05_Abrolhos_BOSS,npz6.38,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,3
-2021-05_Abrolhos_BOSS,npz6.38,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,66
-2021-05_Abrolhos_BOSS,npz6.38,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300909,1
-2021-05_Abrolhos_BOSS,npz6.38,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,9
+2021-05_Abrolhos_BOSS,npz6.38,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,66
+2021-05_Abrolhos_BOSS,npz6.38,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300907,1
+2021-05_Abrolhos_BOSS,npz6.38,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,9
 2021-05_Abrolhos_BOSS,npz6.38,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,1
 2021-05_Abrolhos_BOSS,npz6.39,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
-2021-05_Abrolhos_BOSS,npz6.39,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,23
-2021-05_Abrolhos_BOSS,npz6.39,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,34
+2021-05_Abrolhos_BOSS,npz6.39,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,23
+2021-05_Abrolhos_BOSS,npz6.39,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,34
 2021-05_Abrolhos_BOSS,npz6.39,Biota,Macroalgae,Large canopy-forming,Ecklonia radiata,Open,NA,NA,NA,NA,NA,NA,54080001,1
-2021-05_Abrolhos_BOSS,npz6.39,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,4
 2021-05_Abrolhos_BOSS,npz6.39,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,1
 2021-05_Abrolhos_BOSS,npz6.39,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,5
-2021-05_Abrolhos_BOSS,npz6.39,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,10
 2021-05_Abrolhos_BOSS,npz6.4,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz6.40,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,30
-2021-05_Abrolhos_BOSS,npz6.40,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,5
-2021-05_Abrolhos_BOSS,npz6.40,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300909,4
-2021-05_Abrolhos_BOSS,npz6.40,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,30
+2021-05_Abrolhos_BOSS,npz6.40,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,5
+2021-05_Abrolhos_BOSS,npz6.40,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300907,4
+2021-05_Abrolhos_BOSS,npz6.40,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,30
 2021-05_Abrolhos_BOSS,npz6.40,Biota,Macroalgae,Large canopy-forming,Ecklonia radiata,Open,NA,NA,NA,NA,NA,NA,54080001,5
 2021-05_Abrolhos_BOSS,npz6.40,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,1
 2021-05_Abrolhos_BOSS,npz6.40,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,3
 2021-05_Abrolhos_BOSS,npz6.40,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,1
 2021-05_Abrolhos_BOSS,npz6.42,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,54
-2021-05_Abrolhos_BOSS,npz6.42,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,1
+2021-05_Abrolhos_BOSS,npz6.42,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,1
 2021-05_Abrolhos_BOSS,npz6.42,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,5
-2021-05_Abrolhos_BOSS,npz6.42,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,20
 2021-05_Abrolhos_BOSS,npz6.43,Biota,Consolidated,Cobbles,Veneer,Open,NA,NA,NA,NA,NA,NA,82001004,24
 2021-05_Abrolhos_BOSS,npz6.43,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,31
-2021-05_Abrolhos_BOSS,npz6.43,Biota,Macroalgae,Encrusting,Red,Open,NA,NA,NA,NA,NA,NA,80300929,2
-2021-05_Abrolhos_BOSS,npz6.43,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,2
+2021-05_Abrolhos_BOSS,npz6.43,Biota,Macroalgae,Encrusting,Red,Open,NA,NA,NA,NA,NA,NA,80300926,2
+2021-05_Abrolhos_BOSS,npz6.43,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,2
 2021-05_Abrolhos_BOSS,npz6.43,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,3
 2021-05_Abrolhos_BOSS,npz6.43,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,16
 2021-05_Abrolhos_BOSS,npz6.43,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,3
 2021-05_Abrolhos_BOSS,npz6.45,Biota,Consolidated,Cobbles,Veneer,Open,NA,NA,NA,NA,NA,NA,82001004,2
 2021-05_Abrolhos_BOSS,npz6.45,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,50
 2021-05_Abrolhos_BOSS,npz6.45,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,8
-2021-05_Abrolhos_BOSS,npz6.45,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,20
 2021-05_Abrolhos_BOSS,npz6.46,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,3
 2021-05_Abrolhos_BOSS,npz6.46,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,16
-2021-05_Abrolhos_BOSS,npz6.46,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,29
+2021-05_Abrolhos_BOSS,npz6.46,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,29
 2021-05_Abrolhos_BOSS,npz6.46,Biota,Macroalgae,Large canopy-forming,Ecklonia radiata,Open,NA,NA,NA,NA,NA,NA,54080001,5
 2021-05_Abrolhos_BOSS,npz6.46,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,1
 2021-05_Abrolhos_BOSS,npz6.46,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,6
-2021-05_Abrolhos_BOSS,npz6.46,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,20
 2021-05_Abrolhos_BOSS,npz6.47,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,6
 2021-05_Abrolhos_BOSS,npz6.47,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,29
-2021-05_Abrolhos_BOSS,npz6.47,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,3
-2021-05_Abrolhos_BOSS,npz6.47,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,4
+2021-05_Abrolhos_BOSS,npz6.47,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,3
+2021-05_Abrolhos_BOSS,npz6.47,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,4
 2021-05_Abrolhos_BOSS,npz6.47,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,3
 2021-05_Abrolhos_BOSS,npz6.47,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,2
 2021-05_Abrolhos_BOSS,npz6.47,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,1
 2021-05_Abrolhos_BOSS,npz6.47,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,32
 2021-05_Abrolhos_BOSS,npz6.49,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,8
-2021-05_Abrolhos_BOSS,npz6.49,Biota,Macroalgae,Erect course branching,Red,Open,NA,NA,NA,NA,NA,NA,80300906,1
-2021-05_Abrolhos_BOSS,npz6.49,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,51
+2021-05_Abrolhos_BOSS,npz6.49,Biota,Macroalgae,Erect coarse branching,Red,Open,NA,NA,NA,NA,NA,NA,80300903,1
+2021-05_Abrolhos_BOSS,npz6.49,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,51
 2021-05_Abrolhos_BOSS,npz6.49,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,2
 2021-05_Abrolhos_BOSS,npz6.49,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,16
-2021-05_Abrolhos_BOSS,npz6.49,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,2
 2021-05_Abrolhos_BOSS,npz6.5,Biota,Consolidated,Cobbles,Veneer,Open,NA,NA,NA,NA,NA,NA,82001004,2
 2021-05_Abrolhos_BOSS,npz6.5,Biota,Consolidated,Rock,Veneer,Open,NA,NA,NA,NA,NA,NA,82001002,3
-2021-05_Abrolhos_BOSS,npz6.5,Biota,Macroalgae,Erect course branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300904,1
-2021-05_Abrolhos_BOSS,npz6.5,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,4
+2021-05_Abrolhos_BOSS,npz6.5,Biota,Macroalgae,Erect coarse branching,Brown,Open,NA,NA,NA,NA,NA,NA,80300903,1
+2021-05_Abrolhos_BOSS,npz6.5,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,4
 2021-05_Abrolhos_BOSS,npz6.5,Biota,Macroalgae,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,80300000,7
 2021-05_Abrolhos_BOSS,npz6.5,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,1
 2021-05_Abrolhos_BOSS,npz6.5,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,4
 2021-05_Abrolhos_BOSS,npz6.5,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,57
-2021-05_Abrolhos_BOSS,npz6.5,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz6.50,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,2
-2021-05_Abrolhos_BOSS,npz6.50,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300909,1
-2021-05_Abrolhos_BOSS,npz6.50,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,53
+2021-05_Abrolhos_BOSS,npz6.50,Biota,Macroalgae,Erect fine branching,Green,Open,NA,NA,NA,NA,NA,NA,80300907,1
+2021-05_Abrolhos_BOSS,npz6.50,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,53
 2021-05_Abrolhos_BOSS,npz6.50,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,4
-2021-05_Abrolhos_BOSS,npz6.50,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,20
 2021-05_Abrolhos_BOSS,npz6.6,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz6.7,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,11
 2021-05_Abrolhos_BOSS,npz6.7,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,69
-2021-05_Abrolhos_BOSS,npz6.8,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,49
-2021-05_Abrolhos_BOSS,npz6.8,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,90300910,1
+2021-05_Abrolhos_BOSS,npz6.8,Biota,Macroalgae,Erect fine branching,Red,Open,NA,NA,NA,NA,NA,NA,80300907,1
+2021-05_Abrolhos_BOSS,npz6.8,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,49
 2021-05_Abrolhos_BOSS,npz6.8,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,1
 2021-05_Abrolhos_BOSS,npz6.8,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,2
 2021-05_Abrolhos_BOSS,npz6.8,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,16
 2021-05_Abrolhos_BOSS,npz6.8,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,11
-2021-05_Abrolhos_BOSS,npz6.9,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,3
 2021-05_Abrolhos_BOSS,npz6.9,Biota,Octocoral/Black,Whip,NA,Open,NA,NA,NA,NA,NA,NA,11168917,1
+2021-05_Abrolhos_BOSS,npz6.9,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,3
 2021-05_Abrolhos_BOSS,npz6.9,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,1
 2021-05_Abrolhos_BOSS,npz6.9,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,57
 2021-05_Abrolhos_BOSS,npz6.9,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,17
 2021-05_Abrolhos_BOSS,npz9.1,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,1
 2021-05_Abrolhos_BOSS,npz9.1,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,78
-2021-05_Abrolhos_BOSS,npz9.1,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
-2021-05_Abrolhos_BOSS,npz9.13,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz9.13,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,79
 2021-05_Abrolhos_BOSS,npz9.14,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,3
 2021-05_Abrolhos_BOSS,npz9.14,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,77
 2021-05_Abrolhos_BOSS,npz9.16,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
-2021-05_Abrolhos_BOSS,npz9.17,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,37
+2021-05_Abrolhos_BOSS,npz9.17,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,37
 2021-05_Abrolhos_BOSS,npz9.17,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,4
 2021-05_Abrolhos_BOSS,npz9.17,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,19
 2021-05_Abrolhos_BOSS,npz9.17,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,10
 2021-05_Abrolhos_BOSS,npz9.17,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,1
 2021-05_Abrolhos_BOSS,npz9.17,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,6
-2021-05_Abrolhos_BOSS,npz9.17,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,3
 2021-05_Abrolhos_BOSS,npz9.19,Biota,Hydroids,NA,NA,Open,NA,NA,NA,NA,NA,NA,11001000,1
-2021-05_Abrolhos_BOSS,npz9.19,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,22
-2021-05_Abrolhos_BOSS,npz9.19,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_BOSS,npz9.19,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,22
 2021-05_Abrolhos_BOSS,npz9.19,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,1
 2021-05_Abrolhos_BOSS,npz9.19,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,2
 2021-05_Abrolhos_BOSS,npz9.19,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,1
 2021-05_Abrolhos_BOSS,npz9.19,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,49
-2021-05_Abrolhos_BOSS,npz9.19,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,2
 2021-05_Abrolhos_BOSS,npz9.21,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz9.22,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
-2021-05_Abrolhos_BOSS,npz9.22,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,42
+2021-05_Abrolhos_BOSS,npz9.22,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,42
 2021-05_Abrolhos_BOSS,npz9.22,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,1
 2021-05_Abrolhos_BOSS,npz9.22,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,1
 2021-05_Abrolhos_BOSS,npz9.22,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,2
 2021-05_Abrolhos_BOSS,npz9.22,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,31
 2021-05_Abrolhos_BOSS,npz9.23,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
-2021-05_Abrolhos_BOSS,npz9.24,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,33
+2021-05_Abrolhos_BOSS,npz9.24,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,33
 2021-05_Abrolhos_BOSS,npz9.24,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,1
 2021-05_Abrolhos_BOSS,npz9.24,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,1
 2021-05_Abrolhos_BOSS,npz9.24,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,4
@@ -290,30 +254,29 @@ campaignid,period,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2021-05_Abrolhos_BOSS,npz9.26,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
 2021-05_Abrolhos_BOSS,npz9.27,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,10
 2021-05_Abrolhos_BOSS,npz9.27,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,70
-2021-05_Abrolhos_BOSS,npz9.4,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,30
+2021-05_Abrolhos_BOSS,npz9.4,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,30
 2021-05_Abrolhos_BOSS,npz9.4,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,2
 2021-05_Abrolhos_BOSS,npz9.4,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,1
 2021-05_Abrolhos_BOSS,npz9.4,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,3
 2021-05_Abrolhos_BOSS,npz9.4,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,1
 2021-05_Abrolhos_BOSS,npz9.4,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,43
 2021-05_Abrolhos_BOSS,npz9.41,Biota,Unconsolidated,Sand,mud (fine sand),Open,NA,NA,NA,NA,NA,NA,82001015,80
-2021-05_Abrolhos_BOSS,npz9.42,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,12
+2021-05_Abrolhos_BOSS,npz9.42,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,12
 2021-05_Abrolhos_BOSS,npz9.42,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,68
-2021-05_Abrolhos_BOSS,npz9.43,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,38
 2021-05_Abrolhos_BOSS,npz9.43,Biota,Octocoral/Black,Fan (2D),NA,Open,NA,NA,NA,NA,NA,NA,11168912,1
+2021-05_Abrolhos_BOSS,npz9.43,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,38
 2021-05_Abrolhos_BOSS,npz9.43,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,15
 2021-05_Abrolhos_BOSS,npz9.43,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,3
 2021-05_Abrolhos_BOSS,npz9.43,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,18
 2021-05_Abrolhos_BOSS,npz9.43,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,4
 2021-05_Abrolhos_BOSS,npz9.44,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,2
-2021-05_Abrolhos_BOSS,npz9.44,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,44
+2021-05_Abrolhos_BOSS,npz9.44,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,44
 2021-05_Abrolhos_BOSS,npz9.44,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,7
 2021-05_Abrolhos_BOSS,npz9.44,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,25
-2021-05_Abrolhos_BOSS,npz9.44,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Bryozoa,NA,NA,Open,NA,NA,NA,NA,NA,NA,20000000,1
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Hydroids,NA,NA,Open,NA,NA,NA,NA,NA,NA,11001000,2
-2021-05_Abrolhos_BOSS,npz9.45,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,10
+2021-05_Abrolhos_BOSS,npz9.45,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,10
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,2
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,3
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,6
@@ -321,62 +284,53 @@ campaignid,period,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,3
 2021-05_Abrolhos_BOSS,npz9.45,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,49
 2021-05_Abrolhos_BOSS,npz9.46,Biota,Hydroids,NA,NA,Open,NA,NA,NA,NA,NA,NA,11001000,1
-2021-05_Abrolhos_BOSS,npz9.46,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,33
 2021-05_Abrolhos_BOSS,npz9.46,Biota,Octocoral/Black,Fan (2D),NA,Open,NA,NA,NA,NA,NA,NA,11168912,1
+2021-05_Abrolhos_BOSS,npz9.46,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,33
 2021-05_Abrolhos_BOSS,npz9.46,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,4
 2021-05_Abrolhos_BOSS,npz9.46,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,5
 2021-05_Abrolhos_BOSS,npz9.46,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,12
 2021-05_Abrolhos_BOSS,npz9.46,Biota,Sponges,Small mixed,NA,Open,NA,NA,NA,NA,NA,NA,10000000,2
 2021-05_Abrolhos_BOSS,npz9.46,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,22
-2021-05_Abrolhos_BOSS,npz9.47,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,34
 2021-05_Abrolhos_BOSS,npz9.47,Biota,Octocoral/Black,Branching (3D),NA,Open,NA,NA,NA,NA,NA,NA,11168902,1
 2021-05_Abrolhos_BOSS,npz9.47,Biota,Octocoral/Black,Fan (2D),NA,Limited,NA,NA,NA,NA,NA,NA,11168912,11
 2021-05_Abrolhos_BOSS,npz9.47,Biota,Octocoral/Black,Fan (2D),NA,Open,NA,NA,NA,NA,NA,NA,11168912,3
 2021-05_Abrolhos_BOSS,npz9.47,Biota,Octocoral/Black,Quill (sea pen),NA,Open,NA,NA,NA,NA,NA,NA,11168918,1
+2021-05_Abrolhos_BOSS,npz9.47,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,34
 2021-05_Abrolhos_BOSS,npz9.47,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,8
 2021-05_Abrolhos_BOSS,npz9.47,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,9
 2021-05_Abrolhos_BOSS,npz9.47,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,11
-2021-05_Abrolhos_BOSS,npz9.47,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,2
 2021-05_Abrolhos_BOSS,npz9.48,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
-2021-05_Abrolhos_BOSS,npz9.48,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,44
 2021-05_Abrolhos_BOSS,npz9.48,Biota,Octocoral/Black,Branching (3D),NA,Open,NA,NA,NA,NA,NA,NA,11168902,1
-2021-05_Abrolhos_BOSS,npz9.48,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,5
+2021-05_Abrolhos_BOSS,npz9.48,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,44
 2021-05_Abrolhos_BOSS,npz9.48,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,6
 2021-05_Abrolhos_BOSS,npz9.48,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,5
 2021-05_Abrolhos_BOSS,npz9.48,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,15
 2021-05_Abrolhos_BOSS,npz9.48,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,1
-2021-05_Abrolhos_BOSS,npz9.48,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz9.49,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
 2021-05_Abrolhos_BOSS,npz9.49,Biota,Hydroids,NA,NA,Open,NA,NA,NA,NA,NA,NA,11001000,1
-2021-05_Abrolhos_BOSS,npz9.49,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,24
+2021-05_Abrolhos_BOSS,npz9.49,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,24
 2021-05_Abrolhos_BOSS,npz9.49,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,5
 2021-05_Abrolhos_BOSS,npz9.49,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,3
 2021-05_Abrolhos_BOSS,npz9.49,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,3
 2021-05_Abrolhos_BOSS,npz9.49,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,42
-2021-05_Abrolhos_BOSS,npz9.49,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
 2021-05_Abrolhos_BOSS,npz9.5,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
-2021-05_Abrolhos_BOSS,npz9.5,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,29
 2021-05_Abrolhos_BOSS,npz9.5,Biota,Octocoral/Black,Branching (3D),NA,Open,NA,NA,NA,NA,NA,NA,11168902,1
+2021-05_Abrolhos_BOSS,npz9.5,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,29
 2021-05_Abrolhos_BOSS,npz9.5,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,2
 2021-05_Abrolhos_BOSS,npz9.5,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,7
 2021-05_Abrolhos_BOSS,npz9.5,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,39
-2021-05_Abrolhos_BOSS,npz9.50,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,12
 2021-05_Abrolhos_BOSS,npz9.50,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,37
-2021-05_Abrolhos_BOSS,npz9.50,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,31
 2021-05_Abrolhos_BOSS,npz9.6,Biota,Consolidated,Rock,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001002,1
-2021-05_Abrolhos_BOSS,npz9.6,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,15
 2021-05_Abrolhos_BOSS,npz9.6,Biota,Octocoral/Black,Branching (3D),NA,Open,NA,NA,NA,NA,NA,NA,11168902,1
-2021-05_Abrolhos_BOSS,npz9.6,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
+2021-05_Abrolhos_BOSS,npz9.6,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,15
 2021-05_Abrolhos_BOSS,npz9.6,Biota,Sponges,Erect forms,NA,Open,NA,NA,NA,NA,NA,NA,10000912,3
 2021-05_Abrolhos_BOSS,npz9.6,Biota,Sponges,Hollow forms,NA,Open,NA,NA,NA,NA,NA,NA,10000909,1
 2021-05_Abrolhos_BOSS,npz9.6,Biota,Sponges,Massive forms,NA,Open,NA,NA,NA,NA,NA,NA,10000903,9
 2021-05_Abrolhos_BOSS,npz9.6,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,41
-2021-05_Abrolhos_BOSS,npz9.6,Unknown,Unknown,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,8
 2021-05_Abrolhos_BOSS,npz9.7,Biota,Consolidated,Cobbles,Turf mat,Open,NA,NA,NA,NA,NA,NA,82001004,1
 2021-05_Abrolhos_BOSS,npz9.7,Biota,Unconsolidated,Pebble,gravel (gravel 2-10mm),Open,NA,NA,NA,NA,NA,NA,82001011,2
 2021-05_Abrolhos_BOSS,npz9.7,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,77
 2021-05_Abrolhos_BOSS,npz9.8,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,80
-2021-05_Abrolhos_BOSS,npz9.9,Biota,Invertebrate Complex,Complex 1,NA,Open,NA,NA,NA,NA,NA,NA,NA,1
-2021-05_Abrolhos_BOSS,npz9.9,Biota,Open Water,NA,NA,Open,NA,NA,NA,NA,NA,NA,NA,4
+2021-05_Abrolhos_BOSS,npz9.9,Biota,Sessile invertebrates,NA,NA,Open,NA,NA,NA,NA,NA,NA,99900044,1
 2021-05_Abrolhos_BOSS,npz9.9,Biota,Unconsolidated,Pebble,gravel (pebble 10-64mm),Open,NA,NA,NA,NA,NA,NA,82001012,1
 2021-05_Abrolhos_BOSS,npz9.9,Biota,Unconsolidated,Sand,mud (coarse sand),Open,NA,NA,NA,NA,NA,NA,82001014,74
