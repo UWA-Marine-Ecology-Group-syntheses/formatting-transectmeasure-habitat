@@ -94,17 +94,17 @@ tidy_habitat <- combined %>%
   left_join(catami) %>%
   dplyr::mutate(caab_code = as.character(caab_code)) %>%
   #left_join(catami) %>%
-  dplyr::mutate(campaignid = "2022-11_Daw_stereo-BOSS") %>%
+  dplyr::mutate(campaignid = "2022-12_Daw_stereo-BOSS") %>%
   dplyr::select(campaignid, sample, number, starts_with("level"), family, genus, species, caab_code) %>%
   dplyr::filter(!level_2 %in% c("","Unscorable", NA)) %>%  
   group_by(campaignid, sample, across(starts_with("level")), family, genus, species, caab_code) %>%
   dplyr::tally(number, name = "count") %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
-  rename(opcode = sample) %>%
+  rename(period = sample) %>%
   glimpse()
 
-write_csv(tidy_habitat, "data/to upload/2022-11_Daw_stereo-BOSS_benthos-count.csv")
+write_csv(tidy_habitat, "data/to upload/2022-12_Daw_stereo-BOSS_benthos-count.csv")
 
 
 
