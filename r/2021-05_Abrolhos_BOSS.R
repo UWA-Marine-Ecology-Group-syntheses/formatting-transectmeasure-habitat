@@ -38,7 +38,6 @@ names(panoramic)
 head(panoramic[, c("scientific", "qualifiers", "check")], 10)
 
 
-
 habitat_with_schema <- panoramic %>%
   rename(caab_code = qualifiers) %>%
   mutate(
@@ -49,40 +48,81 @@ habitat_with_schema <- panoramic %>%
       TRUE ~ "Biota"
     )
   ) %>%
-mutate(
+  mutate(
     level_2 = case_when(
       level_2 == "Invertebrate Complex" & level_3 == "Complex 1" ~ "Sessile invertebrates",
       TRUE ~ level_2
     ),
     level_3 = case_when(
       level_2 == "Sessile invertebrates" ~ NA_character_,
-      level_2 == "Macroalgae" & level_3 == "Drift" ~ NA_character_,   # <-- added back
+      level_2 == "Macroalgae" & level_3 == "Drift" ~ NA_character_,
       level_3 == "Erect course branching" ~ "Erect coarse branching",
       TRUE ~ level_3
+    ),
+    # Turf mat / Veneer are texture notes on Consolidated substrate, not their own category
+    level_4 = case_when(
+      level_2 == "Consolidated" & level_4 %in% c("Turf mat", "Veneer") ~ NA_character_,
+      TRUE ~ level_4
     )
   ) %>%
   ensure_cols(c(
     "level_1", "level_2", "level_3", "level_4", "level_5",
     "level_6", "level_7", "level_8",
     "family", "genus", "species"
-  ))
+  )) %>%
+  # Ecklonia: split the species name out of level_4 into family/genus/species properly
+  mutate(
+    family  = if_else(level_4 == "Ecklonia radiata", "Lessoniaceae", family),
+    genus   = if_else(level_4 == "Ecklonia radiata", "Ecklonia", genus),
+    species = if_else(level_4 == "Ecklonia radiata", "radiata", species),
+    level_4 = if_else(level_4 == "Ecklonia radiata", "Brown", level_4)
+  )
 
-
-# pull the "flat" (no-colour) caab_code for these two categories from the schema
 flat_codes <- schema %>%
   dplyr::filter(is.na(level_4), is.na(family), is.na(genus), is.na(species)) %>%
   dplyr::distinct(level_1, level_2, level_3, flat_caab_code = caab_code)
 
-habitat_with_schema_clean <- habitat_with_schema %>%
+habitat_with_schema_filtered <- habitat_with_schema %>%
   dplyr::left_join(flat_codes, by = c("level_1", "level_2", "level_3")) %>%
   dplyr::mutate(
     caab_code = dplyr::case_when(
-      level_4 == "Ecklonia radiata" ~ caab_code,   # keep its own specific code
-      !is.na(flat_caab_code)         ~ flat_caab_code,  # otherwise collapse to the level_3 flat code
-      TRUE                           ~ caab_code   # no flat code exists in schema — keep original
-    )
+      genus == "Ecklonia" & species == "radiata" ~ 54079009,
+      is.na(level_4) & !is.na(flat_caab_code)     ~ flat_caab_code,
+      TRUE                                        ~ caab_code
+    ),
+    caab_code = if_else(caab_code == 90300910, 80300910, caab_code)  # raw typo
   ) %>%
   dplyr::select(-flat_caab_code)
+
+level_relabel <- tibble::tribble(
+  ~caab_code, ~level_1_schema, ~level_2_schema, ~level_3_schema,          ~level_4_schema,      ~level_5_schema,
+  82001003,   "Physical",      "Substrate",     "Consolidated (hard)",   "Boulders",            NA_character_,
+  82001004,   "Physical",      "Substrate",     "Consolidated (hard)",   "Cobbles",             NA_character_,
+  82001002,   "Physical",      "Substrate",     "Consolidated (hard)",   "Rock",                NA_character_,
+  82001007,   "Physical",      "Substrate",     "Unconsolidated (soft)", "Pebble / gravel",     "Biologenic",
+  82001011,   "Physical",      "Substrate",     "Unconsolidated (soft)", "Pebble / gravel",     "Gravel (2-10mm)",
+  82001012,   "Physical",      "Substrate",     "Unconsolidated (soft)", "Pebble / gravel",     "Pebble (10-64mm)",
+  82001014,   "Physical",      "Substrate",     "Unconsolidated (soft)", "Sand / mud (<2mm)",   "Coarse sand (with shell fragments)",
+  82001015,   "Physical",      "Substrate",     "Unconsolidated (soft)", "Sand / mud (<2mm)",   "Fine sand (no shell fragments)",
+  11168902,   NA_character_,   "Cnidaria",      "Corals",                "Black & Octocorals",  "Branching (3D)",
+  11168912,   NA_character_,   "Cnidaria",      "Corals",                "Black & Octocorals",  "Fan (2D)",
+  11001000,   NA_character_,   "Cnidaria",      "Hydroids",              NA_character_,         NA_character_,
+  10000909,   NA_character_,   "Sponges",       "Cup-likes",             NA_character_,         NA_character_,
+  11168917,   NA_character_,   "Cnidaria",      "Corals",                "Black & Octocorals",  "Whip",
+  11168918,   NA_character_,   "Cnidaria",      "Corals",                "Black & Octocorals",  "Quill (seapen)",
+  80300930,   NA_character_,   NA_character_,   "Filamentous / filiform", NA_character_,         NA_character_
+)
+
+habitat_with_schema_clean <- habitat_with_schema_filtered %>%
+  dplyr::left_join(level_relabel, by = "caab_code") %>%
+  dplyr::mutate(
+    level_1 = dplyr::coalesce(level_1_schema, level_1),
+    level_2 = dplyr::coalesce(level_2_schema, level_2),
+    level_3 = dplyr::coalesce(level_3_schema, level_3),
+    level_4 = dplyr::coalesce(level_4_schema, level_4),
+    level_5 = dplyr::coalesce(level_5_schema, level_5)
+  ) %>%
+  dplyr::select(-level_1_schema, -level_2_schema, -level_3_schema, -level_4_schema, -level_5_schema)
 
 missing_caab_code_raw <- panoramic %>%
   filter(is.na(suppressWarnings(as.numeric(qualifiers)))) %>%
@@ -201,7 +241,7 @@ relief_samples <- tidy_relief %>%
   summarise(relief_sample = n(), .groups = "drop")
 
 benthos_samples <- tidy_habitat %>%
-  distinct(campaignid, opcode) %>%
+  distinct(campaignid, period) %>%
   group_by(campaignid) %>%
   summarise(benthos_sample = n(), .groups = "drop")
 
