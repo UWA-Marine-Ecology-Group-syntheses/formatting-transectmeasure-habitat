@@ -5,68 +5,81 @@ library(CheckEM)
 library(googlesheets4)
 library(stringr)
 
-schema <- CheckEM::catami%>%
-  dplyr::mutate(caab_code = as.numeric(caab_code))%>%
+schema <- CheckEM::catami %>%
+  dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
   select(-qualifiers)
 
 # HABITAT -----
 metadata <- read_metadata(here::here("data/2020-10_south-west_stereo-BRUVs/")) %>%
   dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, #observer_count, observer_length,
-                successful_count, successful_length) %>%
+                successful_count, successful_length, successful_habitat_forward, successful_habitat_backward) %>%
   glimpse()
 
 # read in forwards annotations
-forwards <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo-BRUVs_random-points_forwards_Dot Point Measurements.txt", 
-                       header = T, skip = 4, stringsAsFactors = FALSE, 
+forwards <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo-BRUVs_random-points_forwards_Dot Point Measurements.txt",
+                       header = T, skip = 4, stringsAsFactors = FALSE,
                        colClasses = "character", na.strings = "") %>%
   clean_names() %>%
   dplyr::filter(!filename %in% "IO333.jpg") %>%
   dplyr::mutate(filename = str_replace_all(filename, "take 2", ""))
 
-# read in forwards annotations
-backwards <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo-BRUVs_random-points_backwards_Dot Point Measurements.txt", 
-                       header = T, skip = 4, stringsAsFactors = FALSE, 
-                       colClasses = "character", na.strings = "") %>%
+# read in backwards annotations
+backwards <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo-BRUVs_random-points_backwards_Dot Point Measurements.txt",
+                        header = T, skip = 4, stringsAsFactors = FALSE,
+                        colClasses = "character", na.strings = "") %>%
   clean_names()
 
 habitat_with_schema <- bind_rows(forwards, backwards) %>%
-  dplyr::rename(caab_code = code) %>%
+  dplyr::rename(caab_code = qualifiers) %>%                          # FIX: was `code`, raw column is `qualifiers`
   dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
   dplyr::mutate(caab_code = case_when(
-    broad %in% c("Unknown", "Open Water") ~ 1,
-    broad %in% "Invertebrate Complex" ~ 2,
+    level_2 %in% c("Unknown", "Open Water") ~ 1,                     # FIX: was `broad`
+    level_2 %in% "Invertebrate Complex" ~ 99900044,                         # FIX: was `broad`
     
-    type %in% "Thalassodendrum sp." ~ 63618905, # fix incorrect caab code
-    type %in% "Ecklonia radiata" ~ 54079009, # fix incorrect caab code
+    level_4 %in% "Thalassodendrum sp." ~ 63618905,                   # FIX: was `type`, fix incorrect caab code
+    level_4 %in% "Ecklonia radiata" ~ 54079009,                      # FIX: was `type`, fix incorrect caab code
     
     caab_code %in% 90300910 ~ 80300910, # fix incorrect caab code
     
     .default = caab_code
   )) %>%
-  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")) %>% str_trim())
+  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")) %>% str_trim()) %>%
+  dplyr::left_join(                                                  # FIX: this join was missing entirely -
+    schema %>% dplyr::select(caab_code, level_1, family, genus, species), #      family/genus/species didn't exist before
+    by = "caab_code"
+  )
 
 distinct_hab_types <- habitat_with_schema %>%
-  select(broad, morphology, type, starts_with("level"), family, genus, species, caab_code) %>%
+  select(starts_with("level"), family, genus, species, caab_code) %>%   # FIX: dropped broad/morphology/type (now = level_2/3/4)
   distinct()
 
 missing_caab_code <- habitat_with_schema %>%
-  dplyr::filter(is.na(caab_code)) %>% 
-  distinct(broad, morphology, type) # good
+  dplyr::filter(is.na(caab_code)) %>%
+  distinct(level_2, level_3, level_4) # good                            # FIX: was broad, morphology, type
 
 unique(habitat_with_schema$sample) %>% sort()
 
-num.points <- 20
+unmatched_categories <- habitat_with_schema %>%
+  distinct(level_2, level_3, level_4, level_5, caab_code, level_1, family, genus, species) %>%
+  dplyr::filter(is.na(level_1)) %>%
+  glimpse()
+
+if (nrow(unmatched_categories) > 0) {
+  warning(nrow(unmatched_categories), " distinct habitat categories did not match `schema` - see `unmatched_categories`")
+}
+
+num.points <- 40
 
 wrong_points_habitat <- habitat_with_schema %>%
   group_by(sample) %>%
   summarise(points.annotated = n()) %>%
   left_join(metadata) %>%
-  # dplyr::mutate(expected = case_when(
-  #   successful_habitat_forward %in% "Yes" & successful_habitat_backward %in% "Yes" ~ num.points * 2, 
-  #   successful_habitat_forward %in% "Yes" & successful_habitat_backward %in% "No" ~ num.points * 1, 
-  #   successful_habitat_forward %in% "No" & successful_habitat_backward %in% "Yes" ~ num.points * 1, 
-  #   successful_habitat_forward %in% "No" & successful_habitat_backward %in% "No" ~ num.points * 0)) %>%
-  # dplyr::filter(!points.annotated == expected) %>%
+  dplyr::mutate(expected = case_when(
+    successful_habitat_forward %in% "Yes" & successful_habitat_backward %in% "Yes" ~ num.points * 2,
+    successful_habitat_forward %in% "Yes" & successful_habitat_backward %in% "No" ~ num.points * 1,
+    successful_habitat_forward %in% "No" & successful_habitat_backward %in% "Yes" ~ num.points * 1,
+    successful_habitat_forward %in% "No" & successful_habitat_backward %in% "No" ~ num.points * 0)) %>%
+  dplyr::filter(!points.annotated == expected) %>%
   glimpse()
 
 habitat.missing.metadata <- anti_join(habitat_with_schema, metadata, by = c("sample")) %>%
@@ -92,26 +105,26 @@ metadata.missing.habitat <- anti_join(
   glimpse()
 
 write_csv(tidy_habitat %>%
-          dplyr::rename(opcode = sample),"data/to upload/2020-10_south-west_stereo-BRUVs_benthos-count.csv")
+            dplyr::rename(opcode = sample),"data/to upload/2020-10_south-west_stereo-BRUVs_benthos-count.csv")
 
 
 # RELIEF ----
 # read in forwards annotations
-forwards_relief <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo_BRUVs_Habitat_grid_forwards_Dot Point Measurements.txt", 
-                       header = T, skip = 4, stringsAsFactors = FALSE, 
-                       colClasses = "character", na.strings = "") %>%
+forwards_relief <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo_BRUVs_Habitat_grid_forwards_Dot Point Measurements.txt",
+                              header = T, skip = 4, stringsAsFactors = FALSE,
+                              colClasses = "character", na.strings = "") %>%
   clean_names()%>%
   dplyr::filter(!filename %in% "IO333.jpg") %>%
   dplyr::mutate(filename = str_replace_all(filename, "take 2", ""))
 
-# read in forwards annotations
-backwards_relief <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo_BRUVs_Habitat_grid_backwards_Dot Point Measurements.txt", 
-                        header = T, skip = 4, stringsAsFactors = FALSE, 
-                        colClasses = "character", na.strings = "") %>%
+# read in backwards annotations
+backwards_relief <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_south-west_stereo_BRUVs_Habitat_grid_backwards_Dot Point Measurements.txt",
+                               header = T, skip = 4, stringsAsFactors = FALSE,
+                               colClasses = "character", na.strings = "") %>%
   clean_names() 
 
 relief_with_schema <- bind_rows(forwards_relief, backwards_relief) %>%
-  dplyr::select(filename, relief) %>%
+  dplyr::select(filename, relief = scientific) %>%                  # FIX: was `relief` (didn't exist), raw column is `scientific`
   dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")) %>% str_trim()) %>%
   dplyr::filter(!is.na(relief)) %>%
   dplyr::mutate(level_5 = str_sub(relief, 2, 2)) %>%
@@ -123,7 +136,14 @@ unique(relief_with_schema$level_5)
 relief.missing.metadata <- anti_join(relief_with_schema, metadata, by = c("sample")) %>%
   glimpse()
 
+unmatched_relief_categories <- relief_with_schema %>%
+  distinct(relief, level_5, level_1) %>%
+  dplyr::filter(is.na(level_1)) %>%
+  glimpse()
 
+if (nrow(unmatched_relief_categories) > 0) {
+  warning(nrow(unmatched_relief_categories), " distinct relief categories did not match `catami` - see `unmatched_relief_categories`")
+}
 
 tidy_relief <- relief_with_schema %>%
   dplyr::mutate(sample = str_trim(sample))%>%
@@ -169,20 +189,3 @@ dplyr::full_join(
 ) %>%
   dplyr::filter(is.na(in_habitat) | is.na(in_metadata))
 
-metadata %>% dplyr::filter(str_detect(sample, "IO254"))
-tidy_habitat %>% dplyr::filter(str_detect(sample, "IO254"))
-
-metadata %>% dplyr::filter(sample == "IO282")
-
-
-# whichever join is showing the mismatch, e.g.:
-x <- habitat_with_schema$sample[habitat_with_schema$sample %in% "IO333"] %>% unique()
-y <- metadata$sample[metadata$sample %in% "IO333"] %>% unique()
-
-# if that comes back empty, grep more loosely to catch whitespace/case variants:
-x <- habitat_with_schema$sample[str_detect(habitat_with_schema$sample, "IO333")] %>% unique()
-y <- metadata$sample[str_detect(metadata$sample, "IO333")] %>% unique()
-
-x; y
-x == y
-charToRaw(x); charToRaw(y)
