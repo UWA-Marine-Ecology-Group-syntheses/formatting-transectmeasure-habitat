@@ -1,8 +1,8 @@
 Dot Point Measurements
 
-Generated: Thursday 27 October 2022 10:30:04
+Generated: Friday 31 July 2026 07:36:23
 
-Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Frame info 1	Frame info 2	Frame info 3	Frame info 4	Frame info 5	Frame info 6	Broad	Morphology	Type	FieldOfView	Relief	Bedforms	Bedform.type	CODE	Radius %
+Filename	Frame	Time (mins)	Image row	Image col	Date	Location	Site #	Transect #	Latitude	Longitude	Rugosity	Depth	Collector	Fishing status	Spare	Spare	Frame info 1	Frame info 2	Frame info 3	Frame info 4	Frame info 5	Frame info 6	level_2	level_3	level_4	level_5	scientific	qualifiers	check		Radius %
 1.01.jpg	      0		136	193																			Open Water			Open					100.0
 1.01.jpg	      0		405	193																			Open Water			Open					89.8
 1.01.jpg	      0		675	193																			Unconsolidated	Sand / mud (coarse sand)		Open	"0. Flat substrate, sandy, rubble with few features. ~0 substrate slope."	None		82001014	89.8

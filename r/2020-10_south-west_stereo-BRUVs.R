@@ -43,8 +43,7 @@ habitat_with_schema <- bind_rows(forwards, backwards) %>%
     
     .default = caab_code
   )) %>%
-  dplyr::left_join(schema) %>%
-  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = ""))) 
+  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")) %>% str_trim())
 
 distinct_hab_types <- habitat_with_schema %>%
   select(broad, morphology, type, starts_with("level"), family, genus, species, caab_code) %>%
@@ -113,7 +112,7 @@ backwards_relief <- read.delim("data/2020-10_south-west_stereo-BRUVs/2020-10_sou
 
 relief_with_schema <- bind_rows(forwards_relief, backwards_relief) %>%
   dplyr::select(filename, relief) %>%
-  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = ""))) %>%
+  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")) %>% str_trim()) %>%
   dplyr::filter(!is.na(relief)) %>%
   dplyr::mutate(level_5 = str_sub(relief, 2, 2)) %>%
   dplyr::filter(!level_5 %in% "n") %>%
@@ -174,3 +173,16 @@ metadata %>% dplyr::filter(str_detect(sample, "IO254"))
 tidy_habitat %>% dplyr::filter(str_detect(sample, "IO254"))
 
 metadata %>% dplyr::filter(sample == "IO282")
+
+
+# whichever join is showing the mismatch, e.g.:
+x <- habitat_with_schema$sample[habitat_with_schema$sample %in% "IO333"] %>% unique()
+y <- metadata$sample[metadata$sample %in% "IO333"] %>% unique()
+
+# if that comes back empty, grep more loosely to catch whitespace/case variants:
+x <- habitat_with_schema$sample[str_detect(habitat_with_schema$sample, "IO333")] %>% unique()
+y <- metadata$sample[str_detect(metadata$sample, "IO333")] %>% unique()
+
+x; y
+x == y
+charToRaw(x); charToRaw(y)
