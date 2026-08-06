@@ -1,217 +1,276 @@
 campaignid,opcode,level_1,caab_code,level_2,level_3,level_4,level_5,level_6,level_7,level_8,family,genus,species,count
-2020-06_south-west_stereo-BRUVs,npz6.10,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,17
-2020-06_south-west_stereo-BRUVs,npz6.10,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,11
-2020-06_south-west_stereo-BRUVs,npz6.12,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,28
-2020-06_south-west_stereo-BRUVs,npz6.13,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.13,Biota,11168902,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.13,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,11
-2020-06_south-west_stereo-BRUVs,npz6.13,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.13,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz6.14,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,15
-2020-06_south-west_stereo-BRUVs,npz6.14,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,5
-2020-06_south-west_stereo-BRUVs,npz6.14,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.15,Biota,11001000,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.15,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,11
-2020-06_south-west_stereo-BRUVs,npz6.15,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,15
-2020-06_south-west_stereo-BRUVs,npz6.17,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.17,Biota,11168912,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.17,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
-2020-06_south-west_stereo-BRUVs,npz6.17,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.17,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.17,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.18,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,34
-2020-06_south-west_stereo-BRUVs,npz6.2,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.2,Biota,80300909,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.2,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.2,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
-2020-06_south-west_stereo-BRUVs,npz6.2,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.2,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.2,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,16
-2020-06_south-west_stereo-BRUVs,npz6.20,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz6.20,Biota,80300909,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.20,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.20,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.20,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.20,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.20,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,10
-2020-06_south-west_stereo-BRUVs,npz6.20,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.20,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.21,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.21,Biota,11168902,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz6.21,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-2020-06_south-west_stereo-BRUVs,npz6.21,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.21,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz6.21,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz6.21,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.21,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,80300909,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,8
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,4
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.22,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.22,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.22,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.24,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz6.24,Biota,80300909,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.24,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,11
-2020-06_south-west_stereo-BRUVs,npz6.24,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.24,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.24,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.24,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.26,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,27
-2020-06_south-west_stereo-BRUVs,npz6.26,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,11
-2020-06_south-west_stereo-BRUVs,npz6.27,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz6.27,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,14
-2020-06_south-west_stereo-BRUVs,npz6.27,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,9
-2020-06_south-west_stereo-BRUVs,npz6.27,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.27,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.28,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.28,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,27
-2020-06_south-west_stereo-BRUVs,npz6.36,Biota,35000000,Ascidians,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.36,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.36,Biota,11001000,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.36,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.36,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.36,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz6.36,Physical,82001003,Substrate,Consolidated (hard),Boulders,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.36,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.36,Physical,82001007,Substrate,Unconsolidated (soft),Pebble / gravel,Biologenic,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.36,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,12
-2020-06_south-west_stereo-BRUVs,npz6.4,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.4,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,25
-2020-06_south-west_stereo-BRUVs,npz6.4,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.4,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.4,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.4,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,11168902,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,11168912,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,11001000,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.5,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,6
-2020-06_south-west_stereo-BRUVs,npz6.5,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.5,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz6.5,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.5,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.5,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.6,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,10
-2020-06_south-west_stereo-BRUVs,npz6.6,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.8,Biota,11001000,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.8,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.8,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,26
-2020-06_south-west_stereo-BRUVs,npz6.9,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,26
-2020-06_south-west_stereo-BRUVs,npz6.9,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.9,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.9,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz6.BOSS41,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz6.BOSS41,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
-2020-06_south-west_stereo-BRUVs,npz6.BOSS41,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz6.BOSS41,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.BOSS41,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,6
-2020-06_south-west_stereo-BRUVs,npz6.BOSS41,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz6.BOSS41,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz6.C01,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,23
-2020-06_south-west_stereo-BRUVs,npz6.C02,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz6.C02,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz6.C02,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz6.C02,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,23
-2020-06_south-west_stereo-BRUVs,npz9.1,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.1,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.1,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.1,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.1,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,11
-2020-06_south-west_stereo-BRUVs,npz9.1,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,11
-2020-06_south-west_stereo-BRUVs,npz9.10,Biota,11001000,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.10,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz9.10,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.10,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.10,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz9.10,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,25
-2020-06_south-west_stereo-BRUVs,npz9.11,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,19
-2020-06_south-west_stereo-BRUVs,npz9.11,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.11,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.11,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.11,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz9.11,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz9.12,Physical,82001007,Substrate,Unconsolidated (soft),Pebble / gravel,Biologenic,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.12,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,23
-2020-06_south-west_stereo-BRUVs,npz9.13,Biota,11168902,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.13,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz9.13,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,21
-2020-06_south-west_stereo-BRUVs,npz9.14,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.14,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,30
-2020-06_south-west_stereo-BRUVs,npz9.16,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz9.16,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.16,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,28
-2020-06_south-west_stereo-BRUVs,npz9.17,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.17,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,15
-2020-06_south-west_stereo-BRUVs,npz9.17,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.17,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
-2020-06_south-west_stereo-BRUVs,npz9.18,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,28
-2020-06_south-west_stereo-BRUVs,npz9.19,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.19,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,10
-2020-06_south-west_stereo-BRUVs,npz9.19,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,20
-2020-06_south-west_stereo-BRUVs,npz9.2,Biota,11001000,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.2,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.2,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,9
-2020-06_south-west_stereo-BRUVs,npz9.2,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,15
-2020-06_south-west_stereo-BRUVs,npz9.21,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.21,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz9.21,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
-2020-06_south-west_stereo-BRUVs,npz9.21,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,14
-2020-06_south-west_stereo-BRUVs,npz9.22,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,10
-2020-06_south-west_stereo-BRUVs,npz9.22,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.22,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,9
-2020-06_south-west_stereo-BRUVs,npz9.24,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.24,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.24,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.24,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,12
-2020-06_south-west_stereo-BRUVs,npz9.24,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,12
-2020-06_south-west_stereo-BRUVs,npz9.25,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,16
-2020-06_south-west_stereo-BRUVs,npz9.25,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,16
-2020-06_south-west_stereo-BRUVs,npz9.26,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
-2020-06_south-west_stereo-BRUVs,npz9.26,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.26,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.26,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,6
-2020-06_south-west_stereo-BRUVs,npz9.26,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.26,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,14
-2020-06_south-west_stereo-BRUVs,npz9.26,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz9.27,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,8
-2020-06_south-west_stereo-BRUVs,npz9.27,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,27
-2020-06_south-west_stereo-BRUVs,npz9.28,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,12
-2020-06_south-west_stereo-BRUVs,npz9.28,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,19
-2020-06_south-west_stereo-BRUVs,npz9.29,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.29,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz9.29,Physical,82001012,Substrate,Unconsolidated (soft),Pebble / gravel,Pebble (10-64mm),NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz9.29,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,13
-2020-06_south-west_stereo-BRUVs,npz9.29,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,8
-2020-06_south-west_stereo-BRUVs,npz9.3,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,33
-2020-06_south-west_stereo-BRUVs,npz9.30,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz9.30,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz9.30,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,24
-2020-06_south-west_stereo-BRUVs,npz9.4,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.4,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,16
-2020-06_south-west_stereo-BRUVs,npz9.4,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,18
-2020-06_south-west_stereo-BRUVs,npz9.5,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,13
-2020-06_south-west_stereo-BRUVs,npz9.5,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,4
-2020-06_south-west_stereo-BRUVs,npz9.5,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz9.7,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz9.7,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,9
-2020-06_south-west_stereo-BRUVs,npz9.7,Physical,82001015,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,18
-2020-06_south-west_stereo-BRUVs,npz9.8,Physical,82001011,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,5
-2020-06_south-west_stereo-BRUVs,npz9.8,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,29
-2020-06_south-west_stereo-BRUVs,npz9.9,Biota,11168912,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.9,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.9,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
-2020-06_south-west_stereo-BRUVs,npz9.9,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,3
-2020-06_south-west_stereo-BRUVs,npz9.9,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.9,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.9,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
-2020-06_south-west_stereo-BRUVs,npz9.9,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,2
-2020-06_south-west_stereo-BRUVs,npz9.9,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,13
+2020-06_south-west_stereo-BRUVs,01,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,01,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,01,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,9
+2020-06_south-west_stereo-BRUVs,01,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,01,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,02,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,9
+2020-06_south-west_stereo-BRUVs,02,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2020-06_south-west_stereo-BRUVs,02,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,02,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,02,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,02,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,03,Biota,80300908,Macroalgae,Erect fine branching,Brown,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,03,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,03,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,2
+2020-06_south-west_stereo-BRUVs,03,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,04,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,11
+2020-06_south-west_stereo-BRUVs,04,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,26
+2020-06_south-west_stereo-BRUVs,05,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,05,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,25
+2020-06_south-west_stereo-BRUVs,05,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2020-06_south-west_stereo-BRUVs,05,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,05,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,05,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,05,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,06,Biota,80300908,Macroalgae,Erect fine branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,06,Biota,80300909,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,06,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,06,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,06,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,06,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,06,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,06,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,9
+2020-06_south-west_stereo-BRUVs,07,Biota,80300927,Macroalgae,Encrusting,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,07,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,07,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,07,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,10
+2020-06_south-west_stereo-BRUVs,07,Biota,80300918,Macroalgae,Laminate,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,07,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,2
+2020-06_south-west_stereo-BRUVs,07,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,07,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,07,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,07,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,07,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,12
+2020-06_south-west_stereo-BRUVs,08,Biota,80300927,Macroalgae,Encrusting,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,08,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,08,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,08,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,4
+2020-06_south-west_stereo-BRUVs,08,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,08,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,08,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,16
+2020-06_south-west_stereo-BRUVs,09,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,09,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,09,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,09,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,16
+2020-06_south-west_stereo-BRUVs,10,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,10,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,10,Biota,80300908,Macroalgae,Erect fine branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,10,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,13
+2020-06_south-west_stereo-BRUVs,10,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,10,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,10,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,10,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,10,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,10,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,10,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,11,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,11,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,4
+2020-06_south-west_stereo-BRUVs,11,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,11,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,11,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,11,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,11,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,12,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,12,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,4
+2020-06_south-west_stereo-BRUVs,12,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,2
+2020-06_south-west_stereo-BRUVs,12,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,12,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,12,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,13,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,13,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,13,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,13,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,13,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,13,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,13,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,13,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,14,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,14,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,14,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,25
+2020-06_south-west_stereo-BRUVs,14,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,5
+2020-06_south-west_stereo-BRUVs,14,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,15,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,15,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,15,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,13
+2020-06_south-west_stereo-BRUVs,15,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,15,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,15,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,15,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,15,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,16,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,16,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,16,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,21
+2020-06_south-west_stereo-BRUVs,16,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,16,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,16,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,16,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,17,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,10
+2020-06_south-west_stereo-BRUVs,17,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,17,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2020-06_south-west_stereo-BRUVs,17,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,17,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,17,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,10
+2020-06_south-west_stereo-BRUVs,18,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,18,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,21
+2020-06_south-west_stereo-BRUVs,18,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,18,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,18,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,19,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,19,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,19,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,19,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,19,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,18
+2020-06_south-west_stereo-BRUVs,20,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,20,Biota,10000909,Sponges,Cup-likes,NA,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,20,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,20,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,16
+2020-06_south-west_stereo-BRUVs,20,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,21,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,11
+2020-06_south-west_stereo-BRUVs,21,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2020-06_south-west_stereo-BRUVs,21,Biota,10000901,Sponges,Crusts,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,21,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,21,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,15
+2020-06_south-west_stereo-BRUVs,21,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,22,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,9
+2020-06_south-west_stereo-BRUVs,22,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2020-06_south-west_stereo-BRUVs,22,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,22,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,22,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,22,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,22,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,23,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,23,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,23,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,23,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2020-06_south-west_stereo-BRUVs,23,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,23,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,23,Biota,99900044,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,23,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,23,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,23,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,23,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,24,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,24,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2020-06_south-west_stereo-BRUVs,24,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,24,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,24,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,24,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,24,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,25,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,25,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,6
+2020-06_south-west_stereo-BRUVs,25,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,25,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,25,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,25,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,25,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,25,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,26,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,26,Biota,80300911,Macroalgae,Articulated calcareous,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,26,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,26,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,26,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,26,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,26,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,26,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,11
+2020-06_south-west_stereo-BRUVs,26,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,6
+2020-06_south-west_stereo-BRUVs,27,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,27,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,27,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2020-06_south-west_stereo-BRUVs,27,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,27,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,27,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,27,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,27,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,12
+2020-06_south-west_stereo-BRUVs,27,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,16
+2020-06_south-west_stereo-BRUVs,28,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,28,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,28,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,28,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,10
+2020-06_south-west_stereo-BRUVs,28,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,4
+2020-06_south-west_stereo-BRUVs,28,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,10
+2020-06_south-west_stereo-BRUVs,28,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,28,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,28,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,28,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,29,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,29,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,13
+2020-06_south-west_stereo-BRUVs,29,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,2
+2020-06_south-west_stereo-BRUVs,29,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,29,Biota,10000912,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,29,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,29,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,30,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,30,Biota,80300909,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,30,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,11
+2020-06_south-west_stereo-BRUVs,30,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2020-06_south-west_stereo-BRUVs,30,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,30,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,30,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,30,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,30,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,30,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,31,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,31,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,31,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,13
+2020-06_south-west_stereo-BRUVs,31,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,18
+2020-06_south-west_stereo-BRUVs,32,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,32,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,13
+2020-06_south-west_stereo-BRUVs,32,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,7
+2020-06_south-west_stereo-BRUVs,32,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,32,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,32,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,33,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,33,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,33,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,33,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,9
+2020-06_south-west_stereo-BRUVs,33,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,15
+2020-06_south-west_stereo-BRUVs,34,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,34,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,34,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,34,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,19
+2020-06_south-west_stereo-BRUVs,34,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,35,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,35,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,35,Biota,80300906,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,35,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,10
+2020-06_south-west_stereo-BRUVs,35,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2020-06_south-west_stereo-BRUVs,35,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,35,Biota,10000903,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,35,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,35,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,35,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,35,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,36,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,1
+2020-06_south-west_stereo-BRUVs,36,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,36,Physical,82001004,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,36,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,23
+2020-06_south-west_stereo-BRUVs,37,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,37,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,37,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,3
+2020-06_south-west_stereo-BRUVs,37,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,37,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,1
+2020-06_south-west_stereo-BRUVs,37,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,37,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,37,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,8
+2020-06_south-west_stereo-BRUVs,38,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,38,Biota,54079009,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,9
+2020-06_south-west_stereo-BRUVs,38,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,38,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,3
+2020-06_south-west_stereo-BRUVs,38,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,15
+2020-06_south-west_stereo-BRUVs,39,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,39,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,39,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,9
+2020-06_south-west_stereo-BRUVs,39,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,2
+2020-06_south-west_stereo-BRUVs,39,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,39,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,9
+2020-06_south-west_stereo-BRUVs,40,Biota,20000000,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,40,Biota,80300929,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,40,Biota,80300904,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,1
+2020-06_south-west_stereo-BRUVs,40,Biota,80300908,Macroalgae,Erect fine branching,Brown,NA,NA,NA,NA,NA,NA,NA,7
+2020-06_south-west_stereo-BRUVs,40,Biota,80300910,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,10
+2020-06_south-west_stereo-BRUVs,40,Biota,80300000,Macroalgae,NA,NA,NA,NA,NA,NA,NA,NA,NA,2
+2020-06_south-west_stereo-BRUVs,40,Biota,63618905,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,2
+2020-06_south-west_stereo-BRUVs,40,Biota,10000000,Sponges,NA,NA,NA,NA,NA,NA,NA,NA,NA,5
+2020-06_south-west_stereo-BRUVs,40,Physical,82001002,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,4
+2020-06_south-west_stereo-BRUVs,40,Physical,82001014,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,2

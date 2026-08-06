@@ -39,7 +39,8 @@ habitat_with_schema <- bind_rows(forwards, backwards) %>%
   dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
   dplyr::mutate(caab_code = case_when(
     broad %in% c("Unknown", "Open Water") ~ 1,
-    broad %in% "Invertebrate Complex" ~ 2,
+    broad %in% "Invertebrate Complex" ~ 99900044,
+    broad %in% "Sessile invertebrates" ~ 99900044,   # this export spells it out directly
     
     type %in% "Thalassodendrum sp." ~ 63618905, # fix incorrect caab code
     type %in% "Thalassodendrum sp. with epiphytes algae" ~ 63618905, # fix incorrect caab code
@@ -50,7 +51,7 @@ habitat_with_schema <- bind_rows(forwards, backwards) %>%
     .default = caab_code
   )) %>%
   dplyr::left_join(schema) %>%
-  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = ""))) 
+  dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")))
 
 missing_in_schema <- anti_join(habitat_with_schema, schema)
 
@@ -174,3 +175,4 @@ sample_summary <- full_join(
   benthos_samples,
   by = c("campaignid")
 )
+
