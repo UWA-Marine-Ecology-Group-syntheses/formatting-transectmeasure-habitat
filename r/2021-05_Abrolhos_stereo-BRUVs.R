@@ -33,6 +33,7 @@ habitat_with_schema <- bind_rows(forwards, backwards)  %>%
   dplyr::mutate(caab_code = case_when(
     broad %in% c("Unknown", "Open Water") ~ 00000001,
     broad %in% "Invertebrate Complex" ~ 99900044,
+    broad %in% "Sessile invertebrates" ~ 99900044,   # this export spells it out directly instead of "Invertebrate Complex"
     
     morphology %in% "Bryozoa / Cnidaria Matrix" ~ 99900044,
     

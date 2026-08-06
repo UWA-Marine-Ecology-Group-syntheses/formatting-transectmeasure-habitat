@@ -75,6 +75,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2021-05_Abrolhos_stereo-BRUVs,npz6.36,Biota,Bryozoa,NA,NA,NA,NA,NA,NA,NA,NA,NA,20000000,1
 2021-05_Abrolhos_stereo-BRUVs,npz6.36,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,1
 2021-05_Abrolhos_stereo-BRUVs,npz6.36,Biota,Macroalgae,Encrusting,Red,NA,NA,NA,NA,NA,NA,NA,80300929,1
+2021-05_Abrolhos_stereo-BRUVs,npz6.36,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,1
 2021-05_Abrolhos_stereo-BRUVs,npz6.36,Biota,Sponges,Massive forms,NA,NA,NA,NA,NA,NA,NA,NA,10000903,7
 2021-05_Abrolhos_stereo-BRUVs,npz6.36,Physical,Substrate,Consolidated (hard),Boulders,NA,NA,NA,NA,NA,NA,NA,82001003,2
 2021-05_Abrolhos_stereo-BRUVs,npz6.36,Physical,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,82001004,1
@@ -174,7 +175,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2021-05_Abrolhos_stereo-BRUVs,npz9.24,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,82001015,12
 2021-05_Abrolhos_stereo-BRUVs,npz9.25,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,16
 2021-05_Abrolhos_stereo-BRUVs,npz9.25,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Fine sand (no shell fragments),NA,NA,NA,NA,NA,NA,82001015,16
-2021-05_Abrolhos_stereo-BRUVs,npz9.26,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,5
+2021-05_Abrolhos_stereo-BRUVs,npz9.26,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,6
 2021-05_Abrolhos_stereo-BRUVs,npz9.26,Biota,Sponges,Erect forms,NA,NA,NA,NA,NA,NA,NA,NA,10000912,1
 2021-05_Abrolhos_stereo-BRUVs,npz9.26,Physical,Substrate,Consolidated (hard),Cobbles,NA,NA,NA,NA,NA,NA,NA,82001004,1
 2021-05_Abrolhos_stereo-BRUVs,npz9.26,Physical,Substrate,Unconsolidated (soft),Pebble / gravel,Gravel (2-10mm),NA,NA,NA,NA,NA,NA,82001011,6
