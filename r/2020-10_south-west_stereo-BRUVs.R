@@ -34,7 +34,7 @@ habitat_with_schema <- bind_rows(forwards, backwards) %>%
   dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
   dplyr::mutate(caab_code = case_when(
     level_2 %in% c("Unknown", "Open Water") ~ 1,                     # FIX: was `broad`
-    level_2 %in% "Invertebrate Complex" ~ 99900044,                         # FIX: was `broad`
+    level_2 %in% "Invertebrate Complex" ~ 99900044,                  # FIX: was `~ 2` (not a real CAAB code) -> "Sessile invertebrates" in schema
     
     level_4 %in% "Thalassodendrum sp." ~ 63618905,                   # FIX: was `type`, fix incorrect caab code
     level_4 %in% "Ecklonia radiata" ~ 54079009,                      # FIX: was `type`, fix incorrect caab code
@@ -44,8 +44,10 @@ habitat_with_schema <- bind_rows(forwards, backwards) %>%
     .default = caab_code
   )) %>%
   dplyr::mutate(sample = str_replace_all(filename, c(".JPG"= "", ".jpg" = "")) %>% str_trim()) %>%
+  dplyr::rename(raw_level_2 = level_2, raw_level_3 = level_3,        # FIX: keep the annotator's typed text under raw_* names,
+                raw_level_4 = level_4, raw_level_5 = level_5) %>%    #      purely for QC below - not used in the final data
   dplyr::left_join(                                                  # FIX: this join was missing entirely -
-    schema %>% dplyr::select(caab_code, level_1, family, genus, species), #      family/genus/species didn't exist before
+    schema %>% dplyr::select(caab_code, level_1, level_2, level_3, level_4, level_5, family, genus, species), # FIX: all levels now come from schema, not raw
     by = "caab_code"
   )
 
@@ -60,13 +62,18 @@ missing_caab_code <- habitat_with_schema %>%
 unique(habitat_with_schema$sample) %>% sort()
 
 unmatched_categories <- habitat_with_schema %>%
-  distinct(level_2, level_3, level_4, level_5, caab_code, level_1, family, genus, species) %>%
+  distinct(raw_level_2, raw_level_3, raw_level_4, raw_level_5, caab_code, level_1, level_2, level_3, level_4, level_5, family, genus, species) %>%
   dplyr::filter(is.na(level_1)) %>%
   glimpse()
 
 if (nrow(unmatched_categories) > 0) {
   warning(nrow(unmatched_categories), " distinct habitat categories did not match `schema` - see `unmatched_categories`")
 }
+
+missing_caab_code <- habitat_with_schema %>%
+  dplyr::filter(is.na(caab_code)) %>%
+  distinct(raw_level_2, raw_level_3, raw_level_4) # good                # FIX: was broad, morphology, type; now raw_level_* since level_2-4 come from schema
+
 
 num.points <- 40
 
