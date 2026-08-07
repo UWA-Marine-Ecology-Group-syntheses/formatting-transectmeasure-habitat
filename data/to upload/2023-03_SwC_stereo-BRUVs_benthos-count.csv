@@ -15,12 +15,14 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,12,Biota,Macroalgae,Filamentous / filiform,Red,NA,NA,NA,NA,NA,NA,NA,80300933,3
 2023-03_SwC_stereo-BRUVs,12,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,54079009,7
 2023-03_SwC_stereo-BRUVs,12,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,63618905,2
+2023-03_SwC_stereo-BRUVs,12,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,1
 2023-03_SwC_stereo-BRUVs,12,Biota,Sponges,Massive forms,Simple,NA,NA,NA,NA,NA,NA,NA,10000904,1
 2023-03_SwC_stereo-BRUVs,14,Biota,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,80300904,3
 2023-03_SwC_stereo-BRUVs,14,Biota,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,80300906,10
 2023-03_SwC_stereo-BRUVs,14,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,80300910,7
 2023-03_SwC_stereo-BRUVs,14,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,54079009,6
 2023-03_SwC_stereo-BRUVs,14,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,63618905,2
+2023-03_SwC_stereo-BRUVs,14,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,1
 2023-03_SwC_stereo-BRUVs,14,Biota,Sponges,Massive forms,Balls,NA,NA,NA,NA,NA,NA,NA,10000905,1
 2023-03_SwC_stereo-BRUVs,14,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,82001002,1
 2023-03_SwC_stereo-BRUVs,14,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,4
@@ -30,6 +32,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,15,Biota,Macroalgae,Filamentous / filiform,Brown,NA,NA,NA,NA,NA,NA,NA,80300931,2
 2023-03_SwC_stereo-BRUVs,15,Biota,Macroalgae,Filamentous / filiform,Red,NA,NA,NA,NA,NA,NA,NA,80300933,2
 2023-03_SwC_stereo-BRUVs,15,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,63618905,2
+2023-03_SwC_stereo-BRUVs,15,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,1
 2023-03_SwC_stereo-BRUVs,15,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,82001002,1
 2023-03_SwC_stereo-BRUVs,15,Physical,Substrate,Unconsolidated (soft),Sand / mud (<2mm),Coarse sand (with shell fragments),NA,NA,NA,NA,NA,NA,82001014,7
 2023-03_SwC_stereo-BRUVs,16,Biota,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,80300904,1
@@ -41,10 +44,12 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,17,Biota,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,80300906,12
 2023-03_SwC_stereo-BRUVs,17,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,80300910,9
 2023-03_SwC_stereo-BRUVs,17,Biota,Seagrasses,Strap-like leaves,NA,NA,NA,NA,NA,Cymodoceaceae,Thalassodendron,spp,63618905,5
+2023-03_SwC_stereo-BRUVs,17,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,1
 2023-03_SwC_stereo-BRUVs,17,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,82001002,1
 2023-03_SwC_stereo-BRUVs,19,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,20000907,6
 2023-03_SwC_stereo-BRUVs,19,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,11168902,5
 2023-03_SwC_stereo-BRUVs,19,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,2
+2023-03_SwC_stereo-BRUVs,19,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,12
 2023-03_SwC_stereo-BRUVs,19,Biota,Sponges,Cup-likes,Barrels,NA,NA,NA,NA,NA,NA,NA,10000907,2
 2023-03_SwC_stereo-BRUVs,19,Biota,Sponges,Cup-likes,Cups,Incomplete cup / curled fan,NA,NA,NA,NA,NA,NA,10000918,2
 2023-03_SwC_stereo-BRUVs,19,Biota,Sponges,Massive forms,Simple,NA,NA,NA,NA,NA,NA,NA,10000904,1
@@ -66,6 +71,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,22,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,11168902,4
 2023-03_SwC_stereo-BRUVs,22,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,11168912,1
 2023-03_SwC_stereo-BRUVs,22,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,1
+2023-03_SwC_stereo-BRUVs,22,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,14
 2023-03_SwC_stereo-BRUVs,22,Biota,Sponges,Cup-likes,Barrels,NA,NA,NA,NA,NA,NA,NA,10000907,1
 2023-03_SwC_stereo-BRUVs,22,Biota,Sponges,Cup-likes,Cups,Incomplete cup / curled fan,NA,NA,NA,NA,NA,NA,10000918,1
 2023-03_SwC_stereo-BRUVs,22,Biota,Sponges,Erect forms,Branching,NA,NA,NA,NA,NA,NA,NA,10000915,2
@@ -105,6 +111,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,31,Biota,Macroalgae,Erect fine branching,Red,NA,NA,NA,NA,NA,NA,NA,80300910,2
 2023-03_SwC_stereo-BRUVs,31,Biota,Macroalgae,Filamentous / filiform,Brown,NA,NA,NA,NA,NA,NA,NA,80300931,1
 2023-03_SwC_stereo-BRUVs,31,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,54079009,1
+2023-03_SwC_stereo-BRUVs,31,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,2
 2023-03_SwC_stereo-BRUVs,31,Biota,Sponges,Erect forms,Laminar,NA,NA,NA,NA,NA,NA,NA,10000913,1
 2023-03_SwC_stereo-BRUVs,31,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,82001002,3
 2023-03_SwC_stereo-BRUVs,32,Biota,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,80300906,1
@@ -145,6 +152,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,39,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,20000907,3
 2023-03_SwC_stereo-BRUVs,39,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,11168912,1
 2023-03_SwC_stereo-BRUVs,39,Biota,Macroalgae,Filamentous / filiform,Green,NA,NA,NA,NA,NA,NA,NA,80300932,1
+2023-03_SwC_stereo-BRUVs,39,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,17
 2023-03_SwC_stereo-BRUVs,39,Biota,Sponges,Cup-likes,Cups,Incomplete cup / curled fan,NA,NA,NA,NA,NA,NA,10000918,1
 2023-03_SwC_stereo-BRUVs,39,Biota,Sponges,Cup-likes,Tubes and chimneys,NA,NA,NA,NA,NA,NA,NA,10000911,2
 2023-03_SwC_stereo-BRUVs,39,Biota,Sponges,Erect forms,Laminar,NA,NA,NA,NA,NA,NA,NA,10000913,6
@@ -177,6 +185,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,45,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,5
 2023-03_SwC_stereo-BRUVs,45,Biota,Macroalgae,Erect coarse branching,Red,NA,NA,NA,NA,NA,NA,NA,80300906,3
 2023-03_SwC_stereo-BRUVs,45,Biota,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,80300909,4
+2023-03_SwC_stereo-BRUVs,45,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,1
 2023-03_SwC_stereo-BRUVs,45,Biota,Sponges,Crusts,Encrusting,NA,NA,NA,NA,NA,NA,NA,10000902,1
 2023-03_SwC_stereo-BRUVs,45,Biota,Sponges,Massive forms,Balls,NA,NA,NA,NA,NA,NA,NA,10000905,1
 2023-03_SwC_stereo-BRUVs,45,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,82001002,5
@@ -190,6 +199,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,47,Biota,Bryozoa,Soft,Foliaceous,NA,NA,NA,NA,NA,NA,NA,20000907,1
 2023-03_SwC_stereo-BRUVs,47,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,11168902,2
 2023-03_SwC_stereo-BRUVs,47,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,1
+2023-03_SwC_stereo-BRUVs,47,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,11
 2023-03_SwC_stereo-BRUVs,47,Biota,Sponges,Erect forms,Laminar,NA,NA,NA,NA,NA,NA,NA,10000913,1
 2023-03_SwC_stereo-BRUVs,5,Biota,Macroalgae,Erect coarse branching,Brown,NA,NA,NA,NA,NA,NA,NA,80300904,2
 2023-03_SwC_stereo-BRUVs,5,Biota,Macroalgae,Erect coarse branching,Green,NA,NA,NA,NA,NA,NA,NA,80300905,2
@@ -200,6 +210,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,6,Biota,Cnidaria,Corals,Black & Octocorals,Branching (3D),NA,NA,NA,NA,NA,NA,11168902,1
 2023-03_SwC_stereo-BRUVs,6,Biota,Cnidaria,Corals,Black & Octocorals,Fan (2D),NA,NA,NA,NA,NA,NA,11168912,3
 2023-03_SwC_stereo-BRUVs,6,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,3
+2023-03_SwC_stereo-BRUVs,6,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,13
 2023-03_SwC_stereo-BRUVs,6,Biota,Sponges,Erect forms,Simple,NA,NA,NA,NA,NA,NA,NA,10000916,1
 2023-03_SwC_stereo-BRUVs,6,Biota,Sponges,Massive forms,Simple,NA,NA,NA,NA,NA,NA,NA,10000904,3
 2023-03_SwC_stereo-BRUVs,6,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,82001002,1
@@ -208,6 +219,7 @@ campaignid,opcode,level_1,level_2,level_3,level_4,level_5,level_6,level_7,level_
 2023-03_SwC_stereo-BRUVs,7,Biota,Cnidaria,Hydroids,NA,NA,NA,NA,NA,NA,NA,NA,11001000,4
 2023-03_SwC_stereo-BRUVs,7,Biota,Macroalgae,Erect fine branching,Green,NA,NA,NA,NA,NA,NA,NA,80300909,11
 2023-03_SwC_stereo-BRUVs,7,Biota,Macroalgae,Large canopy-forming,Brown,NA,NA,NA,NA,Lessoniaceae,Ecklonia,radiata,54079009,1
+2023-03_SwC_stereo-BRUVs,7,Biota,Sessile invertebrates,NA,NA,NA,NA,NA,NA,NA,NA,NA,99900044,9
 2023-03_SwC_stereo-BRUVs,7,Biota,Sponges,Cup-likes,Cups,Incomplete cup / curled fan,NA,NA,NA,NA,NA,NA,10000918,2
 2023-03_SwC_stereo-BRUVs,7,Biota,Sponges,Massive forms,Simple,NA,NA,NA,NA,NA,NA,NA,10000904,1
 2023-03_SwC_stereo-BRUVs,7,Physical,Substrate,Consolidated (hard),Rock,NA,NA,NA,NA,NA,NA,NA,82001002,1

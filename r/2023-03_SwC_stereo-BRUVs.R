@@ -34,12 +34,13 @@ names(backwards)
 
 habitat_with_schema <- bind_rows(forwards, backwards) %>%
   dplyr::mutate(caab_code = as.numeric(caab_code)) %>%
+  dplyr::mutate(caab_code = dplyr::if_else(caab_code == 2, 99900044, caab_code)) %>%
   dplyr::select(-level_2, -level_3, -level_4, -level_5, -scientific, -qualifiers) %>%
   dplyr::left_join(schema) %>%
-  dplyr::rename(sample = opcode) %>%
-  dplyr::mutate(
-    level_1 = dplyr::if_else(caab_code == 2, "Biota", level_1)
-  )
+  dplyr::rename(sample = opcode)
+
+# check immediately, before any further mutates
+habitat_with_schema %>% dplyr::filter(is.na(level_2)) %>% distinct(caab_code)
 
 missing_caab_code <- habitat_with_schema %>%
   dplyr::filter(is.na(level_1)) %>%
