@@ -34,7 +34,16 @@ panoramic <- read.delim(
   colClasses = "character", na.strings = ""
 ) %>%
   clean_names() %>%
-  dplyr::mutate(sample = str_remove(filename, "\\.jpg$"))
+  dplyr::mutate(sample = str_remove(filename, "\\.jpg$")) %>%
+  # --- FIX: clean up malformed/missing CATAMI codes before as.numeric() ---
+  dplyr::mutate(
+    code = dplyr::case_when(
+      code == "90300910"                              ~ "80300910",
+      stringr::str_detect(code, "^80300000_\\d+$")     ~ "80300000",
+      is.na(code) & broad == "Invertebrate Complex"    ~ "99900044",
+      TRUE                                              ~ code
+    )
+  )
 
 # read in downwards annotations
 # downwards <- read.delim(
