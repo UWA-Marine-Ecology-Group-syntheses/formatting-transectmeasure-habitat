@@ -29,7 +29,8 @@ backwards <- read.delim("data/2022-11_Salisbury_stereo-BRUVs/2022-11_Salisbury_s
   dplyr::mutate(direction = "backwards")
 
 combined <- bind_rows(forwards, backwards) %>%
-  dplyr::select(filename, opcode, period, catami_l2_l3, catami_l4, catami_l5)
+  dplyr::select(filename, opcode, period, catami_l2_l3, catami_l4, catami_l5) %>%
+  dplyr::filter(!str_detect(catami_l2_l3, regex("Drift Algae", ignore_case = TRUE)))
 
 
 unique_class <- combined %>%
@@ -158,3 +159,4 @@ sample_summary <- full_join(
   benthos_samples,
   by = c("campaignid")
 )
+
