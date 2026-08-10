@@ -39,7 +39,6 @@ panoramic <- read.delim(
   dplyr::mutate(
     code = dplyr::case_when(
       code == "90300910"                              ~ "80300910",
-      stringr::str_detect(code, "^80300000_\\d+$")     ~ "80300000",
       is.na(code) & broad == "Invertebrate Complex"    ~ "99900044",
       TRUE                                              ~ code
     )
