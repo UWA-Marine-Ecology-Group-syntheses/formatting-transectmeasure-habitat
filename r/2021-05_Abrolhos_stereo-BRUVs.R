@@ -11,6 +11,8 @@ schema <- CheckEM::catami%>%
 metadata <- read_metadata(here::here("data/2021-05_Abrolhos_stereo-BRUVs/")) %>%
   dplyr::select(campaignid, sample, longitude_dd, latitude_dd, date_time, location, site, depth_m, #observer_count, observer_length,
                 successful_count, successful_length) %>%
+  dplyr::mutate(latitude_dd = as.numeric(latitude_dd)) %>%
+  dplyr::filter(latitude_dd < -27.71) %>%   # keep only samples south of Kalbarri
   glimpse()
 
 # read in forwards annotations
@@ -91,9 +93,10 @@ tidy_habitat <- habitat_with_schema %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
   dplyr::rename(opcode = sample) %>%
+  dplyr::semi_join(metadata, by = c("campaignid", "opcode" = "sample")) %>%   # keep only samples in filtered metadata
   glimpse()
 
-write_csv(tidy_habitat, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_benthos-count.csv")
+write_csv(tidy_habitat, "data/to upload/2021-05_Abrolhos_stereo-BRUVs-filtered_benthos-count.csv")
 
 
 # RELIEF ----
@@ -139,9 +142,10 @@ tidy_relief <- relief_with_schema %>%
   ungroup() %>%                                                     
   dplyr::select(campaignid, sample, level_1, everything()) %>%
   dplyr::rename(opcode = sample) %>%
+  dplyr::semi_join(metadata, by = c("campaignid", "opcode" = "sample")) %>%   # keep only samples in filtered metadata
   glimpse()
 
-write_csv(tidy_relief, "data/to upload/2021-05_Abrolhos_stereo-BRUVs_benthos-relief.csv")
+write_csv(tidy_relief, "data/to upload/2021-05_Abrolhos_stereo-BRUVs-filtered_benthos-relief.csv")
 
 
 relief_clean <- tidy_relief %>%
